@@ -2,14 +2,13 @@ package gri.riverjach.weather.city
 
 import android.os.Bundle
 import android.view.*
-import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-
 import gri.riverjach.weather.App
 import gri.riverjach.weather.Database
 import gri.riverjach.weather.R
+import gri.riverjach.weather.utils.toast
 
 class CityFragment : Fragment(), CityAdapter.CityItemListener {
     private lateinit var cities: MutableList<City>
@@ -56,6 +55,14 @@ class CityFragment : Fragment(), CityAdapter.CityItemListener {
         return super.onOptionsItemSelected(item)
     }
 
+    override fun onCitySelected(city: City) {
+        TODO("Not yet implemented")
+    }
+
+    override fun onCityDeleted(city: City) {
+        showDeleteCityDialog(city)
+    }
+
     private fun showCreateCityDialog() {
         val createCityFragment = CreateCityDialogFragment()
         createCityFragment.listener =
@@ -71,25 +78,37 @@ class CityFragment : Fragment(), CityAdapter.CityItemListener {
         fragmentManager?.let { createCityFragment.show(it, "CreateCityDialogFragment") }
     }
 
+    private fun showDeleteCityDialog(city: City) {
+        val deleteCityFragment = DeleteCityDialogFragment.newInstance(city.name)
+        deleteCityFragment.listener = object : DeleteCityDialogFragment.DeleteCityDialogListener {
+            override fun onDialogPositiveClick() {
+                deleteCity(city)
+            }
+
+            override fun onDialogNegativeClick() {}
+
+        }
+
+        fragmentManager?.let { deleteCityFragment.show(it, "DeleteCityDialogFragment") }
+    }
+
+    private fun deleteCity(city: City) {
+        if (database.deleteCity(city)) {
+            cities.remove(city)
+            adapter.notifyDataSetChanged()
+            context?.toast(getString(R.string.city_message_info_city_deleted, city.name))
+        } else {
+            context?.toast(getString(R.string.city_message_error_could_not_delete_city, city.name))
+        }
+    }
+
     private fun saveCity(city: City) {
         if (database.createCity(city)) {
             cities.add(city)
             adapter.notifyDataSetChanged()
         } else {
-            Toast.makeText(
-                context,
-                "Could not create city",
-                Toast.LENGTH_SHORT
-            ).show()
+            context?.toast(getString(R.string.city_message_error_could_not_create_city))
         }
-    }
-
-    override fun onCitySelected(city: City) {
-        TODO("Not yet implemented")
-    }
-
-    override fun onCityDeleted(city: City) {
-        TODO("Not yet implemented")
     }
 
 }

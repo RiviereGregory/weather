@@ -5,4 +5,11 @@
     <string name="createcity_negative">Cancel</string>
     <string name="createcity_cityhint">New York, London...</string>
     <string name="menu_create_city">Create city</string>
+
+    <string name="deletecity_title">Do you really want to delete %1$s ?</string>
+    <string name="deletecity_positive">Delete city</string>
+    <string name="deletecity_negative">Cancel</string>
+    <string name="city_message_error_could_not_create_city">Could not create city</string>
+    <string name="city_message_error_could_not_delete_city">Could not delete %1$s</string>
+    <string name="city_message_info_city_deleted">%1$s has been deleted</string>
 </resources>

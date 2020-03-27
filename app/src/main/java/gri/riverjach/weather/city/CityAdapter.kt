@@ -21,6 +21,7 @@ class CityAdapter(
     class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val cardView = itemView.findViewById<CardView>(R.id.card_view)
         val cityNameView = itemView.findViewById<TextView>(R.id.name)
+        val deleteView = itemView.findViewById<View>(R.id.delete)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
@@ -37,12 +38,15 @@ class CityAdapter(
             cardView.tag = city
             cardView.setOnClickListener(this@CityAdapter)
             cityNameView.text = city.name
+            deleteView.tag = city
+            deleteView.setOnClickListener(this@CityAdapter)
         }
     }
 
     override fun onClick(view: View) {
-        when(view.id){
+        when (view.id) {
             R.id.card_view -> cityListener.onCitySelected(view.tag as City)
+            R.id.delete -> cityListener.onCityDeleted(view.tag as City)
         }
     }
 }
