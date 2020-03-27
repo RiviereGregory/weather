@@ -1,7 +1,8 @@
-package gri.riverjach.weather
+package gri.riverjach.weather.city
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import gri.riverjach.weather.R
 
 class CityActivity : AppCompatActivity() {
 
