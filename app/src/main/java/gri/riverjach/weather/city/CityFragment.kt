@@ -4,19 +4,22 @@ import android.os.Bundle
 import android.view.*
 import android.widget.Toast
 import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 
 import gri.riverjach.weather.App
 import gri.riverjach.weather.Database
 import gri.riverjach.weather.R
 
-class CityFragment : Fragment() {
+class CityFragment : Fragment(), CityAdapter.CityItemListener {
     private lateinit var cities: MutableList<City>
     private lateinit var database: Database
+    private lateinit var recyclerView: RecyclerView
+    private lateinit var adapter: CityAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         database = App.database
-        cities = mutableListOf()
         setHasOptionsMenu(true)
     }
 
@@ -25,8 +28,17 @@ class CityFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        val view = inflater?.inflate(R.layout.fragment_city, container, false)
+        val view = inflater.inflate(R.layout.fragment_city, container, false)
+        recyclerView = view.findViewById(R.id.cities_recycler_view)
+        recyclerView.layoutManager = LinearLayoutManager(context)
         return view
+    }
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+        cities = database.getAllCities()
+        adapter = CityAdapter(cities, this)
+        recyclerView.adapter = adapter
     }
 
     override fun onCreateOptionsMenu(menu: Menu, inflater: MenuInflater) {
@@ -62,6 +74,7 @@ class CityFragment : Fragment() {
     private fun saveCity(city: City) {
         if (database.createCity(city)) {
             cities.add(city)
+            adapter.notifyDataSetChanged()
         } else {
             Toast.makeText(
                 context,
@@ -71,4 +84,13 @@ class CityFragment : Fragment() {
         }
     }
 
+    override fun onCitySelected(city: City) {
+        TODO("Not yet implemented")
+    }
+
+    override fun onCityDeleted(city: City) {
+        TODO("Not yet implemented")
+    }
+
 }
+
