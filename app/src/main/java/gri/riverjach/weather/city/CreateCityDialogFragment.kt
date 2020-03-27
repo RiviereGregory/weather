@@ -1,12 +1,12 @@
 package gri.riverjach.weather.city
 
+import android.app.AlertDialog
 import android.app.Dialog
-import android.app.DialogFragment
 import android.content.DialogInterface
 import android.os.Bundle
 import android.text.InputType
 import android.widget.EditText
-import androidx.appcompat.app.AlertDialog
+import androidx.fragment.app.DialogFragment
 import gri.riverjach.weather.R
 
 
@@ -28,15 +28,17 @@ class CreateCityDialogFragment : DialogFragment() {
 
         builder.setTitle(getString(R.string.createcity_title))
             .setView(input)
-            .setPositiveButton(getString(R.string.createcity_positve), DialogInterface.OnClickListener { _, _->
-             listener?.onDialogPositiveclick(input.text.toString())
-            })
+            .setPositiveButton(
+                getString(R.string.createcity_positve),
+                DialogInterface.OnClickListener { _, _ ->
+                    listener?.onDialogPositiveclick(input.text.toString())
+                })
             .setNegativeButton(getString(R.string.createcity_negative),
-            DialogInterface.OnClickListener{ dialog, _ ->
-                dialog.cancel()
-                listener?.onDialogNegativeClick()
+                DialogInterface.OnClickListener { dialog, _ ->
+                    dialog.cancel()
+                    listener?.onDialogNegativeClick()
 
-            })
+                })
 
 
         return builder.create()

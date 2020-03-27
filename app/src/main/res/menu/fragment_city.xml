@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_create_city"
+        android:icon="@drawable/baseline_add_circle_black_24dp"
+        android:title="@string/menu_create_city"
+        app:showAsAction="always" />
+</menu>

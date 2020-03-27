@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">Weather</string>
-    <string name="createcity.title">New city name ?</string>
+    <string name="createcity_title">New city name ?</string>
     <string name="createcity_positve">Create city</string>
     <string name="createcity_negative">Cancel</string>
     <string name="createcity_cityhint">New York, London...</string>
+    <string name="menu_create_city">Create city</string>
 </resources>
