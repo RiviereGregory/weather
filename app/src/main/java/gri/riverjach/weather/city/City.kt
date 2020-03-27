@@ -1,6 +1,6 @@
 package gri.riverjach.weather.city
 
-data class city(
+data class City(
     var id: Long,
     var name: String
 ) {
