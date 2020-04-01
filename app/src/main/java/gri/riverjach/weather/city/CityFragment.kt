@@ -77,9 +77,7 @@ class CityFragment : Fragment(), CityAdapter.CityItemListener {
                     saveCity(City(cityName))
                 }
 
-                override fun onDialogNegativeClick() {
-                    TODO("Not yet implemented")
-                }
+                override fun onDialogNegativeClick() {}
             }
         fragmentManager?.let { createCityFragment.show(it, "CreateCityDialogFragment") }
     }

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Météo</string>
+    <string name="createcity_title">Ajouter nouvelle ville ?</string>
+    <string name="createcity_positve">Créer ville</string>
+    <string name="createcity_negative">Annuler</string>
+    <string name="createcity_cityhint">Marseille, Toulon...</string>
+    <string name="menu_create_city">Créer ville</string>
+
+    <string name="deletecity_title">Voulez vous vraiment supprimer %1$s ?</string>
+    <string name="deletecity_positive">Supprimer ville</string>
+    <string name="deletecity_negative">Annuler</string>
+    <string name="city_message_error_could_not_create_city">impossible de créer la ville</string>
+    <string name="city_message_error_could_not_delete_city">Impossible de supprimer %1$s</string>
+    <string name="city_message_info_city_deleted">%1$s a été supprimé</string>
+    <string name="weather_message_error_could_not_load_weather">Impossible de charger la méteo de la ville</string>
+</resources>
