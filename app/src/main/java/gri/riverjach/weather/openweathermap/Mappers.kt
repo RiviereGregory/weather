@@ -2,7 +2,7 @@ package gri.riverjach.weather.openweathermap
 
 import gri.riverjach.weather.weather.Weather
 
-fun mapOpenWeatherDaaToWeather(weatherWrapper: WeatherWrapper): Weather {
+fun mapOpenWeatherDataToWeather(weatherWrapper: WeatherWrapper): Weather {
     val weatherFirst = weatherWrapper.weather.first()
     return Weather(
         description = weatherFirst.description,
