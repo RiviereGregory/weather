@@ -13,7 +13,7 @@ data class WeatherData(
 )
 
 data class MainData(
-    @SerializedName("temp") val temperature: String,
+    @SerializedName("temp") val temperature: Float,
     val pressure: Int,
     val humidify: Int
 )
