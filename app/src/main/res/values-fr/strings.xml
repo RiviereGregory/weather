@@ -14,4 +14,10 @@
     <string name="city_message_error_could_not_delete_city">Impossible de supprimer %1$s</string>
     <string name="city_message_info_city_deleted">%1$s a été supprimé</string>
     <string name="weather_message_error_could_not_load_weather">Impossible de charger la méteo de la ville</string>
+    <string name="weather_temperature_value">%1$d °C</string>
+    <string name="weather_humidity_value">%1$d %%</string>
+    <string name="weather_pressure_value">%1$d hPa</string>
+    <string name="temperature">Température:</string>
+    <string name="humidity">Humidité:</string>
+    <string name="pressure">Pression:</string>
 </resources>

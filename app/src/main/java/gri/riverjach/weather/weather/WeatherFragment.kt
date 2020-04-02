@@ -5,6 +5,8 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ImageView
+import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import gri.riverjach.weather.App
@@ -25,12 +27,27 @@ class WeatherFragment : Fragment() {
 
     private lateinit var cityName: String
 
+    private lateinit var city: TextView
+    private lateinit var weatherIcon: ImageView
+    private lateinit var weatherDescription: TextView
+    private lateinit var temperature: TextView
+    private lateinit var humidity: TextView
+    private lateinit var pressure: TextView
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         val view = inflater.inflate(R.layout.fragment_weather, container, false)
+
+        city = view.findViewById(R.id.city)
+        weatherIcon = view.findViewById(R.id.weather_icon)
+        weatherDescription = view.findViewById(R.id.weather_description)
+        temperature = view.findViewById(R.id.temperature)
+        humidity = view.findViewById(R.id.humidity)
+        pressure = view.findViewById(R.id.pressure)
+
         return view
     }
 
@@ -53,6 +70,7 @@ class WeatherFragment : Fragment() {
             ) {
                 response?.body()?.let {
                     val weather = mapOpenWeatherDataToWeather(it)
+                    updateUI(weather)
                     Log.i(TAG, "Weather response: ${weather}")
                 }
             }
@@ -67,5 +85,12 @@ class WeatherFragment : Fragment() {
             }
 
         })
+    }
+
+    private fun updateUI(weather: Weather) {
+        weatherDescription.text = weather.description
+        temperature.text = getString(R.string.weather_temperature_value, weather.temperature.toInt())
+        humidity.text = getString(R.string.weather_humidity_value, weather.humidity)
+        pressure.text = getString(R.string.weather_pressure_value, weather.pressure)
     }
 }

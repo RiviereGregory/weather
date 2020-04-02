@@ -15,5 +15,5 @@ data class WeatherData(
 data class MainData(
     @SerializedName("temp") val temperature: Float,
     val pressure: Int,
-    val humidify: Int
+    val humidity: Int
 )

@@ -13,4 +13,10 @@
     <string name="city_message_error_could_not_delete_city">Could not delete %1$s</string>
     <string name="city_message_info_city_deleted">%1$s has been deleted</string>
     <string name="weather_message_error_could_not_load_weather">Could not load city weather</string>
+    <string name="weather_temperature_value">%1$d °C</string>
+    <string name="weather_humidity_value">%1$d %%</string>
+    <string name="weather_pressure_value">%1$d hPa</string>
+    <string name="temperature">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="pressure">Pressure:</string>
 </resources>
