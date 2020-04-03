@@ -50,9 +50,9 @@
             android:layout_width="0dp"
             android:layout_height="250dp"
             android:visibility="invisible"
-            android:layout_marginLeft="50dp"
-            android:layout_marginStart="50dp"
-            app:layout_constraintLeft_toRightOf="@+id/weather_description"
+            android:layout_marginLeft="100dp"
+            android:layout_marginStart="100dp"
+            app:layout_constraintLeft_toRightOf="@+id/weather_icon"
             app:layout_constraintRight_toLeftOf="parent"
             app:layout_constraintTop_toTopOf="@+id/city"
             app:layout_constraintBottom_toBottomOf="parent" />

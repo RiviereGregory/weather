@@ -64,8 +64,9 @@ class WeatherFragment : Fragment() {
         }
     }
 
-    private fun updateWeatherForCity(cityName: String) {
+    public fun updateWeatherForCity(cityName: String) {
         this.cityName = cityName
+        this.city.text = cityName
         if (!refreshLayout.isRefreshing) {
             refreshLayout.isRefreshing = true
         }
@@ -111,6 +112,16 @@ class WeatherFragment : Fragment() {
 
     private fun refreshWeather() {
         updateWeatherForCity(cityName)
+    }
+
+    fun clearUI() {
+        weatherIcon.setImageResource(R.drawable.baseline_cloud_off_black_24dp)
+        cityName = ""
+        city.text = ""
+        weatherDescription.text = ""
+        temperature.text = ""
+        humidity.text = ""
+        pressure.text = ""
     }
 
 }
