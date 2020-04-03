@@ -9,6 +9,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
+import com.squareup.picasso.Picasso
 import gri.riverjach.weather.App
 import gri.riverjach.weather.R
 import gri.riverjach.weather.openweathermap.WeatherWrapper
@@ -88,6 +89,11 @@ class WeatherFragment : Fragment() {
     }
 
     private fun updateUI(weather: Weather) {
+        Picasso.get()
+            .load(weather.iconUrl)
+            .placeholder(R.drawable.baseline_cloud_off_black_24dp)
+            .into(weatherIcon)
+
         weatherDescription.text = weather.description
         temperature.text = getString(R.string.weather_temperature_value, weather.temperature.toInt())
         humidity.text = getString(R.string.weather_humidity_value, weather.humidity)
