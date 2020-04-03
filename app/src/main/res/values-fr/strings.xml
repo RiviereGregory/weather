@@ -20,4 +20,5 @@
     <string name="temperature">Température:</string>
     <string name="humidity">Humidité:</string>
     <string name="pressure">Pression:</string>
+    <string name="city_not_found">Ville non trouvée</string>
 </resources>

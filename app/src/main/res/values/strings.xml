@@ -19,4 +19,5 @@
     <string name="temperature">Temperature:</string>
     <string name="humidity">Humidity:</string>
     <string name="pressure">Pressure:</string>
+    <string name="city_not_found">City not found</string>
 </resources>

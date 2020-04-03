@@ -15,6 +15,7 @@ import gri.riverjach.weather.App
 import gri.riverjach.weather.R
 import gri.riverjach.weather.openweathermap.WeatherWrapper
 import gri.riverjach.weather.openweathermap.mapOpenWeatherDataToWeather
+import kotlinx.android.synthetic.main.item_city.view.*
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
@@ -80,6 +81,10 @@ class WeatherFragment : Fragment() {
                     val weather = mapOpenWeatherDataToWeather(it)
                     updateUI(weather)
                     Log.i(TAG, "Weather response: ${weather}")
+                }
+                response?.errorBody()?.let {
+                    clearUI()
+                    city.text = getString(R.string.city_not_found)
                 }
                 refreshLayout.isRefreshing = false
             }
