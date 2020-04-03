@@ -13,7 +13,7 @@ class CityActivity : AppCompatActivity(), CityFragment.CityFragmentListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_city)
 
         cityFragment = supportFragmentManager.findFragmentById(R.id.city_fragment) as CityFragment
         cityFragment.listener = this
