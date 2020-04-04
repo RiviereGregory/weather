@@ -71,7 +71,7 @@ class WeatherFragment : Fragment() {
         if (!refreshLayout.isRefreshing) {
             refreshLayout.isRefreshing = true
         }
-        val call = App.weatherService.getWeather("$cityName, fr")
+        val call = App.weatherService.getWeather("$cityName")
         call.enqueue(object : Callback<WeatherWrapper> {
             override fun onResponse(
                 call: Call<WeatherWrapper>?,

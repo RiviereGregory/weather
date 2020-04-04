@@ -1,6 +1,7 @@
 package gri.riverjach.weather.city
 
 import android.os.Bundle
+import android.util.Log
 import android.view.*
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -8,6 +9,8 @@ import androidx.recyclerview.widget.RecyclerView
 import gri.riverjach.weather.App
 import gri.riverjach.weather.Database
 import gri.riverjach.weather.R
+import gri.riverjach.weather.utils.CityName
+import gri.riverjach.weather.utils.JsonUtils
 import gri.riverjach.weather.utils.toast
 
 class CityFragment : Fragment(), CityAdapter.CityItemListener {
@@ -22,10 +25,20 @@ class CityFragment : Fragment(), CityAdapter.CityItemListener {
     private lateinit var database: Database
     private lateinit var recyclerView: RecyclerView
     private lateinit var adapter: CityAdapter
+    private lateinit var listCityName: ArrayList<CityName>
+    private lateinit var arraysCityName: Array<String?>
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         database = App.database
+        listCityName = JsonUtils.read_json(resources)
+        arraysCityName = arrayOfNulls(listCityName.size)
+        for ((index, cityName) in listCityName.withIndex()) {
+            arraysCityName[index] = cityName.toString()
+        }
+        for (i in 0..10) {
+            Log.i("CityFragment", "${arraysCityName[i]}")
+        }
         setHasOptionsMenu(true)
     }
 
@@ -78,7 +91,7 @@ class CityFragment : Fragment(), CityAdapter.CityItemListener {
     }
 
     private fun showCreateCityDialog() {
-        val createCityFragment = CreateCityDialogFragment()
+        val createCityFragment = CreateCityDialogFragment(arraysCityName)
         createCityFragment.listener =
             object : CreateCityDialogFragment.CreateCityDialogListener {
                 override fun onDialogPositiveclick(cityName: String) {

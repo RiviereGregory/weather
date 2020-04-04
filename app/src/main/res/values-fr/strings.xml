@@ -21,4 +21,6 @@
     <string name="humidity">Humidité:</string>
     <string name="pressure">Pression:</string>
     <string name="city_not_found">Ville non trouvée</string>
+    <string name="city_selected">Selectionné : %1$s</string>
+    <string name="city_entry_error">la ville entrée %1$s n\'est pas dans la liste</string>
 </resources>

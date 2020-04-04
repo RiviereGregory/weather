@@ -20,4 +20,6 @@
     <string name="humidity">Humidity:</string>
     <string name="pressure">Pressure:</string>
     <string name="city_not_found">City not found</string>
+    <string name="city_selected">Selected : %1$s</string>
+    <string name="city_entry_error">City entry %1$s is not in list</string>
 </resources>
