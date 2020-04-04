@@ -31,7 +31,7 @@ class CityFragment : Fragment(), CityAdapter.CityItemListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         database = App.database
-        listCityName = JsonUtils.read_json(resources)
+        listCityName = JsonUtils.readJson(resources)
         arraysCityName = arrayOfNulls(listCityName.size)
         for ((index, cityName) in listCityName.withIndex()) {
             arraysCityName[index] = cityName.toString()

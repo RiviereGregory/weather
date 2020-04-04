@@ -18,7 +18,7 @@ data class CityName(
 
 class JsonUtils {
     companion object JsonUtils {
-        fun read_json(resources: Resources): ArrayList<CityName> {
+        fun readJson(resources: Resources): ArrayList<CityName> {
 
             var citiesNames = arrayListOf<CityName>()
             var json: String? = null
