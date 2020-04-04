@@ -4,7 +4,7 @@ import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query
 
-private const val API_KEY = "7dbeadd701197984160e858d6f956075"
+private const val API_KEY = "Votre key"
 
 interface OpenWeatherService {
 
