@@ -24,7 +24,7 @@ class JsonUtils {
             var json: String? = null
 
             try {
-                val inputStream: InputStream = resources.openRawResource(R.raw.city_list)
+                val inputStream: InputStream = resources.openRawResource(R.raw.city_list_fr)
                 json = inputStream.bufferedReader().use { it.readText() }
 
                 var jsonarr = JSONArray(json)
