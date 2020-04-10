@@ -1,0 +1,5810 @@
+[
+  {
+    "name": "Zwijndrecht",
+    "country": "BE"
+  },
+  {
+    "name": "Zwijndrecht",
+    "country": "BE"
+  },
+  {
+    "name": "Zwevegem",
+    "country": "BE"
+  },
+  {
+    "name": "Zwevegem",
+    "country": "BE"
+  },
+  {
+    "name": "Zutendaal",
+    "country": "BE"
+  },
+  {
+    "name": "Zutendaal",
+    "country": "BE"
+  },
+  {
+    "name": "Zulte",
+    "country": "BE"
+  },
+  {
+    "name": "Zulte",
+    "country": "BE"
+  },
+  {
+    "name": "Zuienkerke",
+    "country": "BE"
+  },
+  {
+    "name": "Zuienkerke",
+    "country": "BE"
+  },
+  {
+    "name": "Zuidhoek",
+    "country": "BE"
+  },
+  {
+    "name": "Zoutleeuw",
+    "country": "BE"
+  },
+  {
+    "name": "Zoutleeuw",
+    "country": "BE"
+  },
+  {
+    "name": "Zottegem",
+    "country": "BE"
+  },
+  {
+    "name": "Zottegem",
+    "country": "BE"
+  },
+  {
+    "name": "Zonnebeke",
+    "country": "BE"
+  },
+  {
+    "name": "Zonnebeke",
+    "country": "BE"
+  },
+  {
+    "name": "Zonhoven",
+    "country": "BE"
+  },
+  {
+    "name": "Zonhoven",
+    "country": "BE"
+  },
+  {
+    "name": "Zomergem",
+    "country": "BE"
+  },
+  {
+    "name": "Zomergem",
+    "country": "BE"
+  },
+  {
+    "name": "Zoersel",
+    "country": "BE"
+  },
+  {
+    "name": "Zoersel",
+    "country": "BE"
+  },
+  {
+    "name": "Zittaard",
+    "country": "BE"
+  },
+  {
+    "name": "Zingem",
+    "country": "BE"
+  },
+  {
+    "name": "Zingem",
+    "country": "BE"
+  },
+  {
+    "name": "Zemst",
+    "country": "BE"
+  },
+  {
+    "name": "Zemst",
+    "country": "BE"
+  },
+  {
+    "name": "Zelzate",
+    "country": "BE"
+  },
+  {
+    "name": "Zelzate",
+    "country": "BE"
+  },
+  {
+    "name": "Zele",
+    "country": "BE"
+  },
+  {
+    "name": "Zele",
+    "country": "BE"
+  },
+  {
+    "name": "Zeebrugge",
+    "country": "BE"
+  },
+  {
+    "name": "Zedelgem",
+    "country": "BE"
+  },
+  {
+    "name": "Zedelgem",
+    "country": "BE"
+  },
+  {
+    "name": "Zaventem",
+    "country": "BE"
+  },
+  {
+    "name": "Zaventem",
+    "country": "BE"
+  },
+  {
+    "name": "Zandhoven",
+    "country": "BE"
+  },
+  {
+    "name": "Zandhoven",
+    "country": "BE"
+  },
+  {
+    "name": "Yvoir",
+    "country": "BE"
+  },
+  {
+    "name": "Yvoir",
+    "country": "BE"
+  },
+  {
+    "name": "Wuustwezel",
+    "country": "BE"
+  },
+  {
+    "name": "Wuustwezel",
+    "country": "BE"
+  },
+  {
+    "name": "Wommelgem",
+    "country": "BE"
+  },
+  {
+    "name": "Wommelgem",
+    "country": "BE"
+  },
+  {
+    "name": "Wingene",
+    "country": "BE"
+  },
+  {
+    "name": "Wingene",
+    "country": "BE"
+  },
+  {
+    "name": "Wilsele",
+    "country": "BE"
+  },
+  {
+    "name": "Willebroek",
+    "country": "BE"
+  },
+  {
+    "name": "Willebroek",
+    "country": "BE"
+  },
+  {
+    "name": "Wijnegem",
+    "country": "BE"
+  },
+  {
+    "name": "Wijnegem",
+    "country": "BE"
+  },
+  {
+    "name": "Wielsbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Wielsbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Wichelen",
+    "country": "BE"
+  },
+  {
+    "name": "Wichelen",
+    "country": "BE"
+  },
+  {
+    "name": "Wezembeek-Oppem",
+    "country": "BE"
+  },
+  {
+    "name": "Wezembeek-Oppem",
+    "country": "BE"
+  },
+  {
+    "name": "Weverstraat",
+    "country": "BE"
+  },
+  {
+    "name": "Wevelgem",
+    "country": "BE"
+  },
+  {
+    "name": "Wevelgem",
+    "country": "BE"
+  },
+  {
+    "name": "Wetteren",
+    "country": "BE"
+  },
+  {
+    "name": "Wetteren",
+    "country": "BE"
+  },
+  {
+    "name": "Provincie West-Vlaanderen",
+    "country": "BE"
+  },
+  {
+    "name": "Westerlo",
+    "country": "BE"
+  },
+  {
+    "name": "Westerlo",
+    "country": "BE"
+  },
+  {
+    "name": "Wervik",
+    "country": "BE"
+  },
+  {
+    "name": "Wervik",
+    "country": "BE"
+  },
+  {
+    "name": "Wenduine",
+    "country": "BE"
+  },
+  {
+    "name": "De Haan",
+    "country": "BE"
+  },
+  {
+    "name": "Wemmel",
+    "country": "BE"
+  },
+  {
+    "name": "Wemmel",
+    "country": "BE"
+  },
+  {
+    "name": "Wellin",
+    "country": "BE"
+  },
+  {
+    "name": "Wellin",
+    "country": "BE"
+  },
+  {
+    "name": "Wellen",
+    "country": "BE"
+  },
+  {
+    "name": "Wellen",
+    "country": "BE"
+  },
+  {
+    "name": "Welkenraedt",
+    "country": "BE"
+  },
+  {
+    "name": "Welkenraedt",
+    "country": "BE"
+  },
+  {
+    "name": "Wavre",
+    "country": "BE"
+  },
+  {
+    "name": "Wavre",
+    "country": "BE"
+  },
+  {
+    "name": "Waterloo",
+    "country": "BE"
+  },
+  {
+    "name": "Waterloo",
+    "country": "BE"
+  },
+  {
+    "name": "Wastinelle",
+    "country": "BE"
+  },
+  {
+    "name": "Wasseiges",
+    "country": "BE"
+  },
+  {
+    "name": "Wasseiges",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Waremme",
+    "country": "BE"
+  },
+  {
+    "name": "Waremme",
+    "country": "BE"
+  },
+  {
+    "name": "Waregem",
+    "country": "BE"
+  },
+  {
+    "name": "Waregem",
+    "country": "BE"
+  },
+  {
+    "name": "War\u00e9chaix",
+    "country": "BE"
+  },
+  {
+    "name": "Wanze",
+    "country": "BE"
+  },
+  {
+    "name": "Wanze",
+    "country": "BE"
+  },
+  {
+    "name": "Wanne",
+    "country": "BE"
+  },
+  {
+    "name": "Trois-Ponts",
+    "country": "BE"
+  },
+  {
+    "name": "Wangenies",
+    "country": "BE"
+  },
+  {
+    "name": "Walhain-Saint-Paul",
+    "country": "BE"
+  },
+  {
+    "name": "Walhain",
+    "country": "BE"
+  },
+  {
+    "name": "Walcourt",
+    "country": "BE"
+  },
+  {
+    "name": "Walcourt",
+    "country": "BE"
+  },
+  {
+    "name": "Waimes",
+    "country": "BE"
+  },
+  {
+    "name": "Waimes",
+    "country": "BE"
+  },
+  {
+    "name": "Waha",
+    "country": "BE"
+  },
+  {
+    "name": "Wachtebeke",
+    "country": "BE"
+  },
+  {
+    "name": "Wachtebeke",
+    "country": "BE"
+  },
+  {
+    "name": "Waasmunster",
+    "country": "BE"
+  },
+  {
+    "name": "Waasmunster",
+    "country": "BE"
+  },
+  {
+    "name": "Waasdonk",
+    "country": "BE"
+  },
+  {
+    "name": "Waarschoot",
+    "country": "BE"
+  },
+  {
+    "name": "Waarschoot",
+    "country": "BE"
+  },
+  {
+    "name": "Vresse-sur-Semois",
+    "country": "BE"
+  },
+  {
+    "name": "Vresse-sur-Semois",
+    "country": "BE"
+  },
+  {
+    "name": "Vrechem",
+    "country": "BE"
+  },
+  {
+    "name": "Vosselaar",
+    "country": "BE"
+  },
+  {
+    "name": "Vosselaar",
+    "country": "BE"
+  },
+  {
+    "name": "Laakdal",
+    "country": "BE"
+  },
+  {
+    "name": "Vorselaar",
+    "country": "BE"
+  },
+  {
+    "name": "Vorselaar",
+    "country": "BE"
+  },
+  {
+    "name": "Voroux-lez-Liers",
+    "country": "BE"
+  },
+  {
+    "name": "Voorheide",
+    "country": "BE"
+  },
+  {
+    "name": "Vis\u00e9",
+    "country": "BE"
+  },
+  {
+    "name": "Vis\u00e9",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Virton",
+    "country": "BE"
+  },
+  {
+    "name": "Virton",
+    "country": "BE"
+  },
+  {
+    "name": "Virton",
+    "country": "BE"
+  },
+  {
+    "name": "Vilvoorde",
+    "country": "BE"
+  },
+  {
+    "name": "Vilvoorde",
+    "country": "BE"
+  },
+  {
+    "name": "Villers-Saint-Sim\u00e9on",
+    "country": "BE"
+  },
+  {
+    "name": "Les Bons Villers",
+    "country": "BE"
+  },
+  {
+    "name": "Villers-le-Bouillet",
+    "country": "BE"
+  },
+  {
+    "name": "Villers-le-Bouillet",
+    "country": "BE"
+  },
+  {
+    "name": "Villers-la-Ville",
+    "country": "BE"
+  },
+  {
+    "name": "Villers-la-Ville",
+    "country": "BE"
+  },
+  {
+    "name": "Vijfhoek",
+    "country": "BE"
+  },
+  {
+    "name": "Vieux Tauve",
+    "country": "BE"
+  },
+  {
+    "name": "Viesville",
+    "country": "BE"
+  },
+  {
+    "name": "Vielsalm",
+    "country": "BE"
+  },
+  {
+    "name": "Vielsalm",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Veurne",
+    "country": "BE"
+  },
+  {
+    "name": "Veurne",
+    "country": "BE"
+  },
+  {
+    "name": "Veurne",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Verviers",
+    "country": "BE"
+  },
+  {
+    "name": "Verviers",
+    "country": "BE"
+  },
+  {
+    "name": "Verviers",
+    "country": "BE"
+  },
+  {
+    "name": "Verlaine",
+    "country": "BE"
+  },
+  {
+    "name": "Verlaine",
+    "country": "BE"
+  },
+  {
+    "name": "Vergadering",
+    "country": "BE"
+  },
+  {
+    "name": "Verbrandendijk",
+    "country": "BE"
+  },
+  {
+    "name": "Venitiaanseheide",
+    "country": "BE"
+  },
+  {
+    "name": "Veldkant",
+    "country": "BE"
+  },
+  {
+    "name": "Veeweide",
+    "country": "BE"
+  },
+  {
+    "name": "Vaux-sur-S\u00fbre",
+    "country": "BE"
+  },
+  {
+    "name": "Vaux sous Olne",
+    "country": "BE"
+  },
+  {
+    "name": "Vaux-sur-S\u00fbre",
+    "country": "BE"
+  },
+  {
+    "name": "Vache Fontaine",
+    "country": "BE"
+  },
+  {
+    "name": "Uilenhoek",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Turnhout",
+    "country": "BE"
+  },
+  {
+    "name": "Turnhout",
+    "country": "BE"
+  },
+  {
+    "name": "Turnhout",
+    "country": "BE"
+  },
+  {
+    "name": "Tubize",
+    "country": "BE"
+  },
+  {
+    "name": "Tubize",
+    "country": "BE"
+  },
+  {
+    "name": "Trou du Bois",
+    "country": "BE"
+  },
+  {
+    "name": "Trou des Nutons",
+    "country": "BE"
+  },
+  {
+    "name": "Trooz",
+    "country": "BE"
+  },
+  {
+    "name": "Trois-Ponts",
+    "country": "BE"
+  },
+  {
+    "name": "Trieu-de-Wazon",
+    "country": "BE"
+  },
+  {
+    "name": "Triest",
+    "country": "BE"
+  },
+  {
+    "name": "Tribotte",
+    "country": "BE"
+  },
+  {
+    "name": "Tremelo",
+    "country": "BE"
+  },
+  {
+    "name": "Tremelo",
+    "country": "BE"
+  },
+  {
+    "name": "Trahison",
+    "country": "BE"
+  },
+  {
+    "name": "Tournay",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Tournai",
+    "country": "BE"
+  },
+  {
+    "name": "Tournai",
+    "country": "BE"
+  },
+  {
+    "name": "Tournai",
+    "country": "BE"
+  },
+  {
+    "name": "Torhout",
+    "country": "BE"
+  },
+  {
+    "name": "Torhout",
+    "country": "BE"
+  },
+  {
+    "name": "Tongrenelle",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Tongeren",
+    "country": "BE"
+  },
+  {
+    "name": "Tongeren",
+    "country": "BE"
+  },
+  {
+    "name": "Tongeren",
+    "country": "BE"
+  },
+  {
+    "name": "Tintigny",
+    "country": "BE"
+  },
+  {
+    "name": "Tintigny",
+    "country": "BE"
+  },
+  {
+    "name": "Tinlot",
+    "country": "BE"
+  },
+  {
+    "name": "Tillesse",
+    "country": "BE"
+  },
+  {
+    "name": "Tihange",
+    "country": "BE"
+  },
+  {
+    "name": "Tienen",
+    "country": "BE"
+  },
+  {
+    "name": "Tienen",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Tielt",
+    "country": "BE"
+  },
+  {
+    "name": "Tielt",
+    "country": "BE"
+  },
+  {
+    "name": "Tielt",
+    "country": "BE"
+  },
+  {
+    "name": "Tielt-Winge",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Thuin",
+    "country": "BE"
+  },
+  {
+    "name": "Thuin",
+    "country": "BE"
+  },
+  {
+    "name": "Thuin",
+    "country": "BE"
+  },
+  {
+    "name": "'t Hoeksken",
+    "country": "BE"
+  },
+  {
+    "name": "Thimister-Clermont",
+    "country": "BE"
+  },
+  {
+    "name": "Theux",
+    "country": "BE"
+  },
+  {
+    "name": "Theux",
+    "country": "BE"
+  },
+  {
+    "name": "Tessenderlo",
+    "country": "BE"
+  },
+  {
+    "name": "Tessenderlo",
+    "country": "BE"
+  },
+  {
+    "name": "Tervuren",
+    "country": "BE"
+  },
+  {
+    "name": "Tervuren",
+    "country": "BE"
+  },
+  {
+    "name": "Ternat",
+    "country": "BE"
+  },
+  {
+    "name": "Ternat",
+    "country": "BE"
+  },
+  {
+    "name": "Termeulen",
+    "country": "BE"
+  },
+  {
+    "name": "Terme",
+    "country": "BE"
+  },
+  {
+    "name": "Terlo",
+    "country": "BE"
+  },
+  {
+    "name": "Tenneville",
+    "country": "BE"
+  },
+  {
+    "name": "Tenneville",
+    "country": "BE"
+  },
+  {
+    "name": "Tenderlo",
+    "country": "BE"
+  },
+  {
+    "name": "Temse",
+    "country": "BE"
+  },
+  {
+    "name": "Temse",
+    "country": "BE"
+  },
+  {
+    "name": "Tellin",
+    "country": "BE"
+  },
+  {
+    "name": "Tellin",
+    "country": "BE"
+  },
+  {
+    "name": "Sur le Try",
+    "country": "BE"
+  },
+  {
+    "name": "Sur le Stockeu",
+    "country": "BE"
+  },
+  {
+    "name": "Cortil",
+    "country": "BE"
+  },
+  {
+    "name": "Stuivenberg",
+    "country": "BE"
+  },
+  {
+    "name": "Stoumont",
+    "country": "BE"
+  },
+  {
+    "name": "Stoumont",
+    "country": "BE"
+  },
+  {
+    "name": "Stockem",
+    "country": "BE"
+  },
+  {
+    "name": "Stekene",
+    "country": "BE"
+  },
+  {
+    "name": "Stekene",
+    "country": "BE"
+  },
+  {
+    "name": "Steenokkerzeel",
+    "country": "BE"
+  },
+  {
+    "name": "Steenokkerzeel",
+    "country": "BE"
+  },
+  {
+    "name": "Steeghoven",
+    "country": "BE"
+  },
+  {
+    "name": "Stavelot",
+    "country": "BE"
+  },
+  {
+    "name": "Stavelot",
+    "country": "BE"
+  },
+  {
+    "name": "Stalle",
+    "country": "BE"
+  },
+  {
+    "name": "Staden",
+    "country": "BE"
+  },
+  {
+    "name": "Staden",
+    "country": "BE"
+  },
+  {
+    "name": "Stabroek",
+    "country": "BE"
+  },
+  {
+    "name": "Stabroek",
+    "country": "BE"
+  },
+  {
+    "name": "Sprimont",
+    "country": "BE"
+  },
+  {
+    "name": "Sprimont",
+    "country": "BE"
+  },
+  {
+    "name": "Spleet",
+    "country": "BE"
+  },
+  {
+    "name": "Spinoy",
+    "country": "BE"
+  },
+  {
+    "name": "Spa",
+    "country": "BE"
+  },
+  {
+    "name": "Spa",
+    "country": "BE"
+  },
+  {
+    "name": "Sous le Bois",
+    "country": "BE"
+  },
+  {
+    "name": "Sourbrodt",
+    "country": "BE"
+  },
+  {
+    "name": "Soumagne",
+    "country": "BE"
+  },
+  {
+    "name": "Soumagne",
+    "country": "BE"
+  },
+  {
+    "name": "Somme-Leuze",
+    "country": "BE"
+  },
+  {
+    "name": "Somme-Leuze",
+    "country": "BE"
+  },
+  {
+    "name": "Sombreffe",
+    "country": "BE"
+  },
+  {
+    "name": "Sombreffe",
+    "country": "BE"
+  },
+  {
+    "name": "Solre-sur-Sambre",
+    "country": "BE"
+  },
+  {
+    "name": "Solhez",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Soignies",
+    "country": "BE"
+  },
+  {
+    "name": "Soignies",
+    "country": "BE"
+  },
+  {
+    "name": "Soignies",
+    "country": "BE"
+  },
+  {
+    "name": "Tinlot",
+    "country": "BE"
+  },
+  {
+    "name": "Smoorken",
+    "country": "BE"
+  },
+  {
+    "name": "Sluis",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Truiden",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Truiden",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Stevens-Woluwe",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Pieters-Leeuw",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Pieters-Leeuw",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Sint-Niklaas",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Niklaas",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Niklaas",
+    "country": "BE"
+  },
+  {
+    "name": "Voeren",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Martens-Lennik",
+    "country": "BE"
+  },
+  {
+    "name": "Lennik",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Martens-Latem",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Martens-Latem",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Maria-Lierde",
+    "country": "BE"
+  },
+  {
+    "name": "Lierde",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Lievens-Houtem",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Lievens-Houtem",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Laureins",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Laureins",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Katelijne-Waver",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Katelijne-Waver",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Job",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Gillis-Waas",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Gillis-Waas",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Gillis-bij-Dendermonde",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Genesius-Rode",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Genesius-Rode",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Amands",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Amands",
+    "country": "BE"
+  },
+  {
+    "name": "Silly",
+    "country": "BE"
+  },
+  {
+    "name": "Silly",
+    "country": "BE"
+  },
+  {
+    "name": "Seraing",
+    "country": "BE"
+  },
+  {
+    "name": "Seraing",
+    "country": "BE"
+  },
+  {
+    "name": "Seneffe",
+    "country": "BE"
+  },
+  {
+    "name": "Seneffe",
+    "country": "BE"
+  },
+  {
+    "name": "Schoten",
+    "country": "BE"
+  },
+  {
+    "name": "Schoten",
+    "country": "BE"
+  },
+  {
+    "name": "Schoenstraat",
+    "country": "BE"
+  },
+  {
+    "name": "Schilde",
+    "country": "BE"
+  },
+  {
+    "name": "Schilde",
+    "country": "BE"
+  },
+  {
+    "name": "Scherpenheuvel-Zichem",
+    "country": "BE"
+  },
+  {
+    "name": "Schelle",
+    "country": "BE"
+  },
+  {
+    "name": "Schelle",
+    "country": "BE"
+  },
+  {
+    "name": "Scheiltjenseinde",
+    "country": "BE"
+  },
+  {
+    "name": "Sars-la-Bruy\u00e8re",
+    "country": "BE"
+  },
+  {
+    "name": "Salinus",
+    "country": "BE"
+  },
+  {
+    "name": "Saiwiat",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Yvon",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Vith",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Vith",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Nicolas",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Nicolas",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-L\u00e9ger",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-L\u00e9ger",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Josse-ten-Noode",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Josse-ten-Noode",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Hubert",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Hubert",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Ghislain",
+    "country": "BE"
+  },
+  {
+    "name": "Saint-Ghislain",
+    "country": "BE"
+  },
+  {
+    "name": "Sainte-Ode",
+    "country": "BE"
+  },
+  {
+    "name": "Ry Massart",
+    "country": "BE"
+  },
+  {
+    "name": "Ruyff",
+    "country": "BE"
+  },
+  {
+    "name": "Rumst",
+    "country": "BE"
+  },
+  {
+    "name": "Rumst",
+    "country": "BE"
+  },
+  {
+    "name": "Rumes",
+    "country": "BE"
+  },
+  {
+    "name": "Rumes",
+    "country": "BE"
+  },
+  {
+    "name": "Ruiselede",
+    "country": "BE"
+  },
+  {
+    "name": "Ruiselede",
+    "country": "BE"
+  },
+  {
+    "name": "Roy\u00e8re",
+    "country": "BE"
+  },
+  {
+    "name": "Rouvroy",
+    "country": "BE"
+  },
+  {
+    "name": "Roussy",
+    "country": "BE"
+  },
+  {
+    "name": "Rotselaar",
+    "country": "BE"
+  },
+  {
+    "name": "Rotselaar",
+    "country": "BE"
+  },
+  {
+    "name": "Ronse",
+    "country": "BE"
+  },
+  {
+    "name": "Ronse",
+    "country": "BE"
+  },
+  {
+    "name": "Ronce",
+    "country": "BE"
+  },
+  {
+    "name": "Rommelaar",
+    "country": "BE"
+  },
+  {
+    "name": "Roeulx",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Roeselare",
+    "country": "BE"
+  },
+  {
+    "name": "Roeselare",
+    "country": "BE"
+  },
+  {
+    "name": "Roeselare",
+    "country": "BE"
+  },
+  {
+    "name": "Rodebeek",
+    "country": "BE"
+  },
+  {
+    "name": "Roclenge-sur-Geer",
+    "country": "BE"
+  },
+  {
+    "name": "Rochefort",
+    "country": "BE"
+  },
+  {
+    "name": "Rochefort",
+    "country": "BE"
+  },
+  {
+    "name": "Robertsart",
+    "country": "BE"
+  },
+  {
+    "name": "Robermont",
+    "country": "BE"
+  },
+  {
+    "name": "Rixensart",
+    "country": "BE"
+  },
+  {
+    "name": "Rixensart",
+    "country": "BE"
+  },
+  {
+    "name": "Rijkevorsel",
+    "country": "BE"
+  },
+  {
+    "name": "Rijkevorsel",
+    "country": "BE"
+  },
+  {
+    "name": "Riemst",
+    "country": "BE"
+  },
+  {
+    "name": "Riemst",
+    "country": "BE"
+  },
+  {
+    "name": "Reutenbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Retie",
+    "country": "BE"
+  },
+  {
+    "name": "Retie",
+    "country": "BE"
+  },
+  {
+    "name": "Rendeux",
+    "country": "BE"
+  },
+  {
+    "name": "Rendeux",
+    "country": "BE"
+  },
+  {
+    "name": "Remicourt",
+    "country": "BE"
+  },
+  {
+    "name": "Remicourt",
+    "country": "BE"
+  },
+  {
+    "name": "Rebecq-Rognon",
+    "country": "BE"
+  },
+  {
+    "name": "Rebecq",
+    "country": "BE"
+  },
+  {
+    "name": "Raversijde",
+    "country": "BE"
+  },
+  {
+    "name": "Ravels",
+    "country": "BE"
+  },
+  {
+    "name": "Ravels",
+    "country": "BE"
+  },
+  {
+    "name": "Ransy",
+    "country": "BE"
+  },
+  {
+    "name": "Ranst",
+    "country": "BE"
+  },
+  {
+    "name": "Ranst",
+    "country": "BE"
+  },
+  {
+    "name": "Ramillies",
+    "country": "BE"
+  },
+  {
+    "name": "Ramillies",
+    "country": "BE"
+  },
+  {
+    "name": "Raeren",
+    "country": "BE"
+  },
+  {
+    "name": "Raeren",
+    "country": "BE"
+  },
+  {
+    "name": "Qui\u00e9vrain",
+    "country": "BE"
+  },
+  {
+    "name": "Qui\u00e9vrain",
+    "country": "BE"
+  },
+  {
+    "name": "Qu\u00e9vy-le-Petit",
+    "country": "BE"
+  },
+  {
+    "name": "Qu\u00e9vy",
+    "country": "BE"
+  },
+  {
+    "name": "Quevaucamps",
+    "country": "BE"
+  },
+  {
+    "name": "Quaregnon",
+    "country": "BE"
+  },
+  {
+    "name": "Quaregnon",
+    "country": "BE"
+  },
+  {
+    "name": "Puurs",
+    "country": "BE"
+  },
+  {
+    "name": "Puurs",
+    "country": "BE"
+  },
+  {
+    "name": "Putte",
+    "country": "BE"
+  },
+  {
+    "name": "Putte",
+    "country": "BE"
+  },
+  {
+    "name": "Profondeville",
+    "country": "BE"
+  },
+  {
+    "name": "Profondeville",
+    "country": "BE"
+  },
+  {
+    "name": "Potegem",
+    "country": "BE"
+  },
+  {
+    "name": "Posthoornhoek",
+    "country": "BE"
+  },
+  {
+    "name": "Poppel",
+    "country": "BE"
+  },
+  {
+    "name": "Poperinge",
+    "country": "BE"
+  },
+  {
+    "name": "Poperinge",
+    "country": "BE"
+  },
+  {
+    "name": "Pont Trou\u00e9",
+    "country": "BE"
+  },
+  {
+    "name": "Pont-\u00e0-Celles",
+    "country": "BE"
+  },
+  {
+    "name": "Pont-\u00e0-Celles",
+    "country": "BE"
+  },
+  {
+    "name": "Ponsin",
+    "country": "BE"
+  },
+  {
+    "name": "Plombi\u00e8res",
+    "country": "BE"
+  },
+  {
+    "name": "Pittem",
+    "country": "BE"
+  },
+  {
+    "name": "Pittem",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Philippeville",
+    "country": "BE"
+  },
+  {
+    "name": "Philippeville",
+    "country": "BE"
+  },
+  {
+    "name": "Philippeville",
+    "country": "BE"
+  },
+  {
+    "name": "Petit Howardries",
+    "country": "BE"
+  },
+  {
+    "name": "Petit Hainin",
+    "country": "BE"
+  },
+  {
+    "name": "Petit Axhe",
+    "country": "BE"
+  },
+  {
+    "name": "Perwez",
+    "country": "BE"
+  },
+  {
+    "name": "Perwez",
+    "country": "BE"
+  },
+  {
+    "name": "P\u00e9ruwelz",
+    "country": "BE"
+  },
+  {
+    "name": "P\u00e9ruwelz",
+    "country": "BE"
+  },
+  {
+    "name": "Perre",
+    "country": "BE"
+  },
+  {
+    "name": "Pepinster",
+    "country": "BE"
+  },
+  {
+    "name": "Pepinster",
+    "country": "BE"
+  },
+  {
+    "name": "Pepingen",
+    "country": "BE"
+  },
+  {
+    "name": "Pepingen",
+    "country": "BE"
+  },
+  {
+    "name": "Pennepoel",
+    "country": "BE"
+  },
+  {
+    "name": "Peerstalle",
+    "country": "BE"
+  },
+  {
+    "name": "Peer",
+    "country": "BE"
+  },
+  {
+    "name": "Peer",
+    "country": "BE"
+  },
+  {
+    "name": "Pecq",
+    "country": "BE"
+  },
+  {
+    "name": "Pecq",
+    "country": "BE"
+  },
+  {
+    "name": "Pauwstraat",
+    "country": "BE"
+  },
+  {
+    "name": "Paradijs",
+    "country": "BE"
+  },
+  {
+    "name": "Paliseul",
+    "country": "BE"
+  },
+  {
+    "name": "Paliseul",
+    "country": "BE"
+  },
+  {
+    "name": "Padraye",
+    "country": "BE"
+  },
+  {
+    "name": "Overpelt",
+    "country": "BE"
+  },
+  {
+    "name": "Overpelt",
+    "country": "BE"
+  },
+  {
+    "name": "Overijse",
+    "country": "BE"
+  },
+  {
+    "name": "Overijse",
+    "country": "BE"
+  },
+  {
+    "name": "Overeindeveld",
+    "country": "BE"
+  },
+  {
+    "name": "Over den Demer",
+    "country": "BE"
+  },
+  {
+    "name": "Overboelare",
+    "country": "BE"
+  },
+  {
+    "name": "Oupeye",
+    "country": "BE"
+  },
+  {
+    "name": "Oupeye",
+    "country": "BE"
+  },
+  {
+    "name": "Ounes",
+    "country": "BE"
+  },
+  {
+    "name": "Ouffet",
+    "country": "BE"
+  },
+  {
+    "name": "Ouffet",
+    "country": "BE"
+  },
+  {
+    "name": "Oud-Turnhout",
+    "country": "BE"
+  },
+  {
+    "name": "Oud-Turnhout",
+    "country": "BE"
+  },
+  {
+    "name": "Oud-Heverlee",
+    "country": "BE"
+  },
+  {
+    "name": "Oud-Heverlee",
+    "country": "BE"
+  },
+  {
+    "name": "Oudenburg",
+    "country": "BE"
+  },
+  {
+    "name": "Oudenburg",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Oudenaarde",
+    "country": "BE"
+  },
+  {
+    "name": "Oudenaarde",
+    "country": "BE"
+  },
+  {
+    "name": "Oudenaarde",
+    "country": "BE"
+  },
+  {
+    "name": "Oude Baan",
+    "country": "BE"
+  },
+  {
+    "name": "Ottignies",
+    "country": "BE"
+  },
+  {
+    "name": "Ottignies-Louvain-la-Neuve",
+    "country": "BE"
+  },
+  {
+    "name": "Otrange",
+    "country": "BE"
+  },
+  {
+    "name": "Oster",
+    "country": "BE"
+  },
+  {
+    "name": "Orsmaal-Gussenhoven",
+    "country": "BE"
+  },
+  {
+    "name": "Orp-le-Grand",
+    "country": "BE"
+  },
+  {
+    "name": "Orp-Jauche",
+    "country": "BE"
+  },
+  {
+    "name": "Oreye",
+    "country": "BE"
+  },
+  {
+    "name": "Oreye",
+    "country": "BE"
+  },
+  {
+    "name": "Opwijk",
+    "country": "BE"
+  },
+  {
+    "name": "Opwijk",
+    "country": "BE"
+  },
+  {
+    "name": "Opglabbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Opglabbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Provincie Oost-Vlaanderen",
+    "country": "BE"
+  },
+  {
+    "name": "Oostrozebeke",
+    "country": "BE"
+  },
+  {
+    "name": "Oostrozebeke",
+    "country": "BE"
+  },
+  {
+    "name": "Oostkamp",
+    "country": "BE"
+  },
+  {
+    "name": "Oostkamp",
+    "country": "BE"
+  },
+  {
+    "name": "Oosterzele",
+    "country": "BE"
+  },
+  {
+    "name": "Oosterzele",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Oostende",
+    "country": "BE"
+  },
+  {
+    "name": "Ostend",
+    "country": "BE"
+  },
+  {
+    "name": "Oostende",
+    "country": "BE"
+  },
+  {
+    "name": "Oostende",
+    "country": "BE"
+  },
+  {
+    "name": "Onze-Lieve-Vrouw-Waver",
+    "country": "BE"
+  },
+  {
+    "name": "Onhaye",
+    "country": "BE"
+  },
+  {
+    "name": "Onhaye",
+    "country": "BE"
+  },
+  {
+    "name": "Oneux",
+    "country": "BE"
+  },
+  {
+    "name": "Olne",
+    "country": "BE"
+  },
+  {
+    "name": "Olne",
+    "country": "BE"
+  },
+  {
+    "name": "Oliehoek",
+    "country": "BE"
+  },
+  {
+    "name": "Olen",
+    "country": "BE"
+  },
+  {
+    "name": "Olen",
+    "country": "BE"
+  },
+  {
+    "name": "Okselaar",
+    "country": "BE"
+  },
+  {
+    "name": "Ohey",
+    "country": "BE"
+  },
+  {
+    "name": "Ohey",
+    "country": "BE"
+  },
+  {
+    "name": "Nothomb",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Nivelles",
+    "country": "BE"
+  },
+  {
+    "name": "Nivelles",
+    "country": "BE"
+  },
+  {
+    "name": "Nivelles",
+    "country": "BE"
+  },
+  {
+    "name": "Ninove",
+    "country": "BE"
+  },
+  {
+    "name": "Ninove",
+    "country": "BE"
+  },
+  {
+    "name": "Nijlen",
+    "country": "BE"
+  },
+  {
+    "name": "Nijlen",
+    "country": "BE"
+  },
+  {
+    "name": "Nieuwpoort",
+    "country": "BE"
+  },
+  {
+    "name": "Nieuwpoort",
+    "country": "BE"
+  },
+  {
+    "name": "Nieuwerkerken",
+    "country": "BE"
+  },
+  {
+    "name": "Nieuwerkerken",
+    "country": "BE"
+  },
+  {
+    "name": "Nieuwdak",
+    "country": "BE"
+  },
+  {
+    "name": "Niel",
+    "country": "BE"
+  },
+  {
+    "name": "Niel",
+    "country": "BE"
+  },
+  {
+    "name": "Nevele",
+    "country": "BE"
+  },
+  {
+    "name": "Nevele",
+    "country": "BE"
+  },
+  {
+    "name": "Neupr\u00e9",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Neufch\u00e2teau",
+    "country": "BE"
+  },
+  {
+    "name": "Neufch\u00e2teau",
+    "country": "BE"
+  },
+  {
+    "name": "Neufch\u00e2teau",
+    "country": "BE"
+  },
+  {
+    "name": "Neerpelt",
+    "country": "BE"
+  },
+  {
+    "name": "Neerpelt",
+    "country": "BE"
+  },
+  {
+    "name": "Nederzwalm-Hermelgem",
+    "country": "BE"
+  },
+  {
+    "name": "Nazareth",
+    "country": "BE"
+  },
+  {
+    "name": "Nazareth",
+    "country": "BE"
+  },
+  {
+    "name": "Nassogne",
+    "country": "BE"
+  },
+  {
+    "name": "Nassogne",
+    "country": "BE"
+  },
+  {
+    "name": "Nandrin",
+    "country": "BE"
+  },
+  {
+    "name": "Nandrin",
+    "country": "BE"
+  },
+  {
+    "name": "Province de Namur",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Namur",
+    "country": "BE"
+  },
+  {
+    "name": "Namur",
+    "country": "BE"
+  },
+  {
+    "name": "Namur",
+    "country": "BE"
+  },
+  {
+    "name": "Naarmonts",
+    "country": "BE"
+  },
+  {
+    "name": "Musson",
+    "country": "BE"
+  },
+  {
+    "name": "Musson",
+    "country": "BE"
+  },
+  {
+    "name": "Zwalm",
+    "country": "BE"
+  },
+  {
+    "name": "Mouscron",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Mouscron",
+    "country": "BE"
+  },
+  {
+    "name": "Mortsel",
+    "country": "BE"
+  },
+  {
+    "name": "Mortsel",
+    "country": "BE"
+  },
+  {
+    "name": "Morlanwelz-Mariemont",
+    "country": "BE"
+  },
+  {
+    "name": "Morlanwelz",
+    "country": "BE"
+  },
+  {
+    "name": "Moorslede",
+    "country": "BE"
+  },
+  {
+    "name": "Moorslede",
+    "country": "BE"
+  },
+  {
+    "name": "Mont-sur-Marchienne",
+    "country": "BE"
+  },
+  {
+    "name": "Mont-Saint-Guibert",
+    "country": "BE"
+  },
+  {
+    "name": "Mont-Saint-Guibert",
+    "country": "BE"
+  },
+  {
+    "name": "Montils",
+    "country": "BE"
+  },
+  {
+    "name": "Montignies-sur-Sambre",
+    "country": "BE"
+  },
+  {
+    "name": "Montigny-le-Tilleul",
+    "country": "BE"
+  },
+  {
+    "name": "Montigny-le-Tilleul",
+    "country": "BE"
+  },
+  {
+    "name": "Monthouet",
+    "country": "BE"
+  },
+  {
+    "name": "Mont Falize",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Mons",
+    "country": "BE"
+  },
+  {
+    "name": "Mons",
+    "country": "BE"
+  },
+  {
+    "name": "Mons",
+    "country": "BE"
+  },
+  {
+    "name": "Momignies",
+    "country": "BE"
+  },
+  {
+    "name": "Momignies",
+    "country": "BE"
+  },
+  {
+    "name": "Molsveld",
+    "country": "BE"
+  },
+  {
+    "name": "Molenbeek-Saint-Jean",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Jans-Molenbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Moleken",
+    "country": "BE"
+  },
+  {
+    "name": "Mol",
+    "country": "BE"
+  },
+  {
+    "name": "Mol",
+    "country": "BE"
+  },
+  {
+    "name": "Moerbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Moerbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Modave",
+    "country": "BE"
+  },
+  {
+    "name": "Modave",
+    "country": "BE"
+  },
+  {
+    "name": "Middelkerke",
+    "country": "BE"
+  },
+  {
+    "name": "Middelkerke",
+    "country": "BE"
+  },
+  {
+    "name": "Meulebeke",
+    "country": "BE"
+  },
+  {
+    "name": "Meulebeke",
+    "country": "BE"
+  },
+  {
+    "name": "Mettet",
+    "country": "BE"
+  },
+  {
+    "name": "Mettet",
+    "country": "BE"
+  },
+  {
+    "name": "Messancy",
+    "country": "BE"
+  },
+  {
+    "name": "Messancy",
+    "country": "BE"
+  },
+  {
+    "name": "Messines",
+    "country": "BE"
+  },
+  {
+    "name": "Mesen",
+    "country": "BE"
+  },
+  {
+    "name": "Merlin",
+    "country": "BE"
+  },
+  {
+    "name": "Merksplas",
+    "country": "BE"
+  },
+  {
+    "name": "Merksplas",
+    "country": "BE"
+  },
+  {
+    "name": "Merelbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Merelbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Merchtem",
+    "country": "BE"
+  },
+  {
+    "name": "Merchtem",
+    "country": "BE"
+  },
+  {
+    "name": "Merbes-le-Ch\u00e2teau",
+    "country": "BE"
+  },
+  {
+    "name": "Merbes-le-Ch\u00e2teau",
+    "country": "BE"
+  },
+  {
+    "name": "Menen",
+    "country": "BE"
+  },
+  {
+    "name": "Menen",
+    "country": "BE"
+  },
+  {
+    "name": "Melsbroek",
+    "country": "BE"
+  },
+  {
+    "name": "Mellet",
+    "country": "BE"
+  },
+  {
+    "name": "Melle",
+    "country": "BE"
+  },
+  {
+    "name": "Melle",
+    "country": "BE"
+  },
+  {
+    "name": "Linter",
+    "country": "BE"
+  },
+  {
+    "name": "Meix-devant-Virton",
+    "country": "BE"
+  },
+  {
+    "name": "Meix-devant-Virton",
+    "country": "BE"
+  },
+  {
+    "name": "Meise",
+    "country": "BE"
+  },
+  {
+    "name": "Meise",
+    "country": "BE"
+  },
+  {
+    "name": "Meerhout",
+    "country": "BE"
+  },
+  {
+    "name": "Meerhout",
+    "country": "BE"
+  },
+  {
+    "name": "Meensel-Kiezegem",
+    "country": "BE"
+  },
+  {
+    "name": "Maasmechelen",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Mechelen",
+    "country": "BE"
+  },
+  {
+    "name": "Mechelen",
+    "country": "BE"
+  },
+  {
+    "name": "Mechelen",
+    "country": "BE"
+  },
+  {
+    "name": "Mathysart",
+    "country": "BE"
+  },
+  {
+    "name": "Masnuy-Saint-Jean",
+    "country": "BE"
+  },
+  {
+    "name": "Martelange",
+    "country": "BE"
+  },
+  {
+    "name": "Martelange",
+    "country": "BE"
+  },
+  {
+    "name": "Marloie",
+    "country": "BE"
+  },
+  {
+    "name": "Mariomont",
+    "country": "BE"
+  },
+  {
+    "name": "Marcinelle",
+    "country": "BE"
+  },
+  {
+    "name": "Marchin",
+    "country": "BE"
+  },
+  {
+    "name": "Marchin",
+    "country": "BE"
+  },
+  {
+    "name": "Marchienne-au-Pont",
+    "country": "BE"
+  },
+  {
+    "name": "\u00c9caussinnes",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Marche-en-Famenne",
+    "country": "BE"
+  },
+  {
+    "name": "Marche-en-Famenne",
+    "country": "BE"
+  },
+  {
+    "name": "Marche-en-Famenne",
+    "country": "BE"
+  },
+  {
+    "name": "Manhay",
+    "country": "BE"
+  },
+  {
+    "name": "Manage",
+    "country": "BE"
+  },
+  {
+    "name": "Manage",
+    "country": "BE"
+  },
+  {
+    "name": "Malplaqu\u00e9s",
+    "country": "BE"
+  },
+  {
+    "name": "Malm\u00e9dy",
+    "country": "BE"
+  },
+  {
+    "name": "Malm\u00e9dy",
+    "country": "BE"
+  },
+  {
+    "name": "Malmaison",
+    "country": "BE"
+  },
+  {
+    "name": "Malegem",
+    "country": "BE"
+  },
+  {
+    "name": "Maldegem",
+    "country": "BE"
+  },
+  {
+    "name": "Maldegem",
+    "country": "BE"
+  },
+  {
+    "name": "Machelen",
+    "country": "BE"
+  },
+  {
+    "name": "Machelen",
+    "country": "BE"
+  },
+  {
+    "name": "Maasmechelen",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Maaseik",
+    "country": "BE"
+  },
+  {
+    "name": "Maaseik",
+    "country": "BE"
+  },
+  {
+    "name": "Maaseik",
+    "country": "BE"
+  },
+  {
+    "name": "Province du Luxembourg",
+    "country": "BE"
+  },
+  {
+    "name": "Lummen",
+    "country": "BE"
+  },
+  {
+    "name": "Lummen",
+    "country": "BE"
+  },
+  {
+    "name": "Lubbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Lubbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Lovendegem",
+    "country": "BE"
+  },
+  {
+    "name": "Lovendegem",
+    "country": "BE"
+  },
+  {
+    "name": "Louvain-la-Neuve",
+    "country": "BE"
+  },
+  {
+    "name": "Lorentswaldchen",
+    "country": "BE"
+  },
+  {
+    "name": "Lontzen",
+    "country": "BE"
+  },
+  {
+    "name": "Lontzen",
+    "country": "BE"
+  },
+  {
+    "name": "Longtain",
+    "country": "BE"
+  },
+  {
+    "name": "Londerzeel",
+    "country": "BE"
+  },
+  {
+    "name": "Londerzeel",
+    "country": "BE"
+  },
+  {
+    "name": "Lommel",
+    "country": "BE"
+  },
+  {
+    "name": "Lommel",
+    "country": "BE"
+  },
+  {
+    "name": "L'Olive",
+    "country": "BE"
+  },
+  {
+    "name": "Lokeren",
+    "country": "BE"
+  },
+  {
+    "name": "Lokeren",
+    "country": "BE"
+  },
+  {
+    "name": "Loker",
+    "country": "BE"
+  },
+  {
+    "name": "Lochristi",
+    "country": "BE"
+  },
+  {
+    "name": "Lochristi",
+    "country": "BE"
+  },
+  {
+    "name": "L'Ob\u00e9lisque",
+    "country": "BE"
+  },
+  {
+    "name": "Lobbes",
+    "country": "BE"
+  },
+  {
+    "name": "Lobbes",
+    "country": "BE"
+  },
+  {
+    "name": "Lint",
+    "country": "BE"
+  },
+  {
+    "name": "Lint",
+    "country": "BE"
+  },
+  {
+    "name": "Linkebeek",
+    "country": "BE"
+  },
+  {
+    "name": "Linkebeek",
+    "country": "BE"
+  },
+  {
+    "name": "Lincent",
+    "country": "BE"
+  },
+  {
+    "name": "Lincent",
+    "country": "BE"
+  },
+  {
+    "name": "Gouvy",
+    "country": "BE"
+  },
+  {
+    "name": "Provincie Limburg",
+    "country": "BE"
+  },
+  {
+    "name": "Limbourg",
+    "country": "BE"
+  },
+  {
+    "name": "Limbourg",
+    "country": "BE"
+  },
+  {
+    "name": "Lille",
+    "country": "BE"
+  },
+  {
+    "name": "Lille",
+    "country": "BE"
+  },
+  {
+    "name": "Lier",
+    "country": "BE"
+  },
+  {
+    "name": "Lierneux",
+    "country": "BE"
+  },
+  {
+    "name": "Lierneux",
+    "country": "BE"
+  },
+  {
+    "name": "Lier",
+    "country": "BE"
+  },
+  {
+    "name": "Province de Li\u00e8ge",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Li\u00e8ge",
+    "country": "BE"
+  },
+  {
+    "name": "Li\u00e8ge",
+    "country": "BE"
+  },
+  {
+    "name": "Li\u00e8ge",
+    "country": "BE"
+  },
+  {
+    "name": "Liedekerke",
+    "country": "BE"
+  },
+  {
+    "name": "Liedekerke",
+    "country": "BE"
+  },
+  {
+    "name": "Lichtervelde",
+    "country": "BE"
+  },
+  {
+    "name": "Lichtervelde",
+    "country": "BE"
+  },
+  {
+    "name": "Lichtenberg",
+    "country": "BE"
+  },
+  {
+    "name": "Libin Haut",
+    "country": "BE"
+  },
+  {
+    "name": "Libin",
+    "country": "BE"
+  },
+  {
+    "name": "Libin",
+    "country": "BE"
+  },
+  {
+    "name": "Le Walestru Septentrional",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Leuven",
+    "country": "BE"
+  },
+  {
+    "name": "Leuven",
+    "country": "BE"
+  },
+  {
+    "name": "Leuven",
+    "country": "BE"
+  },
+  {
+    "name": "Le Tilleul",
+    "country": "BE"
+  },
+  {
+    "name": "Les Tombes",
+    "country": "BE"
+  },
+  {
+    "name": "Lessines",
+    "country": "BE"
+  },
+  {
+    "name": "Lessines",
+    "country": "BE"
+  },
+  {
+    "name": "Les Haies",
+    "country": "BE"
+  },
+  {
+    "name": "Les Golettes",
+    "country": "BE"
+  },
+  {
+    "name": "Le Sart Haguet",
+    "country": "BE"
+  },
+  {
+    "name": "Le Panier",
+    "country": "BE"
+  },
+  {
+    "name": "Leopoldsburg",
+    "country": "BE"
+  },
+  {
+    "name": "Leopoldsburg",
+    "country": "BE"
+  },
+  {
+    "name": "Lens",
+    "country": "BE"
+  },
+  {
+    "name": "Lens",
+    "country": "BE"
+  },
+  {
+    "name": "Lendelede",
+    "country": "BE"
+  },
+  {
+    "name": "Lendelede",
+    "country": "BE"
+  },
+  {
+    "name": "Le Mont",
+    "country": "BE"
+  },
+  {
+    "name": "Le Many",
+    "country": "BE"
+  },
+  {
+    "name": "L\u00e9glise",
+    "country": "BE"
+  },
+  {
+    "name": "L\u00e9glise",
+    "country": "BE"
+  },
+  {
+    "name": "Leffe",
+    "country": "BE"
+  },
+  {
+    "name": "Le Dossay",
+    "country": "BE"
+  },
+  {
+    "name": "Ledegem",
+    "country": "BE"
+  },
+  {
+    "name": "Ledegem",
+    "country": "BE"
+  },
+  {
+    "name": "Ledeberg",
+    "country": "BE"
+  },
+  {
+    "name": "Ledeberg",
+    "country": "BE"
+  },
+  {
+    "name": "Lede",
+    "country": "BE"
+  },
+  {
+    "name": "Lede",
+    "country": "BE"
+  },
+  {
+    "name": "Le Crouzet",
+    "country": "BE"
+  },
+  {
+    "name": "Le Coucou",
+    "country": "BE"
+  },
+  {
+    "name": "Le Chenia",
+    "country": "BE"
+  },
+  {
+    "name": "Le But",
+    "country": "BE"
+  },
+  {
+    "name": "Lebbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Lebbeke",
+    "country": "BE"
+  },
+  {
+    "name": "La Ville",
+    "country": "BE"
+  },
+  {
+    "name": "L'Aulnois",
+    "country": "BE"
+  },
+  {
+    "name": "La Roche-en-Ardenne",
+    "country": "BE"
+  },
+  {
+    "name": "La Roche-en-Ardenne",
+    "country": "BE"
+  },
+  {
+    "name": "La Redoute",
+    "country": "BE"
+  },
+  {
+    "name": "La Perche Rompue",
+    "country": "BE"
+  },
+  {
+    "name": "Landen",
+    "country": "BE"
+  },
+  {
+    "name": "Landen",
+    "country": "BE"
+  },
+  {
+    "name": "Lanceaumont",
+    "country": "BE"
+  },
+  {
+    "name": "Lanaken",
+    "country": "BE"
+  },
+  {
+    "name": "Lanaken",
+    "country": "BE"
+  },
+  {
+    "name": "Rouvroy",
+    "country": "BE"
+  },
+  {
+    "name": "La Maladrie",
+    "country": "BE"
+  },
+  {
+    "name": "La Louvi\u00e8re",
+    "country": "BE"
+  },
+  {
+    "name": "La Louvi\u00e8re",
+    "country": "BE"
+  },
+  {
+    "name": "La Lonhienne",
+    "country": "BE"
+  },
+  {
+    "name": "L'aisette",
+    "country": "BE"
+  },
+  {
+    "name": "La Hulpe",
+    "country": "BE"
+  },
+  {
+    "name": "La Hulpe",
+    "country": "BE"
+  },
+  {
+    "name": "La Horne",
+    "country": "BE"
+  },
+  {
+    "name": "La Fert\u00e9",
+    "country": "BE"
+  },
+  {
+    "name": "Laeken",
+    "country": "BE"
+  },
+  {
+    "name": "La Docherie",
+    "country": "BE"
+  },
+  {
+    "name": "La Calamine",
+    "country": "BE"
+  },
+  {
+    "name": "La Calamine",
+    "country": "BE"
+  },
+  {
+    "name": "La Bruy\u00e8re",
+    "country": "BE"
+  },
+  {
+    "name": "La Bretagne",
+    "country": "BE"
+  },
+  {
+    "name": "La Bouverie",
+    "country": "BE"
+  },
+  {
+    "name": "Laarne",
+    "country": "BE"
+  },
+  {
+    "name": "Laarne",
+    "country": "BE"
+  },
+  {
+    "name": "Kuurne",
+    "country": "BE"
+  },
+  {
+    "name": "Kuurne",
+    "country": "BE"
+  },
+  {
+    "name": "Kutsegem",
+    "country": "BE"
+  },
+  {
+    "name": "Kruisweg",
+    "country": "BE"
+  },
+  {
+    "name": "Kruishoutem",
+    "country": "BE"
+  },
+  {
+    "name": "Kruishoutem",
+    "country": "BE"
+  },
+  {
+    "name": "Kruibeke",
+    "country": "BE"
+  },
+  {
+    "name": "Kruibeke",
+    "country": "BE"
+  },
+  {
+    "name": "Krekelberg",
+    "country": "BE"
+  },
+  {
+    "name": "Kraainem",
+    "country": "BE"
+  },
+  {
+    "name": "Kraainem",
+    "country": "BE"
+  },
+  {
+    "name": "Kraaienbroek",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Kortrijk",
+    "country": "BE"
+  },
+  {
+    "name": "Kortrijk",
+    "country": "BE"
+  },
+  {
+    "name": "Kortrijk",
+    "country": "BE"
+  },
+  {
+    "name": "Kortessem",
+    "country": "BE"
+  },
+  {
+    "name": "Kortessem",
+    "country": "BE"
+  },
+  {
+    "name": "Kortenberg",
+    "country": "BE"
+  },
+  {
+    "name": "Kortenberg",
+    "country": "BE"
+  },
+  {
+    "name": "Kortenaken",
+    "country": "BE"
+  },
+  {
+    "name": "Kortenaken",
+    "country": "BE"
+  },
+  {
+    "name": "Kortemark",
+    "country": "BE"
+  },
+  {
+    "name": "Kortemark",
+    "country": "BE"
+  },
+  {
+    "name": "Korentje",
+    "country": "BE"
+  },
+  {
+    "name": "Kontich",
+    "country": "BE"
+  },
+  {
+    "name": "Kontich",
+    "country": "BE"
+  },
+  {
+    "name": "Koksijde",
+    "country": "BE"
+  },
+  {
+    "name": "Koksijde",
+    "country": "BE"
+  },
+  {
+    "name": "Koekelberg",
+    "country": "BE"
+  },
+  {
+    "name": "Koekelberg",
+    "country": "BE"
+  },
+  {
+    "name": "Koekelberg",
+    "country": "BE"
+  },
+  {
+    "name": "Koekelare",
+    "country": "BE"
+  },
+  {
+    "name": "Koekelare",
+    "country": "BE"
+  },
+  {
+    "name": "Knokke-Heist",
+    "country": "BE"
+  },
+  {
+    "name": "Knokke-Heist",
+    "country": "BE"
+  },
+  {
+    "name": "Knesselare",
+    "country": "BE"
+  },
+  {
+    "name": "Knesselare",
+    "country": "BE"
+  },
+  {
+    "name": "Kinrooi",
+    "country": "BE"
+  },
+  {
+    "name": "Kinrooi",
+    "country": "BE"
+  },
+  {
+    "name": "Keur",
+    "country": "BE"
+  },
+  {
+    "name": "Keumi\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "Kersbeek-Miskom",
+    "country": "BE"
+  },
+  {
+    "name": "Keerbergen",
+    "country": "BE"
+  },
+  {
+    "name": "Keerbergen",
+    "country": "BE"
+  },
+  {
+    "name": "Kaulen",
+    "country": "BE"
+  },
+  {
+    "name": "Kasterlee",
+    "country": "BE"
+  },
+  {
+    "name": "Kasterlee",
+    "country": "BE"
+  },
+  {
+    "name": "Kaprijke",
+    "country": "BE"
+  },
+  {
+    "name": "Kaprijke",
+    "country": "BE"
+  },
+  {
+    "name": "Kapelplaats",
+    "country": "BE"
+  },
+  {
+    "name": "Kapelleveld",
+    "country": "BE"
+  },
+  {
+    "name": "Kapelle-op-den-Bos",
+    "country": "BE"
+  },
+  {
+    "name": "Kapelle-op-den-Bos",
+    "country": "BE"
+  },
+  {
+    "name": "Kapellen",
+    "country": "BE"
+  },
+  {
+    "name": "Kapellen",
+    "country": "BE"
+  },
+  {
+    "name": "Kampenhout",
+    "country": "BE"
+  },
+  {
+    "name": "Kampenhout",
+    "country": "BE"
+  },
+  {
+    "name": "Kalmthout",
+    "country": "BE"
+  },
+  {
+    "name": "Kalmthout",
+    "country": "BE"
+  },
+  {
+    "name": "Jurbise",
+    "country": "BE"
+  },
+  {
+    "name": "Jurbise",
+    "country": "BE"
+  },
+  {
+    "name": "Juprelle",
+    "country": "BE"
+  },
+  {
+    "name": "Juprelle",
+    "country": "BE"
+  },
+  {
+    "name": "Jumet",
+    "country": "BE"
+  },
+  {
+    "name": "Jodoigne",
+    "country": "BE"
+  },
+  {
+    "name": "Jodoigne",
+    "country": "BE"
+  },
+  {
+    "name": "Jalhay",
+    "country": "BE"
+  },
+  {
+    "name": "Jalhay",
+    "country": "BE"
+  },
+  {
+    "name": "Jabbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Jabbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Izegem",
+    "country": "BE"
+  },
+  {
+    "name": "Izegem",
+    "country": "BE"
+  },
+  {
+    "name": "Ixelles",
+    "country": "BE"
+  },
+  {
+    "name": "Ixelles",
+    "country": "BE"
+  },
+  {
+    "name": "Ittre",
+    "country": "BE"
+  },
+  {
+    "name": "Ittre",
+    "country": "BE"
+  },
+  {
+    "name": "Ingelmunster",
+    "country": "BE"
+  },
+  {
+    "name": "Ingelmunster",
+    "country": "BE"
+  },
+  {
+    "name": "Incourt",
+    "country": "BE"
+  },
+  {
+    "name": "Incourt",
+    "country": "BE"
+  },
+  {
+    "name": "Im Gr\u00fcnenthal",
+    "country": "BE"
+  },
+  {
+    "name": "IJzerhand",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Ieper",
+    "country": "BE"
+  },
+  {
+    "name": "Ieper",
+    "country": "BE"
+  },
+  {
+    "name": "Ieper",
+    "country": "BE"
+  },
+  {
+    "name": "Ichtegem",
+    "country": "BE"
+  },
+  {
+    "name": "Ichtegem",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Huy",
+    "country": "BE"
+  },
+  {
+    "name": "Huy",
+    "country": "BE"
+  },
+  {
+    "name": "Huy",
+    "country": "BE"
+  },
+  {
+    "name": "Hurlugeai",
+    "country": "BE"
+  },
+  {
+    "name": "Hulshout",
+    "country": "BE"
+  },
+  {
+    "name": "Hulshout",
+    "country": "BE"
+  },
+  {
+    "name": "Huldenberg",
+    "country": "BE"
+  },
+  {
+    "name": "Huldenberg",
+    "country": "BE"
+  },
+  {
+    "name": "Hove",
+    "country": "BE"
+  },
+  {
+    "name": "Hove",
+    "country": "BE"
+  },
+  {
+    "name": "Houyet",
+    "country": "BE"
+  },
+  {
+    "name": "Houyet",
+    "country": "BE"
+  },
+  {
+    "name": "Houthulst",
+    "country": "BE"
+  },
+  {
+    "name": "Houthulst",
+    "country": "BE"
+  },
+  {
+    "name": "Houthalen",
+    "country": "BE"
+  },
+  {
+    "name": "Houthalen-Helchteren",
+    "country": "BE"
+  },
+  {
+    "name": "Houffalize",
+    "country": "BE"
+  },
+  {
+    "name": "Houffalize",
+    "country": "BE"
+  },
+  {
+    "name": "Hotton",
+    "country": "BE"
+  },
+  {
+    "name": "Hotton",
+    "country": "BE"
+  },
+  {
+    "name": "Hoogstraten",
+    "country": "BE"
+  },
+  {
+    "name": "Hoogstraten",
+    "country": "BE"
+  },
+  {
+    "name": "Hooglede",
+    "country": "BE"
+  },
+  {
+    "name": "Hooglede",
+    "country": "BE"
+  },
+  {
+    "name": "Hoogbutsel",
+    "country": "BE"
+  },
+  {
+    "name": "Honien Platz",
+    "country": "BE"
+  },
+  {
+    "name": "Holsbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Holsbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Hollogne",
+    "country": "BE"
+  },
+  {
+    "name": "Hoeselt",
+    "country": "BE"
+  },
+  {
+    "name": "Hoeselt",
+    "country": "BE"
+  },
+  {
+    "name": "Hoeilaart",
+    "country": "BE"
+  },
+  {
+    "name": "Hoeilaart",
+    "country": "BE"
+  },
+  {
+    "name": "Hoegaarden",
+    "country": "BE"
+  },
+  {
+    "name": "Hoegaarden",
+    "country": "BE"
+  },
+  {
+    "name": "Hoboken",
+    "country": "BE"
+  },
+  {
+    "name": "Hietinne",
+    "country": "BE"
+  },
+  {
+    "name": "Heisel",
+    "country": "BE"
+  },
+  {
+    "name": "Heusden",
+    "country": "BE"
+  },
+  {
+    "name": "Heusden-Zolder",
+    "country": "BE"
+  },
+  {
+    "name": "Heulen",
+    "country": "BE"
+  },
+  {
+    "name": "Herzele",
+    "country": "BE"
+  },
+  {
+    "name": "Herzele",
+    "country": "BE"
+  },
+  {
+    "name": "Herve",
+    "country": "BE"
+  },
+  {
+    "name": "Herve",
+    "country": "BE"
+  },
+  {
+    "name": "Herstal",
+    "country": "BE"
+  },
+  {
+    "name": "Herstal",
+    "country": "BE"
+  },
+  {
+    "name": "Herselt",
+    "country": "BE"
+  },
+  {
+    "name": "Herselt",
+    "country": "BE"
+  },
+  {
+    "name": "Mouscron",
+    "country": "BE"
+  },
+  {
+    "name": "H\u00e9ron",
+    "country": "BE"
+  },
+  {
+    "name": "H\u00e9ron",
+    "country": "BE"
+  },
+  {
+    "name": "Herne",
+    "country": "BE"
+  },
+  {
+    "name": "Herne",
+    "country": "BE"
+  },
+  {
+    "name": "Herk-de-Stad",
+    "country": "BE"
+  },
+  {
+    "name": "Herk-de-Stad",
+    "country": "BE"
+  },
+  {
+    "name": "Herenthout",
+    "country": "BE"
+  },
+  {
+    "name": "Herenthout",
+    "country": "BE"
+  },
+  {
+    "name": "Herentals",
+    "country": "BE"
+  },
+  {
+    "name": "Herentals",
+    "country": "BE"
+  },
+  {
+    "name": "Herent",
+    "country": "BE"
+  },
+  {
+    "name": "Herent",
+    "country": "BE"
+  },
+  {
+    "name": "Herchies",
+    "country": "BE"
+  },
+  {
+    "name": "Herbeumont",
+    "country": "BE"
+  },
+  {
+    "name": "Herbeumont",
+    "country": "BE"
+  },
+  {
+    "name": "Hensies",
+    "country": "BE"
+  },
+  {
+    "name": "Hensies",
+    "country": "BE"
+  },
+  {
+    "name": "Hemiksem",
+    "country": "BE"
+  },
+  {
+    "name": "Hemiksem",
+    "country": "BE"
+  },
+  {
+    "name": "Helchteren",
+    "country": "BE"
+  },
+  {
+    "name": "Heist-op-den-Berg",
+    "country": "BE"
+  },
+  {
+    "name": "Heist-op-den-Berg",
+    "country": "BE"
+  },
+  {
+    "name": "Heist",
+    "country": "BE"
+  },
+  {
+    "name": "Heid de Spa",
+    "country": "BE"
+  },
+  {
+    "name": "Heers",
+    "country": "BE"
+  },
+  {
+    "name": "Heers",
+    "country": "BE"
+  },
+  {
+    "name": "Heer",
+    "country": "BE"
+  },
+  {
+    "name": "Havelange",
+    "country": "BE"
+  },
+  {
+    "name": "Havelange",
+    "country": "BE"
+  },
+  {
+    "name": "Haureux",
+    "country": "BE"
+  },
+  {
+    "name": "Hasti\u00e8re-par-del\u00e0",
+    "country": "BE"
+  },
+  {
+    "name": "Hasti\u00e8re-Lavaux",
+    "country": "BE"
+  },
+  {
+    "name": "Hasti\u00e8re",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Hasselt",
+    "country": "BE"
+  },
+  {
+    "name": "Hasselt",
+    "country": "BE"
+  },
+  {
+    "name": "Hasselt",
+    "country": "BE"
+  },
+  {
+    "name": "Harnoncourt",
+    "country": "BE"
+  },
+  {
+    "name": "Harelbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Harelbeke",
+    "country": "BE"
+  },
+  {
+    "name": "Hannut",
+    "country": "BE"
+  },
+  {
+    "name": "Hannut",
+    "country": "BE"
+  },
+  {
+    "name": "Hamois",
+    "country": "BE"
+  },
+  {
+    "name": "Hamois",
+    "country": "BE"
+  },
+  {
+    "name": "Hamoir",
+    "country": "BE"
+  },
+  {
+    "name": "Hamoir",
+    "country": "BE"
+  },
+  {
+    "name": "Hammeveer",
+    "country": "BE"
+  },
+  {
+    "name": "Hamme",
+    "country": "BE"
+  },
+  {
+    "name": "Hamme",
+    "country": "BE"
+  },
+  {
+    "name": "Halle",
+    "country": "BE"
+  },
+  {
+    "name": "Halle",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Halle-Vilvoorde",
+    "country": "BE"
+  },
+  {
+    "name": "Halen",
+    "country": "BE"
+  },
+  {
+    "name": "Halen",
+    "country": "BE"
+  },
+  {
+    "name": "Province du Hainaut",
+    "country": "BE"
+  },
+  {
+    "name": "Hacboister",
+    "country": "BE"
+  },
+  {
+    "name": "Habay-la-Vieille",
+    "country": "BE"
+  },
+  {
+    "name": "Habay",
+    "country": "BE"
+  },
+  {
+    "name": "Haaselbeekstraat",
+    "country": "BE"
+  },
+  {
+    "name": "Haaltert",
+    "country": "BE"
+  },
+  {
+    "name": "Haaltert",
+    "country": "BE"
+  },
+  {
+    "name": "Haacht",
+    "country": "BE"
+  },
+  {
+    "name": "Haacht",
+    "country": "BE"
+  },
+  {
+    "name": "Grobbendonk",
+    "country": "BE"
+  },
+  {
+    "name": "Grobbendonk",
+    "country": "BE"
+  },
+  {
+    "name": "Grimde",
+    "country": "BE"
+  },
+  {
+    "name": "Grimbergen",
+    "country": "BE"
+  },
+  {
+    "name": "Grimbergen",
+    "country": "BE"
+  },
+  {
+    "name": "Grez-Doiceau",
+    "country": "BE"
+  },
+  {
+    "name": "Grez-Doiceau",
+    "country": "BE"
+  },
+  {
+    "name": "Manhay",
+    "country": "BE"
+  },
+  {
+    "name": "Grand-Manil",
+    "country": "BE"
+  },
+  {
+    "name": "Grande Fonderie",
+    "country": "BE"
+  },
+  {
+    "name": "Waremme",
+    "country": "BE"
+  },
+  {
+    "name": "Gouvy",
+    "country": "BE"
+  },
+  {
+    "name": "Goutroux",
+    "country": "BE"
+  },
+  {
+    "name": "Gooik",
+    "country": "BE"
+  },
+  {
+    "name": "Gooik",
+    "country": "BE"
+  },
+  {
+    "name": "Goegnies-Chauss\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "Godinne",
+    "country": "BE"
+  },
+  {
+    "name": "Goberwelz",
+    "country": "BE"
+  },
+  {
+    "name": "Gobard",
+    "country": "BE"
+  },
+  {
+    "name": "Glabbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Glabbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Gistel",
+    "country": "BE"
+  },
+  {
+    "name": "Gistel",
+    "country": "BE"
+  },
+  {
+    "name": "Gingelom",
+    "country": "BE"
+  },
+  {
+    "name": "Gingelom",
+    "country": "BE"
+  },
+  {
+    "name": "Gesves",
+    "country": "BE"
+  },
+  {
+    "name": "Gesves",
+    "country": "BE"
+  },
+  {
+    "name": "Gerpinnes",
+    "country": "BE"
+  },
+  {
+    "name": "Gerpinnes",
+    "country": "BE"
+  },
+  {
+    "name": "Gerlimpont",
+    "country": "BE"
+  },
+  {
+    "name": "Geraardsbergen",
+    "country": "BE"
+  },
+  {
+    "name": "Geraardsbergen",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Gent",
+    "country": "BE"
+  },
+  {
+    "name": "Gent",
+    "country": "BE"
+  },
+  {
+    "name": "Gent",
+    "country": "BE"
+  },
+  {
+    "name": "Gennevaux",
+    "country": "BE"
+  },
+  {
+    "name": "Genk",
+    "country": "BE"
+  },
+  {
+    "name": "Genk",
+    "country": "BE"
+  },
+  {
+    "name": "Genistreux",
+    "country": "BE"
+  },
+  {
+    "name": "Genenbemd",
+    "country": "BE"
+  },
+  {
+    "name": "Genappe",
+    "country": "BE"
+  },
+  {
+    "name": "Genappe",
+    "country": "BE"
+  },
+  {
+    "name": "Plombi\u00e8res",
+    "country": "BE"
+  },
+  {
+    "name": "Gembloux",
+    "country": "BE"
+  },
+  {
+    "name": "Gembloux",
+    "country": "BE"
+  },
+  {
+    "name": "Geetbets",
+    "country": "BE"
+  },
+  {
+    "name": "Geetbets",
+    "country": "BE"
+  },
+  {
+    "name": "Geer",
+    "country": "BE"
+  },
+  {
+    "name": "Geer",
+    "country": "BE"
+  },
+  {
+    "name": "Geelberg",
+    "country": "BE"
+  },
+  {
+    "name": "Geel",
+    "country": "BE"
+  },
+  {
+    "name": "Geel",
+    "country": "BE"
+  },
+  {
+    "name": "Gedinne",
+    "country": "BE"
+  },
+  {
+    "name": "Gedinne",
+    "country": "BE"
+  },
+  {
+    "name": "Gavere",
+    "country": "BE"
+  },
+  {
+    "name": "Gavere",
+    "country": "BE"
+  },
+  {
+    "name": "Galmaarden",
+    "country": "BE"
+  },
+  {
+    "name": "Galmaarden",
+    "country": "BE"
+  },
+  {
+    "name": "Galgendries",
+    "country": "BE"
+  },
+  {
+    "name": "Froidmanteau",
+    "country": "BE"
+  },
+  {
+    "name": "Froidchapelle",
+    "country": "BE"
+  },
+  {
+    "name": "Froidchapelle",
+    "country": "BE"
+  },
+  {
+    "name": "Frenoit",
+    "country": "BE"
+  },
+  {
+    "name": "Fr\u00eanes",
+    "country": "BE"
+  },
+  {
+    "name": "Frasnes-lez-Buissenal",
+    "country": "BE"
+  },
+  {
+    "name": "Frasnes-lez-Anvaing",
+    "country": "BE"
+  },
+  {
+    "name": "Frameries",
+    "country": "BE"
+  },
+  {
+    "name": "Frameries",
+    "country": "BE"
+  },
+  {
+    "name": "Trooz",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Pieters-Voeren",
+    "country": "BE"
+  },
+  {
+    "name": "Fosses-la-Ville",
+    "country": "BE"
+  },
+  {
+    "name": "Fosses-la-Ville",
+    "country": "BE"
+  },
+  {
+    "name": "Forge d'en Haut",
+    "country": "BE"
+  },
+  {
+    "name": "Fontery",
+    "country": "BE"
+  },
+  {
+    "name": "Fonds de Lavois",
+    "country": "BE"
+  },
+  {
+    "name": "Fond Saint-Roch",
+    "country": "BE"
+  },
+  {
+    "name": "Fond de Malonne",
+    "country": "BE"
+  },
+  {
+    "name": "Florenville",
+    "country": "BE"
+  },
+  {
+    "name": "Florenville",
+    "country": "BE"
+  },
+  {
+    "name": "Florennes",
+    "country": "BE"
+  },
+  {
+    "name": "Florennes",
+    "country": "BE"
+  },
+  {
+    "name": "Floreffe",
+    "country": "BE"
+  },
+  {
+    "name": "Floreffe",
+    "country": "BE"
+  },
+  {
+    "name": "Flobecq",
+    "country": "BE"
+  },
+  {
+    "name": "Flobecq",
+    "country": "BE"
+  },
+  {
+    "name": "Fleurus",
+    "country": "BE"
+  },
+  {
+    "name": "Fleurus",
+    "country": "BE"
+  },
+  {
+    "name": "Fl\u00e9ron",
+    "country": "BE"
+  },
+  {
+    "name": "Fl\u00e9ron",
+    "country": "BE"
+  },
+  {
+    "name": "Fl\u00e9malle-Haute",
+    "country": "BE"
+  },
+  {
+    "name": "Fl\u00e9malle",
+    "country": "BE"
+  },
+  {
+    "name": "Flawinne",
+    "country": "BE"
+  },
+  {
+    "name": "Fexhe-le-Haut-Clocher",
+    "country": "BE"
+  },
+  {
+    "name": "Fexhe-le-Haut-Clocher",
+    "country": "BE"
+  },
+  {
+    "name": "Festingue",
+    "country": "BE"
+  },
+  {
+    "name": "Ferri\u00e8res",
+    "country": "BE"
+  },
+  {
+    "name": "Ferri\u00e8res",
+    "country": "BE"
+  },
+  {
+    "name": "Fauvillers",
+    "country": "BE"
+  },
+  {
+    "name": "Fauvillers",
+    "country": "BE"
+  },
+  {
+    "name": "Faubourg de Bruxelles",
+    "country": "BE"
+  },
+  {
+    "name": "Farciennes",
+    "country": "BE"
+  },
+  {
+    "name": "Farciennes",
+    "country": "BE"
+  },
+  {
+    "name": "Famenne",
+    "country": "BE"
+  },
+  {
+    "name": "Faimes",
+    "country": "BE"
+  },
+  {
+    "name": "Evergem",
+    "country": "BE"
+  },
+  {
+    "name": "Evergem",
+    "country": "BE"
+  },
+  {
+    "name": "Evere",
+    "country": "BE"
+  },
+  {
+    "name": "Evere",
+    "country": "BE"
+  },
+  {
+    "name": "\u00c9vegn\u00e9e-Tign\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "Eupen",
+    "country": "BE"
+  },
+  {
+    "name": "Eupen",
+    "country": "BE"
+  },
+  {
+    "name": "Etterbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Etterbeek",
+    "country": "BE"
+  },
+  {
+    "name": "\u00c9talle",
+    "country": "BE"
+  },
+  {
+    "name": "\u00c9talle",
+    "country": "BE"
+  },
+  {
+    "name": "Estinnes-au-Val",
+    "country": "BE"
+  },
+  {
+    "name": "Estinnes",
+    "country": "BE"
+  },
+  {
+    "name": "Estaimpuis",
+    "country": "BE"
+  },
+  {
+    "name": "Estaimpuis",
+    "country": "BE"
+  },
+  {
+    "name": "Essen",
+    "country": "BE"
+  },
+  {
+    "name": "Essen",
+    "country": "BE"
+  },
+  {
+    "name": "Esneux",
+    "country": "BE"
+  },
+  {
+    "name": "Esneux",
+    "country": "BE"
+  },
+  {
+    "name": "Es",
+    "country": "BE"
+  },
+  {
+    "name": "Erquelinnes",
+    "country": "BE"
+  },
+  {
+    "name": "Erquelinnes",
+    "country": "BE"
+  },
+  {
+    "name": "Erpent",
+    "country": "BE"
+  },
+  {
+    "name": "\u00c9rez\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "\u00c9rez\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "En Sterre",
+    "country": "BE"
+  },
+  {
+    "name": "Ensival",
+    "country": "BE"
+  },
+  {
+    "name": "Engis",
+    "country": "BE"
+  },
+  {
+    "name": "Enghien",
+    "country": "BE"
+  },
+  {
+    "name": "Enghien",
+    "country": "BE"
+  },
+  {
+    "name": "Elverdinge",
+    "country": "BE"
+  },
+  {
+    "name": "Elvaux",
+    "country": "BE"
+  },
+  {
+    "name": "Ellezelles",
+    "country": "BE"
+  },
+  {
+    "name": "Ellezelles",
+    "country": "BE"
+  },
+  {
+    "name": "Ekstergoor",
+    "country": "BE"
+  },
+  {
+    "name": "Ekeren",
+    "country": "BE"
+  },
+  {
+    "name": "Eindhoven",
+    "country": "BE"
+  },
+  {
+    "name": "\u00c9ghez\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "\u00c9ghez\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Eeklo",
+    "country": "BE"
+  },
+  {
+    "name": "Eeklo",
+    "country": "BE"
+  },
+  {
+    "name": "Eeklo",
+    "country": "BE"
+  },
+  {
+    "name": "Edegem",
+    "country": "BE"
+  },
+  {
+    "name": "Edegem",
+    "country": "BE"
+  },
+  {
+    "name": "\u00c9caussinnes-d'Enghien",
+    "country": "BE"
+  },
+  {
+    "name": "Durbuy",
+    "country": "BE"
+  },
+  {
+    "name": "Durbuy",
+    "country": "BE"
+  },
+  {
+    "name": "Duffel",
+    "country": "BE"
+  },
+  {
+    "name": "Duffel",
+    "country": "BE"
+  },
+  {
+    "name": "Drogenbos",
+    "country": "BE"
+  },
+  {
+    "name": "Drogenbos",
+    "country": "BE"
+  },
+  {
+    "name": "Driesch",
+    "country": "BE"
+  },
+  {
+    "name": "Dour",
+    "country": "BE"
+  },
+  {
+    "name": "Donceel",
+    "country": "BE"
+  },
+  {
+    "name": "Donceel",
+    "country": "BE"
+  },
+  {
+    "name": "Dolhain",
+    "country": "BE"
+  },
+  {
+    "name": "Doische",
+    "country": "BE"
+  },
+  {
+    "name": "Doische",
+    "country": "BE"
+  },
+  {
+    "name": "Dison",
+    "country": "BE"
+  },
+  {
+    "name": "Dison",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Dinant",
+    "country": "BE"
+  },
+  {
+    "name": "Dinant",
+    "country": "BE"
+  },
+  {
+    "name": "Dinant",
+    "country": "BE"
+  },
+  {
+    "name": "Dilbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Dilbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Diksmuidsepoort",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Diksmuide",
+    "country": "BE"
+  },
+  {
+    "name": "Diksmuide",
+    "country": "BE"
+  },
+  {
+    "name": "Diksmuide",
+    "country": "BE"
+  },
+  {
+    "name": "Diest",
+    "country": "BE"
+  },
+  {
+    "name": "Diest",
+    "country": "BE"
+  },
+  {
+    "name": "Diepenbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Diepenbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Diarbois",
+    "country": "BE"
+  },
+  {
+    "name": "Destelbergen",
+    "country": "BE"
+  },
+  {
+    "name": "Destelbergen",
+    "country": "BE"
+  },
+  {
+    "name": "Dessel",
+    "country": "BE"
+  },
+  {
+    "name": "Dessel",
+    "country": "BE"
+  },
+  {
+    "name": "Derri\u00e8re Spai",
+    "country": "BE"
+  },
+  {
+    "name": "De Pinte",
+    "country": "BE"
+  },
+  {
+    "name": "De Pinte",
+    "country": "BE"
+  },
+  {
+    "name": "De Panne",
+    "country": "BE"
+  },
+  {
+    "name": "De Panne",
+    "country": "BE"
+  },
+  {
+    "name": "Dentergem",
+    "country": "BE"
+  },
+  {
+    "name": "Dentergem",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Dendermonde",
+    "country": "BE"
+  },
+  {
+    "name": "Dendermonde",
+    "country": "BE"
+  },
+  {
+    "name": "Dendermonde",
+    "country": "BE"
+  },
+  {
+    "name": "Denderleeuw",
+    "country": "BE"
+  },
+  {
+    "name": "Denderleeuw",
+    "country": "BE"
+  },
+  {
+    "name": "De Meren",
+    "country": "BE"
+  },
+  {
+    "name": "Deinze",
+    "country": "BE"
+  },
+  {
+    "name": "Deinze",
+    "country": "BE"
+  },
+  {
+    "name": "Deidenberg",
+    "country": "BE"
+  },
+  {
+    "name": "De Hulst",
+    "country": "BE"
+  },
+  {
+    "name": "De Haan",
+    "country": "BE"
+  },
+  {
+    "name": "Deerlijk",
+    "country": "BE"
+  },
+  {
+    "name": "Deerlijk",
+    "country": "BE"
+  },
+  {
+    "name": "Daverdisse",
+    "country": "BE"
+  },
+  {
+    "name": "Daverdisse",
+    "country": "BE"
+  },
+  {
+    "name": "Daublain",
+    "country": "BE"
+  },
+  {
+    "name": "Dassenaarde",
+    "country": "BE"
+  },
+  {
+    "name": "Damr\u00e9",
+    "country": "BE"
+  },
+  {
+    "name": "Dampremy",
+    "country": "BE"
+  },
+  {
+    "name": "Damme",
+    "country": "BE"
+  },
+  {
+    "name": "Damme",
+    "country": "BE"
+  },
+  {
+    "name": "Dalhem",
+    "country": "BE"
+  },
+  {
+    "name": "Dalhem",
+    "country": "BE"
+  },
+  {
+    "name": "Cureghem",
+    "country": "BE"
+  },
+  {
+    "name": "Croisette",
+    "country": "BE"
+  },
+  {
+    "name": "Crisn\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "Crisn\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "Couvin",
+    "country": "BE"
+  },
+  {
+    "name": "Couvin",
+    "country": "BE"
+  },
+  {
+    "name": "Coutelle",
+    "country": "BE"
+  },
+  {
+    "name": "Court-Saint-\u00c9tienne",
+    "country": "BE"
+  },
+  {
+    "name": "Court-Saint-\u00c9tienne",
+    "country": "BE"
+  },
+  {
+    "name": "Courcelles",
+    "country": "BE"
+  },
+  {
+    "name": "Courcelles",
+    "country": "BE"
+  },
+  {
+    "name": "Comblain-au-Pont",
+    "country": "BE"
+  },
+  {
+    "name": "Comblain-au-Pont",
+    "country": "BE"
+  },
+  {
+    "name": "Colfontaine",
+    "country": "BE"
+  },
+  {
+    "name": "Cointe",
+    "country": "BE"
+  },
+  {
+    "name": "Clavier",
+    "country": "BE"
+  },
+  {
+    "name": "Clavier",
+    "country": "BE"
+  },
+  {
+    "name": "Ciney",
+    "country": "BE"
+  },
+  {
+    "name": "Ciney",
+    "country": "BE"
+  },
+  {
+    "name": "Chiny",
+    "country": "BE"
+  },
+  {
+    "name": "Chiny",
+    "country": "BE"
+  },
+  {
+    "name": "Chimay",
+    "country": "BE"
+  },
+  {
+    "name": "Chimay",
+    "country": "BE"
+  },
+  {
+    "name": "Chi\u00e8vres",
+    "country": "BE"
+  },
+  {
+    "name": "Chi\u00e8vres",
+    "country": "BE"
+  },
+  {
+    "name": "Chertal",
+    "country": "BE"
+  },
+  {
+    "name": "Chenois",
+    "country": "BE"
+  },
+  {
+    "name": "Ch\u00ean\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "Chaumont-Gistoux",
+    "country": "BE"
+  },
+  {
+    "name": "Chaumont-Gistoux",
+    "country": "BE"
+  },
+  {
+    "name": "Chaudfontaine",
+    "country": "BE"
+  },
+  {
+    "name": "Chaudfontaine",
+    "country": "BE"
+  },
+  {
+    "name": "Ch\u00e2telineau",
+    "country": "BE"
+  },
+  {
+    "name": "Ch\u00e2telet",
+    "country": "BE"
+  },
+  {
+    "name": "Ch\u00e2telet",
+    "country": "BE"
+  },
+  {
+    "name": "Chastre-Villeroux-Blanmont",
+    "country": "BE"
+  },
+  {
+    "name": "Chastre",
+    "country": "BE"
+  },
+  {
+    "name": "Chasse Royale",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Charleroi",
+    "country": "BE"
+  },
+  {
+    "name": "Charleroi",
+    "country": "BE"
+  },
+  {
+    "name": "Charleroi",
+    "country": "BE"
+  },
+  {
+    "name": "Chapelle-lez-Herlaimont",
+    "country": "BE"
+  },
+  {
+    "name": "Chapelle-lez-Herlaimont",
+    "country": "BE"
+  },
+  {
+    "name": "Champ Laurent",
+    "country": "BE"
+  },
+  {
+    "name": "Champ de Mai",
+    "country": "BE"
+  },
+  {
+    "name": "Champ Blandais",
+    "country": "BE"
+  },
+  {
+    "name": "Chaineux",
+    "country": "BE"
+  },
+  {
+    "name": "Cerfontaine",
+    "country": "BE"
+  },
+  {
+    "name": "Cerfontaine",
+    "country": "BE"
+  },
+  {
+    "name": "Celles",
+    "country": "BE"
+  },
+  {
+    "name": "Celles",
+    "country": "BE"
+  },
+  {
+    "name": "Faimes",
+    "country": "BE"
+  },
+  {
+    "name": "Cawette",
+    "country": "BE"
+  },
+  {
+    "name": "Cacqhus",
+    "country": "BE"
+  },
+  {
+    "name": "Butgenbach",
+    "country": "BE"
+  },
+  {
+    "name": "Butgenbach",
+    "country": "BE"
+  },
+  {
+    "name": "Burdinne",
+    "country": "BE"
+  },
+  {
+    "name": "Burdinne",
+    "country": "BE"
+  },
+  {
+    "name": "Bullange",
+    "country": "BE"
+  },
+  {
+    "name": "Bullange",
+    "country": "BE"
+  },
+  {
+    "name": "Buggenhout",
+    "country": "BE"
+  },
+  {
+    "name": "Buggenhout",
+    "country": "BE"
+  },
+  {
+    "name": "Bucquoi",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Brussel-Hoofdstad",
+    "country": "BE"
+  },
+  {
+    "name": "Brussels",
+    "country": "BE"
+  },
+  {
+    "name": "Bruxelles-Capitale",
+    "country": "BE"
+  },
+  {
+    "name": "Brunehault",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Brugge",
+    "country": "BE"
+  },
+  {
+    "name": "Brugge",
+    "country": "BE"
+  },
+  {
+    "name": "Brugge",
+    "country": "BE"
+  },
+  {
+    "name": "Brugelette",
+    "country": "BE"
+  },
+  {
+    "name": "Brombais",
+    "country": "BE"
+  },
+  {
+    "name": "Broek",
+    "country": "BE"
+  },
+  {
+    "name": "Bree",
+    "country": "BE"
+  },
+  {
+    "name": "Bree",
+    "country": "BE"
+  },
+  {
+    "name": "Bredene",
+    "country": "BE"
+  },
+  {
+    "name": "Bredene",
+    "country": "BE"
+  },
+  {
+    "name": "Brecht",
+    "country": "BE"
+  },
+  {
+    "name": "Brecht",
+    "country": "BE"
+  },
+  {
+    "name": "Brasschaat",
+    "country": "BE"
+  },
+  {
+    "name": "Brasschaat",
+    "country": "BE"
+  },
+  {
+    "name": "Braives",
+    "country": "BE"
+  },
+  {
+    "name": "Braives",
+    "country": "BE"
+  },
+  {
+    "name": "Braine-le-Comte",
+    "country": "BE"
+  },
+  {
+    "name": "Braine-le-Comte",
+    "country": "BE"
+  },
+  {
+    "name": "Braine-le-Ch\u00e2teau",
+    "country": "BE"
+  },
+  {
+    "name": "Braine-le-Ch\u00e2teau",
+    "country": "BE"
+  },
+  {
+    "name": "Braine-l'Alleud",
+    "country": "BE"
+  },
+  {
+    "name": "Braine-l'Alleud",
+    "country": "BE"
+  },
+  {
+    "name": "Bouvy",
+    "country": "BE"
+  },
+  {
+    "name": "Boutersem",
+    "country": "BE"
+  },
+  {
+    "name": "Boutersem",
+    "country": "BE"
+  },
+  {
+    "name": "Boussu",
+    "country": "BE"
+  },
+  {
+    "name": "Boussu",
+    "country": "BE"
+  },
+  {
+    "name": "Bouillon",
+    "country": "BE"
+  },
+  {
+    "name": "Bouillon",
+    "country": "BE"
+  },
+  {
+    "name": "Bouillenne",
+    "country": "BE"
+  },
+  {
+    "name": "Bouge",
+    "country": "BE"
+  },
+  {
+    "name": "Bossuit",
+    "country": "BE"
+  },
+  {
+    "name": "Bos",
+    "country": "BE"
+  },
+  {
+    "name": "Borsbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Borsbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Bornem",
+    "country": "BE"
+  },
+  {
+    "name": "Bornem",
+    "country": "BE"
+  },
+  {
+    "name": "Borgt Driesen",
+    "country": "BE"
+  },
+  {
+    "name": "Borgloon",
+    "country": "BE"
+  },
+  {
+    "name": "Borgloon",
+    "country": "BE"
+  },
+  {
+    "name": "Boortmeerbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Boortmeerbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Boonmerkt",
+    "country": "BE"
+  },
+  {
+    "name": "Boom",
+    "country": "BE"
+  },
+  {
+    "name": "Boom",
+    "country": "BE"
+  },
+  {
+    "name": "Bonvoisin",
+    "country": "BE"
+  },
+  {
+    "name": "Bonheiden",
+    "country": "BE"
+  },
+  {
+    "name": "Bonheiden",
+    "country": "BE"
+  },
+  {
+    "name": "Bonance",
+    "country": "BE"
+  },
+  {
+    "name": "Bosvoorde",
+    "country": "BE"
+  },
+  {
+    "name": "Bois Robert",
+    "country": "BE"
+  },
+  {
+    "name": "Bois de Nauwe",
+    "country": "BE"
+  },
+  {
+    "name": "Boffereth",
+    "country": "BE"
+  },
+  {
+    "name": "Boechout",
+    "country": "BE"
+  },
+  {
+    "name": "Boechout",
+    "country": "BE"
+  },
+  {
+    "name": "Bocholt",
+    "country": "BE"
+  },
+  {
+    "name": "Bocholt",
+    "country": "BE"
+  },
+  {
+    "name": "Bloed Putteken",
+    "country": "BE"
+  },
+  {
+    "name": "Blier",
+    "country": "BE"
+  },
+  {
+    "name": "Bl\u00e9gny",
+    "country": "BE"
+  },
+  {
+    "name": "Blankenberge",
+    "country": "BE"
+  },
+  {
+    "name": "Blankenberge",
+    "country": "BE"
+  },
+  {
+    "name": "Binche",
+    "country": "BE"
+  },
+  {
+    "name": "Binche",
+    "country": "BE"
+  },
+  {
+    "name": "Bilzen",
+    "country": "BE"
+  },
+  {
+    "name": "Bilzen",
+    "country": "BE"
+  },
+  {
+    "name": "Bi\u00e8vre",
+    "country": "BE"
+  },
+  {
+    "name": "Bi\u00e8vre",
+    "country": "BE"
+  },
+  {
+    "name": "Biest",
+    "country": "BE"
+  },
+  {
+    "name": "Bierbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Bierbeek",
+    "country": "BE"
+  },
+  {
+    "name": "Beyne-Heusay",
+    "country": "BE"
+  },
+  {
+    "name": "Beyne-Heusay",
+    "country": "BE"
+  },
+  {
+    "name": "Beveren",
+    "country": "BE"
+  },
+  {
+    "name": "Beveren",
+    "country": "BE"
+  },
+  {
+    "name": "Bever",
+    "country": "BE"
+  },
+  {
+    "name": "Bertrix",
+    "country": "BE"
+  },
+  {
+    "name": "Bertrix",
+    "country": "BE"
+  },
+  {
+    "name": "Bertogne",
+    "country": "BE"
+  },
+  {
+    "name": "Bertogne",
+    "country": "BE"
+  },
+  {
+    "name": "Bertem",
+    "country": "BE"
+  },
+  {
+    "name": "Bertem",
+    "country": "BE"
+  },
+  {
+    "name": "Bernissart",
+    "country": "BE"
+  },
+  {
+    "name": "Bernissart",
+    "country": "BE"
+  },
+  {
+    "name": "Berloz",
+    "country": "BE"
+  },
+  {
+    "name": "Berloz",
+    "country": "BE"
+  },
+  {
+    "name": "Berlare",
+    "country": "BE"
+  },
+  {
+    "name": "Berlare",
+    "country": "BE"
+  },
+  {
+    "name": "Berlaar",
+    "country": "BE"
+  },
+  {
+    "name": "Berlaar",
+    "country": "BE"
+  },
+  {
+    "name": "Beringen",
+    "country": "BE"
+  },
+  {
+    "name": "Beringen",
+    "country": "BE"
+  },
+  {
+    "name": "Berendrecht",
+    "country": "BE"
+  },
+  {
+    "name": "Berchem-Sainte-Agathe",
+    "country": "BE"
+  },
+  {
+    "name": "Sint-Agatha-Berchem",
+    "country": "BE"
+  },
+  {
+    "name": "Berchem",
+    "country": "BE"
+  },
+  {
+    "name": "Berceau",
+    "country": "BE"
+  },
+  {
+    "name": "Bemel",
+    "country": "BE"
+  },
+  {
+    "name": "Beloeil",
+    "country": "BE"
+  },
+  {
+    "name": "Beloeil",
+    "country": "BE"
+  },
+  {
+    "name": "Belle Fontaine",
+    "country": "BE"
+  },
+  {
+    "name": "Belgrade",
+    "country": "BE"
+  },
+  {
+    "name": "Kingdom of Belgium",
+    "country": "BE"
+  },
+  {
+    "name": "Bekkevoort",
+    "country": "BE"
+  },
+  {
+    "name": "Bekkevoort",
+    "country": "BE"
+  },
+  {
+    "name": "Begijnhof 's Wijk",
+    "country": "BE"
+  },
+  {
+    "name": "Begijnendijk",
+    "country": "BE"
+  },
+  {
+    "name": "Begijnendijk",
+    "country": "BE"
+  },
+  {
+    "name": "Beez",
+    "country": "BE"
+  },
+  {
+    "name": "Beersel",
+    "country": "BE"
+  },
+  {
+    "name": "Beersel",
+    "country": "BE"
+  },
+  {
+    "name": "Beerse",
+    "country": "BE"
+  },
+  {
+    "name": "Beerse",
+    "country": "BE"
+  },
+  {
+    "name": "Beernem",
+    "country": "BE"
+  },
+  {
+    "name": "Beernem",
+    "country": "BE"
+  },
+  {
+    "name": "Beekhoek",
+    "country": "BE"
+  },
+  {
+    "name": "Beauvechain",
+    "country": "BE"
+  },
+  {
+    "name": "Beauvechain",
+    "country": "BE"
+  },
+  {
+    "name": "Beauraing",
+    "country": "BE"
+  },
+  {
+    "name": "Beauraing",
+    "country": "BE"
+  },
+  {
+    "name": "Beaumont",
+    "country": "BE"
+  },
+  {
+    "name": "Beaumont",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement de Bastogne",
+    "country": "BE"
+  },
+  {
+    "name": "Bastogne",
+    "country": "BE"
+  },
+  {
+    "name": "Bastogne",
+    "country": "BE"
+  },
+  {
+    "name": "Bassenge",
+    "country": "BE"
+  },
+  {
+    "name": "Bassenge",
+    "country": "BE"
+  },
+  {
+    "name": "Basse Lasne",
+    "country": "BE"
+  },
+  {
+    "name": "Basse Awirs",
+    "country": "BE"
+  },
+  {
+    "name": "Bas Bois",
+    "country": "BE"
+  },
+  {
+    "name": "Bl\u00e9gny",
+    "country": "BE"
+  },
+  {
+    "name": "Banet Sarts",
+    "country": "BE"
+  },
+  {
+    "name": "Balen",
+    "country": "BE"
+  },
+  {
+    "name": "Balen",
+    "country": "BE"
+  },
+  {
+    "name": "Baelen",
+    "country": "BE"
+  },
+  {
+    "name": "Baelen",
+    "country": "BE"
+  },
+  {
+    "name": "Baegn\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "Baconfoy",
+    "country": "BE"
+  },
+  {
+    "name": "Baarleveld",
+    "country": "BE"
+  },
+  {
+    "name": "Baarle-Hertog",
+    "country": "BE"
+  },
+  {
+    "name": "Baarle-Hertog",
+    "country": "BE"
+  },
+  {
+    "name": "Aywaille",
+    "country": "BE"
+  },
+  {
+    "name": "Aywaille",
+    "country": "BE"
+  },
+  {
+    "name": "Awans",
+    "country": "BE"
+  },
+  {
+    "name": "Awans",
+    "country": "BE"
+  },
+  {
+    "name": "Avelgem",
+    "country": "BE"
+  },
+  {
+    "name": "Avelgem",
+    "country": "BE"
+  },
+  {
+    "name": "Sambreville",
+    "country": "BE"
+  },
+  {
+    "name": "Au Pont",
+    "country": "BE"
+  },
+  {
+    "name": "Auderghem",
+    "country": "BE"
+  },
+  {
+    "name": "Oudergem",
+    "country": "BE"
+  },
+  {
+    "name": "Aubel",
+    "country": "BE"
+  },
+  {
+    "name": "Aubel",
+    "country": "BE"
+  },
+  {
+    "name": "Aubange",
+    "country": "BE"
+  },
+  {
+    "name": "Aubange",
+    "country": "BE"
+  },
+  {
+    "name": "Attert",
+    "country": "BE"
+  },
+  {
+    "name": "Attert",
+    "country": "BE"
+  },
+  {
+    "name": "Atrin",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement d'Ath",
+    "country": "BE"
+  },
+  {
+    "name": "Ath",
+    "country": "BE"
+  },
+  {
+    "name": "Ath",
+    "country": "BE"
+  },
+  {
+    "name": "Assesse",
+    "country": "BE"
+  },
+  {
+    "name": "Assesse",
+    "country": "BE"
+  },
+  {
+    "name": "Assenede",
+    "country": "BE"
+  },
+  {
+    "name": "Assenede",
+    "country": "BE"
+  },
+  {
+    "name": "Asse",
+    "country": "BE"
+  },
+  {
+    "name": "Asse",
+    "country": "BE"
+  },
+  {
+    "name": "As",
+    "country": "BE"
+  },
+  {
+    "name": "As",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement d'Arlon",
+    "country": "BE"
+  },
+  {
+    "name": "Arlon",
+    "country": "BE"
+  },
+  {
+    "name": "Arlon",
+    "country": "BE"
+  },
+  {
+    "name": "Arendonk",
+    "country": "BE"
+  },
+  {
+    "name": "Arendonk",
+    "country": "BE"
+  },
+  {
+    "name": "Ardooie",
+    "country": "BE"
+  },
+  {
+    "name": "Ardooie",
+    "country": "BE"
+  },
+  {
+    "name": "Anzegem",
+    "country": "BE"
+  },
+  {
+    "name": "Anzegem",
+    "country": "BE"
+  },
+  {
+    "name": "Provincie Antwerpen",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Antwerpen",
+    "country": "BE"
+  },
+  {
+    "name": "Antwerpen",
+    "country": "BE"
+  },
+  {
+    "name": "Antwerpen",
+    "country": "BE"
+  },
+  {
+    "name": "Antoing",
+    "country": "BE"
+  },
+  {
+    "name": "Antoing",
+    "country": "BE"
+  },
+  {
+    "name": "Anthisnes",
+    "country": "BE"
+  },
+  {
+    "name": "Anthisnes",
+    "country": "BE"
+  },
+  {
+    "name": "Ans",
+    "country": "BE"
+  },
+  {
+    "name": "Ans",
+    "country": "BE"
+  },
+  {
+    "name": "Anh\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "Anh\u00e9e",
+    "country": "BE"
+  },
+  {
+    "name": "Angleur",
+    "country": "BE"
+  },
+  {
+    "name": "Andoy",
+    "country": "BE"
+  },
+  {
+    "name": "Anderlues",
+    "country": "BE"
+  },
+  {
+    "name": "Anderlues",
+    "country": "BE"
+  },
+  {
+    "name": "Andenne",
+    "country": "BE"
+  },
+  {
+    "name": "Andenne",
+    "country": "BE"
+  },
+  {
+    "name": "Ambl\u00e8ve",
+    "country": "BE"
+  },
+  {
+    "name": "Ambl\u00e8ve",
+    "country": "BE"
+  },
+  {
+    "name": "Sainte-Ode",
+    "country": "BE"
+  },
+  {
+    "name": "Amay",
+    "country": "BE"
+  },
+  {
+    "name": "Amay",
+    "country": "BE"
+  },
+  {
+    "name": "Alveringem",
+    "country": "BE"
+  },
+  {
+    "name": "Alveringem",
+    "country": "BE"
+  },
+  {
+    "name": "Alken",
+    "country": "BE"
+  },
+  {
+    "name": "Alken",
+    "country": "BE"
+  },
+  {
+    "name": "Aix-sur-Cloix",
+    "country": "BE"
+  },
+  {
+    "name": "Ais\u00e9mont",
+    "country": "BE"
+  },
+  {
+    "name": "Aiseau",
+    "country": "BE"
+  },
+  {
+    "name": "Aiseau-Presles",
+    "country": "BE"
+  },
+  {
+    "name": "Aartselaar",
+    "country": "BE"
+  },
+  {
+    "name": "Aartselaar",
+    "country": "BE"
+  },
+  {
+    "name": "Aarschot",
+    "country": "BE"
+  },
+  {
+    "name": "Aarschot",
+    "country": "BE"
+  },
+  {
+    "name": "Aalter",
+    "country": "BE"
+  },
+  {
+    "name": "Aalter",
+    "country": "BE"
+  },
+  {
+    "name": "Arrondissement Aalst",
+    "country": "BE"
+  },
+  {
+    "name": "Aalst",
+    "country": "BE"
+  },
+  {
+    "name": "Aalst",
+    "country": "BE"
+  },
+  {
+    "name": "Provincie Vlaams-Brabant",
+    "country": "BE"
+  },
+  {
+    "name": "Province du Brabant Wallon",
+    "country": "BE"
+  },
+  {
+    "name": "Wallonia",
+    "country": "BE"
+  },
+  {
+    "name": "Flanders",
+    "country": "BE"
+  },
+  {
+    "name": "City of Brussels",
+    "country": "BE"
+  },
+  {
+    "name": "Frasnes-lez-Anvaing",
+    "country": "BE"
+  },
+  {
+    "name": "Bruxelles-Capitale",
+    "country": "BE"
+  },
+  {
+    "name": "Rivreulle",
+    "country": "BE"
+  },
+  {
+    "name": "Rivage",
+    "country": "BE"
+  },
+  {
+    "name": "Outre l'Eau",
+    "country": "BE"
+  },
+  {
+    "name": "La Courbette",
+    "country": "BE"
+  },
+  {
+    "name": "Grands Pr\u00e9s",
+    "country": "BE"
+  },
+  {
+    "name": "Cr\u00e8vecoeur",
+    "country": "BE"
+  },
+  {
+    "name": "Courtil Gras",
+    "country": "BE"
+  },
+  {
+    "name": "Ottignies-Louvain-la-Neuve",
+    "country": "BE"
+  },
+  {
+    "name": "Chastre",
+    "country": "BE"
+  },
+  {
+    "name": "Walhain",
+    "country": "BE"
+  },
+  {
+    "name": "Lennik",
+    "country": "BE"
+  },
+  {
+    "name": "Laakdal",
+    "country": "BE"
+  },
+  {
+    "name": "Scherpenheuvel-Zichem",
+    "country": "BE"
+  },
+  {
+    "name": "Fl\u00e9malle",
+    "country": "BE"
+  },
+  {
+    "name": "Thimister-Clermont",
+    "country": "BE"
+  },
+  {
+    "name": "Habay",
+    "country": "BE"
+  }
+]

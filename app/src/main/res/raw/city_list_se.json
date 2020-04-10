@@ -1,0 +1,4214 @@
+[
+  {
+    "name": "Viken",
+    "country": "SE"
+  },
+  {
+    "name": "Ursviken",
+    "country": "SE"
+  },
+  {
+    "name": "Ume\u00e5 Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Ume\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "Tuolluvaara",
+    "country": "SE"
+  },
+  {
+    "name": "T\u00f6re",
+    "country": "SE"
+  },
+  {
+    "name": "T\u00e4fte\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "Storvik",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6dra Sunderbyn",
+    "country": "SE"
+  },
+  {
+    "name": "Skelleftehamn",
+    "country": "SE"
+  },
+  {
+    "name": "Skellefte\u00e5 Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Skellefte\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "R\u00e5ne\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00e4var",
+    "country": "SE"
+  },
+  {
+    "name": "Rosvik",
+    "country": "SE"
+  },
+  {
+    "name": "Rolfs",
+    "country": "SE"
+  },
+  {
+    "name": "Rokn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Robertsfors",
+    "country": "SE"
+  },
+  {
+    "name": "R\u00f6b\u00e4ck",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00e4vast",
+    "country": "SE"
+  },
+  {
+    "name": "Pite\u00e5 Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Pite\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "Pajala Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Pajala",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6vertorne\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6verlule\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6verkalix",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6n",
+    "country": "SE"
+  },
+  {
+    "name": "Obbola",
+    "country": "SE"
+  },
+  {
+    "name": "Norrfj\u00e4rden",
+    "country": "SE"
+  },
+  {
+    "name": "Norrbotten",
+    "country": "SE"
+  },
+  {
+    "name": "Matarengi",
+    "country": "SE"
+  },
+  {
+    "name": "Malmberget",
+    "country": "SE"
+  },
+  {
+    "name": "Lule\u00e5 kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Lule\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "L\u00f6v\u00f6n",
+    "country": "SE"
+  },
+  {
+    "name": "L\u00e5ngsele",
+    "country": "SE"
+  },
+  {
+    "name": "Koskullskulle",
+    "country": "SE"
+  },
+  {
+    "name": "Kiruna",
+    "country": "SE"
+  },
+  {
+    "name": "Karesuando",
+    "country": "SE"
+  },
+  {
+    "name": "Kalix Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Kalix",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00e5ge",
+    "country": "SE"
+  },
+  {
+    "name": "Hortlax",
+    "country": "SE"
+  },
+  {
+    "name": "Holmsund",
+    "country": "SE"
+  },
+  {
+    "name": "Haparanda Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Haparanda",
+    "country": "SE"
+  },
+  {
+    "name": "Gammelstad",
+    "country": "SE"
+  },
+  {
+    "name": "G\u00e4llivare kommun",
+    "country": "SE"
+  },
+  {
+    "name": "G\u00e4llivare",
+    "country": "SE"
+  },
+  {
+    "name": "Forsbacka",
+    "country": "SE"
+  },
+  {
+    "name": "Falmarksforsen",
+    "country": "SE"
+  },
+  {
+    "name": "Esrange",
+    "country": "SE"
+  },
+  {
+    "name": "Ersmark",
+    "country": "SE"
+  },
+  {
+    "name": "Edefors",
+    "country": "SE"
+  },
+  {
+    "name": "Dartsel",
+    "country": "SE"
+  },
+  {
+    "name": "Byske",
+    "country": "SE"
+  },
+  {
+    "name": "Burtr\u00e4sk",
+    "country": "SE"
+  },
+  {
+    "name": "Bure\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "Bredtr\u00e4skheden",
+    "country": "SE"
+  },
+  {
+    "name": "Boliden",
+    "country": "SE"
+  },
+  {
+    "name": "Bodens Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Boden",
+    "country": "SE"
+  },
+  {
+    "name": "Bergsviken",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6dra Bergsbyn",
+    "country": "SE"
+  },
+  {
+    "name": "Bergn\u00e4set",
+    "country": "SE"
+  },
+  {
+    "name": "Backa",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4lvsbyns Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4lvsbyn",
+    "country": "SE"
+  },
+  {
+    "name": "Yttre-Bergn\u00e4set",
+    "country": "SE"
+  },
+  {
+    "name": "Alunda",
+    "country": "SE"
+  },
+  {
+    "name": "Anneberg",
+    "country": "SE"
+  },
+  {
+    "name": "Bj\u00f6rklinge",
+    "country": "SE"
+  },
+  {
+    "name": "Marieberg",
+    "country": "SE"
+  },
+  {
+    "name": "Bryn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Marielund",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6dermalm",
+    "country": "SE"
+  },
+  {
+    "name": "Kingdom of Sweden",
+    "country": "SE"
+  },
+  {
+    "name": "Ystads Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Ystad",
+    "country": "SE"
+  },
+  {
+    "name": "Vrigstad",
+    "country": "SE"
+  },
+  {
+    "name": "Vittsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Vislanda",
+    "country": "SE"
+  },
+  {
+    "name": "Viskafors",
+    "country": "SE"
+  },
+  {
+    "name": "Visby",
+    "country": "SE"
+  },
+  {
+    "name": "Virserum",
+    "country": "SE"
+  },
+  {
+    "name": "Vintrosa",
+    "country": "SE"
+  },
+  {
+    "name": "Vinsta",
+    "country": "SE"
+  },
+  {
+    "name": "Vinsl\u00f6v",
+    "country": "SE"
+  },
+  {
+    "name": "Vinninga",
+    "country": "SE"
+  },
+  {
+    "name": "Ving\u00e5ker",
+    "country": "SE"
+  },
+  {
+    "name": "Vindeln",
+    "country": "SE"
+  },
+  {
+    "name": "Vin\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Vimmerby Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Vimmerby",
+    "country": "SE"
+  },
+  {
+    "name": "Vilhelmina",
+    "country": "SE"
+  },
+  {
+    "name": "Vilan",
+    "country": "SE"
+  },
+  {
+    "name": "Vikingstad",
+    "country": "SE"
+  },
+  {
+    "name": "Viken",
+    "country": "SE"
+  },
+  {
+    "name": "Vikarbyn",
+    "country": "SE"
+  },
+  {
+    "name": "Vi",
+    "country": "SE"
+  },
+  {
+    "name": "Vibble",
+    "country": "SE"
+  },
+  {
+    "name": "Vetlanda",
+    "country": "SE"
+  },
+  {
+    "name": "Vellinge Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Vellinge",
+    "country": "SE"
+  },
+  {
+    "name": "Vejbystrand",
+    "country": "SE"
+  },
+  {
+    "name": "Veinge",
+    "country": "SE"
+  },
+  {
+    "name": "Veddige",
+    "country": "SE"
+  },
+  {
+    "name": "Veber\u00f6d",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4xj\u00f6 Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4xj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Vaxholm",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4vle",
+    "country": "SE"
+  },
+  {
+    "name": "Vattholma",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4stra B\u00f6ckestad",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4stmanlands l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4sthammar",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4sterviks Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4stervik",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4sternorrlands l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4sterlo",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4sterhus",
+    "country": "SE"
+  },
+  {
+    "name": "Vasterhaninge",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4sterbottens l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4ster\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4ster\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4stansj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e5rsta",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4rnamo Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4rnamo",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4rmlands l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4rmd\u00f6 Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Varg\u00f6n",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e5rg\u00e5rda",
+    "country": "SE"
+  },
+  {
+    "name": "Varbergs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Varberg",
+    "country": "SE"
+  },
+  {
+    "name": "Vara",
+    "country": "SE"
+  },
+  {
+    "name": "Vansbro",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4nn\u00e4sby",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4nn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4nersborgs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4nersborg",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4ne \u00c5saka",
+    "country": "SE"
+  },
+  {
+    "name": "Vallk\u00e4rra",
+    "country": "SE"
+  },
+  {
+    "name": "Vallentuna Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Vallentuna",
+    "country": "SE"
+  },
+  {
+    "name": "Vallda",
+    "country": "SE"
+  },
+  {
+    "name": "Valla",
+    "country": "SE"
+  },
+  {
+    "name": "Valdemarsvik",
+    "country": "SE"
+  },
+  {
+    "name": "Valbo",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e5lberg",
+    "country": "SE"
+  },
+  {
+    "name": "Vagnh\u00e4rad",
+    "country": "SE"
+  },
+  {
+    "name": "Vaggeryd",
+    "country": "SE"
+  },
+  {
+    "name": "Vadstena Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Vadstena",
+    "country": "SE"
+  },
+  {
+    "name": "Uppsala",
+    "country": "SE"
+  },
+  {
+    "name": "Uppsala",
+    "country": "SE"
+  },
+  {
+    "name": "Uppsala Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Upplands V\u00e4sby kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Upplands V\u00e4sby",
+    "country": "SE"
+  },
+  {
+    "name": "Hj\u00e4rup",
+    "country": "SE"
+  },
+  {
+    "name": "Ulricehamn",
+    "country": "SE"
+  },
+  {
+    "name": "Ullered",
+    "country": "SE"
+  },
+  {
+    "name": "Uddevalla Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Uddevalla",
+    "country": "SE"
+  },
+  {
+    "name": "Tyringe",
+    "country": "SE"
+  },
+  {
+    "name": "Tygelsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Tv\u00e5\u00e5ker",
+    "country": "SE"
+  },
+  {
+    "name": "Tumba",
+    "country": "SE"
+  },
+  {
+    "name": "Tullinge",
+    "country": "SE"
+  },
+  {
+    "name": "Trosa",
+    "country": "SE"
+  },
+  {
+    "name": "Tr\u00f6nninge",
+    "country": "SE"
+  },
+  {
+    "name": "Trollh\u00e4ttan",
+    "country": "SE"
+  },
+  {
+    "name": "Trollh\u00e4ttan",
+    "country": "SE"
+  },
+  {
+    "name": "Gimo",
+    "country": "SE"
+  },
+  {
+    "name": "Trelleborgs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Trelleborg",
+    "country": "SE"
+  },
+  {
+    "name": "Trekanten",
+    "country": "SE"
+  },
+  {
+    "name": "Tr\u00e4sl\u00f6vsl\u00e4ge",
+    "country": "SE"
+  },
+  {
+    "name": "Tranemo",
+    "country": "SE"
+  },
+  {
+    "name": "Tran\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "Torup",
+    "country": "SE"
+  },
+  {
+    "name": "Torslanda",
+    "country": "SE"
+  },
+  {
+    "name": "Torsh\u00e4lla",
+    "country": "SE"
+  },
+  {
+    "name": "Torsby Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Torsby",
+    "country": "SE"
+  },
+  {
+    "name": "Tors\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "Tormestorp",
+    "country": "SE"
+  },
+  {
+    "name": "Torkelstorp",
+    "country": "SE"
+  },
+  {
+    "name": "T\u00f6reboda",
+    "country": "SE"
+  },
+  {
+    "name": "Tomelilla",
+    "country": "SE"
+  },
+  {
+    "name": "Tollarp1",
+    "country": "SE"
+  },
+  {
+    "name": "Toften\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "T\u00f6cksfors",
+    "country": "SE"
+  },
+  {
+    "name": "Tj\u00f6rns Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Tingsryd",
+    "country": "SE"
+  },
+  {
+    "name": "Timr\u00e5 Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Timr\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "Timmernabben",
+    "country": "SE"
+  },
+  {
+    "name": "Tillberga",
+    "country": "SE"
+  },
+  {
+    "name": "Tierp",
+    "country": "SE"
+  },
+  {
+    "name": "Tidaholms kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Tidaholm",
+    "country": "SE"
+  },
+  {
+    "name": "Tibro Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Tibro",
+    "country": "SE"
+  },
+  {
+    "name": "Tenhult",
+    "country": "SE"
+  },
+  {
+    "name": "Teckomatorp",
+    "country": "SE"
+  },
+  {
+    "name": "T\u00e4rnsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Tanums Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Tanumshede",
+    "country": "SE"
+  },
+  {
+    "name": "T\u00e4by Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "T\u00e4by",
+    "country": "SE"
+  },
+  {
+    "name": "Taberg",
+    "country": "SE"
+  },
+  {
+    "name": "Svenneby",
+    "country": "SE"
+  },
+  {
+    "name": "Svenljunga",
+    "country": "SE"
+  },
+  {
+    "name": "Sveg",
+    "country": "SE"
+  },
+  {
+    "name": "Svedala Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Svedala",
+    "country": "SE"
+  },
+  {
+    "name": "Sv\u00e4rtinge",
+    "country": "SE"
+  },
+  {
+    "name": "Sv\u00e4rdsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Sv\u00e4ngsta",
+    "country": "SE"
+  },
+  {
+    "name": "Svanesund",
+    "country": "SE"
+  },
+  {
+    "name": "Svalsta",
+    "country": "SE"
+  },
+  {
+    "name": "Sval\u00f6vs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Sval\u00f6v",
+    "country": "SE"
+  },
+  {
+    "name": "Surte",
+    "country": "SE"
+  },
+  {
+    "name": "Surahammar",
+    "country": "SE"
+  },
+  {
+    "name": "Sunne",
+    "country": "SE"
+  },
+  {
+    "name": "Sunn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Sundsvalls Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Sundsvall",
+    "country": "SE"
+  },
+  {
+    "name": "Sundsbruk",
+    "country": "SE"
+  },
+  {
+    "name": "Sundbybergs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Sundbyberg",
+    "country": "SE"
+  },
+  {
+    "name": "Sundby",
+    "country": "SE"
+  },
+  {
+    "name": "Styrs\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Sturk\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Sturefors",
+    "country": "SE"
+  },
+  {
+    "name": "Str\u00f6velstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Str\u00f6msund",
+    "country": "SE"
+  },
+  {
+    "name": "Str\u00f6mstad",
+    "country": "SE"
+  },
+  {
+    "name": "Str\u00f6msn\u00e4sbruk",
+    "country": "SE"
+  },
+  {
+    "name": "Str\u00e4ngn\u00e4s Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Str\u00e4ngn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Storvreta",
+    "country": "SE"
+  },
+  {
+    "name": "Storumans Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Storuman",
+    "country": "SE"
+  },
+  {
+    "name": "Storfors",
+    "country": "SE"
+  },
+  {
+    "name": "Stora H\u00f6ga",
+    "country": "SE"
+  },
+  {
+    "name": "Stora Hammar",
+    "country": "SE"
+  },
+  {
+    "name": "Stor\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "St\u00f6pen",
+    "country": "SE"
+  },
+  {
+    "name": "Stockvik",
+    "country": "SE"
+  },
+  {
+    "name": "Stockholm",
+    "country": "SE"
+  },
+  {
+    "name": "Stockholms Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Stockholm",
+    "country": "SE"
+  },
+  {
+    "name": "Stockaryd",
+    "country": "SE"
+  },
+  {
+    "name": "Stigtomta",
+    "country": "SE"
+  },
+  {
+    "name": "Stenungsund",
+    "country": "SE"
+  },
+  {
+    "name": "Stenstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Stensta",
+    "country": "SE"
+  },
+  {
+    "name": "Stenkullen",
+    "country": "SE"
+  },
+  {
+    "name": "Stenhamra",
+    "country": "SE"
+  },
+  {
+    "name": "Stehag",
+    "country": "SE"
+  },
+  {
+    "name": "Stallarholmen",
+    "country": "SE"
+  },
+  {
+    "name": "Staffanstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Spikarna",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6sdala",
+    "country": "SE"
+  },
+  {
+    "name": "Sorsele Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Sorsele",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6rforsa",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6rby",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6r\u00e5ker",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6lvesborg",
+    "country": "SE"
+  },
+  {
+    "name": "Solsidan",
+    "country": "SE"
+  },
+  {
+    "name": "Solna Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Solna",
+    "country": "SE"
+  },
+  {
+    "name": "Sollentuna Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Sollentuna",
+    "country": "SE"
+  },
+  {
+    "name": "Sollefte\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "Sollebrunn",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6dra Vi",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6dra Sandby",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6dert\u00e4lje Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6dert\u00e4lje",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6dermanlands l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6derk\u00f6pings Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6derk\u00f6ping",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6derhamns Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6derhamn",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00f6derfors",
+    "country": "SE"
+  },
+  {
+    "name": "Smygehamn",
+    "country": "SE"
+  },
+  {
+    "name": "Sm\u00f6gen",
+    "country": "SE"
+  },
+  {
+    "name": "Smedjebacken",
+    "country": "SE"
+  },
+  {
+    "name": "Smedby",
+    "country": "SE"
+  },
+  {
+    "name": "Smedby",
+    "country": "SE"
+  },
+  {
+    "name": "Sm\u00e5landsstenar",
+    "country": "SE"
+  },
+  {
+    "name": "Slottsbron",
+    "country": "SE"
+  },
+  {
+    "name": "Slite",
+    "country": "SE"
+  },
+  {
+    "name": "Skutsk\u00e4r",
+    "country": "SE"
+  },
+  {
+    "name": "Skurup",
+    "country": "SE"
+  },
+  {
+    "name": "Skultuna",
+    "country": "SE"
+  },
+  {
+    "name": "Skultorp",
+    "country": "SE"
+  },
+  {
+    "name": "Sk\u00f6vde Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Sk\u00f6vde",
+    "country": "SE"
+  },
+  {
+    "name": "Skottsund",
+    "country": "SE"
+  },
+  {
+    "name": "Sk\u00f6llersta",
+    "country": "SE"
+  },
+  {
+    "name": "Skogstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Skoghall",
+    "country": "SE"
+  },
+  {
+    "name": "Skivarp",
+    "country": "SE"
+  },
+  {
+    "name": "Skinnskatteberg",
+    "country": "SE"
+  },
+  {
+    "name": "Skillingaryd",
+    "country": "SE"
+  },
+  {
+    "name": "Skepplanda",
+    "country": "SE"
+  },
+  {
+    "name": "Skattk\u00e4rr",
+    "country": "SE"
+  },
+  {
+    "name": "Sk\u00e4rhamn",
+    "country": "SE"
+  },
+  {
+    "name": "Sk\u00e5re",
+    "country": "SE"
+  },
+  {
+    "name": "Sk\u00e4rblacka",
+    "country": "SE"
+  },
+  {
+    "name": "Skara Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Skara",
+    "country": "SE"
+  },
+  {
+    "name": "Sk\u00e4nninge",
+    "country": "SE"
+  },
+  {
+    "name": "Sk\u00e4lby",
+    "country": "SE"
+  },
+  {
+    "name": "Sjuntorp",
+    "country": "SE"
+  },
+  {
+    "name": "Sj\u00f6marken",
+    "country": "SE"
+  },
+  {
+    "name": "Sj\u00f6bo",
+    "country": "SE"
+  },
+  {
+    "name": "Sj\u00f6berg",
+    "country": "SE"
+  },
+  {
+    "name": "Simrishamns kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Simrishamn",
+    "country": "SE"
+  },
+  {
+    "name": "Siljansn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Sigtuna Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Sigtuna",
+    "country": "SE"
+  },
+  {
+    "name": "Sibbhult",
+    "country": "SE"
+  },
+  {
+    "name": "Segeltorp",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00e4vsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00e4vja",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00e4tofta",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00e4ters Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00e4ter",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00e4r\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Sandvikens Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Sandviken",
+    "country": "SE"
+  },
+  {
+    "name": "Sandseryd",
+    "country": "SE"
+  },
+  {
+    "name": "Sandarne",
+    "country": "SE"
+  },
+  {
+    "name": "Sandared",
+    "country": "SE"
+  },
+  {
+    "name": "Saltsj\u00f6baden",
+    "country": "SE"
+  },
+  {
+    "name": "Sala kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Sala",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00e4ffle",
+    "country": "SE"
+  },
+  {
+    "name": "S\u00e4by",
+    "country": "SE"
+  },
+  {
+    "name": "Rydsg\u00e5rd",
+    "country": "SE"
+  },
+  {
+    "name": "Rydeb\u00e4ck",
+    "country": "SE"
+  },
+  {
+    "name": "Rydaholm",
+    "country": "SE"
+  },
+  {
+    "name": "Ryd",
+    "country": "SE"
+  },
+  {
+    "name": "Rottne",
+    "country": "SE"
+  },
+  {
+    "name": "Roteberg",
+    "country": "SE"
+  },
+  {
+    "name": "R\u00f6stebo",
+    "country": "SE"
+  },
+  {
+    "name": "Rosersberg",
+    "country": "SE"
+  },
+  {
+    "name": "Rosenlund",
+    "country": "SE"
+  },
+  {
+    "name": "R\u00f6rberg",
+    "country": "SE"
+  },
+  {
+    "name": "Ronneby Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Ronneby",
+    "country": "SE"
+  },
+  {
+    "name": "R\u00f6nn\u00e4ng",
+    "country": "SE"
+  },
+  {
+    "name": "R\u00f6deby",
+    "country": "SE"
+  },
+  {
+    "name": "Rinkabyholm",
+    "country": "SE"
+  },
+  {
+    "name": "Ring\u00f6n",
+    "country": "SE"
+  },
+  {
+    "name": "Rimforsa",
+    "country": "SE"
+  },
+  {
+    "name": "Rimbo",
+    "country": "SE"
+  },
+  {
+    "name": "Resar\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Ren",
+    "country": "SE"
+  },
+  {
+    "name": "Reftele",
+    "country": "SE"
+  },
+  {
+    "name": "Rebbelberga",
+    "country": "SE"
+  },
+  {
+    "name": "R\u00e4vlanda",
+    "country": "SE"
+  },
+  {
+    "name": "Raus",
+    "country": "SE"
+  },
+  {
+    "name": "R\u00e4ttvik",
+    "country": "SE"
+  },
+  {
+    "name": "Ramshult",
+    "country": "SE"
+  },
+  {
+    "name": "Ramn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Radbyn",
+    "country": "SE"
+  },
+  {
+    "name": "R\u00e5berga",
+    "country": "SE"
+  },
+  {
+    "name": "R\u00e5\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "Perstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Pershagen",
+    "country": "SE"
+  },
+  {
+    "name": "P\u00e5skallavik",
+    "country": "SE"
+  },
+  {
+    "name": "Partille Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Partille",
+    "country": "SE"
+  },
+  {
+    "name": "P\u00e5lsboda",
+    "country": "SE"
+  },
+  {
+    "name": "P\u00e5arp",
+    "country": "SE"
+  },
+  {
+    "name": "Oxie",
+    "country": "SE"
+  },
+  {
+    "name": "Oxel\u00f6sund",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6verum",
+    "country": "SE"
+  },
+  {
+    "name": "Ovan\u00e5kers Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6stra Vi",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6sthammar",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6sterv\u00e5la",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6stersunds Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6stersund",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6stermalm",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6sterg\u00f6tlands l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6sterbymo",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6sterbybruk",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6sterby",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6ster\u00e5kers Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6stanbo",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6smo",
+    "country": "SE"
+  },
+  {
+    "name": "Oskarstr\u00f6m",
+    "country": "SE"
+  },
+  {
+    "name": "Oskarshamns Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Oskarshamn",
+    "country": "SE"
+  },
+  {
+    "name": "Osby",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6rsundsbro",
+    "country": "SE"
+  },
+  {
+    "name": "Orsa",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6rnsk\u00f6ldsviks Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6rnsk\u00f6ldsvik",
+    "country": "SE"
+  },
+  {
+    "name": "Orn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6rkelljunga",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6regrund",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6rebro l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6rebro Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6rebro",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6rbyhus",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6nnestad",
+    "country": "SE"
+  },
+  {
+    "name": "Olstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Olofstr\u00f6m",
+    "country": "SE"
+  },
+  {
+    "name": "Olofstorp",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6jersj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6desh\u00f6g",
+    "country": "SE"
+  },
+  {
+    "name": "Odensj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Odensbacken",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6d\u00e5kra",
+    "country": "SE"
+  },
+  {
+    "name": "\u00d6cker\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Ockelbo",
+    "country": "SE"
+  },
+  {
+    "name": "Nyn\u00e4shamn",
+    "country": "SE"
+  },
+  {
+    "name": "Nykvarn",
+    "country": "SE"
+  },
+  {
+    "name": "Nykvarn",
+    "country": "SE"
+  },
+  {
+    "name": "Nyk\u00f6pings Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Nyk\u00f6ping",
+    "country": "SE"
+  },
+  {
+    "name": "Nybro Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Nybro",
+    "country": "SE"
+  },
+  {
+    "name": "Nossebro",
+    "country": "SE"
+  },
+  {
+    "name": "Norsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Norsborg",
+    "country": "SE"
+  },
+  {
+    "name": "Norrt\u00e4lje Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Norrt\u00e4lje",
+    "country": "SE"
+  },
+  {
+    "name": "Norrsundet",
+    "country": "SE"
+  },
+  {
+    "name": "Norrk\u00f6pings Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Norrk\u00f6ping",
+    "country": "SE"
+  },
+  {
+    "name": "Norrahammar",
+    "country": "SE"
+  },
+  {
+    "name": "Norra \u00c5sum",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5s",
+    "country": "SE"
+  },
+  {
+    "name": "Nordstaden",
+    "country": "SE"
+  },
+  {
+    "name": "Nordmaling",
+    "country": "SE"
+  },
+  {
+    "name": "Nordingr\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "Norberg",
+    "country": "SE"
+  },
+  {
+    "name": "Nora",
+    "country": "SE"
+  },
+  {
+    "name": "Nolhaga",
+    "country": "SE"
+  },
+  {
+    "name": "Nolby",
+    "country": "SE"
+  },
+  {
+    "name": "N\u00f6bbele",
+    "country": "SE"
+  },
+  {
+    "name": "Njurundabommen",
+    "country": "SE"
+  },
+  {
+    "name": "Nibble\u00e5sen",
+    "country": "SE"
+  },
+  {
+    "name": "Nausta",
+    "country": "SE"
+  },
+  {
+    "name": "N\u00e4ttraby",
+    "country": "SE"
+  },
+  {
+    "name": "N\u00e4sum",
+    "country": "SE"
+  },
+  {
+    "name": "N\u00e4ssj\u00f6 Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "N\u00e4ssj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "N\u00e4sby",
+    "country": "SE"
+  },
+  {
+    "name": "N\u00e4mnsbo",
+    "country": "SE"
+  },
+  {
+    "name": "Nacka Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Nacka",
+    "country": "SE"
+  },
+  {
+    "name": "Myggen\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Munkfors",
+    "country": "SE"
+  },
+  {
+    "name": "Munkedal",
+    "country": "SE"
+  },
+  {
+    "name": "Munka-Ljungby",
+    "country": "SE"
+  },
+  {
+    "name": "Mullsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Mullsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Motala Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Motala",
+    "country": "SE"
+  },
+  {
+    "name": "Mossle",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00f6rtn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00f6rrum",
+    "country": "SE"
+  },
+  {
+    "name": "Morgong\u00e5va",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00f6rbyl\u00e5nga",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00f6rarp",
+    "country": "SE"
+  },
+  {
+    "name": "Mora Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Mora",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00f6nster\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00f6lnlycke",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00f6lndals kommun",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00f6lndal",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00f6lnbo",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00f6lltorp",
+    "country": "SE"
+  },
+  {
+    "name": "Molkom",
+    "country": "SE"
+  },
+  {
+    "name": "Moheda",
+    "country": "SE"
+  },
+  {
+    "name": "Mockfj\u00e4rd",
+    "country": "SE"
+  },
+  {
+    "name": "Mj\u00f6lby Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Mj\u00f6lby",
+    "country": "SE"
+  },
+  {
+    "name": "Mj\u00e4llby",
+    "country": "SE"
+  },
+  {
+    "name": "Mj\u00e4lga",
+    "country": "SE"
+  },
+  {
+    "name": "Mellerud",
+    "country": "SE"
+  },
+  {
+    "name": "Mellbystrand",
+    "country": "SE"
+  },
+  {
+    "name": "Matfors",
+    "country": "SE"
+  },
+  {
+    "name": "Marstrand",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00e4rsta",
+    "country": "SE"
+  },
+  {
+    "name": "Markaryd",
+    "country": "SE"
+  },
+  {
+    "name": "Mariestads Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Mariestad",
+    "country": "SE"
+  },
+  {
+    "name": "Marieholm",
+    "country": "SE"
+  },
+  {
+    "name": "Marieh\u00e4ll",
+    "country": "SE"
+  },
+  {
+    "name": "Mariefred",
+    "country": "SE"
+  },
+  {
+    "name": "Mariedal",
+    "country": "SE"
+  },
+  {
+    "name": "Marieberg",
+    "country": "SE"
+  },
+  {
+    "name": "Mariannelund",
+    "country": "SE"
+  },
+  {
+    "name": "Mantorp",
+    "country": "SE"
+  },
+  {
+    "name": "Malung",
+    "country": "SE"
+  },
+  {
+    "name": "Malmsl\u00e4tt",
+    "country": "SE"
+  },
+  {
+    "name": "Malm\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Malm\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Malmk\u00f6ping",
+    "country": "SE"
+  },
+  {
+    "name": "Malmb\u00e4ck",
+    "country": "SE"
+  },
+  {
+    "name": "M\u00e5lilla",
+    "country": "SE"
+  },
+  {
+    "name": "Malen",
+    "country": "SE"
+  },
+  {
+    "name": "Mal\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "Lysekil",
+    "country": "SE"
+  },
+  {
+    "name": "Lyngsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Lycksele kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Lycksele",
+    "country": "SE"
+  },
+  {
+    "name": "Lunna",
+    "country": "SE"
+  },
+  {
+    "name": "Lunds Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Lund",
+    "country": "SE"
+  },
+  {
+    "name": "Ludvika",
+    "country": "SE"
+  },
+  {
+    "name": "L\u00f6nsboda",
+    "country": "SE"
+  },
+  {
+    "name": "Lomma",
+    "country": "SE"
+  },
+  {
+    "name": "L\u00f6kn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "L\u00f6d\u00f6se",
+    "country": "SE"
+  },
+  {
+    "name": "L\u00f6ddek\u00f6pinge",
+    "country": "SE"
+  },
+  {
+    "name": "L\u00f6ber\u00f6d",
+    "country": "SE"
+  },
+  {
+    "name": "Ljusne",
+    "country": "SE"
+  },
+  {
+    "name": "Ljusdals Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Ljusdal",
+    "country": "SE"
+  },
+  {
+    "name": "Ljungskile",
+    "country": "SE"
+  },
+  {
+    "name": "Ljungsbro",
+    "country": "SE"
+  },
+  {
+    "name": "Ljunghusen",
+    "country": "SE"
+  },
+  {
+    "name": "Ljungbyholm",
+    "country": "SE"
+  },
+  {
+    "name": "Ljungbyhed",
+    "country": "SE"
+  },
+  {
+    "name": "Ljungby",
+    "country": "SE"
+  },
+  {
+    "name": "Lit",
+    "country": "SE"
+  },
+  {
+    "name": "Link\u00f6pings Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Link\u00f6ping",
+    "country": "SE"
+  },
+  {
+    "name": "Linghem",
+    "country": "SE"
+  },
+  {
+    "name": "Lindsdal",
+    "country": "SE"
+  },
+  {
+    "name": "Lindome",
+    "country": "SE"
+  },
+  {
+    "name": "Lind\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Lindesberg",
+    "country": "SE"
+  },
+  {
+    "name": "Limmared",
+    "country": "SE"
+  },
+  {
+    "name": "Lillsj\u00f6n\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Lilla Edets Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Lilla Edet",
+    "country": "SE"
+  },
+  {
+    "name": "Lidk\u00f6pings Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Lidk\u00f6ping",
+    "country": "SE"
+  },
+  {
+    "name": "Liding\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Liding\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Lessebo",
+    "country": "SE"
+  },
+  {
+    "name": "Lesj\u00f6fors",
+    "country": "SE"
+  },
+  {
+    "name": "Lerums Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Lerum",
+    "country": "SE"
+  },
+  {
+    "name": "Lenhovda",
+    "country": "SE"
+  },
+  {
+    "name": "Leksand",
+    "country": "SE"
+  },
+  {
+    "name": "Lax\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "L\u00e5ngshyttan",
+    "country": "SE"
+  },
+  {
+    "name": "L\u00e4nghem",
+    "country": "SE"
+  },
+  {
+    "name": "Landvetter",
+    "country": "SE"
+  },
+  {
+    "name": "Landskrona",
+    "country": "SE"
+  },
+  {
+    "name": "Landskrona",
+    "country": "SE"
+  },
+  {
+    "name": "Landsbro",
+    "country": "SE"
+  },
+  {
+    "name": "Lammhult",
+    "country": "SE"
+  },
+  {
+    "name": "Laholms Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Laholm",
+    "country": "SE"
+  },
+  {
+    "name": "Lagan",
+    "country": "SE"
+  },
+  {
+    "name": "Kvissleby",
+    "country": "SE"
+  },
+  {
+    "name": "Kvidinge",
+    "country": "SE"
+  },
+  {
+    "name": "Kvicksund",
+    "country": "SE"
+  },
+  {
+    "name": "Kvarnholmen",
+    "country": "SE"
+  },
+  {
+    "name": "Kv\u00e4num",
+    "country": "SE"
+  },
+  {
+    "name": "Kungs\u00f6r",
+    "country": "SE"
+  },
+  {
+    "name": "Kungsholmen",
+    "country": "SE"
+  },
+  {
+    "name": "Kungshamn",
+    "country": "SE"
+  },
+  {
+    "name": "Kungsbacka Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Kungsbacka",
+    "country": "SE"
+  },
+  {
+    "name": "Kungs\u00e4ngen",
+    "country": "SE"
+  },
+  {
+    "name": "Kung\u00e4lvs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Kung\u00e4lv",
+    "country": "SE"
+  },
+  {
+    "name": "Kummeln\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Kumla Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Kumla",
+    "country": "SE"
+  },
+  {
+    "name": "Kronoberg",
+    "country": "SE"
+  },
+  {
+    "name": "Krokom",
+    "country": "SE"
+  },
+  {
+    "name": "Krokek",
+    "country": "SE"
+  },
+  {
+    "name": "Kristinehamns Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Kristinehamn",
+    "country": "SE"
+  },
+  {
+    "name": "Kristianstads kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Kristianstad",
+    "country": "SE"
+  },
+  {
+    "name": "Kramfors Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Kramfors",
+    "country": "SE"
+  },
+  {
+    "name": "Dalarna",
+    "country": "SE"
+  },
+  {
+    "name": "Kopparberg",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00f6pmanholmen",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00f6pings Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00f6pingebro",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00f6ping",
+    "country": "SE"
+  },
+  {
+    "name": "Kolsva",
+    "country": "SE"
+  },
+  {
+    "name": "Kolla",
+    "country": "SE"
+  },
+  {
+    "name": "Kolb\u00e4ck",
+    "country": "SE"
+  },
+  {
+    "name": "Kode",
+    "country": "SE"
+  },
+  {
+    "name": "Knoxhult",
+    "country": "SE"
+  },
+  {
+    "name": "Knivsta",
+    "country": "SE"
+  },
+  {
+    "name": "Knislinge",
+    "country": "SE"
+  },
+  {
+    "name": "Kn\u00e4red",
+    "country": "SE"
+  },
+  {
+    "name": "Klippan",
+    "country": "SE"
+  },
+  {
+    "name": "Klintehamn",
+    "country": "SE"
+  },
+  {
+    "name": "Klinta",
+    "country": "SE"
+  },
+  {
+    "name": "Kl\u00e5ver\u00f6d",
+    "country": "SE"
+  },
+  {
+    "name": "Kl\u00e4nkeberg",
+    "country": "SE"
+  },
+  {
+    "name": "Kl\u00e5gerup",
+    "country": "SE"
+  },
+  {
+    "name": "Kivik",
+    "country": "SE"
+  },
+  {
+    "name": "Kista",
+    "country": "SE"
+  },
+  {
+    "name": "Kisa",
+    "country": "SE"
+  },
+  {
+    "name": "Kiruna Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Kinna",
+    "country": "SE"
+  },
+  {
+    "name": "Kinda Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Kimstad",
+    "country": "SE"
+  },
+  {
+    "name": "Kilafors",
+    "country": "SE"
+  },
+  {
+    "name": "Kil",
+    "country": "SE"
+  },
+  {
+    "name": "Kaxholmen",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00e4vlinge",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00e4ttsta",
+    "country": "SE"
+  },
+  {
+    "name": "Kattisavan",
+    "country": "SE"
+  },
+  {
+    "name": "Katrineholms Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Katrineholm",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00e4rra",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00e4rne",
+    "country": "SE"
+  },
+  {
+    "name": "Karlstads Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Karlstad",
+    "country": "SE"
+  },
+  {
+    "name": "Karlskrona Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Karlskrona",
+    "country": "SE"
+  },
+  {
+    "name": "Karlskoga Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Karlskoga",
+    "country": "SE"
+  },
+  {
+    "name": "Karlshamns kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Karlshamn",
+    "country": "SE"
+  },
+  {
+    "name": "Karlsborg",
+    "country": "SE"
+  },
+  {
+    "name": "Karlholmsbruk",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00e4pplunda",
+    "country": "SE"
+  },
+  {
+    "name": "Kalmar",
+    "country": "SE"
+  },
+  {
+    "name": "Kalmar Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Kalmar",
+    "country": "SE"
+  },
+  {
+    "name": "Kallinge",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00e5llered",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00e5lleboda",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00e4llby",
+    "country": "SE"
+  },
+  {
+    "name": "K\u00e5ger\u00f6d",
+    "country": "SE"
+  },
+  {
+    "name": "Jursla",
+    "country": "SE"
+  },
+  {
+    "name": "Jordbro",
+    "country": "SE"
+  },
+  {
+    "name": "Jonstorp",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00f6nk\u00f6pings l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00f6nk\u00f6pings Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00f6nk\u00f6ping",
+    "country": "SE"
+  },
+  {
+    "name": "Jokkmokks Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Jokkmokk",
+    "country": "SE"
+  },
+  {
+    "name": "Johannedal",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00e4rvs\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00e4rpen",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00e4rna",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00e4rf\u00e4lla kommun",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00e4rbo",
+    "country": "SE"
+  },
+  {
+    "name": "Jannelund",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00e4mtlands l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00e4msh\u00f6g",
+    "country": "SE"
+  },
+  {
+    "name": "J\u00e4mj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Jakobsberg",
+    "country": "SE"
+  },
+  {
+    "name": "Irsta",
+    "country": "SE"
+  },
+  {
+    "name": "Insj\u00f6n",
+    "country": "SE"
+  },
+  {
+    "name": "Inlag",
+    "country": "SE"
+  },
+  {
+    "name": "Ingelstad",
+    "country": "SE"
+  },
+  {
+    "name": "Ingebo",
+    "country": "SE"
+  },
+  {
+    "name": "Indor",
+    "country": "SE"
+  },
+  {
+    "name": "Iggesund",
+    "country": "SE"
+  },
+  {
+    "name": "Ickornetorp",
+    "country": "SE"
+  },
+  {
+    "name": "Hyltebruk",
+    "country": "SE"
+  },
+  {
+    "name": "Hyllinge",
+    "country": "SE"
+  },
+  {
+    "name": "Husum",
+    "country": "SE"
+  },
+  {
+    "name": "Huskvarna",
+    "country": "SE"
+  },
+  {
+    "name": "Hunnebostrand",
+    "country": "SE"
+  },
+  {
+    "name": "Hummelsta",
+    "country": "SE"
+  },
+  {
+    "name": "Hultsfreds Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Hultsfred",
+    "country": "SE"
+  },
+  {
+    "name": "Hudiksvalls Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Hudiksvall",
+    "country": "SE"
+  },
+  {
+    "name": "Huddinge Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Huddinge",
+    "country": "SE"
+  },
+  {
+    "name": "Hovsta",
+    "country": "SE"
+  },
+  {
+    "name": "Hovmantorp",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6viksn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Hova",
+    "country": "SE"
+  },
+  {
+    "name": "Horred",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6rnefors",
+    "country": "SE"
+  },
+  {
+    "name": "Horndal",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6rby",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6\u00f6r",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6n\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6nekulla",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6l\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Holmen",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6llviken",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6k\u00e5sen",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6gsby",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6gan\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00f6ga",
+    "country": "SE"
+  },
+  {
+    "name": "Hofterup",
+    "country": "SE"
+  },
+  {
+    "name": "Hofors",
+    "country": "SE"
+  },
+  {
+    "name": "Hjuvik",
+    "country": "SE"
+  },
+  {
+    "name": "Hjo Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Hjo",
+    "country": "SE"
+  },
+  {
+    "name": "Hittarp",
+    "country": "SE"
+  },
+  {
+    "name": "Hind\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "Hillerstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Hille",
+    "country": "SE"
+  },
+  {
+    "name": "Hestra",
+    "country": "SE"
+  },
+  {
+    "name": "Hestra",
+    "country": "SE"
+  },
+  {
+    "name": "Herrljunga",
+    "country": "SE"
+  },
+  {
+    "name": "Herrestad",
+    "country": "SE"
+  },
+  {
+    "name": "Hen\u00e5n",
+    "country": "SE"
+  },
+  {
+    "name": "Hemse",
+    "country": "SE"
+  },
+  {
+    "name": "Hemmesta",
+    "country": "SE"
+  },
+  {
+    "name": "Helsingborg",
+    "country": "SE"
+  },
+  {
+    "name": "Helsingborg",
+    "country": "SE"
+  },
+  {
+    "name": "Hedesunda",
+    "country": "SE"
+  },
+  {
+    "name": "Hedentorp",
+    "country": "SE"
+  },
+  {
+    "name": "Hedemora Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Hedemora",
+    "country": "SE"
+  },
+  {
+    "name": "Heby",
+    "country": "SE"
+  },
+  {
+    "name": "Haverdal",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4stveda",
+    "country": "SE"
+  },
+  {
+    "name": "Hassl\u00f6sa",
+    "country": "SE"
+  },
+  {
+    "name": "Hassl\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4ssleholms Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4ssleholm",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4rryda Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Harplinge",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4rn\u00f6sands Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4rn\u00f6sand",
+    "country": "SE"
+  },
+  {
+    "name": "Haninge Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Haninge",
+    "country": "SE"
+  },
+  {
+    "name": "Handen",
+    "country": "SE"
+  },
+  {
+    "name": "Hanaskog",
+    "country": "SE"
+  },
+  {
+    "name": "Hammarstrand",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4lsingfors",
+    "country": "SE"
+  },
+  {
+    "name": "Halmstads Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Halmstad",
+    "country": "SE"
+  },
+  {
+    "name": "Halmstad",
+    "country": "SE"
+  },
+  {
+    "name": "Hallstavik",
+    "country": "SE"
+  },
+  {
+    "name": "Hallstahammar",
+    "country": "SE"
+  },
+  {
+    "name": "Hallsberg",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4lleforsn\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4llefors",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4llbybrunn",
+    "country": "SE"
+  },
+  {
+    "name": "Halland",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4llabrottet",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4ljarp",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4ggatorp",
+    "country": "SE"
+  },
+  {
+    "name": "Hagfors",
+    "country": "SE"
+  },
+  {
+    "name": "Habo",
+    "country": "SE"
+  },
+  {
+    "name": "Gusum",
+    "country": "SE"
+  },
+  {
+    "name": "Gustavsberg",
+    "country": "SE"
+  },
+  {
+    "name": "Gullsp\u00e5ng",
+    "country": "SE"
+  },
+  {
+    "name": "Gullbrandstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Grycksbo",
+    "country": "SE"
+  },
+  {
+    "name": "Grunnarp",
+    "country": "SE"
+  },
+  {
+    "name": "Grums",
+    "country": "SE"
+  },
+  {
+    "name": "Grimsta",
+    "country": "SE"
+  },
+  {
+    "name": "Grillby",
+    "country": "SE"
+  },
+  {
+    "name": "Grebbestad",
+    "country": "SE"
+  },
+  {
+    "name": "Gr\u00e4storp",
+    "country": "SE"
+  },
+  {
+    "name": "Gr\u00e4nna",
+    "country": "SE"
+  },
+  {
+    "name": "Gr\u00e4ngesberg",
+    "country": "SE"
+  },
+  {
+    "name": "Gr\u00e5bo",
+    "country": "SE"
+  },
+  {
+    "name": "Gotland",
+    "country": "SE"
+  },
+  {
+    "name": "Gotland",
+    "country": "SE"
+  },
+  {
+    "name": "G\u00f6tene",
+    "country": "SE"
+  },
+  {
+    "name": "G\u00f6teborgs stad",
+    "country": "SE"
+  },
+  {
+    "name": "G\u00f6teborg",
+    "country": "SE"
+  },
+  {
+    "name": "Gnosj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Gnesta",
+    "country": "SE"
+  },
+  {
+    "name": "Glumsl\u00f6v",
+    "country": "SE"
+  },
+  {
+    "name": "Glim\u00e5kra",
+    "country": "SE"
+  },
+  {
+    "name": "Gislaveds Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Gislaved",
+    "country": "SE"
+  },
+  {
+    "name": "Gidb\u00f6le",
+    "country": "SE"
+  },
+  {
+    "name": "Getinge",
+    "country": "SE"
+  },
+  {
+    "name": "Genarp",
+    "country": "SE"
+  },
+  {
+    "name": "Gemla",
+    "country": "SE"
+  },
+  {
+    "name": "G\u00e4vle Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "G\u00e4vleborgs l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "G\u00e4vle",
+    "country": "SE"
+  },
+  {
+    "name": "Garphyttan",
+    "country": "SE"
+  },
+  {
+    "name": "Garnviken",
+    "country": "SE"
+  },
+  {
+    "name": "Gantofta",
+    "country": "SE"
+  },
+  {
+    "name": "G\u00e5nghester",
+    "country": "SE"
+  },
+  {
+    "name": "Gamleby",
+    "country": "SE"
+  },
+  {
+    "name": "Gamla Staden",
+    "country": "SE"
+  },
+  {
+    "name": "G\u00e5larp",
+    "country": "SE"
+  },
+  {
+    "name": "Gagnef",
+    "country": "SE"
+  },
+  {
+    "name": "Fyllinge",
+    "country": "SE"
+  },
+  {
+    "name": "Furulund",
+    "country": "SE"
+  },
+  {
+    "name": "Fruf\u00e4llan",
+    "country": "SE"
+  },
+  {
+    "name": "Fr\u00f6vi",
+    "country": "SE"
+  },
+  {
+    "name": "Fr\u00f6sakull",
+    "country": "SE"
+  },
+  {
+    "name": "Fritsla",
+    "country": "SE"
+  },
+  {
+    "name": "Fristad",
+    "country": "SE"
+  },
+  {
+    "name": "Frilles\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "Fr\u00e4nsta",
+    "country": "SE"
+  },
+  {
+    "name": "F\u00f6rsl\u00f6v",
+    "country": "SE"
+  },
+  {
+    "name": "Forsheda",
+    "country": "SE"
+  },
+  {
+    "name": "Forshaga",
+    "country": "SE"
+  },
+  {
+    "name": "Forserum",
+    "country": "SE"
+  },
+  {
+    "name": "Floby",
+    "country": "SE"
+  },
+  {
+    "name": "Flen",
+    "country": "SE"
+  },
+  {
+    "name": "Fjugesta",
+    "country": "SE"
+  },
+  {
+    "name": "Fj\u00e4r\u00e5s kyrkby",
+    "country": "SE"
+  },
+  {
+    "name": "Fj\u00e4llbon\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Fj\u00e4lkinge",
+    "country": "SE"
+  },
+  {
+    "name": "Fittja",
+    "country": "SE"
+  },
+  {
+    "name": "Finsp\u00e5ng",
+    "country": "SE"
+  },
+  {
+    "name": "Filipstad",
+    "country": "SE"
+  },
+  {
+    "name": "Fellingsbro",
+    "country": "SE"
+  },
+  {
+    "name": "F\u00e4rjestaden",
+    "country": "SE"
+  },
+  {
+    "name": "F\u00e4rjen\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "F\u00e4rila",
+    "country": "SE"
+  },
+  {
+    "name": "F\u00e4rgelanda",
+    "country": "SE"
+  },
+  {
+    "name": "Falu kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Falun",
+    "country": "SE"
+  },
+  {
+    "name": "Falk\u00f6pings Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Falk\u00f6ping",
+    "country": "SE"
+  },
+  {
+    "name": "Falkenbergs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Falkenberg",
+    "country": "SE"
+  },
+  {
+    "name": "Fagersta",
+    "country": "SE"
+  },
+  {
+    "name": "Fagersl\u00e4tt",
+    "country": "SE"
+  },
+  {
+    "name": "Esl\u00f6vs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Esl\u00f6v",
+    "country": "SE"
+  },
+  {
+    "name": "Eskilstuna Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Eskilstuna",
+    "country": "SE"
+  },
+  {
+    "name": "Eriksberg",
+    "country": "SE"
+  },
+  {
+    "name": "Eriksberg",
+    "country": "SE"
+  },
+  {
+    "name": "Enk\u00f6pings Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Enk\u00f6ping",
+    "country": "SE"
+  },
+  {
+    "name": "Emmaboda",
+    "country": "SE"
+  },
+  {
+    "name": "Elversl\u00f6sa",
+    "country": "SE"
+  },
+  {
+    "name": "Eksj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Eksh\u00e4rad",
+    "country": "SE"
+  },
+  {
+    "name": "Eker\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Eken\u00e4ssj\u00f6n",
+    "country": "SE"
+  },
+  {
+    "name": "Ekeby",
+    "country": "SE"
+  },
+  {
+    "name": "Ek\u00e4ngen",
+    "country": "SE"
+  },
+  {
+    "name": "Edsvalla",
+    "country": "SE"
+  },
+  {
+    "name": "Edsg\u00e5rden",
+    "country": "SE"
+  },
+  {
+    "name": "Edsbyn",
+    "country": "SE"
+  },
+  {
+    "name": "Ed",
+    "country": "SE"
+  },
+  {
+    "name": "Duvbo",
+    "country": "SE"
+  },
+  {
+    "name": "Dr\u00e4ngsered",
+    "country": "SE"
+  },
+  {
+    "name": "Dr\u00e4ngsbo",
+    "country": "SE"
+  },
+  {
+    "name": "Dorotea Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Dorotea",
+    "country": "SE"
+  },
+  {
+    "name": "Dons\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Djursholm",
+    "country": "SE"
+  },
+  {
+    "name": "Djur\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "Diser\u00f6d",
+    "country": "SE"
+  },
+  {
+    "name": "Delsbo",
+    "country": "SE"
+  },
+  {
+    "name": "Deje",
+    "country": "SE"
+  },
+  {
+    "name": "Degerfors Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Degerfors",
+    "country": "SE"
+  },
+  {
+    "name": "Degeberga",
+    "country": "SE"
+  },
+  {
+    "name": "Dals L\u00e5nged",
+    "country": "SE"
+  },
+  {
+    "name": "Dalsj\u00f6fors",
+    "country": "SE"
+  },
+  {
+    "name": "Dalby",
+    "country": "SE"
+  },
+  {
+    "name": "Dalar\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Charlottenberg",
+    "country": "SE"
+  },
+  {
+    "name": "Bunkeflostrand",
+    "country": "SE"
+  },
+  {
+    "name": "Bua",
+    "country": "SE"
+  },
+  {
+    "name": "Bua",
+    "country": "SE"
+  },
+  {
+    "name": "Brunna",
+    "country": "SE"
+  },
+  {
+    "name": "Brunflo",
+    "country": "SE"
+  },
+  {
+    "name": "Brom\u00f6lla",
+    "country": "SE"
+  },
+  {
+    "name": "Bromma",
+    "country": "SE"
+  },
+  {
+    "name": "Broby",
+    "country": "SE"
+  },
+  {
+    "name": "Bro",
+    "country": "SE"
+  },
+  {
+    "name": "Brevik",
+    "country": "SE"
+  },
+  {
+    "name": "Brevik",
+    "country": "SE"
+  },
+  {
+    "name": "Bredbyn",
+    "country": "SE"
+  },
+  {
+    "name": "Bredaryd",
+    "country": "SE"
+  },
+  {
+    "name": "Bratt\u00e5sen",
+    "country": "SE"
+  },
+  {
+    "name": "Brastad",
+    "country": "SE"
+  },
+  {
+    "name": "Br\u00e4nningen",
+    "country": "SE"
+  },
+  {
+    "name": "Br\u00e5landa",
+    "country": "SE"
+  },
+  {
+    "name": "Br\u00e4kne-Hoby",
+    "country": "SE"
+  },
+  {
+    "name": "Br\u00e4cke",
+    "country": "SE"
+  },
+  {
+    "name": "Bra\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "Boxholm",
+    "country": "SE"
+  },
+  {
+    "name": "Botkyrka Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Borl\u00e4nge Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Borl\u00e4nge",
+    "country": "SE"
+  },
+  {
+    "name": "Borgholm",
+    "country": "SE"
+  },
+  {
+    "name": "Borensberg",
+    "country": "SE"
+  },
+  {
+    "name": "Bor\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "Bor\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "Bor",
+    "country": "SE"
+  },
+  {
+    "name": "Bollstabruk",
+    "country": "SE"
+  },
+  {
+    "name": "Bolln\u00e4s Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Bolln\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Bollmora",
+    "country": "SE"
+  },
+  {
+    "name": "Bollebygd",
+    "country": "SE"
+  },
+  {
+    "name": "Boksj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Bodafors",
+    "country": "SE"
+  },
+  {
+    "name": "Boarp",
+    "country": "SE"
+  },
+  {
+    "name": "Boo",
+    "country": "SE"
+  },
+  {
+    "name": "Blomsterm\u00e5la",
+    "country": "SE"
+  },
+  {
+    "name": "Blentarp",
+    "country": "SE"
+  },
+  {
+    "name": "Blekinge",
+    "country": "SE"
+  },
+  {
+    "name": "Blacksta",
+    "country": "SE"
+  },
+  {
+    "name": "Blackeberg",
+    "country": "SE"
+  },
+  {
+    "name": "Bjuv",
+    "country": "SE"
+  },
+  {
+    "name": "Bjurs\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "Bjurholm",
+    "country": "SE"
+  },
+  {
+    "name": "Bj\u00f6rneborg",
+    "country": "SE"
+  },
+  {
+    "name": "Bj\u00f6rk\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Bj\u00f6rkfors",
+    "country": "SE"
+  },
+  {
+    "name": "Bj\u00e4sta",
+    "country": "SE"
+  },
+  {
+    "name": "Bj\u00e4rred",
+    "country": "SE"
+  },
+  {
+    "name": "Bj\u00e4rnum",
+    "country": "SE"
+  },
+  {
+    "name": "Billingsfors",
+    "country": "SE"
+  },
+  {
+    "name": "Billesholm",
+    "country": "SE"
+  },
+  {
+    "name": "Billdal",
+    "country": "SE"
+  },
+  {
+    "name": "Bergsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Bergshamra",
+    "country": "SE"
+  },
+  {
+    "name": "Hoverberg",
+    "country": "SE"
+  },
+  {
+    "name": "Bergholmen",
+    "country": "SE"
+  },
+  {
+    "name": "Bergeforsen",
+    "country": "SE"
+  },
+  {
+    "name": "Berga",
+    "country": "SE"
+  },
+  {
+    "name": "Berg",
+    "country": "SE"
+  },
+  {
+    "name": "Bengtsfors",
+    "country": "SE"
+  },
+  {
+    "name": "Beddinge L\u00e4ge",
+    "country": "SE"
+  },
+  {
+    "name": "Bastutr\u00e4sk",
+    "country": "SE"
+  },
+  {
+    "name": "B\u00e5stad",
+    "country": "SE"
+  },
+  {
+    "name": "B\u00e5rsl\u00f6v",
+    "country": "SE"
+  },
+  {
+    "name": "Barsele",
+    "country": "SE"
+  },
+  {
+    "name": "Bark\u00e5kra",
+    "country": "SE"
+  },
+  {
+    "name": "Bara",
+    "country": "SE"
+  },
+  {
+    "name": "Bankeryd",
+    "country": "SE"
+  },
+  {
+    "name": "B\u00e5lsta",
+    "country": "SE"
+  },
+  {
+    "name": "Axvall",
+    "country": "SE"
+  },
+  {
+    "name": "Axelvold",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5vik",
+    "country": "SE"
+  },
+  {
+    "name": "Avesta",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5tvidabergs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5tvidaberg",
+    "country": "SE"
+  },
+  {
+    "name": "Attsj\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5sundatorp",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5sumtorp",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5storp",
+    "country": "SE"
+  },
+  {
+    "name": "Assmundtorp",
+    "country": "SE"
+  },
+  {
+    "name": "Aspen\u00e4s",
+    "country": "SE"
+  },
+  {
+    "name": "Asmundtorp",
+    "country": "SE"
+  },
+  {
+    "name": "Askersund",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5sele Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5sele",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5seda",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5sbro",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5sa",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5s",
+    "country": "SE"
+  },
+  {
+    "name": "Arvika",
+    "country": "SE"
+  },
+  {
+    "name": "Arvidsjaurs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Arvidsjaur",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5rsunda",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5rstaskog",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5rsta",
+    "country": "SE"
+  },
+  {
+    "name": "Arn\u00f6",
+    "country": "SE"
+  },
+  {
+    "name": "Arl\u00f6v",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4rla",
+    "country": "SE"
+  },
+  {
+    "name": "Arjeplogs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Arjeplog",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5rj\u00e4ngs Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5rj\u00e4ng",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5re kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Are",
+    "country": "SE"
+  },
+  {
+    "name": "Ardala",
+    "country": "SE"
+  },
+  {
+    "name": "Arbr\u00e5",
+    "country": "SE"
+  },
+  {
+    "name": "Arboga Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Arboga",
+    "country": "SE"
+  },
+  {
+    "name": "Ankarsrum",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4ngelholms Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4ngelholm",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5nge",
+    "country": "SE"
+  },
+  {
+    "name": "Aneby",
+    "country": "SE"
+  },
+  {
+    "name": "Anderstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Andersl\u00f6v",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5motfors",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5m\u00e5l",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4lvkarleby",
+    "country": "SE"
+  },
+  {
+    "name": "Alvesta",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4lvdalens kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4lvdalen",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4lv\u00e4ngen",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4lta",
+    "country": "SE"
+  },
+  {
+    "name": "Alster",
+    "country": "SE"
+  },
+  {
+    "name": "Alsike",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4lmhults Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c4lmhult",
+    "country": "SE"
+  },
+  {
+    "name": "Almby",
+    "country": "SE"
+  },
+  {
+    "name": "Alleby",
+    "country": "SE"
+  },
+  {
+    "name": "Alings\u00e5s Kommun",
+    "country": "SE"
+  },
+  {
+    "name": "Alings\u00e5s",
+    "country": "SE"
+  },
+  {
+    "name": "Alfta",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5led",
+    "country": "SE"
+  },
+  {
+    "name": "Alafors",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5kers Styckebruk",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5kersberga",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5karp",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5hus",
+    "country": "SE"
+  },
+  {
+    "name": "\u00c5by",
+    "country": "SE"
+  },
+  {
+    "name": "Abisko",
+    "country": "SE"
+  },
+  {
+    "name": "Abborrberget",
+    "country": "SE"
+  },
+  {
+    "name": "Petersberg",
+    "country": "SE"
+  },
+  {
+    "name": "Karlsro",
+    "country": "SE"
+  },
+  {
+    "name": "Sl\u00e4tten",
+    "country": "SE"
+  },
+  {
+    "name": "Anderstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Viddviken",
+    "country": "SE"
+  },
+  {
+    "name": "Andalen",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4lle",
+    "country": "SE"
+  },
+  {
+    "name": "Hedeg\u00e4rde",
+    "country": "SE"
+  },
+  {
+    "name": "Fisks\u00e4tra",
+    "country": "SE"
+  },
+  {
+    "name": "Skan\u00f6r med Falsterbo",
+    "country": "SE"
+  },
+  {
+    "name": "N\u00f6dinge-Nol",
+    "country": "SE"
+  },
+  {
+    "name": "Sk\u00e5ne l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "V\u00e4stra G\u00f6talands l\u00e4n",
+    "country": "SE"
+  },
+  {
+    "name": "Ingared",
+    "country": "SE"
+  },
+  {
+    "name": "Majorna",
+    "country": "SE"
+  },
+  {
+    "name": "Salem",
+    "country": "SE"
+  },
+  {
+    "name": "Skytteholm",
+    "country": "SE"
+  },
+  {
+    "name": "Onsala",
+    "country": "SE"
+  },
+  {
+    "name": "Duvedal",
+    "country": "SE"
+  },
+  {
+    "name": "Olstorp",
+    "country": "SE"
+  },
+  {
+    "name": "Bagarmossen",
+    "country": "SE"
+  },
+  {
+    "name": "Erikslid",
+    "country": "SE"
+  },
+  {
+    "name": "Berghem",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4sselby",
+    "country": "SE"
+  },
+  {
+    "name": "H\u00e4sselby G\u00e5rd",
+    "country": "SE"
+  },
+  {
+    "name": "Alby",
+    "country": "SE"
+  },
+  {
+    "name": "Sundshult",
+    "country": "SE"
+  },
+  {
+    "name": "Link\u00f6ping socken",
+    "country": "SE"
+  },
+  {
+    "name": "Link\u00f6pings S:t Lars",
+    "country": "SE"
+  }
+]

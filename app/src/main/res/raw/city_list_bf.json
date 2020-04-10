@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Zoundweogo Province",
+    "country": "BF"
+  },
+  {
+    "name": "Zorgo",
+    "country": "BF"
+  },
+  {
+    "name": "Ziniar\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Yatenga",
+    "country": "BF"
+  },
+  {
+    "name": "Yako",
+    "country": "BF"
+  },
+  {
+    "name": "W\u00e8ndou",
+    "country": "BF"
+  },
+  {
+    "name": "Tougan",
+    "country": "BF"
+  },
+  {
+    "name": "Toma",
+    "country": "BF"
+  },
+  {
+    "name": "Titao",
+    "country": "BF"
+  },
+  {
+    "name": "Tenkodogo",
+    "country": "BF"
+  },
+  {
+    "name": "Province de la Tapoa",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Sourou",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Soum",
+    "country": "BF"
+  },
+  {
+    "name": "Salanso",
+    "country": "BF"
+  },
+  {
+    "name": "Province de la Sissili",
+    "country": "BF"
+  },
+  {
+    "name": "Sindou",
+    "country": "BF"
+  },
+  {
+    "name": "Province du S\u00e9no",
+    "country": "BF"
+  },
+  {
+    "name": "Sebba",
+    "country": "BF"
+  },
+  {
+    "name": "Sapouy",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Sanmatenga",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Sangui\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Samogan",
+    "country": "BF"
+  },
+  {
+    "name": "R\u00e9o",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Poni",
+    "country": "BF"
+  },
+  {
+    "name": "Po\u00ef",
+    "country": "BF"
+  },
+  {
+    "name": "P\u00f4",
+    "country": "BF"
+  },
+  {
+    "name": "Pitmoaga",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Passor\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Pama",
+    "country": "BF"
+  },
+  {
+    "name": "Oufr\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Province de l\u2019Oudalan",
+    "country": "BF"
+  },
+  {
+    "name": "Oubritenga",
+    "country": "BF"
+  },
+  {
+    "name": "Ouargaye",
+    "country": "BF"
+  },
+  {
+    "name": "Ouahigouya",
+    "country": "BF"
+  },
+  {
+    "name": "Ouagadougou",
+    "country": "BF"
+  },
+  {
+    "name": "Nouna",
+    "country": "BF"
+  },
+  {
+    "name": "Nahouri Province",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Namentenga",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Mouhoun",
+    "country": "BF"
+  },
+  {
+    "name": "Manga",
+    "country": "BF"
+  },
+  {
+    "name": "L\u00e9o",
+    "country": "BF"
+  },
+  {
+    "name": "Kouritenga Province",
+    "country": "BF"
+  },
+  {
+    "name": "Koup\u00e9la",
+    "country": "BF"
+  },
+  {
+    "name": "Koudougou",
+    "country": "BF"
+  },
+  {
+    "name": "Province de la Kossi",
+    "country": "BF"
+  },
+  {
+    "name": "Kongoussi",
+    "country": "BF"
+  },
+  {
+    "name": "Province de la Como\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Kombissiri",
+    "country": "BF"
+  },
+  {
+    "name": "Kokologo",
+    "country": "BF"
+  },
+  {
+    "name": "Province du K\u00e9n\u00e9dougou",
+    "country": "BF"
+  },
+  {
+    "name": "Kaya",
+    "country": "BF"
+  },
+  {
+    "name": "Kadiogo Province",
+    "country": "BF"
+  },
+  {
+    "name": "Hound\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Houet",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Gourma",
+    "country": "BF"
+  },
+  {
+    "name": "Gourcy",
+    "country": "BF"
+  },
+  {
+    "name": "Goulour\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Gorom-Gorom",
+    "country": "BF"
+  },
+  {
+    "name": "Gnagna Province",
+    "country": "BF"
+  },
+  {
+    "name": "Gay\u00e9ri",
+    "country": "BF"
+  },
+  {
+    "name": "Garango",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Ganzourgou",
+    "country": "BF"
+  },
+  {
+    "name": "Fada N'gourma",
+    "country": "BF"
+  },
+  {
+    "name": "Dori",
+    "country": "BF"
+  },
+  {
+    "name": "Dogona",
+    "country": "BF"
+  },
+  {
+    "name": "Djibo",
+    "country": "BF"
+  },
+  {
+    "name": "Di\u00e9bougou",
+    "country": "BF"
+  },
+  {
+    "name": "Diapaga",
+    "country": "BF"
+  },
+  {
+    "name": "D\u00e9dougou",
+    "country": "BF"
+  },
+  {
+    "name": "Dano",
+    "country": "BF"
+  },
+  {
+    "name": "Burkina Faso",
+    "country": "BF"
+  },
+  {
+    "name": "Bouss\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Boulsa",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Boulkiemd\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Boulgou",
+    "country": "BF"
+  },
+  {
+    "name": "Province de la Bougouriba",
+    "country": "BF"
+  },
+  {
+    "name": "Boromo",
+    "country": "BF"
+  },
+  {
+    "name": "Bogand\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Bobo-Dioulasso",
+    "country": "BF"
+  },
+  {
+    "name": "Bazega Province",
+    "country": "BF"
+  },
+  {
+    "name": "Bati\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Banfora",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Bam",
+    "country": "BF"
+  },
+  {
+    "name": "Gaoua",
+    "country": "BF"
+  },
+  {
+    "name": "Orodara",
+    "country": "BF"
+  },
+  {
+    "name": "Province des Bal\u00e9",
+    "country": "BF"
+  },
+  {
+    "name": "Province des Banwa",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Ioba",
+    "country": "BF"
+  },
+  {
+    "name": "Province de la Komandjoari",
+    "country": "BF"
+  },
+  {
+    "name": "Province de la Kompienga",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Koulp\u00e9logo",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Kourw\u00e9ogo",
+    "country": "BF"
+  },
+  {
+    "name": "Province de la L\u00e9raba",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Loroum",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Nayala",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Noumbi\u00e8l",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Tuy",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Yagha",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Ziro",
+    "country": "BF"
+  },
+  {
+    "name": "Province du Zondoma",
+    "country": "BF"
+  },
+  {
+    "name": "Boucle du Mouhoun Region",
+    "country": "BF"
+  },
+  {
+    "name": "Cascades Region",
+    "country": "BF"
+  },
+  {
+    "name": "Centre",
+    "country": "BF"
+  },
+  {
+    "name": "Centre-Est",
+    "country": "BF"
+  },
+  {
+    "name": "Centre-Nord",
+    "country": "BF"
+  },
+  {
+    "name": "Centre-Ouest",
+    "country": "BF"
+  },
+  {
+    "name": "Centre-Sud",
+    "country": "BF"
+  },
+  {
+    "name": "Est",
+    "country": "BF"
+  },
+  {
+    "name": "High-Basins Region",
+    "country": "BF"
+  },
+  {
+    "name": "Nord",
+    "country": "BF"
+  },
+  {
+    "name": "Plateau-Central",
+    "country": "BF"
+  },
+  {
+    "name": "Sahel",
+    "country": "BF"
+  },
+  {
+    "name": "Southwest Region",
+    "country": "BF"
+  }
+]

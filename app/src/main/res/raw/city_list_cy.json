@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Protaras",
+    "country": "CY"
+  },
+  {
+    "name": "\u00ddpsonas",
+    "country": "CY"
+  },
+  {
+    "name": "Ger\u00f3lakkos",
+    "country": "CY"
+  },
+  {
+    "name": "G\u00e9ri",
+    "country": "CY"
+  },
+  {
+    "name": "Ts\u00e9ri",
+    "country": "CY"
+  },
+  {
+    "name": "Vor\u00f3klini",
+    "country": "CY"
+  },
+  {
+    "name": "T\u00fdmvou",
+    "country": "CY"
+  },
+  {
+    "name": "Tro\u00falloi",
+    "country": "CY"
+  },
+  {
+    "name": "Tr\u00edkomo",
+    "country": "CY"
+  },
+  {
+    "name": "Tersef\u00e1nou",
+    "country": "CY"
+  },
+  {
+    "name": "T\u00e1la",
+    "country": "CY"
+  },
+  {
+    "name": "Sot\u00edra",
+    "country": "CY"
+  },
+  {
+    "name": "Rizok\u00e1rpaso",
+    "country": "CY"
+  },
+  {
+    "name": "Pyrgos",
+    "country": "CY"
+  },
+  {
+    "name": "P\u00fdla",
+    "country": "CY"
+  },
+  {
+    "name": "Psimolofou",
+    "country": "CY"
+  },
+  {
+    "name": "Psevd\u00e1s",
+    "country": "CY"
+  },
+  {
+    "name": "P\u00f3lis",
+    "country": "CY"
+  },
+  {
+    "name": "Pisso\u00fari",
+    "country": "CY"
+  },
+  {
+    "name": "Fr\u00e9naros",
+    "country": "CY"
+  },
+  {
+    "name": "P\u00e9geia",
+    "country": "CY"
+  },
+  {
+    "name": "Periv\u00f3lia",
+    "country": "CY"
+  },
+  {
+    "name": "Perister\u00f3na",
+    "country": "CY"
+  },
+  {
+    "name": "P\u00e9ra",
+    "country": "CY"
+  },
+  {
+    "name": "Pel\u00e9ndri",
+    "country": "CY"
+  },
+  {
+    "name": "Parekklisha",
+    "country": "CY"
+  },
+  {
+    "name": "Paral\u00edmni",
+    "country": "CY"
+  },
+  {
+    "name": "Eparch\u00eda P\u00e1fou",
+    "country": "CY"
+  },
+  {
+    "name": "Paphos",
+    "country": "CY"
+  },
+  {
+    "name": "P\u00e1no Polem\u00eddia",
+    "country": "CY"
+  },
+  {
+    "name": "P\u00e1no Defter\u00e1",
+    "country": "CY"
+  },
+  {
+    "name": "Pallouri\u00f3tissa",
+    "country": "CY"
+  },
+  {
+    "name": "P\u00e1chna",
+    "country": "CY"
+  },
+  {
+    "name": "Eparch\u00eda Lefkos\u00edas",
+    "country": "CY"
+  },
+  {
+    "name": "Nicosia",
+    "country": "CY"
+  },
+  {
+    "name": "Mouttagi\u00e1ka",
+    "country": "CY"
+  },
+  {
+    "name": "Mosfilot\u00ed",
+    "country": "CY"
+  },
+  {
+    "name": "M\u00f3rfou",
+    "country": "CY"
+  },
+  {
+    "name": "Mes\u00f3gi",
+    "country": "CY"
+  },
+  {
+    "name": "Meneou",
+    "country": "CY"
+  },
+  {
+    "name": "M\u00e1mmari",
+    "country": "CY"
+  },
+  {
+    "name": "Lythrod\u00f3ntas",
+    "country": "CY"
+  },
+  {
+    "name": "L\u00fdmpia",
+    "country": "CY"
+  },
+  {
+    "name": "Liv\u00e1dia",
+    "country": "CY"
+  },
+  {
+    "name": "Liop\u00e9tri",
+    "country": "CY"
+  },
+  {
+    "name": "Eparch\u00eda Lemeso\u00fa",
+    "country": "CY"
+  },
+  {
+    "name": "Limassol",
+    "country": "CY"
+  },
+  {
+    "name": "Leon\u00e1risso",
+    "country": "CY"
+  },
+  {
+    "name": "Lefk\u00f3noiko",
+    "country": "CY"
+  },
+  {
+    "name": "L\u00e9fka",
+    "country": "CY"
+  },
+  {
+    "name": "Eparch\u00eda L\u00e1rnakas",
+    "country": "CY"
+  },
+  {
+    "name": "Larnaca",
+    "country": "CY"
+  },
+  {
+    "name": "L\u00e1pithos",
+    "country": "CY"
+  },
+  {
+    "name": "Eparch\u00eda Ker\u00fdneias",
+    "country": "CY"
+  },
+  {
+    "name": "Kyrenia",
+    "country": "CY"
+  },
+  {
+    "name": "Kypero\u00fanta",
+    "country": "CY"
+  },
+  {
+    "name": "K\u00f3rnos",
+    "country": "CY"
+  },
+  {
+    "name": "Kof\u00ednou",
+    "country": "CY"
+  },
+  {
+    "name": "Kokkinotrimithi\u00e1",
+    "country": "CY"
+  },
+  {
+    "name": "Kl\u00edrou",
+    "country": "CY"
+  },
+  {
+    "name": "K\u00edti",
+    "country": "CY"
+  },
+  {
+    "name": "Kissonerga",
+    "country": "CY"
+  },
+  {
+    "name": "Chl\u00f3rakas",
+    "country": "CY"
+  },
+  {
+    "name": "K\u00e1to P\u00fdrgos",
+    "country": "CY"
+  },
+  {
+    "name": "K\u00e1to Defter\u00e1",
+    "country": "CY"
+  },
+  {
+    "name": "Kakopetri\u00e1",
+    "country": "CY"
+  },
+  {
+    "name": "Eparch\u00eda Ammoch\u00f3stou",
+    "country": "CY"
+  },
+  {
+    "name": "Famagusta",
+    "country": "CY"
+  },
+  {
+    "name": "Er\u00edmi",
+    "country": "CY"
+  },
+  {
+    "name": "Episkop\u00ed",
+    "country": "CY"
+  },
+  {
+    "name": "Emba",
+    "country": "CY"
+  },
+  {
+    "name": "Dhromolaxia",
+    "country": "CY"
+  },
+  {
+    "name": "Der\u00fdneia",
+    "country": "CY"
+  },
+  {
+    "name": "D\u00e1li",
+    "country": "CY"
+  },
+  {
+    "name": "Republic of Cyprus",
+    "country": "CY"
+  },
+  {
+    "name": "\u00c1gios T\u00fdchon",
+    "country": "CY"
+  },
+  {
+    "name": "Ayia Napa",
+    "country": "CY"
+  },
+  {
+    "name": "Avg\u00f3rou",
+    "country": "CY"
+  },
+  {
+    "name": "\u00c1chna",
+    "country": "CY"
+  },
+  {
+    "name": "Ath\u00edenou",
+    "country": "CY"
+  },
+  {
+    "name": "Athal\u00e1ssa",
+    "country": "CY"
+  },
+  {
+    "name": "Astromer\u00edtis",
+    "country": "CY"
+  },
+  {
+    "name": "As\u00ednou",
+    "country": "CY"
+  },
+  {
+    "name": "Erg\u00e1tes",
+    "country": "CY"
+  },
+  {
+    "name": "Arad\u00edppou",
+    "country": "CY"
+  },
+  {
+    "name": "Aredio\u00fa",
+    "country": "CY"
+  },
+  {
+    "name": "Al\u00e1mpra",
+    "country": "CY"
+  },
+  {
+    "name": "Acher\u00edtou",
+    "country": "CY"
+  },
+  {
+    "name": "Ach\u00e9leia",
+    "country": "CY"
+  },
+  {
+    "name": "Ak\u00e1ki",
+    "country": "CY"
+  },
+  {
+    "name": "M\u00e9niko",
+    "country": "CY"
+  }
+]

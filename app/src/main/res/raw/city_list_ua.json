@@ -1,0 +1,6718 @@
+[
+  {
+    "name": "Olenevka",
+    "country": "UA"
+  },
+  {
+    "name": "Urzuf",
+    "country": "UA"
+  },
+  {
+    "name": "Lebedyn",
+    "country": "UA"
+  },
+  {
+    "name": "Staryy Dobrotvir",
+    "country": "UA"
+  },
+  {
+    "name": "Druzhkivka",
+    "country": "UA"
+  },
+  {
+    "name": "Zhydachiv",
+    "country": "UA"
+  },
+  {
+    "name": "Vasylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Ivano-Frankove",
+    "country": "UA"
+  },
+  {
+    "name": "Zvenihorodka",
+    "country": "UA"
+  },
+  {
+    "name": "Zuya",
+    "country": "UA"
+  },
+  {
+    "name": "Zuhres",
+    "country": "UA"
+  },
+  {
+    "name": "Zorkino",
+    "country": "UA"
+  },
+  {
+    "name": "Zolotyy Potik",
+    "country": "UA"
+  },
+  {
+    "name": "Zolotonosha",
+    "country": "UA"
+  },
+  {
+    "name": "Zolochiv",
+    "country": "UA"
+  },
+  {
+    "name": "Zolochiv",
+    "country": "UA"
+  },
+  {
+    "name": "Zol\u2019noye",
+    "country": "UA"
+  },
+  {
+    "name": "Znomenka",
+    "country": "UA"
+  },
+  {
+    "name": "Zmiyiv",
+    "country": "UA"
+  },
+  {
+    "name": "Zlynka",
+    "country": "UA"
+  },
+  {
+    "name": "Zlatopil\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Zinkivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Zhytomyrs\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Zhytomyr",
+    "country": "UA"
+  },
+  {
+    "name": "Zhvanets",
+    "country": "UA"
+  },
+  {
+    "name": "Zhuravka",
+    "country": "UA"
+  },
+  {
+    "name": "Zhuliany",
+    "country": "UA"
+  },
+  {
+    "name": "Zhukovka",
+    "country": "UA"
+  },
+  {
+    "name": "Zhovtnevoye",
+    "country": "UA"
+  },
+  {
+    "name": "Blahodatne",
+    "country": "UA"
+  },
+  {
+    "name": "Zhovkva",
+    "country": "UA"
+  },
+  {
+    "name": "Zhmerynka",
+    "country": "UA"
+  },
+  {
+    "name": "Zhigulina Roshcha",
+    "country": "UA"
+  },
+  {
+    "name": "Zhelyabovka",
+    "country": "UA"
+  },
+  {
+    "name": "Zhovti Vody",
+    "country": "UA"
+  },
+  {
+    "name": "Zhashkiv",
+    "country": "UA"
+  },
+  {
+    "name": "Zgurovka",
+    "country": "UA"
+  },
+  {
+    "name": "Zin\u2019kiv",
+    "country": "UA"
+  },
+  {
+    "name": "Zemlyanichnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Zelenyy Hay",
+    "country": "UA"
+  },
+  {
+    "name": "Zelene",
+    "country": "UA"
+  },
+  {
+    "name": "Zelenogor'e",
+    "country": "UA"
+  },
+  {
+    "name": "Zdolbuniv",
+    "country": "UA"
+  },
+  {
+    "name": "Zdovbytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Zboriv",
+    "country": "UA"
+  },
+  {
+    "name": "Zbarazh",
+    "country": "UA"
+  },
+  {
+    "name": "Zavods\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Zavallya",
+    "country": "UA"
+  },
+  {
+    "name": "Karolino-Buhaz",
+    "country": "UA"
+  },
+  {
+    "name": "Zatoka",
+    "country": "UA"
+  },
+  {
+    "name": "Zatyshshya",
+    "country": "UA"
+  },
+  {
+    "name": "Zastavna",
+    "country": "UA"
+  },
+  {
+    "name": "Zorya",
+    "country": "UA"
+  },
+  {
+    "name": "Zarech\u2019ye",
+    "country": "UA"
+  },
+  {
+    "name": "Zarichchya",
+    "country": "UA"
+  },
+  {
+    "name": "Zarichne",
+    "country": "UA"
+  },
+  {
+    "name": "Zarechnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Zaprudnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Zaprudnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Zaporizhzhya-Live",
+    "country": "UA"
+  },
+  {
+    "name": "Zaporiz\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Zaporizhia",
+    "country": "UA"
+  },
+  {
+    "name": "Zaozyornoye",
+    "country": "UA"
+  },
+  {
+    "name": "Zamost\u2019ye",
+    "country": "UA"
+  },
+  {
+    "name": "Zaliztsi",
+    "country": "UA"
+  },
+  {
+    "name": "Zaliznyy Port",
+    "country": "UA"
+  },
+  {
+    "name": "Zaliznychne",
+    "country": "UA"
+  },
+  {
+    "name": "Zaliznychne",
+    "country": "UA"
+  },
+  {
+    "name": "Zalesnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Zalesnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Zalishchyky",
+    "country": "UA"
+  },
+  {
+    "name": "Zakutnivka",
+    "country": "UA"
+  },
+  {
+    "name": "Zakupne",
+    "country": "UA"
+  },
+  {
+    "name": "Zakarpattia Oblast",
+    "country": "UA"
+  },
+  {
+    "name": "Zahvizdya",
+    "country": "UA"
+  },
+  {
+    "name": "Zagnitkiv",
+    "country": "UA"
+  },
+  {
+    "name": "Zachepylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Zabolotiv",
+    "country": "UA"
+  },
+  {
+    "name": "Yuzhnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Yuzhne",
+    "country": "UA"
+  },
+  {
+    "name": "Yur\u201dyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Yuriv",
+    "country": "UA"
+  },
+  {
+    "name": "Yurkivka",
+    "country": "UA"
+  },
+  {
+    "name": "Yunga",
+    "country": "UA"
+  },
+  {
+    "name": "Yevpatoriya",
+    "country": "UA"
+  },
+  {
+    "name": "Yermakovo",
+    "country": "UA"
+  },
+  {
+    "name": "Yerky",
+    "country": "UA"
+  },
+  {
+    "name": "Yenikale",
+    "country": "UA"
+  },
+  {
+    "name": "Yenakiyeve",
+    "country": "UA"
+  },
+  {
+    "name": "Omelyaniv",
+    "country": "UA"
+  },
+  {
+    "name": "Yelyzavetivka",
+    "country": "UA"
+  },
+  {
+    "name": "Yelyzavethradka",
+    "country": "UA"
+  },
+  {
+    "name": "Yelanets\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Yavoriv",
+    "country": "UA"
+  },
+  {
+    "name": "Yavoriv",
+    "country": "UA"
+  },
+  {
+    "name": "Yasna Polyana",
+    "country": "UA"
+  },
+  {
+    "name": "Yasinya",
+    "country": "UA"
+  },
+  {
+    "name": "Yasynuvata",
+    "country": "UA"
+  },
+  {
+    "name": "Yarmolyntsi",
+    "country": "UA"
+  },
+  {
+    "name": "Ivano Yaryzivka",
+    "country": "UA"
+  },
+  {
+    "name": "Yaremche",
+    "country": "UA"
+  },
+  {
+    "name": "Yampil\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Yamnytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Yalta",
+    "country": "UA"
+  },
+  {
+    "name": "Yalta",
+    "country": "UA"
+  },
+  {
+    "name": "Yahotyn",
+    "country": "UA"
+  },
+  {
+    "name": "Yahil\u2019nytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Yabluniv",
+    "country": "UA"
+  },
+  {
+    "name": "Yablon\u2019ki",
+    "country": "UA"
+  },
+  {
+    "name": "Yablunytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Vyshchetarasivka",
+    "country": "UA"
+  },
+  {
+    "name": "Vysoke",
+    "country": "UA"
+  },
+  {
+    "name": "Vysoke",
+    "country": "UA"
+  },
+  {
+    "name": "Vysokopillya",
+    "country": "UA"
+  },
+  {
+    "name": "Vysokyy",
+    "country": "UA"
+  },
+  {
+    "name": "Vyshkovo",
+    "country": "UA"
+  },
+  {
+    "name": "Vyshhorod",
+    "country": "UA"
+  },
+  {
+    "name": "Vyshehrad",
+    "country": "UA"
+  },
+  {
+    "name": "Vynohradiv",
+    "country": "UA"
+  },
+  {
+    "name": "Vylok",
+    "country": "UA"
+  },
+  {
+    "name": "Vylkove",
+    "country": "UA"
+  },
+  {
+    "name": "Vvedenka",
+    "country": "UA"
+  },
+  {
+    "name": "Vulkanovka",
+    "country": "UA"
+  },
+  {
+    "name": "Vulino",
+    "country": "UA"
+  },
+  {
+    "name": "Vugrinivka",
+    "country": "UA"
+  },
+  {
+    "name": "Vuhlyar",
+    "country": "UA"
+  },
+  {
+    "name": "Vradiyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Voznesensk",
+    "country": "UA"
+  },
+  {
+    "name": "Voznesenka",
+    "country": "UA"
+  },
+  {
+    "name": "Voykovo",
+    "country": "UA"
+  },
+  {
+    "name": "Voskhod",
+    "country": "UA"
+  },
+  {
+    "name": "Voskhod",
+    "country": "UA"
+  },
+  {
+    "name": "Vorzel\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Vorozhba",
+    "country": "UA"
+  },
+  {
+    "name": "Chernihivka",
+    "country": "UA"
+  },
+  {
+    "name": "Voronovytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Voronizh",
+    "country": "UA"
+  },
+  {
+    "name": "Vorokhta",
+    "country": "UA"
+  },
+  {
+    "name": "Volyns\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Volovets",
+    "country": "UA"
+  },
+  {
+    "name": "Voloka",
+    "country": "UA"
+  },
+  {
+    "name": "Nikol's\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Volodarka",
+    "country": "UA"
+  },
+  {
+    "name": "Volochysk",
+    "country": "UA"
+  },
+  {
+    "name": "Vil\u2019ne",
+    "country": "UA"
+  },
+  {
+    "name": "Volnovakha",
+    "country": "UA"
+  },
+  {
+    "name": "Vil\u2019nohirs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Vovchans\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Voinka",
+    "country": "UA"
+  },
+  {
+    "name": "Vodyane",
+    "country": "UA"
+  },
+  {
+    "name": "Vladislavovka",
+    "country": "UA"
+  },
+  {
+    "name": "Volodymyr-Volynskyi",
+    "country": "UA"
+  },
+  {
+    "name": "Volodymyrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Volodymyrets\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Vyzhnytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Vyshnivka",
+    "country": "UA"
+  },
+  {
+    "name": "Vyshneve",
+    "country": "UA"
+  },
+  {
+    "name": "Vyshneve",
+    "country": "UA"
+  },
+  {
+    "name": "Vynohradove",
+    "country": "UA"
+  },
+  {
+    "name": "Vynohradivka",
+    "country": "UA"
+  },
+  {
+    "name": "Vinogradnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Vinnytsia",
+    "country": "UA"
+  },
+  {
+    "name": "Vinnyts\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Vil\u2019nyans\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Vilino",
+    "country": "UA"
+  },
+  {
+    "name": "Veselynove",
+    "country": "UA"
+  },
+  {
+    "name": "Vesele",
+    "country": "UA"
+  },
+  {
+    "name": "Vesyoloye",
+    "country": "UA"
+  },
+  {
+    "name": "Vesyoloye",
+    "country": "UA"
+  },
+  {
+    "name": "Verkhovyna",
+    "country": "UA"
+  },
+  {
+    "name": "Verkhnya Syrovatka",
+    "country": "UA"
+  },
+  {
+    "name": "Verchnia Rozhanka",
+    "country": "UA"
+  },
+  {
+    "name": "Verkhnya Krynytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Verkhniachka",
+    "country": "UA"
+  },
+  {
+    "name": "Verkhniy Yasenov",
+    "country": "UA"
+  },
+  {
+    "name": "Verkhniy Rohachyk",
+    "country": "UA"
+  },
+  {
+    "name": "Verkhnie Synevydne",
+    "country": "UA"
+  },
+  {
+    "name": "Verkhnesadovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Verkhn\u2019odniprovs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Verenchanka",
+    "country": "UA"
+  },
+  {
+    "name": "Verbivka",
+    "country": "UA"
+  },
+  {
+    "name": "Verbuvativka",
+    "country": "UA"
+  },
+  {
+    "name": "Verbky",
+    "country": "UA"
+  },
+  {
+    "name": "Verbivka",
+    "country": "UA"
+  },
+  {
+    "name": "Verbany",
+    "country": "UA"
+  },
+  {
+    "name": "Rozivka",
+    "country": "UA"
+  },
+  {
+    "name": "Vendychany",
+    "country": "UA"
+  },
+  {
+    "name": "Velykoploske",
+    "country": "UA"
+  },
+  {
+    "name": "Velyka Mykhaylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Vel'ky Sevl'yush",
+    "country": "UA"
+  },
+  {
+    "name": "Velykyy Klyuchiv",
+    "country": "UA"
+  },
+  {
+    "name": "Velyki Sorochyntsi",
+    "country": "UA"
+  },
+  {
+    "name": "Velyki Kopani",
+    "country": "UA"
+  },
+  {
+    "name": "Velikiye Borki",
+    "country": "UA"
+  },
+  {
+    "name": "Velykyy Burluk",
+    "country": "UA"
+  },
+  {
+    "name": "Velykyi Bereznyi",
+    "country": "UA"
+  },
+  {
+    "name": "Velyka Pysarivka",
+    "country": "UA"
+  },
+  {
+    "name": "Velyka Lepetykha",
+    "country": "UA"
+  },
+  {
+    "name": "Velyka Bilozerka",
+    "country": "UA"
+  },
+  {
+    "name": "Velyka Bahachka",
+    "country": "UA"
+  },
+  {
+    "name": "Velyka Oleksandrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Vatutine",
+    "country": "UA"
+  },
+  {
+    "name": "Vasyshcheve",
+    "country": "UA"
+  },
+  {
+    "name": "Vasylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Vasil\u2019yevka",
+    "country": "UA"
+  },
+  {
+    "name": "Urochishche Vasil\u2019yevka",
+    "country": "UA"
+  },
+  {
+    "name": "Vasilivika",
+    "country": "UA"
+  },
+  {
+    "name": "Vasylkiv",
+    "country": "UA"
+  },
+  {
+    "name": "Vashkivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Vary",
+    "country": "UA"
+  },
+  {
+    "name": "Varvarivka",
+    "country": "UA"
+  },
+  {
+    "name": "Varvarovka",
+    "country": "UA"
+  },
+  {
+    "name": "Varva",
+    "country": "UA"
+  },
+  {
+    "name": "Varshitsa",
+    "country": "UA"
+  },
+  {
+    "name": "Vapnyarka",
+    "country": "UA"
+  },
+  {
+    "name": "Valky",
+    "country": "UA"
+  },
+  {
+    "name": "Uzyn",
+    "country": "UA"
+  },
+  {
+    "name": "Uzhgorod",
+    "country": "UA"
+  },
+  {
+    "name": "Uzenbash",
+    "country": "UA"
+  },
+  {
+    "name": "Uyutnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Uyutnaya",
+    "country": "UA"
+  },
+  {
+    "name": "Utkivka",
+    "country": "UA"
+  },
+  {
+    "name": "Ustynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Uspenka",
+    "country": "UA"
+  },
+  {
+    "name": "Ushchel\u2019noye",
+    "country": "UA"
+  },
+  {
+    "name": "Usatove",
+    "country": "UA"
+  },
+  {
+    "name": "Russkoye",
+    "country": "UA"
+  },
+  {
+    "name": "Uralo-Kavkaz",
+    "country": "UA"
+  },
+  {
+    "name": "Nyzhni Petrivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Uman",
+    "country": "UA"
+  },
+  {
+    "name": "Blahovishchens\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Ulychne",
+    "country": "UA"
+  },
+  {
+    "name": "Ulaniv",
+    "country": "UA"
+  },
+  {
+    "name": "Ukrainka",
+    "country": "UA"
+  },
+  {
+    "name": "Ukrayinka",
+    "country": "UA"
+  },
+  {
+    "name": "Ukrayinka",
+    "country": "UA"
+  },
+  {
+    "name": "Ukraine",
+    "country": "UA"
+  },
+  {
+    "name": "Uhryniv",
+    "country": "UA"
+  },
+  {
+    "name": "Uhniv",
+    "country": "UA"
+  },
+  {
+    "name": "Uglovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Vuhlehirs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Vuhledar",
+    "country": "UA"
+  },
+  {
+    "name": "Uchkuyeva",
+    "country": "UA"
+  },
+  {
+    "name": "Vysokogornoye",
+    "country": "UA"
+  },
+  {
+    "name": "Tysmenytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Tysmenychany",
+    "country": "UA"
+  },
+  {
+    "name": "Tynne",
+    "country": "UA"
+  },
+  {
+    "name": "Tyachiv",
+    "country": "UA"
+  },
+  {
+    "name": "Turka",
+    "country": "UA"
+  },
+  {
+    "name": "Turiys\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Turgenevka",
+    "country": "UA"
+  },
+  {
+    "name": "Turbiv",
+    "country": "UA"
+  },
+  {
+    "name": "Tulchyn",
+    "country": "UA"
+  },
+  {
+    "name": "Tukhlia",
+    "country": "UA"
+  },
+  {
+    "name": "Tsyurupyns\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Tsybulevka",
+    "country": "UA"
+  },
+  {
+    "name": "Tsybli",
+    "country": "UA"
+  },
+  {
+    "name": "Tsvetkovo",
+    "country": "UA"
+  },
+  {
+    "name": "Tsibulev",
+    "country": "UA"
+  },
+  {
+    "name": "Tsarychanka",
+    "country": "UA"
+  },
+  {
+    "name": "Pushkino",
+    "country": "UA"
+  },
+  {
+    "name": "Truskavets\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Trukhaniv Island",
+    "country": "UA"
+  },
+  {
+    "name": "Trostyanets\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Troyits\u2019ko-Khartsyz\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Trypillia",
+    "country": "UA"
+  },
+  {
+    "name": "Trebukhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Toshkivka",
+    "country": "UA"
+  },
+  {
+    "name": "Chystyakove",
+    "country": "UA"
+  },
+  {
+    "name": "Tomakivka",
+    "country": "UA"
+  },
+  {
+    "name": "Tovste",
+    "country": "UA"
+  },
+  {
+    "name": "Dachnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Tokmak",
+    "country": "UA"
+  },
+  {
+    "name": "Tlumach",
+    "country": "UA"
+  },
+  {
+    "name": "Tyshkivka",
+    "country": "UA"
+  },
+  {
+    "name": "Tymoshivka",
+    "country": "UA"
+  },
+  {
+    "name": "Tetiiv",
+    "country": "UA"
+  },
+  {
+    "name": "Terpinnya",
+    "country": "UA"
+  },
+  {
+    "name": "Terny",
+    "country": "UA"
+  },
+  {
+    "name": "Ternivka",
+    "country": "UA"
+  },
+  {
+    "name": "Ternivka",
+    "country": "UA"
+  },
+  {
+    "name": "Ternovka",
+    "country": "UA"
+  },
+  {
+    "name": "Ternuvate",
+    "country": "UA"
+  },
+  {
+    "name": "Ternopil\u2019s\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Ternopil",
+    "country": "UA"
+  },
+  {
+    "name": "Terenair",
+    "country": "UA"
+  },
+  {
+    "name": "Terebovlya",
+    "country": "UA"
+  },
+  {
+    "name": "Teplohirs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Teplyk",
+    "country": "UA"
+  },
+  {
+    "name": "Teofipol",
+    "country": "UA"
+  },
+  {
+    "name": "Boykivske",
+    "country": "UA"
+  },
+  {
+    "name": "Telychka",
+    "country": "UA"
+  },
+  {
+    "name": "Tatarbunary",
+    "country": "UA"
+  },
+  {
+    "name": "Tarutyne",
+    "country": "UA"
+  },
+  {
+    "name": "Ostrovskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Tarashcha",
+    "country": "UA"
+  },
+  {
+    "name": "Tankovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Talalayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Taburishche",
+    "country": "UA"
+  },
+  {
+    "name": "Syrayi",
+    "country": "UA"
+  },
+  {
+    "name": "Syevyerodonets\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Nyvky",
+    "country": "UA"
+  },
+  {
+    "name": "Svyatogorsk",
+    "country": "UA"
+  },
+  {
+    "name": "Svobodnaya Zhizn\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Svityaz\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Svitlovods\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Sverdlovs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Svatove",
+    "country": "UA"
+  },
+  {
+    "name": "Svarychiv",
+    "country": "UA"
+  },
+  {
+    "name": "Svalyava",
+    "country": "UA"
+  },
+  {
+    "name": "Sutysky",
+    "country": "UA"
+  },
+  {
+    "name": "Surs\u2019ko-Mykhaylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Surs\u2019ko-Lytovs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Sumy",
+    "country": "UA"
+  },
+  {
+    "name": "Sums\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Sukhyy Lyman",
+    "country": "UA"
+  },
+  {
+    "name": "Sukhovolya",
+    "country": "UA"
+  },
+  {
+    "name": "Stepnohirs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Sukhodil\u2019s\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Sukharka",
+    "country": "UA"
+  },
+  {
+    "name": "Sudova Vyshnya",
+    "country": "UA"
+  },
+  {
+    "name": "Sudak",
+    "country": "UA"
+  },
+  {
+    "name": "Subottsi",
+    "country": "UA"
+  },
+  {
+    "name": "Studenok",
+    "country": "UA"
+  },
+  {
+    "name": "Stryi",
+    "country": "UA"
+  },
+  {
+    "name": "Strogonovka",
+    "country": "UA"
+  },
+  {
+    "name": "Strabychovo",
+    "country": "UA"
+  },
+  {
+    "name": "Stizhkivs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Storozhynets\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Stolbovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Stetseva",
+    "country": "UA"
+  },
+  {
+    "name": "Stepanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Stebnyk",
+    "country": "UA"
+  },
+  {
+    "name": "Stebliv",
+    "country": "UA"
+  },
+  {
+    "name": "Stavyshche",
+    "country": "UA"
+  },
+  {
+    "name": "Staryy Sambir",
+    "country": "UA"
+  },
+  {
+    "name": "Staryy Saltiv",
+    "country": "UA"
+  },
+  {
+    "name": "Staryy Merchyk",
+    "country": "UA"
+  },
+  {
+    "name": "Staryy Krym",
+    "country": "UA"
+  },
+  {
+    "name": "Stary Krym",
+    "country": "UA"
+  },
+  {
+    "name": "Stari Kuty",
+    "country": "UA"
+  },
+  {
+    "name": "Stari Bohorodchany",
+    "country": "UA"
+  },
+  {
+    "name": "Starovirivka",
+    "country": "UA"
+  },
+  {
+    "name": "Starosel\u2019ye",
+    "country": "UA"
+  },
+  {
+    "name": "Starokostiantyniv",
+    "country": "UA"
+  },
+  {
+    "name": "Starokozache",
+    "country": "UA"
+  },
+  {
+    "name": "Starobesheve",
+    "country": "UA"
+  },
+  {
+    "name": "Starobil\u2019s\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Starychi",
+    "country": "UA"
+  },
+  {
+    "name": "Stara Vyzhivka",
+    "country": "UA"
+  },
+  {
+    "name": "Stara Syniava",
+    "country": "UA"
+  },
+  {
+    "name": "Stara Darnytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Stanislav",
+    "country": "UA"
+  },
+  {
+    "name": "Kadiyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Sredniy Fontan",
+    "country": "UA"
+  },
+  {
+    "name": "Serednye Vodyane",
+    "country": "UA"
+  },
+  {
+    "name": "Serednye",
+    "country": "UA"
+  },
+  {
+    "name": "Sribne",
+    "country": "UA"
+  },
+  {
+    "name": "Spas\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Spas",
+    "country": "UA"
+  },
+  {
+    "name": "Sovetskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Satera",
+    "country": "UA"
+  },
+  {
+    "name": "Sosnovka",
+    "country": "UA"
+  },
+  {
+    "name": "Sosnytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Solotvyno",
+    "country": "UA"
+  },
+  {
+    "name": "Solotvyn",
+    "country": "UA"
+  },
+  {
+    "name": "Solonka",
+    "country": "UA"
+  },
+  {
+    "name": "Solonytsivka",
+    "country": "UA"
+  },
+  {
+    "name": "Solnechnaya Dolina",
+    "country": "UA"
+  },
+  {
+    "name": "Solyonoye Ozero",
+    "country": "UA"
+  },
+  {
+    "name": "Solone",
+    "country": "UA"
+  },
+  {
+    "name": "Sokolove",
+    "country": "UA"
+  },
+  {
+    "name": "Sokolohirne",
+    "country": "UA"
+  },
+  {
+    "name": "Sokolinoye",
+    "country": "UA"
+  },
+  {
+    "name": "Sokyryany",
+    "country": "UA"
+  },
+  {
+    "name": "Sokal\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Sofiyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Sofiivka",
+    "country": "UA"
+  },
+  {
+    "name": "Sobolivka",
+    "country": "UA"
+  },
+  {
+    "name": "Sobatyn",
+    "country": "UA"
+  },
+  {
+    "name": "Sniatyn",
+    "country": "UA"
+  },
+  {
+    "name": "Oliva",
+    "country": "UA"
+  },
+  {
+    "name": "Snihurivka",
+    "country": "UA"
+  },
+  {
+    "name": "Snizhne",
+    "country": "UA"
+  },
+  {
+    "name": "Smila",
+    "country": "UA"
+  },
+  {
+    "name": "Sloviansk",
+    "country": "UA"
+  },
+  {
+    "name": "Slobidka",
+    "country": "UA"
+  },
+  {
+    "name": "Sloboda Zasluch\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Sloboda",
+    "country": "UA"
+  },
+  {
+    "name": "Svyatohirs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Slavuta",
+    "country": "UA"
+  },
+  {
+    "name": "Slavske",
+    "country": "UA"
+  },
+  {
+    "name": "Slaviv",
+    "country": "UA"
+  },
+  {
+    "name": "Slatyne",
+    "country": "UA"
+  },
+  {
+    "name": "Skvyra",
+    "country": "UA"
+  },
+  {
+    "name": "Skole",
+    "country": "UA"
+  },
+  {
+    "name": "Sknyliv",
+    "country": "UA"
+  },
+  {
+    "name": "Skhidnytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Skalistoye",
+    "country": "UA"
+  },
+  {
+    "name": "Skalat",
+    "country": "UA"
+  },
+  {
+    "name": "Skakunka",
+    "country": "UA"
+  },
+  {
+    "name": "Skadovs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Sytnyaky",
+    "country": "UA"
+  },
+  {
+    "name": "Synevyrska Poliana",
+    "country": "UA"
+  },
+  {
+    "name": "Synevyr",
+    "country": "UA"
+  },
+  {
+    "name": "Synel\u2019nykove",
+    "country": "UA"
+  },
+  {
+    "name": "Simferopol",
+    "country": "UA"
+  },
+  {
+    "name": "Simeiz",
+    "country": "UA"
+  },
+  {
+    "name": "Shpola",
+    "country": "UA"
+  },
+  {
+    "name": "Shostka",
+    "country": "UA"
+  },
+  {
+    "name": "Sholokhove",
+    "country": "UA"
+  },
+  {
+    "name": "Shmidta",
+    "country": "UA"
+  },
+  {
+    "name": "Shklo",
+    "country": "UA"
+  },
+  {
+    "name": "Shyshaky",
+    "country": "UA"
+  },
+  {
+    "name": "Shyryayeve",
+    "country": "UA"
+  },
+  {
+    "name": "Shyroke",
+    "country": "UA"
+  },
+  {
+    "name": "Shyroke",
+    "country": "UA"
+  },
+  {
+    "name": "Shypyntsi",
+    "country": "UA"
+  },
+  {
+    "name": "Shevekova",
+    "country": "UA"
+  },
+  {
+    "name": "Shevchenko Vtoroy",
+    "country": "UA"
+  },
+  {
+    "name": "Shevchenkove",
+    "country": "UA"
+  },
+  {
+    "name": "Shevchenkove",
+    "country": "UA"
+  },
+  {
+    "name": "Shevchenkove",
+    "country": "UA"
+  },
+  {
+    "name": "Shevchenko",
+    "country": "UA"
+  },
+  {
+    "name": "Shestakovka",
+    "country": "UA"
+  },
+  {
+    "name": "Sheshory",
+    "country": "UA"
+  },
+  {
+    "name": "Shepetivka",
+    "country": "UA"
+  },
+  {
+    "name": "Matviyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Urochishche Shelkovichnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Shchors",
+    "country": "UA"
+  },
+  {
+    "name": "Shcherbynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Shchemilovka",
+    "country": "UA"
+  },
+  {
+    "name": "Shchebetovka",
+    "country": "UA"
+  },
+  {
+    "name": "Shats\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Sharovechka",
+    "country": "UA"
+  },
+  {
+    "name": "Sharhorod",
+    "country": "UA"
+  },
+  {
+    "name": "Shalyhyne",
+    "country": "UA"
+  },
+  {
+    "name": "Shakhtars\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Shakh-Murza Staraya",
+    "country": "UA"
+  },
+  {
+    "name": "Shabo",
+    "country": "UA"
+  },
+  {
+    "name": "Shablykina",
+    "country": "UA"
+  },
+  {
+    "name": "Sivers\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Sebastopol City",
+    "country": "UA"
+  },
+  {
+    "name": "Sevastopol",
+    "country": "UA"
+  },
+  {
+    "name": "Serpneve",
+    "country": "UA"
+  },
+  {
+    "name": "Serhiyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Seredyna-Buda",
+    "country": "UA"
+  },
+  {
+    "name": "Serebriya",
+    "country": "UA"
+  },
+  {
+    "name": "Sencha",
+    "country": "UA"
+  },
+  {
+    "name": "Semisotka",
+    "country": "UA"
+  },
+  {
+    "name": "Semypolky",
+    "country": "UA"
+  },
+  {
+    "name": "Semykhatky",
+    "country": "UA"
+  },
+  {
+    "name": "Semidvor'e",
+    "country": "UA"
+  },
+  {
+    "name": "Simeykyne",
+    "country": "UA"
+  },
+  {
+    "name": "Semenivka",
+    "country": "UA"
+  },
+  {
+    "name": "Semenivka",
+    "country": "UA"
+  },
+  {
+    "name": "Semenivka",
+    "country": "UA"
+  },
+  {
+    "name": "Semyonovka",
+    "country": "UA"
+  },
+  {
+    "name": "Sel\u2019tse",
+    "country": "UA"
+  },
+  {
+    "name": "Selydove",
+    "country": "UA"
+  },
+  {
+    "name": "Silets\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Syedove",
+    "country": "UA"
+  },
+  {
+    "name": "Sedniv",
+    "country": "UA"
+  },
+  {
+    "name": "Shchastya",
+    "country": "UA"
+  },
+  {
+    "name": "Schastlivoye",
+    "country": "UA"
+  },
+  {
+    "name": "Savran",
+    "country": "UA"
+  },
+  {
+    "name": "Savyntsi",
+    "country": "UA"
+  },
+  {
+    "name": "Sarny",
+    "country": "UA"
+  },
+  {
+    "name": "Sarata",
+    "country": "UA"
+  },
+  {
+    "name": "Sarabuz Russkiy",
+    "country": "UA"
+  },
+  {
+    "name": "Sambir",
+    "country": "UA"
+  },
+  {
+    "name": "Saki",
+    "country": "UA"
+  },
+  {
+    "name": "Sakhnovshchyna",
+    "country": "UA"
+  },
+  {
+    "name": "Sadzhavka",
+    "country": "UA"
+  },
+  {
+    "name": "Rzhyshchiv",
+    "country": "UA"
+  },
+  {
+    "name": "Rykhtychi",
+    "country": "UA"
+  },
+  {
+    "name": "Rybakivka",
+    "country": "UA"
+  },
+  {
+    "name": "Rybach'e",
+    "country": "UA"
+  },
+  {
+    "name": "Ruzhyn",
+    "country": "UA"
+  },
+  {
+    "name": "Ruska Poliana",
+    "country": "UA"
+  },
+  {
+    "name": "Rudne",
+    "country": "UA"
+  },
+  {
+    "name": "Rudniki",
+    "country": "UA"
+  },
+  {
+    "name": "Rudky",
+    "country": "UA"
+  },
+  {
+    "name": "Rubizhne",
+    "country": "UA"
+  },
+  {
+    "name": "Rozvadiv",
+    "country": "UA"
+  },
+  {
+    "name": "Rozivka",
+    "country": "UA"
+  },
+  {
+    "name": "Rozivka",
+    "country": "UA"
+  },
+  {
+    "name": "Rozhniativ",
+    "country": "UA"
+  },
+  {
+    "name": "Rozhniv",
+    "country": "UA"
+  },
+  {
+    "name": "Urochyshche Rozhkova",
+    "country": "UA"
+  },
+  {
+    "name": "Rozhyshche",
+    "country": "UA"
+  },
+  {
+    "name": "Rozdil",
+    "country": "UA"
+  },
+  {
+    "name": "Rozdil\u2019na",
+    "country": "UA"
+  },
+  {
+    "name": "Rozy Lyuksemburh",
+    "country": "UA"
+  },
+  {
+    "name": "Rivne",
+    "country": "UA"
+  },
+  {
+    "name": "Roven\u2019ky",
+    "country": "UA"
+  },
+  {
+    "name": "Rosvigovo",
+    "country": "UA"
+  },
+  {
+    "name": "Roskoshnyy",
+    "country": "UA"
+  },
+  {
+    "name": "Rozkishne",
+    "country": "UA"
+  },
+  {
+    "name": "Ropcha",
+    "country": "UA"
+  },
+  {
+    "name": "Romodan",
+    "country": "UA"
+  },
+  {
+    "name": "Romny",
+    "country": "UA"
+  },
+  {
+    "name": "Rokosovo",
+    "country": "UA"
+  },
+  {
+    "name": "Rokytne",
+    "country": "UA"
+  },
+  {
+    "name": "Rohatyn",
+    "country": "UA"
+  },
+  {
+    "name": "Radomyslivka",
+    "country": "UA"
+  },
+  {
+    "name": "Rodnikovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Rodnikovo",
+    "country": "UA"
+  },
+  {
+    "name": "Rodionivka",
+    "country": "UA"
+  },
+  {
+    "name": "Rodyns\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Rivnens\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Rivne",
+    "country": "UA"
+  },
+  {
+    "name": "Reshetilovskiy Kut",
+    "country": "UA"
+  },
+  {
+    "name": "Reshetylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Rezervne",
+    "country": "UA"
+  },
+  {
+    "name": "Ripky",
+    "country": "UA"
+  },
+  {
+    "name": "Reni",
+    "country": "UA"
+  },
+  {
+    "name": "Rechka",
+    "country": "UA"
+  },
+  {
+    "name": "Razdol\u2019noye",
+    "country": "UA"
+  },
+  {
+    "name": "Ratne",
+    "country": "UA"
+  },
+  {
+    "name": "Rozsypne",
+    "country": "UA"
+  },
+  {
+    "name": "Ralivka",
+    "country": "UA"
+  },
+  {
+    "name": "Rakiv Lis",
+    "country": "UA"
+  },
+  {
+    "name": "Rakoshyno",
+    "country": "UA"
+  },
+  {
+    "name": "Rakhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Radomyshl",
+    "country": "UA"
+  },
+  {
+    "name": "Radcha",
+    "country": "UA"
+  },
+  {
+    "name": "Rabochiy Ugolok",
+    "country": "UA"
+  },
+  {
+    "name": "Piatykhatky",
+    "country": "UA"
+  },
+  {
+    "name": "Putyvl\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Putilovka",
+    "country": "UA"
+  },
+  {
+    "name": "Pustomyty",
+    "country": "UA"
+  },
+  {
+    "name": "Pushcha-Vodytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Pudlovtsy",
+    "country": "UA"
+  },
+  {
+    "name": "Pryluky",
+    "country": "UA"
+  },
+  {
+    "name": "Prudyanka",
+    "country": "UA"
+  },
+  {
+    "name": "Protsivka",
+    "country": "UA"
+  },
+  {
+    "name": "Pryyutivka",
+    "country": "UA"
+  },
+  {
+    "name": "Pryvillya",
+    "country": "UA"
+  },
+  {
+    "name": "Privol\u2019noye",
+    "country": "UA"
+  },
+  {
+    "name": "Privetnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Pryshyb",
+    "country": "UA"
+  },
+  {
+    "name": "Priozyornoye",
+    "country": "UA"
+  },
+  {
+    "name": "Prymors\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Sartana",
+    "country": "UA"
+  },
+  {
+    "name": "Prymors\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Prykolotne",
+    "country": "UA"
+  },
+  {
+    "name": "Prigorodnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Prigorodnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Pridorozhnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Prydniprovs\u2019kyy",
+    "country": "UA"
+  },
+  {
+    "name": "Pryazovs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Preobrazhenka",
+    "country": "UA"
+  },
+  {
+    "name": "Peredmistna Slobidka",
+    "country": "UA"
+  },
+  {
+    "name": "Pozniaky",
+    "country": "UA"
+  },
+  {
+    "name": "Potok",
+    "country": "UA"
+  },
+  {
+    "name": "Portovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Poroshkovo",
+    "country": "UA"
+  },
+  {
+    "name": "Porohy",
+    "country": "UA"
+  },
+  {
+    "name": "Popova",
+    "country": "UA"
+  },
+  {
+    "name": "Popilnia",
+    "country": "UA"
+  },
+  {
+    "name": "Popasna",
+    "country": "UA"
+  },
+  {
+    "name": "Poninka",
+    "country": "UA"
+  },
+  {
+    "name": "Pomichna",
+    "country": "UA"
+  },
+  {
+    "name": "Pomoriany",
+    "country": "UA"
+  },
+  {
+    "name": "Polyanka",
+    "country": "UA"
+  },
+  {
+    "name": "Poltavs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Poltavs\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Poltava",
+    "country": "UA"
+  },
+  {
+    "name": "Polonne",
+    "country": "UA"
+  },
+  {
+    "name": "Polohy",
+    "country": "UA"
+  },
+  {
+    "name": "Pokrovs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Pokrovka",
+    "country": "UA"
+  },
+  {
+    "name": "Pokotylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Pohrebyshche",
+    "country": "UA"
+  },
+  {
+    "name": "Pidvolochysk",
+    "country": "UA"
+  },
+  {
+    "name": "Pidvynohradiv",
+    "country": "UA"
+  },
+  {
+    "name": "Podil",
+    "country": "UA"
+  },
+  {
+    "name": "Pidhirtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Pidhorodne",
+    "country": "UA"
+  },
+  {
+    "name": "Pidhorodne",
+    "country": "UA"
+  },
+  {
+    "name": "Pidhorodna",
+    "country": "UA"
+  },
+  {
+    "name": "Podgornoye",
+    "country": "UA"
+  },
+  {
+    "name": "Pidhaytsi",
+    "country": "UA"
+  },
+  {
+    "name": "Pidbuzh",
+    "country": "UA"
+  },
+  {
+    "name": "Poshtove",
+    "country": "UA"
+  },
+  {
+    "name": "Pochaiv",
+    "country": "UA"
+  },
+  {
+    "name": "Pobugskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Pniv",
+    "country": "UA"
+  },
+  {
+    "name": "Zaporozhe",
+    "country": "UA"
+  },
+  {
+    "name": "Urochishche Plavni",
+    "country": "UA"
+  },
+  {
+    "name": "Koktebel",
+    "country": "UA"
+  },
+  {
+    "name": "Plakhtiyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Pivdenne",
+    "country": "UA"
+  },
+  {
+    "name": "Pyriatyn",
+    "country": "UA"
+  },
+  {
+    "name": "Pyrohovychi",
+    "country": "UA"
+  },
+  {
+    "name": "Pylypets",
+    "country": "UA"
+  },
+  {
+    "name": "Pikalovka",
+    "country": "UA"
+  },
+  {
+    "name": "Petrovs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Petrove",
+    "country": "UA"
+  },
+  {
+    "name": "Petropavlivs\u2019ka Borshchahivka",
+    "country": "UA"
+  },
+  {
+    "name": "Petropavlivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kurisove",
+    "country": "UA"
+  },
+  {
+    "name": "Petrykivka",
+    "country": "UA"
+  },
+  {
+    "name": "Petrikov",
+    "country": "UA"
+  },
+  {
+    "name": "Petranka",
+    "country": "UA"
+  },
+  {
+    "name": "Pesochin",
+    "country": "UA"
+  },
+  {
+    "name": "Piskivka",
+    "country": "UA"
+  },
+  {
+    "name": "Peschanoye",
+    "country": "UA"
+  },
+  {
+    "name": "Pishanka",
+    "country": "UA"
+  },
+  {
+    "name": "Peschana",
+    "country": "UA"
+  },
+  {
+    "name": "Pervomayskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Pervomays\u2019kyy",
+    "country": "UA"
+  },
+  {
+    "name": "Pervomays\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Pervomays\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Pershotravneve",
+    "country": "UA"
+  },
+  {
+    "name": "Manhush",
+    "country": "UA"
+  },
+  {
+    "name": "Perovo",
+    "country": "UA"
+  },
+  {
+    "name": "Perkovtsy",
+    "country": "UA"
+  },
+  {
+    "name": "Pereiaslav-Khmelnytskyi",
+    "country": "UA"
+  },
+  {
+    "name": "Pereval\u2019s\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Perevalovka",
+    "country": "UA"
+  },
+  {
+    "name": "Pereval'noye",
+    "country": "UA"
+  },
+  {
+    "name": "Peresichna",
+    "country": "UA"
+  },
+  {
+    "name": "Peremyshlyany",
+    "country": "UA"
+  },
+  {
+    "name": "Perehonivka",
+    "country": "UA"
+  },
+  {
+    "name": "Perechyn",
+    "country": "UA"
+  },
+  {
+    "name": "Pechenizhyn",
+    "country": "UA"
+  },
+  {
+    "name": "Pchelinoye",
+    "country": "UA"
+  },
+  {
+    "name": "Pavlysh",
+    "country": "UA"
+  },
+  {
+    "name": "Pavlivka",
+    "country": "UA"
+  },
+  {
+    "name": "Pavlivka",
+    "country": "UA"
+  },
+  {
+    "name": "Pavlivka",
+    "country": "UA"
+  },
+  {
+    "name": "Pavlohrad",
+    "country": "UA"
+  },
+  {
+    "name": "Pasichna",
+    "country": "UA"
+  },
+  {
+    "name": "Parutyne",
+    "country": "UA"
+  },
+  {
+    "name": "Partyzany",
+    "country": "UA"
+  },
+  {
+    "name": "Adzhimushkay",
+    "country": "UA"
+  },
+  {
+    "name": "Partizanskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Prokhladnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Parizhskaya Kommuna",
+    "country": "UA"
+  },
+  {
+    "name": "Paraskoveyevka",
+    "country": "UA"
+  },
+  {
+    "name": "Panyutyne",
+    "country": "UA"
+  },
+  {
+    "name": "Panteleymonivka",
+    "country": "UA"
+  },
+  {
+    "name": "Pantayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Ozerne",
+    "country": "UA"
+  },
+  {
+    "name": "Ozerne",
+    "country": "UA"
+  },
+  {
+    "name": "Ozerna",
+    "country": "UA"
+  },
+  {
+    "name": "Ovruch",
+    "country": "UA"
+  },
+  {
+    "name": "Ovidiopol",
+    "country": "UA"
+  },
+  {
+    "name": "Otyniya",
+    "country": "UA"
+  },
+  {
+    "name": "Otradnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Otradnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Otesh-Eli",
+    "country": "UA"
+  },
+  {
+    "name": "Ostroh",
+    "country": "UA"
+  },
+  {
+    "name": "Oster",
+    "country": "UA"
+  },
+  {
+    "name": "Osokorky",
+    "country": "UA"
+  },
+  {
+    "name": "Osypenko",
+    "country": "UA"
+  },
+  {
+    "name": "Orzhytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Ortay",
+    "country": "UA"
+  },
+  {
+    "name": "Orlivshchyna",
+    "country": "UA"
+  },
+  {
+    "name": "Orlinoye",
+    "country": "UA"
+  },
+  {
+    "name": "Petrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Orikhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Ordzhonikidze",
+    "country": "UA"
+  },
+  {
+    "name": "Ordzhonikidze",
+    "country": "UA"
+  },
+  {
+    "name": "Orativ",
+    "country": "UA"
+  },
+  {
+    "name": "Opryshovtse",
+    "country": "UA"
+  },
+  {
+    "name": "Oposhnya",
+    "country": "UA"
+  },
+  {
+    "name": "Opolznevoye",
+    "country": "UA"
+  },
+  {
+    "name": "Onufriyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Olyka",
+    "country": "UA"
+  },
+  {
+    "name": "Ol'shanskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Karmelitka",
+    "country": "UA"
+  },
+  {
+    "name": "Olyshivka",
+    "country": "UA"
+  },
+  {
+    "name": "Olevs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Olesko",
+    "country": "UA"
+  },
+  {
+    "name": "Oleksandriya",
+    "country": "UA"
+  },
+  {
+    "name": "Oleksandrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Oktyabr\u2019skoye",
+    "country": "UA"
+  },
+  {
+    "name": "Odes\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Odessa",
+    "country": "UA"
+  },
+  {
+    "name": "Ochakiv",
+    "country": "UA"
+  },
+  {
+    "name": "Obukhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Obroshyne",
+    "country": "UA"
+  },
+  {
+    "name": "Obodivka",
+    "country": "UA"
+  },
+  {
+    "name": "Obertyn",
+    "country": "UA"
+  },
+  {
+    "name": "Nuyno",
+    "country": "UA"
+  },
+  {
+    "name": "Novyi Yarychiv",
+    "country": "UA"
+  },
+  {
+    "name": "Novyy Svit",
+    "country": "UA"
+  },
+  {
+    "name": "Novyy Svit",
+    "country": "UA"
+  },
+  {
+    "name": "Novy Svet",
+    "country": "UA"
+  },
+  {
+    "name": "Novyy Starodub",
+    "country": "UA"
+  },
+  {
+    "name": "Novyy Sarabuz",
+    "country": "UA"
+  },
+  {
+    "name": "Novi Troyany",
+    "country": "UA"
+  },
+  {
+    "name": "Novi Sanzhary",
+    "country": "UA"
+  },
+  {
+    "name": "Novi Bilokorovychi",
+    "country": "UA"
+  },
+  {
+    "name": "Novyy Chudniv",
+    "country": "UA"
+  },
+  {
+    "name": "Novyy Buh",
+    "country": "UA"
+  },
+  {
+    "name": "Nove Davydkovo",
+    "country": "UA"
+  },
+  {
+    "name": "Novovorontsovka",
+    "country": "UA"
+  },
+  {
+    "name": "Novovolyns\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Novovasylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Novo-Uspenka",
+    "country": "UA"
+  },
+  {
+    "name": "Novoulyanovka",
+    "country": "UA"
+  },
+  {
+    "name": "Novoukrayinka",
+    "country": "UA"
+  },
+  {
+    "name": "Novotroyits\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Novoselytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Novoselytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Novopskov",
+    "country": "UA"
+  },
+  {
+    "name": "Novo-Poznyaki",
+    "country": "UA"
+  },
+  {
+    "name": "Novopolye",
+    "country": "UA"
+  },
+  {
+    "name": "Novopokrovka",
+    "country": "UA"
+  },
+  {
+    "name": "Novopokrovka",
+    "country": "UA"
+  },
+  {
+    "name": "Novo-Nikolayevskiy",
+    "country": "UA"
+  },
+  {
+    "name": "Paryz\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Novomykolayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Novomykolayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Novomoskovs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Novomyrhorod",
+    "country": "UA"
+  },
+  {
+    "name": "Novoivanovka",
+    "country": "UA"
+  },
+  {
+    "name": "Novohrad-Volynskyi",
+    "country": "UA"
+  },
+  {
+    "name": "Novohrodivka",
+    "country": "UA"
+  },
+  {
+    "name": "Novohryhorivka",
+    "country": "UA"
+  },
+  {
+    "name": "Novo-Grigor\u2019yevka",
+    "country": "UA"
+  },
+  {
+    "name": "Novof\u00ebdorovka",
+    "country": "UA"
+  },
+  {
+    "name": "Novofedorivka",
+    "country": "UA"
+  },
+  {
+    "name": "Novobohdanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Novoazovs'k",
+    "country": "UA"
+  },
+  {
+    "name": "Novoaydar",
+    "country": "UA"
+  },
+  {
+    "name": "Novoarkhanhel\u2019s\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Novooleksiyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Novooleksandrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Novytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Novhorod-Sivers\u2019kyy",
+    "country": "UA"
+  },
+  {
+    "name": "Novhorodka",
+    "country": "UA"
+  },
+  {
+    "name": "Nove-Misto",
+    "country": "UA"
+  },
+  {
+    "name": "Nova Vodolaha",
+    "country": "UA"
+  },
+  {
+    "name": "Nova Praha",
+    "country": "UA"
+  },
+  {
+    "name": "Nova Odesa",
+    "country": "UA"
+  },
+  {
+    "name": "Nova Mayachka",
+    "country": "UA"
+  },
+  {
+    "name": "Nova Kakhovka",
+    "country": "UA"
+  },
+  {
+    "name": "Ivanovka",
+    "country": "UA"
+  },
+  {
+    "name": "Nova Darnytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Nova Borova",
+    "country": "UA"
+  },
+  {
+    "name": "Nova Ushytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Nosivka",
+    "country": "UA"
+  },
+  {
+    "name": "Nyzy",
+    "country": "UA"
+  },
+  {
+    "name": "Nizhyn",
+    "country": "UA"
+  },
+  {
+    "name": "Nyzhnya Krynka",
+    "country": "UA"
+  },
+  {
+    "name": "Nyzhnya Duvanka",
+    "country": "UA"
+  },
+  {
+    "name": "Nyzhnyanka",
+    "country": "UA"
+  },
+  {
+    "name": "Nyzhni Sirohozy",
+    "country": "UA"
+  },
+  {
+    "name": "Nizhniye Partizany",
+    "country": "UA"
+  },
+  {
+    "name": "Nizhniy Chorgun\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Solnechnoselye",
+    "country": "UA"
+  },
+  {
+    "name": "Nizhnegorskiy",
+    "country": "UA"
+  },
+  {
+    "name": "Nizhnedneprovsk",
+    "country": "UA"
+  },
+  {
+    "name": "Nikopol",
+    "country": "UA"
+  },
+  {
+    "name": "Mykilska Slobidka",
+    "country": "UA"
+  },
+  {
+    "name": "Mykolaypillya",
+    "country": "UA"
+  },
+  {
+    "name": "Nikolayevka",
+    "country": "UA"
+  },
+  {
+    "name": "Mykolayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Mykolayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Nikolayevka",
+    "country": "UA"
+  },
+  {
+    "name": "Mykolayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Mykolayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Nikiforovskiy",
+    "country": "UA"
+  },
+  {
+    "name": "Netishyn",
+    "country": "UA"
+  },
+  {
+    "name": "Nesteliyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Nestervarka",
+    "country": "UA"
+  },
+  {
+    "name": "Neresnytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Nemyriv",
+    "country": "UA"
+  },
+  {
+    "name": "Nelipyno",
+    "country": "UA"
+  },
+  {
+    "name": "Nedryhayliv",
+    "country": "UA"
+  },
+  {
+    "name": "Nebyliv",
+    "country": "UA"
+  },
+  {
+    "name": "Nebelytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Navaria",
+    "country": "UA"
+  },
+  {
+    "name": "Nauchny",
+    "country": "UA"
+  },
+  {
+    "name": "Nasypnoe",
+    "country": "UA"
+  },
+  {
+    "name": "Narodychi",
+    "country": "UA"
+  },
+  {
+    "name": "Malovidnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Nadychi",
+    "country": "UA"
+  },
+  {
+    "name": "Nadvirna",
+    "country": "UA"
+  },
+  {
+    "name": "Mytnytsia",
+    "country": "UA"
+  },
+  {
+    "name": "Mysovoe",
+    "country": "UA"
+  },
+  {
+    "name": "Mykolayivs\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Mykolaiv",
+    "country": "UA"
+  },
+  {
+    "name": "Mykolayiv",
+    "country": "UA"
+  },
+  {
+    "name": "Murovani Kurylivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Murovane",
+    "country": "UA"
+  },
+  {
+    "name": "Mukacheve",
+    "country": "UA"
+  },
+  {
+    "name": "Mramornoye",
+    "country": "UA"
+  },
+  {
+    "name": "Mospyne",
+    "country": "UA"
+  },
+  {
+    "name": "Moshny",
+    "country": "UA"
+  },
+  {
+    "name": "Morskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Morshyn",
+    "country": "UA"
+  },
+  {
+    "name": "Morozivs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Morozivs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Monastyryshche",
+    "country": "UA"
+  },
+  {
+    "name": "Molodohvardiys\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Molodiya",
+    "country": "UA"
+  },
+  {
+    "name": "Molodizhne",
+    "country": "UA"
+  },
+  {
+    "name": "Molodyozhnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Mokroye",
+    "country": "UA"
+  },
+  {
+    "name": "Mohyliv-Podilskyi",
+    "country": "UA"
+  },
+  {
+    "name": "Mogil\u00ebv",
+    "country": "UA"
+  },
+  {
+    "name": "Mlyniv",
+    "country": "UA"
+  },
+  {
+    "name": "Mliiv",
+    "country": "UA"
+  },
+  {
+    "name": "Mizoch",
+    "country": "UA"
+  },
+  {
+    "name": "Miusyns\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Miskhor",
+    "country": "UA"
+  },
+  {
+    "name": "Myronivka",
+    "country": "UA"
+  },
+  {
+    "name": "Myronivka",
+    "country": "UA"
+  },
+  {
+    "name": "Mirny",
+    "country": "UA"
+  },
+  {
+    "name": "Myrhorod",
+    "country": "UA"
+  },
+  {
+    "name": "Mynay",
+    "country": "UA"
+  },
+  {
+    "name": "Milove",
+    "country": "UA"
+  },
+  {
+    "name": "Mikulintsy",
+    "country": "UA"
+  },
+  {
+    "name": "Mikhaylovka",
+    "country": "UA"
+  },
+  {
+    "name": "Mykhaylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Mykhaylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Myhove",
+    "country": "UA"
+  },
+  {
+    "name": "Myhiya",
+    "country": "UA"
+  },
+  {
+    "name": "Mezhvodnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Chudey",
+    "country": "UA"
+  },
+  {
+    "name": "Mizhhirya",
+    "country": "UA"
+  },
+  {
+    "name": "Mezhgorye",
+    "country": "UA"
+  },
+  {
+    "name": "Mezhova",
+    "country": "UA"
+  },
+  {
+    "name": "Merefa",
+    "country": "UA"
+  },
+  {
+    "name": "Mena",
+    "country": "UA"
+  },
+  {
+    "name": "Melitopol",
+    "country": "UA"
+  },
+  {
+    "name": "Melioratyvne",
+    "country": "UA"
+  },
+  {
+    "name": "Melekyne",
+    "country": "UA"
+  },
+  {
+    "name": "Mekenziyevi Hory",
+    "country": "UA"
+  },
+  {
+    "name": "Medzhybizh",
+    "country": "UA"
+  },
+  {
+    "name": "Medvedevka",
+    "country": "UA"
+  },
+  {
+    "name": "Medenychi",
+    "country": "UA"
+  },
+  {
+    "name": "Mayskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Mayorivka",
+    "country": "UA"
+  },
+  {
+    "name": "Mayaky",
+    "country": "UA"
+  },
+  {
+    "name": "Matrosskaya Sloboda",
+    "country": "UA"
+  },
+  {
+    "name": "Matveyevka",
+    "country": "UA"
+  },
+  {
+    "name": "Matviyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Matiasa",
+    "country": "UA"
+  },
+  {
+    "name": "Massandra",
+    "country": "UA"
+  },
+  {
+    "name": "Mashivka",
+    "country": "UA"
+  },
+  {
+    "name": "Mar\u2019yevka",
+    "country": "UA"
+  },
+  {
+    "name": "Martusivka",
+    "country": "UA"
+  },
+  {
+    "name": "Marshintsy",
+    "country": "UA"
+  },
+  {
+    "name": "Markivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Markivka",
+    "country": "UA"
+  },
+  {
+    "name": "Markova",
+    "country": "UA"
+  },
+  {
+    "name": "Mariupol",
+    "country": "UA"
+  },
+  {
+    "name": "Mariupol",
+    "country": "UA"
+  },
+  {
+    "name": "Mar'yinka",
+    "country": "UA"
+  },
+  {
+    "name": "Marhanets\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Mar\u2019yanovka",
+    "country": "UA"
+  },
+  {
+    "name": "Manyava",
+    "country": "UA"
+  },
+  {
+    "name": "Manevychi",
+    "country": "UA"
+  },
+  {
+    "name": "Manchzhuriya",
+    "country": "UA"
+  },
+  {
+    "name": "Manchenky",
+    "country": "UA"
+  },
+  {
+    "name": "Mamut",
+    "country": "UA"
+  },
+  {
+    "name": "Malyy Tokmak",
+    "country": "UA"
+  },
+  {
+    "name": "Maly Mayak",
+    "country": "UA"
+  },
+  {
+    "name": "Malyy Fontan",
+    "country": "UA"
+  },
+  {
+    "name": "Malorechenskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Malokaterynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Malokakhovka",
+    "country": "UA"
+  },
+  {
+    "name": "Malyn",
+    "country": "UA"
+  },
+  {
+    "name": "Mala Vyska",
+    "country": "UA"
+  },
+  {
+    "name": "Mala Tokmachka",
+    "country": "UA"
+  },
+  {
+    "name": "Mala Danylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Mala Bilozerka",
+    "country": "UA"
+  },
+  {
+    "name": "Makiyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Makariv",
+    "country": "UA"
+  },
+  {
+    "name": "Mahdalynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Lyubotyn",
+    "country": "UA"
+  },
+  {
+    "name": "Liuboml",
+    "country": "UA"
+  },
+  {
+    "name": "Lyubymivka",
+    "country": "UA"
+  },
+  {
+    "name": "Lyubymivka",
+    "country": "UA"
+  },
+  {
+    "name": "Lyubech",
+    "country": "UA"
+  },
+  {
+    "name": "Liubar",
+    "country": "UA"
+  },
+  {
+    "name": "Lysianka",
+    "country": "UA"
+  },
+  {
+    "name": "Lysa Hora",
+    "country": "UA"
+  },
+  {
+    "name": "L\u2019vivs\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Lviv",
+    "country": "UA"
+  },
+  {
+    "name": "Luzhany",
+    "country": "UA"
+  },
+  {
+    "name": "Lutuhyne",
+    "country": "UA"
+  },
+  {
+    "name": "Lutsk",
+    "country": "UA"
+  },
+  {
+    "name": "Lukiv",
+    "country": "UA"
+  },
+  {
+    "name": "Luhans\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Luhansk",
+    "country": "UA"
+  },
+  {
+    "name": "Lugovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Luhyny",
+    "country": "UA"
+  },
+  {
+    "name": "Lug",
+    "country": "UA"
+  },
+  {
+    "name": "Luchistoye",
+    "country": "UA"
+  },
+  {
+    "name": "Lubny",
+    "country": "UA"
+  },
+  {
+    "name": "Lozovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Lozova",
+    "country": "UA"
+  },
+  {
+    "name": "Lozovatka Vtoraya",
+    "country": "UA"
+  },
+  {
+    "name": "Lozuvatka",
+    "country": "UA"
+  },
+  {
+    "name": "Lozno-Oleksandrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Lopukhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Lopatyn",
+    "country": "UA"
+  },
+  {
+    "name": "Lokhvytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Lokachi",
+    "country": "UA"
+  },
+  {
+    "name": "Lyubashivka",
+    "country": "UA"
+  },
+  {
+    "name": "Livadia",
+    "country": "UA"
+  },
+  {
+    "name": "Lityn",
+    "country": "UA"
+  },
+  {
+    "name": "Liski",
+    "country": "UA"
+  },
+  {
+    "name": "Lysychovo",
+    "country": "UA"
+  },
+  {
+    "name": "Lysychans\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Lipovaya Rosheha",
+    "country": "UA"
+  },
+  {
+    "name": "Lypova Dolyna",
+    "country": "UA"
+  },
+  {
+    "name": "Lypnyazhka",
+    "country": "UA"
+  },
+  {
+    "name": "Lypcha",
+    "country": "UA"
+  },
+  {
+    "name": "Lymanske",
+    "country": "UA"
+  },
+  {
+    "name": "Lyman",
+    "country": "UA"
+  },
+  {
+    "name": "Lykhivka",
+    "country": "UA"
+  },
+  {
+    "name": "Letychiv",
+    "country": "UA"
+  },
+  {
+    "name": "Lisovi Sorochyntsi",
+    "country": "UA"
+  },
+  {
+    "name": "Lesnaya",
+    "country": "UA"
+  },
+  {
+    "name": "Lesnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Lenino",
+    "country": "UA"
+  },
+  {
+    "name": "Lenina",
+    "country": "UA"
+  },
+  {
+    "name": "Lebedyn",
+    "country": "UA"
+  },
+  {
+    "name": "Lazurne",
+    "country": "UA"
+  },
+  {
+    "name": "Lazi",
+    "country": "UA"
+  },
+  {
+    "name": "Lazeshchyna",
+    "country": "UA"
+  },
+  {
+    "name": "Laspi",
+    "country": "UA"
+  },
+  {
+    "name": "Lanivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Lanchyn",
+    "country": "UA"
+  },
+  {
+    "name": "Lagernoye",
+    "country": "UA"
+  },
+  {
+    "name": "Ladyzhyn",
+    "country": "UA"
+  },
+  {
+    "name": "Ladan",
+    "country": "UA"
+  },
+  {
+    "name": "Kyiv Oblast",
+    "country": "UA"
+  },
+  {
+    "name": "Misto Kyyiv",
+    "country": "UA"
+  },
+  {
+    "name": "Kyiv",
+    "country": "UA"
+  },
+  {
+    "name": "Kvasy",
+    "country": "UA"
+  },
+  {
+    "name": "Kuznetsovsk",
+    "country": "UA"
+  },
+  {
+    "name": "Kuybysheve",
+    "country": "UA"
+  },
+  {
+    "name": "Kuibyshevo",
+    "country": "UA"
+  },
+  {
+    "name": "Kuty",
+    "country": "UA"
+  },
+  {
+    "name": "Verkhnyaya Kutuzovka",
+    "country": "UA"
+  },
+  {
+    "name": "Kuteynykove",
+    "country": "UA"
+  },
+  {
+    "name": "Kushuhum",
+    "country": "UA"
+  },
+  {
+    "name": "Kushnytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Kurpaty",
+    "country": "UA"
+  },
+  {
+    "name": "Kurortnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Kuren\u00ebvka",
+    "country": "UA"
+  },
+  {
+    "name": "Kurakhovo",
+    "country": "UA"
+  },
+  {
+    "name": "Kupjansk",
+    "country": "UA"
+  },
+  {
+    "name": "Kulynychi",
+    "country": "UA"
+  },
+  {
+    "name": "Kulykivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kulykiv",
+    "country": "UA"
+  },
+  {
+    "name": "Kulebivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kukhmisterskaya Sloboda",
+    "country": "UA"
+  },
+  {
+    "name": "Kudrino",
+    "country": "UA"
+  },
+  {
+    "name": "Kryzhanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kryvyi Rih",
+    "country": "UA"
+  },
+  {
+    "name": "Sanatoriy Kryms\u2019ke Prymor\u201dya",
+    "country": "UA"
+  },
+  {
+    "name": "Autonomous Republic of Crimea",
+    "country": "UA"
+  },
+  {
+    "name": "Kruty",
+    "country": "UA"
+  },
+  {
+    "name": "Krucha",
+    "country": "UA"
+  },
+  {
+    "name": "Urochishche Krucha",
+    "country": "UA"
+  },
+  {
+    "name": "Krolevets\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Kryve Ozero",
+    "country": "UA"
+  },
+  {
+    "name": "Kryva Hora",
+    "country": "UA"
+  },
+  {
+    "name": "Krivaya Balka",
+    "country": "UA"
+  },
+  {
+    "name": "Kryva",
+    "country": "UA"
+  },
+  {
+    "name": "Krinichki",
+    "country": "UA"
+  },
+  {
+    "name": "Krinichnaya",
+    "country": "UA"
+  },
+  {
+    "name": "Krynychky",
+    "country": "UA"
+  },
+  {
+    "name": "Urochyshche Kripke",
+    "country": "UA"
+  },
+  {
+    "name": "Kripens\u2019kyy",
+    "country": "UA"
+  },
+  {
+    "name": "Krenychi",
+    "country": "UA"
+  },
+  {
+    "name": "Tatariv",
+    "country": "UA"
+  },
+  {
+    "name": "Kreminna",
+    "country": "UA"
+  },
+  {
+    "name": "Kremenets",
+    "country": "UA"
+  },
+  {
+    "name": "Kremenchuk",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnyy Shlyakh",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnyi Mak",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnyy Luch",
+    "country": "UA"
+  },
+  {
+    "name": "Lyman",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnyy Kut",
+    "country": "UA"
+  },
+  {
+    "name": "Chervoni Partyzany",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnyy",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnoye Znamya",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnoye Selo",
+    "country": "UA"
+  },
+  {
+    "name": "Krasne",
+    "country": "UA"
+  },
+  {
+    "name": "Krasne",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnotorka",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnosyolovka",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnosilka",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnopillya",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnopeshchernoe",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnoperekops\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnopavlivka",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnokuts\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnokamenka",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnogvardeyskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnohrad",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnohorivka",
+    "country": "UA"
+  },
+  {
+    "name": "Teple",
+    "country": "UA"
+  },
+  {
+    "name": "Sorokyne",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnoarmeyskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Pokrovsk",
+    "country": "UA"
+  },
+  {
+    "name": "Krasna Zor'ka",
+    "country": "UA"
+  },
+  {
+    "name": "Krasna",
+    "country": "UA"
+  },
+  {
+    "name": "Krasyliv",
+    "country": "UA"
+  },
+  {
+    "name": "Kramators\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Kozova",
+    "country": "UA"
+  },
+  {
+    "name": "Kozhanka",
+    "country": "UA"
+  },
+  {
+    "name": "Kozelets\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Kivsharivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kovel",
+    "country": "UA"
+  },
+  {
+    "name": "Kotsyubyns\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Podil\u2019s\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Kotel\u2019va",
+    "country": "UA"
+  },
+  {
+    "name": "Kostyantynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kostryzhivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kostopil\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Kosiv",
+    "country": "UA"
+  },
+  {
+    "name": "Kosmach",
+    "country": "UA"
+  },
+  {
+    "name": "Kosmach",
+    "country": "UA"
+  },
+  {
+    "name": "Koryukivka",
+    "country": "UA"
+  },
+  {
+    "name": "Korsun-Shevchenkivskyi",
+    "country": "UA"
+  },
+  {
+    "name": "Korotych",
+    "country": "UA"
+  },
+  {
+    "name": "Korostyshiv",
+    "country": "UA"
+  },
+  {
+    "name": "Korosten\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Korop",
+    "country": "UA"
+  },
+  {
+    "name": "Korolevo",
+    "country": "UA"
+  },
+  {
+    "name": "Kornyn",
+    "country": "UA"
+  },
+  {
+    "name": "Korets",
+    "country": "UA"
+  },
+  {
+    "name": "Koreiz",
+    "country": "UA"
+  },
+  {
+    "name": "Kopyliv",
+    "country": "UA"
+  },
+  {
+    "name": "Kopychyntsi",
+    "country": "UA"
+  },
+  {
+    "name": "Kopayhorod",
+    "country": "UA"
+  },
+  {
+    "name": "Kopani",
+    "country": "UA"
+  },
+  {
+    "name": "Kostyantynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kostyantynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Pasechnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Konotop",
+    "country": "UA"
+  },
+  {
+    "name": "Slobozhans\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Kompaniyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Obil'ne",
+    "country": "UA"
+  },
+  {
+    "name": "Komarivka",
+    "country": "UA"
+  },
+  {
+    "name": "Komarno",
+    "country": "UA"
+  },
+  {
+    "name": "Kolubayevtsy",
+    "country": "UA"
+  },
+  {
+    "name": "Kolonshchyna",
+    "country": "UA"
+  },
+  {
+    "name": "Koloniya Zastav\u2019ye",
+    "country": "UA"
+  },
+  {
+    "name": "Kolomyia",
+    "country": "UA"
+  },
+  {
+    "name": "Kolomak",
+    "country": "UA"
+  },
+  {
+    "name": "Kolodenka",
+    "country": "UA"
+  },
+  {
+    "name": "Kolochava",
+    "country": "UA"
+  },
+  {
+    "name": "Kolkhoznoye",
+    "country": "UA"
+  },
+  {
+    "name": "Kulevcha",
+    "country": "UA"
+  },
+  {
+    "name": "Kodyma",
+    "country": "UA"
+  },
+  {
+    "name": "Kodra",
+    "country": "UA"
+  },
+  {
+    "name": "Kochetok",
+    "country": "UA"
+  },
+  {
+    "name": "Kocheriv",
+    "country": "UA"
+  },
+  {
+    "name": "Kobyzhcha",
+    "country": "UA"
+  },
+  {
+    "name": "Kobleve",
+    "country": "UA"
+  },
+  {
+    "name": "Kobelyaky",
+    "country": "UA"
+  },
+  {
+    "name": "Knyazhichi",
+    "country": "UA"
+  },
+  {
+    "name": "Klyuchevaya",
+    "country": "UA"
+  },
+  {
+    "name": "Klishkivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Klimash\u00ebvka",
+    "country": "UA"
+  },
+  {
+    "name": "Klevan",
+    "country": "UA"
+  },
+  {
+    "name": "Klenovyy",
+    "country": "UA"
+  },
+  {
+    "name": "Klembivka",
+    "country": "UA"
+  },
+  {
+    "name": "Klavdiyevo-Tarasove",
+    "country": "UA"
+  },
+  {
+    "name": "Kivertsi",
+    "country": "UA"
+  },
+  {
+    "name": "Urochishche Kislsikoye",
+    "country": "UA"
+  },
+  {
+    "name": "Kirovs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Kirovskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Kirovskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Kirovs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Kirovohrads\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Kropyvnytskyi",
+    "country": "UA"
+  },
+  {
+    "name": "Kirove",
+    "country": "UA"
+  },
+  {
+    "name": "Khutory",
+    "country": "UA"
+  },
+  {
+    "name": "Kyrylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kyrykivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kiliya",
+    "country": "UA"
+  },
+  {
+    "name": "Khyriv",
+    "country": "UA"
+  },
+  {
+    "name": "Khutor Pen\u2019kovatoye",
+    "country": "UA"
+  },
+  {
+    "name": "Naumivs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Khmil\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Kalynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kalynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Khomyne",
+    "country": "UA"
+  },
+  {
+    "name": "Khust",
+    "country": "UA"
+  },
+  {
+    "name": "Khrystynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Abrykosivka",
+    "country": "UA"
+  },
+  {
+    "name": "Khotiv",
+    "country": "UA"
+  },
+  {
+    "name": "Khotyn",
+    "country": "UA"
+  },
+  {
+    "name": "Khorostkiv",
+    "country": "UA"
+  },
+  {
+    "name": "Khorosheve",
+    "country": "UA"
+  },
+  {
+    "name": "Khorol",
+    "country": "UA"
+  },
+  {
+    "name": "Kholodna Balka",
+    "country": "UA"
+  },
+  {
+    "name": "Kholmy",
+    "country": "UA"
+  },
+  {
+    "name": "Khodoriv",
+    "country": "UA"
+  },
+  {
+    "name": "Khmelnytskyi",
+    "country": "UA"
+  },
+  {
+    "name": "Khmel\u2019nyts\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Khmel\u2019nitskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Khmilnyk",
+    "country": "UA"
+  },
+  {
+    "name": "Khymchyn",
+    "country": "UA"
+  },
+  {
+    "name": "Khersons\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Kherson",
+    "country": "UA"
+  },
+  {
+    "name": "Tylovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Khartsyz\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Kharkivs\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Kharkiv",
+    "country": "UA"
+  },
+  {
+    "name": "Kerleut",
+    "country": "UA"
+  },
+  {
+    "name": "Kerch",
+    "country": "UA"
+  },
+  {
+    "name": "Kel\u2019mentsi",
+    "country": "UA"
+  },
+  {
+    "name": "Kehychivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kazil\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Kozyatyn",
+    "country": "UA"
+  },
+  {
+    "name": "Kazanka",
+    "country": "UA"
+  },
+  {
+    "name": "Kozacha Lopan\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Kozachi Laheri",
+    "country": "UA"
+  },
+  {
+    "name": "Kaydaki",
+    "country": "UA"
+  },
+  {
+    "name": "Katyuzhanka",
+    "country": "UA"
+  },
+  {
+    "name": "Katerynopil",
+    "country": "UA"
+  },
+  {
+    "name": "Karnaukhivka",
+    "country": "UA"
+  },
+  {
+    "name": "Vil\u2019khuvatka",
+    "country": "UA"
+  },
+  {
+    "name": "Karlivka",
+    "country": "UA"
+  },
+  {
+    "name": "Soledar",
+    "country": "UA"
+  },
+  {
+    "name": "Karapyshi",
+    "country": "UA"
+  },
+  {
+    "name": "Arbuzovka",
+    "country": "UA"
+  },
+  {
+    "name": "Kapitanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kaniv",
+    "country": "UA"
+  },
+  {
+    "name": "Komysh-Zorya",
+    "country": "UA"
+  },
+  {
+    "name": "Komyshnya",
+    "country": "UA"
+  },
+  {
+    "name": "Kamyshevka Vtoraya",
+    "country": "UA"
+  },
+  {
+    "name": "Komyshuvakha",
+    "country": "UA"
+  },
+  {
+    "name": "Komyshany",
+    "country": "UA"
+  },
+  {
+    "name": "Kamianets-Podilskyi",
+    "country": "UA"
+  },
+  {
+    "name": "Yanchekrak",
+    "country": "UA"
+  },
+  {
+    "name": "Kamennyye Potoki",
+    "country": "UA"
+  },
+  {
+    "name": "Millerovo",
+    "country": "UA"
+  },
+  {
+    "name": "Kamin-Kashyrskyi",
+    "country": "UA"
+  },
+  {
+    "name": "Kamenka-Na-Dnepre",
+    "country": "UA"
+  },
+  {
+    "name": "Kamianka-Buzka",
+    "country": "UA"
+  },
+  {
+    "name": "Kamianka",
+    "country": "UA"
+  },
+  {
+    "name": "Kalush",
+    "country": "UA"
+  },
+  {
+    "name": "Kalyta",
+    "country": "UA"
+  },
+  {
+    "name": "Kalyny",
+    "country": "UA"
+  },
+  {
+    "name": "Kalinova Popasnaya",
+    "country": "UA"
+  },
+  {
+    "name": "Kalynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kalyniv",
+    "country": "UA"
+  },
+  {
+    "name": "Bohdanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kalcheva",
+    "country": "UA"
+  },
+  {
+    "name": "Kalanchak",
+    "country": "UA"
+  },
+  {
+    "name": "Mirnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Kakhovka",
+    "country": "UA"
+  },
+  {
+    "name": "Kayiry",
+    "country": "UA"
+  },
+  {
+    "name": "Kaharlyk",
+    "country": "UA"
+  },
+  {
+    "name": "Kadubivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Kacha",
+    "country": "UA"
+  },
+  {
+    "name": "Izyum",
+    "country": "UA"
+  },
+  {
+    "name": "Izyaslav",
+    "country": "UA"
+  },
+  {
+    "name": "Izobil\u2019noye",
+    "country": "UA"
+  },
+  {
+    "name": "Izmayil",
+    "country": "UA"
+  },
+  {
+    "name": "Yizhivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Iza",
+    "country": "UA"
+  },
+  {
+    "name": "Novoivanivs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Ivanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Ivanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Ivano-Frankivs\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Ivano-Frankivsk",
+    "country": "UA"
+  },
+  {
+    "name": "Ivan\u2019kov",
+    "country": "UA"
+  },
+  {
+    "name": "Ivankiv",
+    "country": "UA"
+  },
+  {
+    "name": "Ivanenki",
+    "country": "UA"
+  },
+  {
+    "name": "Istoki",
+    "country": "UA"
+  },
+  {
+    "name": "Ispas",
+    "country": "UA"
+  },
+  {
+    "name": "Sanatoriy Issary",
+    "country": "UA"
+  },
+  {
+    "name": "Irshava",
+    "country": "UA"
+  },
+  {
+    "name": "Irpin",
+    "country": "UA"
+  },
+  {
+    "name": "Dolyns\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Imshana",
+    "country": "UA"
+  },
+  {
+    "name": "Imeni Lenina",
+    "country": "UA"
+  },
+  {
+    "name": "Artema",
+    "country": "UA"
+  },
+  {
+    "name": "Ilovays\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Chornomors\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Ilarionove",
+    "country": "UA"
+  },
+  {
+    "name": "Illintsi",
+    "country": "UA"
+  },
+  {
+    "name": "Il\u2019ich\u00ebvskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Il\u2019ich\u00ebvka",
+    "country": "UA"
+  },
+  {
+    "name": "Ichnya",
+    "country": "UA"
+  },
+  {
+    "name": "Horodok",
+    "country": "UA"
+  },
+  {
+    "name": "Horlivka",
+    "country": "UA"
+  },
+  {
+    "name": "Hlyboka",
+    "country": "UA"
+  },
+  {
+    "name": "Hlukhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Hvizd",
+    "country": "UA"
+  },
+  {
+    "name": "Hvardiiske",
+    "country": "UA"
+  },
+  {
+    "name": "Huty",
+    "country": "UA"
+  },
+  {
+    "name": "Gutertal\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Husiatyn",
+    "country": "UA"
+  },
+  {
+    "name": "Gurzuf",
+    "country": "UA"
+  },
+  {
+    "name": "Hulyaypole",
+    "country": "UA"
+  },
+  {
+    "name": "Guchok",
+    "country": "UA"
+  },
+  {
+    "name": "Hubynykha",
+    "country": "UA"
+  },
+  {
+    "name": "Grushevka",
+    "country": "UA"
+  },
+  {
+    "name": "Hryshkivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Hrymayliv",
+    "country": "UA"
+  },
+  {
+    "name": "Hryhorivka",
+    "country": "UA"
+  },
+  {
+    "name": "Gresovskiy",
+    "country": "UA"
+  },
+  {
+    "name": "Hrebinky",
+    "country": "UA"
+  },
+  {
+    "name": "Hrebinka",
+    "country": "UA"
+  },
+  {
+    "name": "Hradyz\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Hostomel",
+    "country": "UA"
+  },
+  {
+    "name": "Hoshcha",
+    "country": "UA"
+  },
+  {
+    "name": "Horyanivs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Hirs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Horokhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Horodok",
+    "country": "UA"
+  },
+  {
+    "name": "Horodnya",
+    "country": "UA"
+  },
+  {
+    "name": "Horodnytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Horodnye",
+    "country": "UA"
+  },
+  {
+    "name": "Horodyshche",
+    "country": "UA"
+  },
+  {
+    "name": "Horodyshche",
+    "country": "UA"
+  },
+  {
+    "name": "Gorodishche",
+    "country": "UA"
+  },
+  {
+    "name": "Horodenka",
+    "country": "UA"
+  },
+  {
+    "name": "Hirnyk",
+    "country": "UA"
+  },
+  {
+    "name": "Hornostayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Sanatoriy Gornaya Zdravnitsa",
+    "country": "UA"
+  },
+  {
+    "name": "Gorki",
+    "country": "UA"
+  },
+  {
+    "name": "Gorishni Plavni",
+    "country": "UA"
+  },
+  {
+    "name": "Horinchovo",
+    "country": "UA"
+  },
+  {
+    "name": "Goncharovka",
+    "country": "UA"
+  },
+  {
+    "name": "Goncharova",
+    "country": "UA"
+  },
+  {
+    "name": "Holubyne",
+    "country": "UA"
+  },
+  {
+    "name": "Golubinka",
+    "country": "UA"
+  },
+  {
+    "name": "Golta",
+    "country": "UA"
+  },
+  {
+    "name": "Holovyne",
+    "country": "UA"
+  },
+  {
+    "name": "Ho\u0142oby",
+    "country": "UA"
+  },
+  {
+    "name": "Hola Prystan\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Gogulina",
+    "country": "UA"
+  },
+  {
+    "name": "Hnarivs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Hnivan\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Hnidyn",
+    "country": "UA"
+  },
+  {
+    "name": "Glubokiy Yar",
+    "country": "UA"
+  },
+  {
+    "name": "Hlobyne",
+    "country": "UA"
+  },
+  {
+    "name": "Hlevakha",
+    "country": "UA"
+  },
+  {
+    "name": "Heniches\u2019ka Hirka",
+    "country": "UA"
+  },
+  {
+    "name": "Heniches\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "General\u2019skoye",
+    "country": "UA"
+  },
+  {
+    "name": "Hayvoron",
+    "country": "UA"
+  },
+  {
+    "name": "Haisyn",
+    "country": "UA"
+  },
+  {
+    "name": "Gavrilovka",
+    "country": "UA"
+  },
+  {
+    "name": "Gaspra",
+    "country": "UA"
+  },
+  {
+    "name": "Halych",
+    "country": "UA"
+  },
+  {
+    "name": "Hadyach",
+    "country": "UA"
+  },
+  {
+    "name": "Zakharivka",
+    "country": "UA"
+  },
+  {
+    "name": "Shtormovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Partenit",
+    "country": "UA"
+  },
+  {
+    "name": "Frunzens\u2019kyy",
+    "country": "UA"
+  },
+  {
+    "name": "Frunze",
+    "country": "UA"
+  },
+  {
+    "name": "Frunze",
+    "country": "UA"
+  },
+  {
+    "name": "Fruktovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Foros",
+    "country": "UA"
+  },
+  {
+    "name": "Fontanka",
+    "country": "UA"
+  },
+  {
+    "name": "Fersmanovo",
+    "country": "UA"
+  },
+  {
+    "name": "Feodosiya",
+    "country": "UA"
+  },
+  {
+    "name": "Fastiv",
+    "country": "UA"
+  },
+  {
+    "name": "Fasivochka",
+    "country": "UA"
+  },
+  {
+    "name": "Urochishche Eski-Yurt",
+    "country": "UA"
+  },
+  {
+    "name": "Eskhar",
+    "country": "UA"
+  },
+  {
+    "name": "Gornoye",
+    "country": "UA"
+  },
+  {
+    "name": "Energodar",
+    "country": "UA"
+  },
+  {
+    "name": "Dzvinogrud",
+    "country": "UA"
+  },
+  {
+    "name": "Dzvinogorod an der Strypa",
+    "country": "UA"
+  },
+  {
+    "name": "Druzhnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Dzhankoy",
+    "country": "UA"
+  },
+  {
+    "name": "Sukhorechye",
+    "country": "UA"
+  },
+  {
+    "name": "Toretsk",
+    "country": "UA"
+  },
+  {
+    "name": "Tarasovka",
+    "country": "UA"
+  },
+  {
+    "name": "Dymer",
+    "country": "UA"
+  },
+  {
+    "name": "Dvorichna",
+    "country": "UA"
+  },
+  {
+    "name": "Dunaivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Duliby",
+    "country": "UA"
+  },
+  {
+    "name": "Dudchany",
+    "country": "UA"
+  },
+  {
+    "name": "Dubrovytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Dubove",
+    "country": "UA"
+  },
+  {
+    "name": "Dubno",
+    "country": "UA"
+  },
+  {
+    "name": "Dublyany",
+    "country": "UA"
+  },
+  {
+    "name": "Dublyany",
+    "country": "UA"
+  },
+  {
+    "name": "Druzhba",
+    "country": "UA"
+  },
+  {
+    "name": "Druzhba",
+    "country": "UA"
+  },
+  {
+    "name": "Drovyanka",
+    "country": "UA"
+  },
+  {
+    "name": "Drohobych",
+    "country": "UA"
+  },
+  {
+    "name": "Dravtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Drahovo",
+    "country": "UA"
+  },
+  {
+    "name": "Drabiv",
+    "country": "UA"
+  },
+  {
+    "name": "Dovbysh",
+    "country": "UA"
+  },
+  {
+    "name": "Doroshivka",
+    "country": "UA"
+  },
+  {
+    "name": "Donets\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Donetsk",
+    "country": "UA"
+  },
+  {
+    "name": "Domanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Dolyna",
+    "country": "UA"
+  },
+  {
+    "name": "Sanatoriy Dolossy",
+    "country": "UA"
+  },
+  {
+    "name": "Dolyns'ka",
+    "country": "UA"
+  },
+  {
+    "name": "Dovhe",
+    "country": "UA"
+  },
+  {
+    "name": "Dokuchayevs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Dobryanka",
+    "country": "UA"
+  },
+  {
+    "name": "Dobroye Utro",
+    "country": "UA"
+  },
+  {
+    "name": "Dobroye",
+    "country": "UA"
+  },
+  {
+    "name": "Dobropillya",
+    "country": "UA"
+  },
+  {
+    "name": "Dnipropetrovska Oblast'",
+    "country": "UA"
+  },
+  {
+    "name": "Dnipro",
+    "country": "UA"
+  },
+  {
+    "name": "Kamianske",
+    "country": "UA"
+  },
+  {
+    "name": "Dnipryany",
+    "country": "UA"
+  },
+  {
+    "name": "Dniprovka",
+    "country": "UA"
+  },
+  {
+    "name": "Dniprorudne",
+    "country": "UA"
+  },
+  {
+    "name": "Dmytrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Dmytrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Dmitriyevka",
+    "country": "UA"
+  },
+  {
+    "name": "Dluga-Strona",
+    "country": "UA"
+  },
+  {
+    "name": "Oleksandriys\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Dmytrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Dykan\u2019ka",
+    "country": "UA"
+  },
+  {
+    "name": "Desna",
+    "country": "UA"
+  },
+  {
+    "name": "Derhachi",
+    "country": "UA"
+  },
+  {
+    "name": "Derazhnya",
+    "country": "UA"
+  },
+  {
+    "name": "Denisovka",
+    "country": "UA"
+  },
+  {
+    "name": "Demidovka",
+    "country": "UA"
+  },
+  {
+    "name": "Delyatyn",
+    "country": "UA"
+  },
+  {
+    "name": "Dihtyari",
+    "country": "UA"
+  },
+  {
+    "name": "Debal\u2019tseve",
+    "country": "UA"
+  },
+  {
+    "name": "Davydivka",
+    "country": "UA"
+  },
+  {
+    "name": "Dashiv",
+    "country": "UA"
+  },
+  {
+    "name": "Darnytsia Raion",
+    "country": "UA"
+  },
+  {
+    "name": "Danilovka",
+    "country": "UA"
+  },
+  {
+    "name": "Danilovka",
+    "country": "UA"
+  },
+  {
+    "name": "Danylo-Ivanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Dal\u2019niye Kamyshi",
+    "country": "UA"
+  },
+  {
+    "name": "Kamyshly",
+    "country": "UA"
+  },
+  {
+    "name": "Dal\u00ebkiy",
+    "country": "UA"
+  },
+  {
+    "name": "Dachnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Chutove",
+    "country": "UA"
+  },
+  {
+    "name": "Chulakivka",
+    "country": "UA"
+  },
+  {
+    "name": "Chuhuyiv",
+    "country": "UA"
+  },
+  {
+    "name": "Chudniv",
+    "country": "UA"
+  },
+  {
+    "name": "Chortkiv",
+    "country": "UA"
+  },
+  {
+    "name": "Chornobyl",
+    "country": "UA"
+  },
+  {
+    "name": "Chopovychi",
+    "country": "UA"
+  },
+  {
+    "name": "Chop",
+    "country": "UA"
+  },
+  {
+    "name": "Ataman\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Chokolivka",
+    "country": "UA"
+  },
+  {
+    "name": "Chisten\u2019koye",
+    "country": "UA"
+  },
+  {
+    "name": "Chynadiyovo",
+    "country": "UA"
+  },
+  {
+    "name": "Chyhyryn",
+    "country": "UA"
+  },
+  {
+    "name": "Chervonyy Pakhar\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Stalino",
+    "country": "UA"
+  },
+  {
+    "name": "Yesman\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Chervone",
+    "country": "UA"
+  },
+  {
+    "name": "Chervonopartyzans\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Chervonohryhorivka",
+    "country": "UA"
+  },
+  {
+    "name": "Chervonohrad",
+    "country": "UA"
+  },
+  {
+    "name": "Radyvyliv",
+    "country": "UA"
+  },
+  {
+    "name": "Chervona Sloboda",
+    "country": "UA"
+  },
+  {
+    "name": "Chervonyy Shakhtar",
+    "country": "UA"
+  },
+  {
+    "name": "Chortomlyk",
+    "country": "UA"
+  },
+  {
+    "name": "Chernyatyn",
+    "country": "UA"
+  },
+  {
+    "name": "Chornyanka",
+    "country": "UA"
+  },
+  {
+    "name": "Chernyakovo",
+    "country": "UA"
+  },
+  {
+    "name": "Cherniakhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Chornukhy",
+    "country": "UA"
+  },
+  {
+    "name": "Chernoslivka",
+    "country": "UA"
+  },
+  {
+    "name": "Chernopolye",
+    "country": "UA"
+  },
+  {
+    "name": "Chernomorskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Chornoliztsi",
+    "country": "UA"
+  },
+  {
+    "name": "Chornobayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Chornobay",
+    "country": "UA"
+  },
+  {
+    "name": "Cherniyiv",
+    "country": "UA"
+  },
+  {
+    "name": "Chernivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Chernivtsi Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Chernihivs\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Chernihiv",
+    "country": "UA"
+  },
+  {
+    "name": "Chernivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Chernelytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Cherkasy",
+    "country": "UA"
+  },
+  {
+    "name": "Cherkas\u2019ka Oblast\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Chekhove",
+    "country": "UA"
+  },
+  {
+    "name": "Chasiv Yar",
+    "country": "UA"
+  },
+  {
+    "name": "Chaplynka",
+    "country": "UA"
+  },
+  {
+    "name": "Chapayeve",
+    "country": "UA"
+  },
+  {
+    "name": "Kalynove",
+    "country": "UA"
+  },
+  {
+    "name": "Viytivka",
+    "country": "UA"
+  },
+  {
+    "name": "Chapayevka",
+    "country": "UA"
+  },
+  {
+    "name": "Chahor",
+    "country": "UA"
+  },
+  {
+    "name": "Bytkiv",
+    "country": "UA"
+  },
+  {
+    "name": "Bystrytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Bykivka",
+    "country": "UA"
+  },
+  {
+    "name": "Buzova",
+    "country": "UA"
+  },
+  {
+    "name": "Bushtyno",
+    "country": "UA"
+  },
+  {
+    "name": "Buryn\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Burshtyn",
+    "country": "UA"
+  },
+  {
+    "name": "Burchak",
+    "country": "UA"
+  },
+  {
+    "name": "Budy",
+    "country": "UA"
+  },
+  {
+    "name": "Buchach",
+    "country": "UA"
+  },
+  {
+    "name": "Bucha",
+    "country": "UA"
+  },
+  {
+    "name": "Bucha",
+    "country": "UA"
+  },
+  {
+    "name": "Bryukhovychi",
+    "country": "UA"
+  },
+  {
+    "name": "Bryanka",
+    "country": "UA"
+  },
+  {
+    "name": "Brusyliv",
+    "country": "UA"
+  },
+  {
+    "name": "Brovary",
+    "country": "UA"
+  },
+  {
+    "name": "Broska",
+    "country": "UA"
+  },
+  {
+    "name": "Broshniv-Osada",
+    "country": "UA"
+  },
+  {
+    "name": "Brody",
+    "country": "UA"
+  },
+  {
+    "name": "Brylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Bratslav",
+    "country": "UA"
+  },
+  {
+    "name": "Brailiv",
+    "country": "UA"
+  },
+  {
+    "name": "Boyarka",
+    "country": "UA"
+  },
+  {
+    "name": "Boyany",
+    "country": "UA"
+  },
+  {
+    "name": "Nikita",
+    "country": "UA"
+  },
+  {
+    "name": "Borzna",
+    "country": "UA"
+  },
+  {
+    "name": "Bortnychi",
+    "country": "UA"
+  },
+  {
+    "name": "Borshchiv",
+    "country": "UA"
+  },
+  {
+    "name": "Borova",
+    "country": "UA"
+  },
+  {
+    "name": "Borova",
+    "country": "UA"
+  },
+  {
+    "name": "Boromlya",
+    "country": "UA"
+  },
+  {
+    "name": "Borodianka",
+    "country": "UA"
+  },
+  {
+    "name": "Borodino",
+    "country": "UA"
+  },
+  {
+    "name": "Boryspil\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Boryslav",
+    "country": "UA"
+  },
+  {
+    "name": "Borangar",
+    "country": "UA"
+  },
+  {
+    "name": "Bol\u2019shoye Sadovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Bilshivtsi",
+    "country": "UA"
+  },
+  {
+    "name": "Velikiye Troyany",
+    "country": "UA"
+  },
+  {
+    "name": "Velyka Balka",
+    "country": "UA"
+  },
+  {
+    "name": "Bolhrad",
+    "country": "UA"
+  },
+  {
+    "name": "Bolekhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Bohuslav",
+    "country": "UA"
+  },
+  {
+    "name": "Bohorodchany",
+    "country": "UA"
+  },
+  {
+    "name": "Bohodukhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Bohdanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Bohdan",
+    "country": "UA"
+  },
+  {
+    "name": "Bobyanskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Bobrovytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Bibrka",
+    "country": "UA"
+  },
+  {
+    "name": "Bobrytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Bobovo",
+    "country": "UA"
+  },
+  {
+    "name": "Blyznyuky",
+    "country": "UA"
+  },
+  {
+    "name": "Blizhnye Kamyshi",
+    "country": "UA"
+  },
+  {
+    "name": "Blizhneye",
+    "country": "UA"
+  },
+  {
+    "name": "Blizhnegorodskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Blahodatne",
+    "country": "UA"
+  },
+  {
+    "name": "Blahodatne",
+    "country": "UA"
+  },
+  {
+    "name": "Nayman",
+    "country": "UA"
+  },
+  {
+    "name": "Biryukove",
+    "country": "UA"
+  },
+  {
+    "name": "Birjukowo",
+    "country": "UA"
+  },
+  {
+    "name": "Bilhorod-Dnistrovskyi",
+    "country": "UA"
+  },
+  {
+    "name": "Bila Tserkva",
+    "country": "UA"
+  },
+  {
+    "name": "Bezimenne",
+    "country": "UA"
+  },
+  {
+    "name": "Bezlyudivka",
+    "country": "UA"
+  },
+  {
+    "name": "Beshuyskiye Kopi",
+    "country": "UA"
+  },
+  {
+    "name": "Donskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Besharan\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Bershad",
+    "country": "UA"
+  },
+  {
+    "name": "Beryslav",
+    "country": "UA"
+  },
+  {
+    "name": "Berezovo",
+    "country": "UA"
+  },
+  {
+    "name": "Berezivka",
+    "country": "UA"
+  },
+  {
+    "name": "Berezivka",
+    "country": "UA"
+  },
+  {
+    "name": "Bereznyky",
+    "country": "UA"
+  },
+  {
+    "name": "Bereznehuvate",
+    "country": "UA"
+  },
+  {
+    "name": "Berezna",
+    "country": "UA"
+  },
+  {
+    "name": "Berezyne",
+    "country": "UA"
+  },
+  {
+    "name": "\u0411\u0435\u0440\u0435\u0436\u0430\u043d\u0438",
+    "country": "UA"
+  },
+  {
+    "name": "Berezanka",
+    "country": "UA"
+  },
+  {
+    "name": "Berezan\u2019",
+    "country": "UA"
+  },
+  {
+    "name": "Berestechko",
+    "country": "UA"
+  },
+  {
+    "name": "Berehove",
+    "country": "UA"
+  },
+  {
+    "name": "Beregovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Berehomet",
+    "country": "UA"
+  },
+  {
+    "name": "Berdychiv",
+    "country": "UA"
+  },
+  {
+    "name": "Berdyans\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Berdyansk",
+    "country": "UA"
+  },
+  {
+    "name": "Belz",
+    "country": "UA"
+  },
+  {
+    "name": "Bili Oslavy",
+    "country": "UA"
+  },
+  {
+    "name": "Bilyayivka",
+    "country": "UA"
+  },
+  {
+    "name": "Bilyari",
+    "country": "UA"
+  },
+  {
+    "name": "Bilozerka",
+    "country": "UA"
+  },
+  {
+    "name": "Bile",
+    "country": "UA"
+  },
+  {
+    "name": "Bilovods'k",
+    "country": "UA"
+  },
+  {
+    "name": "Urochishche Belostadnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Bilopillya",
+    "country": "UA"
+  },
+  {
+    "name": "Bilokurakyne",
+    "country": "UA"
+  },
+  {
+    "name": "Belokamenskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Inkerman",
+    "country": "UA"
+  },
+  {
+    "name": "Bilohirsk",
+    "country": "UA"
+  },
+  {
+    "name": "Bilohorivka",
+    "country": "UA"
+  },
+  {
+    "name": "Bilohorodka",
+    "country": "UA"
+  },
+  {
+    "name": "Bilky",
+    "country": "UA"
+  },
+  {
+    "name": "Bilyts\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Belitskiy",
+    "country": "UA"
+  },
+  {
+    "name": "Belichi",
+    "country": "UA"
+  },
+  {
+    "name": "Belaya Skala",
+    "country": "UA"
+  },
+  {
+    "name": "Bila Krynytsya",
+    "country": "UA"
+  },
+  {
+    "name": "Belaya",
+    "country": "UA"
+  },
+  {
+    "name": "Bekhtery",
+    "country": "UA"
+  },
+  {
+    "name": "Bazaliya",
+    "country": "UA"
+  },
+  {
+    "name": "Baturyn",
+    "country": "UA"
+  },
+  {
+    "name": "Sanatoriy Batylyman",
+    "country": "UA"
+  },
+  {
+    "name": "Batal\u2019noye",
+    "country": "UA"
+  },
+  {
+    "name": "Bashtanovka",
+    "country": "UA"
+  },
+  {
+    "name": "Bashtanka",
+    "country": "UA"
+  },
+  {
+    "name": "Baryshivka",
+    "country": "UA"
+  },
+  {
+    "name": "Barvinkove",
+    "country": "UA"
+  },
+  {
+    "name": "Barteniyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Barmashovo",
+    "country": "UA"
+  },
+  {
+    "name": "Baranivka",
+    "country": "UA"
+  },
+  {
+    "name": "Bar",
+    "country": "UA"
+  },
+  {
+    "name": "Banyliv",
+    "country": "UA"
+  },
+  {
+    "name": "Balta",
+    "country": "UA"
+  },
+  {
+    "name": "Balovnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Balky",
+    "country": "UA"
+  },
+  {
+    "name": "Balakliya",
+    "country": "UA"
+  },
+  {
+    "name": "Balaklava",
+    "country": "UA"
+  },
+  {
+    "name": "Balabyne",
+    "country": "UA"
+  },
+  {
+    "name": "Bakhmach",
+    "country": "UA"
+  },
+  {
+    "name": "Bakhchysarai",
+    "country": "UA"
+  },
+  {
+    "name": "Baglikovo",
+    "country": "UA"
+  },
+  {
+    "name": "Baherove",
+    "country": "UA"
+  },
+  {
+    "name": "Babyntsi",
+    "country": "UA"
+  },
+  {
+    "name": "Babintsy",
+    "country": "UA"
+  },
+  {
+    "name": "Babanka",
+    "country": "UA"
+  },
+  {
+    "name": "Ayvazovskaya",
+    "country": "UA"
+  },
+  {
+    "name": "Ayanskiy Istochnik",
+    "country": "UA"
+  },
+  {
+    "name": "Avtozavodskiy Rayon",
+    "country": "UA"
+  },
+  {
+    "name": "Avdiyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Auly",
+    "country": "UA"
+  },
+  {
+    "name": "Altestove",
+    "country": "UA"
+  },
+  {
+    "name": "Ataki",
+    "country": "UA"
+  },
+  {
+    "name": "Kordon Asport",
+    "country": "UA"
+  },
+  {
+    "name": "Askaniya-Nova",
+    "country": "UA"
+  },
+  {
+    "name": "-",
+    "country": "UA"
+  },
+  {
+    "name": "Artsyz",
+    "country": "UA"
+  },
+  {
+    "name": "Art\u00ebmovskiy Rayon",
+    "country": "UA"
+  },
+  {
+    "name": "Bakhmut",
+    "country": "UA"
+  },
+  {
+    "name": "Artemivs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Artemivka",
+    "country": "UA"
+  },
+  {
+    "name": "Artek",
+    "country": "UA"
+  },
+  {
+    "name": "Armyansk",
+    "country": "UA"
+  },
+  {
+    "name": "Armutluk",
+    "country": "UA"
+  },
+  {
+    "name": "Arbuzynka",
+    "country": "UA"
+  },
+  {
+    "name": "Apostolove",
+    "country": "UA"
+  },
+  {
+    "name": "Antratsyt",
+    "country": "UA"
+  },
+  {
+    "name": "Antoniny",
+    "country": "UA"
+  },
+  {
+    "name": "Andrushivka",
+    "country": "UA"
+  },
+  {
+    "name": "Ananyiv",
+    "country": "UA"
+  },
+  {
+    "name": "Amvrosiyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Amurskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Alushta",
+    "country": "UA"
+  },
+  {
+    "name": "Alupka",
+    "country": "UA"
+  },
+  {
+    "name": "Alsu",
+    "country": "UA"
+  },
+  {
+    "name": "Oleksiyevo-Druzhkivka",
+    "country": "UA"
+  },
+  {
+    "name": "Aleksandrovka",
+    "country": "UA"
+  },
+  {
+    "name": "Oleksandrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Oleksandrivka",
+    "country": "UA"
+  },
+  {
+    "name": "Aleksandrowka",
+    "country": "UA"
+  },
+  {
+    "name": "Aleksandrinka",
+    "country": "UA"
+  },
+  {
+    "name": "Alchevs\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Alabash Konrat",
+    "country": "UA"
+  },
+  {
+    "name": "Yakymivka",
+    "country": "UA"
+  },
+  {
+    "name": "Akikat",
+    "country": "UA"
+  },
+  {
+    "name": "Okhtyrka",
+    "country": "UA"
+  },
+  {
+    "name": "Aheyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Aeroflotskiy",
+    "country": "UA"
+  },
+  {
+    "name": "Adzhamka",
+    "country": "UA"
+  },
+  {
+    "name": "Malynivka",
+    "country": "UA"
+  },
+  {
+    "name": "Mykhaylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Novyy Koyash",
+    "country": "UA"
+  },
+  {
+    "name": "Dzhardzhava",
+    "country": "UA"
+  },
+  {
+    "name": "Chernyaky",
+    "country": "UA"
+  },
+  {
+    "name": "Imeni Frunze",
+    "country": "UA"
+  },
+  {
+    "name": "Savkino",
+    "country": "UA"
+  },
+  {
+    "name": "Chernihivs\u2019ke",
+    "country": "UA"
+  },
+  {
+    "name": "Oddykhne",
+    "country": "UA"
+  },
+  {
+    "name": "Novo Ivanovka",
+    "country": "UA"
+  },
+  {
+    "name": "Vasil\u2019yevo-Grigor\u2019yevskiy",
+    "country": "UA"
+  },
+  {
+    "name": "Privol\u2019ye",
+    "country": "UA"
+  },
+  {
+    "name": "Kabachki",
+    "country": "UA"
+  },
+  {
+    "name": "Kooperatorka",
+    "country": "UA"
+  },
+  {
+    "name": "Kuznetsovka",
+    "country": "UA"
+  },
+  {
+    "name": "Stupakove",
+    "country": "UA"
+  },
+  {
+    "name": "Slavyanoserbsk",
+    "country": "UA"
+  },
+  {
+    "name": "Butivka",
+    "country": "UA"
+  },
+  {
+    "name": "Nadtochiyi",
+    "country": "UA"
+  },
+  {
+    "name": "Sinolitsovka",
+    "country": "UA"
+  },
+  {
+    "name": "Selektsiyne",
+    "country": "UA"
+  },
+  {
+    "name": "Kysle",
+    "country": "UA"
+  },
+  {
+    "name": "Losevo",
+    "country": "UA"
+  },
+  {
+    "name": "Chunikhin",
+    "country": "UA"
+  },
+  {
+    "name": "Movchany",
+    "country": "UA"
+  },
+  {
+    "name": "Sorokyne",
+    "country": "UA"
+  },
+  {
+    "name": "Yehorove",
+    "country": "UA"
+  },
+  {
+    "name": "Tsementna Slobidka",
+    "country": "UA"
+  },
+  {
+    "name": "Kopashnovo",
+    "country": "UA"
+  },
+  {
+    "name": "Narkevychi",
+    "country": "UA"
+  },
+  {
+    "name": "Kirove",
+    "country": "UA"
+  },
+  {
+    "name": "Hromy",
+    "country": "UA"
+  },
+  {
+    "name": "Orekhovo",
+    "country": "UA"
+  },
+  {
+    "name": "Okny",
+    "country": "UA"
+  },
+  {
+    "name": "Kuchurhan",
+    "country": "UA"
+  },
+  {
+    "name": "Smyga",
+    "country": "UA"
+  },
+  {
+    "name": "Tayirove",
+    "country": "UA"
+  },
+  {
+    "name": "Teplodar",
+    "country": "UA"
+  },
+  {
+    "name": "Tavriys\u2019k",
+    "country": "UA"
+  },
+  {
+    "name": "Horishni Plavni",
+    "country": "UA"
+  },
+  {
+    "name": "Sokol\u2019nyky",
+    "country": "UA"
+  },
+  {
+    "name": "Ivanivka",
+    "country": "UA"
+  },
+  {
+    "name": "Shatylivka",
+    "country": "UA"
+  },
+  {
+    "name": "Dal'nya Zhuravlivka",
+    "country": "UA"
+  },
+  {
+    "name": "Il\u2019icha",
+    "country": "UA"
+  },
+  {
+    "name": "Shevchenka",
+    "country": "UA"
+  },
+  {
+    "name": "Slavutych",
+    "country": "UA"
+  },
+  {
+    "name": "Orzhiv",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnogorovka",
+    "country": "UA"
+  },
+  {
+    "name": "Priyatnoye Svidanye",
+    "country": "UA"
+  },
+  {
+    "name": "Molochnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Komsomol\u2019skoye",
+    "country": "UA"
+  },
+  {
+    "name": "Malen\u2019koye",
+    "country": "UA"
+  },
+  {
+    "name": "Shyroke",
+    "country": "UA"
+  },
+  {
+    "name": "Novoandriyivka",
+    "country": "UA"
+  },
+  {
+    "name": "Kordon Marte",
+    "country": "UA"
+  },
+  {
+    "name": "Tretiy Samostriy",
+    "country": "UA"
+  },
+  {
+    "name": "Lazarevka",
+    "country": "UA"
+  },
+  {
+    "name": "Druzhne",
+    "country": "UA"
+  },
+  {
+    "name": "Rozovy",
+    "country": "UA"
+  },
+  {
+    "name": "Lavanda",
+    "country": "UA"
+  },
+  {
+    "name": "Krasny Partizan",
+    "country": "UA"
+  },
+  {
+    "name": "Poltavka",
+    "country": "UA"
+  },
+  {
+    "name": "Yantarne",
+    "country": "UA"
+  },
+  {
+    "name": "Blizhneye",
+    "country": "UA"
+  },
+  {
+    "name": "Oktyabrs\u2019kyy",
+    "country": "UA"
+  },
+  {
+    "name": "Dubrovka",
+    "country": "UA"
+  },
+  {
+    "name": "Otradnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Timofeyevka",
+    "country": "UA"
+  },
+  {
+    "name": "Konstantinovka",
+    "country": "UA"
+  },
+  {
+    "name": "Izumrudnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Pavlivka",
+    "country": "UA"
+  },
+  {
+    "name": "Vetvistoye",
+    "country": "UA"
+  },
+  {
+    "name": "Maloye Sadovoye",
+    "country": "UA"
+  },
+  {
+    "name": "Nizhnaya Golubinka",
+    "country": "UA"
+  },
+  {
+    "name": "Aromat",
+    "country": "UA"
+  },
+  {
+    "name": "Chonhar",
+    "country": "UA"
+  },
+  {
+    "name": "Shchorsivka",
+    "country": "UA"
+  },
+  {
+    "name": "Shkol\u2019noye",
+    "country": "UA"
+  },
+  {
+    "name": "Topoli",
+    "country": "UA"
+  },
+  {
+    "name": "Kochergino",
+    "country": "UA"
+  },
+  {
+    "name": "Samokhvalovo",
+    "country": "UA"
+  },
+  {
+    "name": "Sevastyanovka",
+    "country": "UA"
+  },
+  {
+    "name": "Aromatnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Malovydne",
+    "country": "UA"
+  },
+  {
+    "name": "Zheleznodorozhnoye",
+    "country": "UA"
+  },
+  {
+    "name": "Pirogovka",
+    "country": "UA"
+  },
+  {
+    "name": "Semarenka",
+    "country": "UA"
+  },
+  {
+    "name": "Zaliznychne",
+    "country": "UA"
+  },
+  {
+    "name": "Novyy Trud",
+    "country": "UA"
+  },
+  {
+    "name": "Sal\u2019kove",
+    "country": "UA"
+  },
+  {
+    "name": "Krasnoye Znamya",
+    "country": "UA"
+  },
+  {
+    "name": "Moskalenka",
+    "country": "UA"
+  },
+  {
+    "name": "Rivne",
+    "country": "UA"
+  },
+  {
+    "name": "Kommunarskoye",
+    "country": "UA"
+  },
+  {
+    "name": "Novoyefremivka",
+    "country": "UA"
+  },
+  {
+    "name": "Druzhba",
+    "country": "UA"
+  },
+  {
+    "name": "Denyshi",
+    "country": "UA"
+  },
+  {
+    "name": "Stepove",
+    "country": "UA"
+  },
+  {
+    "name": "Scholkine",
+    "country": "UA"
+  },
+  {
+    "name": "Yuzhnoukrains'k",
+    "country": "UA"
+  },
+  {
+    "name": "Prohres",
+    "country": "UA"
+  },
+  {
+    "name": "Hora",
+    "country": "UA"
+  },
+  {
+    "name": "Novyi Svit",
+    "country": "UA"
+  },
+  {
+    "name": "\u0413\u043e\u043b\u0443\u0431\u0438\u043d\u043a\u0430",
+    "country": "UA"
+  }
+]

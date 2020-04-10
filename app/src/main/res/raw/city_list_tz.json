@@ -1,0 +1,1322 @@
+[
+  {
+    "name": "Kagera Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Zanzibar Urban/West Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Zanzibar Central/South Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Zanzibar",
+    "country": "TZ"
+  },
+  {
+    "name": "Wete",
+    "country": "TZ"
+  },
+  {
+    "name": "Vwawa",
+    "country": "TZ"
+  },
+  {
+    "name": "Vikindu",
+    "country": "TZ"
+  },
+  {
+    "name": "Uyovu",
+    "country": "TZ"
+  },
+  {
+    "name": "Uwelini",
+    "country": "TZ"
+  },
+  {
+    "name": "Uvinza",
+    "country": "TZ"
+  },
+  {
+    "name": "Utete",
+    "country": "TZ"
+  },
+  {
+    "name": "Usoke",
+    "country": "TZ"
+  },
+  {
+    "name": "Ushirombo",
+    "country": "TZ"
+  },
+  {
+    "name": "Usevia",
+    "country": "TZ"
+  },
+  {
+    "name": "Usagara",
+    "country": "TZ"
+  },
+  {
+    "name": "Usa River",
+    "country": "TZ"
+  },
+  {
+    "name": "Urambo",
+    "country": "TZ"
+  },
+  {
+    "name": "Ulenje",
+    "country": "TZ"
+  },
+  {
+    "name": "Ujiji",
+    "country": "TZ"
+  },
+  {
+    "name": "Tunduma",
+    "country": "TZ"
+  },
+  {
+    "name": "Tumbi",
+    "country": "TZ"
+  },
+  {
+    "name": "Tukuyu",
+    "country": "TZ"
+  },
+  {
+    "name": "Tinde",
+    "country": "TZ"
+  },
+  {
+    "name": "Tarime",
+    "country": "TZ"
+  },
+  {
+    "name": "United Republic of Tanzania",
+    "country": "TZ"
+  },
+  {
+    "name": "Tanga Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Tanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Tabora Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Tabora",
+    "country": "TZ"
+  },
+  {
+    "name": "Sumbawanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Soni",
+    "country": "TZ"
+  },
+  {
+    "name": "Songwa",
+    "country": "TZ"
+  },
+  {
+    "name": "Somanda",
+    "country": "TZ"
+  },
+  {
+    "name": "Sokoni",
+    "country": "TZ"
+  },
+  {
+    "name": "Sirari",
+    "country": "TZ"
+  },
+  {
+    "name": "Singida Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Singida",
+    "country": "TZ"
+  },
+  {
+    "name": "Sikonge",
+    "country": "TZ"
+  },
+  {
+    "name": "Shinyanga Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Shinyanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Shelui",
+    "country": "TZ"
+  },
+  {
+    "name": "Sepuka",
+    "country": "TZ"
+  },
+  {
+    "name": "Sea View",
+    "country": "TZ"
+  },
+  {
+    "name": "Same",
+    "country": "TZ"
+  },
+  {
+    "name": "Rulenge",
+    "country": "TZ"
+  },
+  {
+    "name": "Rukwa Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Rujewa",
+    "country": "TZ"
+  },
+  {
+    "name": "Regeza Mwendo",
+    "country": "TZ"
+  },
+  {
+    "name": "Coast Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Puma",
+    "country": "TZ"
+  },
+  {
+    "name": "Poli",
+    "country": "TZ"
+  },
+  {
+    "name": "Pemba South Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Pemba North Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Pangani",
+    "country": "TZ"
+  },
+  {
+    "name": "Old Shinyanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Nzega",
+    "country": "TZ"
+  },
+  {
+    "name": "Nyanguge",
+    "country": "TZ"
+  },
+  {
+    "name": "Nyamuswa",
+    "country": "TZ"
+  },
+  {
+    "name": "Nyalikungu",
+    "country": "TZ"
+  },
+  {
+    "name": "Nyakato",
+    "country": "TZ"
+  },
+  {
+    "name": "Nyakahanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Nyakabindi",
+    "country": "TZ"
+  },
+  {
+    "name": "Nsunga",
+    "country": "TZ"
+  },
+  {
+    "name": "Nshamba",
+    "country": "TZ"
+  },
+  {
+    "name": "Nkove",
+    "country": "TZ"
+  },
+  {
+    "name": "Nkoaranga",
+    "country": "TZ"
+  },
+  {
+    "name": "Njombe",
+    "country": "TZ"
+  },
+  {
+    "name": "Nguruka",
+    "country": "TZ"
+  },
+  {
+    "name": "Ngudu",
+    "country": "TZ"
+  },
+  {
+    "name": "Ngorongoro",
+    "country": "TZ"
+  },
+  {
+    "name": "Ngerengere",
+    "country": "TZ"
+  },
+  {
+    "name": "Ngara",
+    "country": "TZ"
+  },
+  {
+    "name": "Nganane",
+    "country": "TZ"
+  },
+  {
+    "name": "Ndungu",
+    "country": "TZ"
+  },
+  {
+    "name": "Nduli",
+    "country": "TZ"
+  },
+  {
+    "name": "Ndago",
+    "country": "TZ"
+  },
+  {
+    "name": "Nansio",
+    "country": "TZ"
+  },
+  {
+    "name": "Nangwa",
+    "country": "TZ"
+  },
+  {
+    "name": "Namanyere",
+    "country": "TZ"
+  },
+  {
+    "name": "Namanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Nakatunguru",
+    "country": "TZ"
+  },
+  {
+    "name": "Naberera",
+    "country": "TZ"
+  },
+  {
+    "name": "Mwembe",
+    "country": "TZ"
+  },
+  {
+    "name": "Mwaya",
+    "country": "TZ"
+  },
+  {
+    "name": "Mwanza Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Mwanza",
+    "country": "TZ"
+  },
+  {
+    "name": "Mwanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Mwadui",
+    "country": "TZ"
+  },
+  {
+    "name": "Mvomero",
+    "country": "TZ"
+  },
+  {
+    "name": "Musoma",
+    "country": "TZ"
+  },
+  {
+    "name": "Muriti",
+    "country": "TZ"
+  },
+  {
+    "name": "Mungaa",
+    "country": "TZ"
+  },
+  {
+    "name": "Muleba",
+    "country": "TZ"
+  },
+  {
+    "name": "Muheza",
+    "country": "TZ"
+  },
+  {
+    "name": "Mugumu",
+    "country": "TZ"
+  },
+  {
+    "name": "Mugango",
+    "country": "TZ"
+  },
+  {
+    "name": "Mtwango",
+    "country": "TZ"
+  },
+  {
+    "name": "Mto wa Mbu",
+    "country": "TZ"
+  },
+  {
+    "name": "Mtinko",
+    "country": "TZ"
+  },
+  {
+    "name": "Mtimbira",
+    "country": "TZ"
+  },
+  {
+    "name": "Mtambile",
+    "country": "TZ"
+  },
+  {
+    "name": "Msowero",
+    "country": "TZ"
+  },
+  {
+    "name": "Msanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Mpwapwa",
+    "country": "TZ"
+  },
+  {
+    "name": "Mpanda",
+    "country": "TZ"
+  },
+  {
+    "name": "Moshi",
+    "country": "TZ"
+  },
+  {
+    "name": "Morogoro Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Morogoro",
+    "country": "TZ"
+  },
+  {
+    "name": "Monduli",
+    "country": "TZ"
+  },
+  {
+    "name": "Mlowo",
+    "country": "TZ"
+  },
+  {
+    "name": "Mlimba",
+    "country": "TZ"
+  },
+  {
+    "name": "Mlangali",
+    "country": "TZ"
+  },
+  {
+    "name": "Mlandizi",
+    "country": "TZ"
+  },
+  {
+    "name": "Mlalo",
+    "country": "TZ"
+  },
+  {
+    "name": "Mkuranga",
+    "country": "TZ"
+  },
+  {
+    "name": "Mkokotoni",
+    "country": "TZ"
+  },
+  {
+    "name": "Mwandiga",
+    "country": "TZ"
+  },
+  {
+    "name": "Misungwi",
+    "country": "TZ"
+  },
+  {
+    "name": "Misasi",
+    "country": "TZ"
+  },
+  {
+    "name": "Mikumi",
+    "country": "TZ"
+  },
+  {
+    "name": "Micheweni",
+    "country": "TZ"
+  },
+  {
+    "name": "Mhango",
+    "country": "TZ"
+  },
+  {
+    "name": "Mgandu",
+    "country": "TZ"
+  },
+  {
+    "name": "Mbumi",
+    "country": "TZ"
+  },
+  {
+    "name": "Mbulu",
+    "country": "TZ"
+  },
+  {
+    "name": "Mbuguni",
+    "country": "TZ"
+  },
+  {
+    "name": "Mbeya Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Mbeya",
+    "country": "TZ"
+  },
+  {
+    "name": "Mazinde",
+    "country": "TZ"
+  },
+  {
+    "name": "Matui",
+    "country": "TZ"
+  },
+  {
+    "name": "Matonga",
+    "country": "TZ"
+  },
+  {
+    "name": "Matamba",
+    "country": "TZ"
+  },
+  {
+    "name": "Matai",
+    "country": "TZ"
+  },
+  {
+    "name": "Maswa",
+    "country": "TZ"
+  },
+  {
+    "name": "Masumbwe",
+    "country": "TZ"
+  },
+  {
+    "name": "Masoko",
+    "country": "TZ"
+  },
+  {
+    "name": "Masiwani",
+    "country": "TZ"
+  },
+  {
+    "name": "Masama",
+    "country": "TZ"
+  },
+  {
+    "name": "Marwa",
+    "country": "TZ"
+  },
+  {
+    "name": "Marombosa",
+    "country": "TZ"
+  },
+  {
+    "name": "Mara Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Maramba",
+    "country": "TZ"
+  },
+  {
+    "name": "Maneromango",
+    "country": "TZ"
+  },
+  {
+    "name": "Malya",
+    "country": "TZ"
+  },
+  {
+    "name": "Malinyi",
+    "country": "TZ"
+  },
+  {
+    "name": "Malangali",
+    "country": "TZ"
+  },
+  {
+    "name": "Malampaka",
+    "country": "TZ"
+  },
+  {
+    "name": "Makuyuni",
+    "country": "TZ"
+  },
+  {
+    "name": "Makungu",
+    "country": "TZ"
+  },
+  {
+    "name": "Makumbako",
+    "country": "TZ"
+  },
+  {
+    "name": "Makanya",
+    "country": "TZ"
+  },
+  {
+    "name": "Majengo",
+    "country": "TZ"
+  },
+  {
+    "name": "Mahonda",
+    "country": "TZ"
+  },
+  {
+    "name": "Mahenge",
+    "country": "TZ"
+  },
+  {
+    "name": "Mahanje",
+    "country": "TZ"
+  },
+  {
+    "name": "Kihangara",
+    "country": "TZ"
+  },
+  {
+    "name": "Magugu",
+    "country": "TZ"
+  },
+  {
+    "name": "Magomeni",
+    "country": "TZ"
+  },
+  {
+    "name": "Magomeni",
+    "country": "TZ"
+  },
+  {
+    "name": "Magole",
+    "country": "TZ"
+  },
+  {
+    "name": "Mafinga",
+    "country": "TZ"
+  },
+  {
+    "name": "Mabibe",
+    "country": "TZ"
+  },
+  {
+    "name": "Mabamba",
+    "country": "TZ"
+  },
+  {
+    "name": "Mabama",
+    "country": "TZ"
+  },
+  {
+    "name": "Lushoto",
+    "country": "TZ"
+  },
+  {
+    "name": "Lupiro",
+    "country": "TZ"
+  },
+  {
+    "name": "Lugoba",
+    "country": "TZ"
+  },
+  {
+    "name": "Longido",
+    "country": "TZ"
+  },
+  {
+    "name": "Liwale",
+    "country": "TZ"
+  },
+  {
+    "name": "Lindi Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Lembeni",
+    "country": "TZ"
+  },
+  {
+    "name": "Lalago",
+    "country": "TZ"
+  },
+  {
+    "name": "Laela",
+    "country": "TZ"
+  },
+  {
+    "name": "Kyela",
+    "country": "TZ"
+  },
+  {
+    "name": "Kyaka",
+    "country": "TZ"
+  },
+  {
+    "name": "Kwakoa",
+    "country": "TZ"
+  },
+  {
+    "name": "Kongwa",
+    "country": "TZ"
+  },
+  {
+    "name": "Kondoa",
+    "country": "TZ"
+  },
+  {
+    "name": "Konde",
+    "country": "TZ"
+  },
+  {
+    "name": "Koani Ndogo",
+    "country": "TZ"
+  },
+  {
+    "name": "Koani",
+    "country": "TZ"
+  },
+  {
+    "name": "Kiwira",
+    "country": "TZ"
+  },
+  {
+    "name": "Kiwengwa",
+    "country": "TZ"
+  },
+  {
+    "name": "Kisiwani",
+    "country": "TZ"
+  },
+  {
+    "name": "Kishapu",
+    "country": "TZ"
+  },
+  {
+    "name": "Kisesa",
+    "country": "TZ"
+  },
+  {
+    "name": "Kisarawe",
+    "country": "TZ"
+  },
+  {
+    "name": "Kisanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Kirya",
+    "country": "TZ"
+  },
+  {
+    "name": "Kirando",
+    "country": "TZ"
+  },
+  {
+    "name": "Kipalapala",
+    "country": "TZ"
+  },
+  {
+    "name": "Kiomboi",
+    "country": "TZ"
+  },
+  {
+    "name": "Kintinku",
+    "country": "TZ"
+  },
+  {
+    "name": "Kingori",
+    "country": "TZ"
+  },
+  {
+    "name": "Kimamba",
+    "country": "TZ"
+  },
+  {
+    "name": "Kilwa Masoko",
+    "country": "TZ"
+  },
+  {
+    "name": "Kilosa",
+    "country": "TZ"
+  },
+  {
+    "name": "Kilindoni",
+    "country": "TZ"
+  },
+  {
+    "name": "Kilimatinde",
+    "country": "TZ"
+  },
+  {
+    "name": "Kilimanjaro Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Kijini",
+    "country": "TZ"
+  },
+  {
+    "name": "Kihurio",
+    "country": "TZ"
+  },
+  {
+    "name": "Kigunga",
+    "country": "TZ"
+  },
+  {
+    "name": "Kigoma Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Kigoma",
+    "country": "TZ"
+  },
+  {
+    "name": "Kidodi",
+    "country": "TZ"
+  },
+  {
+    "name": "Kidatu",
+    "country": "TZ"
+  },
+  {
+    "name": "Kibondo",
+    "country": "TZ"
+  },
+  {
+    "name": "Kibiti",
+    "country": "TZ"
+  },
+  {
+    "name": "Kibaya",
+    "country": "TZ"
+  },
+  {
+    "name": "Kibara",
+    "country": "TZ"
+  },
+  {
+    "name": "Kibakwe",
+    "country": "TZ"
+  },
+  {
+    "name": "Kibaha",
+    "country": "TZ"
+  },
+  {
+    "name": "Katumba",
+    "country": "TZ"
+  },
+  {
+    "name": "Katoro",
+    "country": "TZ"
+  },
+  {
+    "name": "Katoro",
+    "country": "TZ"
+  },
+  {
+    "name": "Katesh",
+    "country": "TZ"
+  },
+  {
+    "name": "Katerero",
+    "country": "TZ"
+  },
+  {
+    "name": "Kasulu",
+    "country": "TZ"
+  },
+  {
+    "name": "Kasamwa",
+    "country": "TZ"
+  },
+  {
+    "name": "Karema",
+    "country": "TZ"
+  },
+  {
+    "name": "Kiratu",
+    "country": "TZ"
+  },
+  {
+    "name": "Kandete",
+    "country": "TZ"
+  },
+  {
+    "name": "Kamachumu",
+    "country": "TZ"
+  },
+  {
+    "name": "Kaliua",
+    "country": "TZ"
+  },
+  {
+    "name": "Kakonko",
+    "country": "TZ"
+  },
+  {
+    "name": "Kahama",
+    "country": "TZ"
+  },
+  {
+    "name": "Kabanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Izazi",
+    "country": "TZ"
+  },
+  {
+    "name": "Itumba",
+    "country": "TZ"
+  },
+  {
+    "name": "Itigi",
+    "country": "TZ"
+  },
+  {
+    "name": "Issenye",
+    "country": "TZ"
+  },
+  {
+    "name": "Isaka",
+    "country": "TZ"
+  },
+  {
+    "name": "Iringa Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Iringa",
+    "country": "TZ"
+  },
+  {
+    "name": "Ipinda",
+    "country": "TZ"
+  },
+  {
+    "name": "Inyonga",
+    "country": "TZ"
+  },
+  {
+    "name": "Ilula",
+    "country": "TZ"
+  },
+  {
+    "name": "Ilongero",
+    "country": "TZ"
+  },
+  {
+    "name": "Ilembula",
+    "country": "TZ"
+  },
+  {
+    "name": "Ilembo",
+    "country": "TZ"
+  },
+  {
+    "name": "Ikwiriri",
+    "country": "TZ"
+  },
+  {
+    "name": "Ikungi",
+    "country": "TZ"
+  },
+  {
+    "name": "Ihale",
+    "country": "TZ"
+  },
+  {
+    "name": "Igurusi",
+    "country": "TZ"
+  },
+  {
+    "name": "Igurubi",
+    "country": "TZ"
+  },
+  {
+    "name": "Igunga",
+    "country": "TZ"
+  },
+  {
+    "name": "Igugunu",
+    "country": "TZ"
+  },
+  {
+    "name": "Igalula",
+    "country": "TZ"
+  },
+  {
+    "name": "Ifakara",
+    "country": "TZ"
+  },
+  {
+    "name": "Hedaru",
+    "country": "TZ"
+  },
+  {
+    "name": "Geiro",
+    "country": "TZ"
+  },
+  {
+    "name": "Gamba",
+    "country": "TZ"
+  },
+  {
+    "name": "Galappo",
+    "country": "TZ"
+  },
+  {
+    "name": "Foraha",
+    "country": "TZ"
+  },
+  {
+    "name": "Endasak",
+    "country": "TZ"
+  },
+  {
+    "name": "Dunda",
+    "country": "TZ"
+  },
+  {
+    "name": "Dongobesh",
+    "country": "TZ"
+  },
+  {
+    "name": "Dodoma Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Dodoma",
+    "country": "TZ"
+  },
+  {
+    "name": "Dar es Salaam Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Dar es Salaam",
+    "country": "TZ"
+  },
+  {
+    "name": "Dareda",
+    "country": "TZ"
+  },
+  {
+    "name": "Chimala",
+    "country": "TZ"
+  },
+  {
+    "name": "Chato",
+    "country": "TZ"
+  },
+  {
+    "name": "Chanika",
+    "country": "TZ"
+  },
+  {
+    "name": "Chalinze",
+    "country": "TZ"
+  },
+  {
+    "name": "Chala",
+    "country": "TZ"
+  },
+  {
+    "name": "Chake Chake",
+    "country": "TZ"
+  },
+  {
+    "name": "Butiama",
+    "country": "TZ"
+  },
+  {
+    "name": "Buseresere",
+    "country": "TZ"
+  },
+  {
+    "name": "Bungu",
+    "country": "TZ"
+  },
+  {
+    "name": "Bunda",
+    "country": "TZ"
+  },
+  {
+    "name": "Bukonyo",
+    "country": "TZ"
+  },
+  {
+    "name": "Bukoba",
+    "country": "TZ"
+  },
+  {
+    "name": "Bukene",
+    "country": "TZ"
+  },
+  {
+    "name": "Bugene",
+    "country": "TZ"
+  },
+  {
+    "name": "Bugarama",
+    "country": "TZ"
+  },
+  {
+    "name": "Boma la Ngombe",
+    "country": "TZ"
+  },
+  {
+    "name": "Biharamulo",
+    "country": "TZ"
+  },
+  {
+    "name": "Basotu",
+    "country": "TZ"
+  },
+  {
+    "name": "Bashanet",
+    "country": "TZ"
+  },
+  {
+    "name": "Bariadi",
+    "country": "TZ"
+  },
+  {
+    "name": "Bagamoyo",
+    "country": "TZ"
+  },
+  {
+    "name": "Babati",
+    "country": "TZ"
+  },
+  {
+    "name": "Arusha Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Arusha",
+    "country": "TZ"
+  },
+  {
+    "name": "Manyara Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Tingi",
+    "country": "TZ"
+  },
+  {
+    "name": "Tandahimba",
+    "country": "TZ"
+  },
+  {
+    "name": "Songea",
+    "country": "TZ"
+  },
+  {
+    "name": "Ruvuma Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Ruhuwiko",
+    "country": "TZ"
+  },
+  {
+    "name": "Ruangwa",
+    "country": "TZ"
+  },
+  {
+    "name": "Nyangao",
+    "country": "TZ"
+  },
+  {
+    "name": "Newala Kisimani",
+    "country": "TZ"
+  },
+  {
+    "name": "Nanyamba",
+    "country": "TZ"
+  },
+  {
+    "name": "Nanhyanga",
+    "country": "TZ"
+  },
+  {
+    "name": "Nangomba",
+    "country": "TZ"
+  },
+  {
+    "name": "Nanganga",
+    "country": "TZ"
+  },
+  {
+    "name": "Namikupa",
+    "country": "TZ"
+  },
+  {
+    "name": "Namalenga",
+    "country": "TZ"
+  },
+  {
+    "name": "Nachingwea",
+    "country": "TZ"
+  },
+  {
+    "name": "Mtwara Region",
+    "country": "TZ"
+  },
+  {
+    "name": "Mtwara",
+    "country": "TZ"
+  },
+  {
+    "name": "Mtawanya",
+    "country": "TZ"
+  },
+  {
+    "name": "Mtama",
+    "country": "TZ"
+  },
+  {
+    "name": "Mingoyo",
+    "country": "TZ"
+  },
+  {
+    "name": "Mbinga",
+    "country": "TZ"
+  },
+  {
+    "name": "Mbekenyera",
+    "country": "TZ"
+  },
+  {
+    "name": "Mbamba Bay",
+    "country": "TZ"
+  },
+  {
+    "name": "Matiri",
+    "country": "TZ"
+  },
+  {
+    "name": "Masuguru",
+    "country": "TZ"
+  },
+  {
+    "name": "Masasi",
+    "country": "TZ"
+  },
+  {
+    "name": "Maposeni",
+    "country": "TZ"
+  },
+  {
+    "name": "Manda",
+    "country": "TZ"
+  },
+  {
+    "name": "Mahuta",
+    "country": "TZ"
+  },
+  {
+    "name": "Madimba",
+    "country": "TZ"
+  },
+  {
+    "name": "Lulindi",
+    "country": "TZ"
+  },
+  {
+    "name": "Lukuledi",
+    "country": "TZ"
+  },
+  {
+    "name": "Luchingu",
+    "country": "TZ"
+  },
+  {
+    "name": "Liuli",
+    "country": "TZ"
+  },
+  {
+    "name": "Lindi",
+    "country": "TZ"
+  },
+  {
+    "name": "Kitangari",
+    "country": "TZ"
+  },
+  {
+    "name": "Kitama",
+    "country": "TZ"
+  },
+  {
+    "name": "Kigonsera",
+    "country": "TZ"
+  },
+  {
+    "name": "Chiungutwa",
+    "country": "TZ"
+  },
+  {
+    "name": "Merelani",
+    "country": "TZ"
+  },
+  {
+    "name": "Nungwi",
+    "country": "TZ"
+  },
+  {
+    "name": "Banana",
+    "country": "TZ"
+  }
+]

@@ -1,0 +1,2034 @@
+[
+  {
+    "name": "Vranjic",
+    "country": "HR"
+  },
+  {
+    "name": "\u017dupanja",
+    "country": "HR"
+  },
+  {
+    "name": "\u017drnovo",
+    "country": "HR"
+  },
+  {
+    "name": "\u017drnovnica",
+    "country": "HR"
+  },
+  {
+    "name": "Zlatar",
+    "country": "HR"
+  },
+  {
+    "name": "\u017ddralovi",
+    "country": "HR"
+  },
+  {
+    "name": "Zdenci",
+    "country": "HR"
+  },
+  {
+    "name": "Zaton",
+    "country": "HR"
+  },
+  {
+    "name": "Zapre\u0161i\u0107",
+    "country": "HR"
+  },
+  {
+    "name": "Dubrava",
+    "country": "HR"
+  },
+  {
+    "name": "Zagreb",
+    "country": "HR"
+  },
+  {
+    "name": "Zadvorsko",
+    "country": "HR"
+  },
+  {
+    "name": "Zadar",
+    "country": "HR"
+  },
+  {
+    "name": "Zabok",
+    "country": "HR"
+  },
+  {
+    "name": "Vukovar",
+    "country": "HR"
+  },
+  {
+    "name": "Vuka",
+    "country": "HR"
+  },
+  {
+    "name": "Vrsi",
+    "country": "HR"
+  },
+  {
+    "name": "Vrsar",
+    "country": "HR"
+  },
+  {
+    "name": "Vrpolje",
+    "country": "HR"
+  },
+  {
+    "name": "Vrgorac",
+    "country": "HR"
+  },
+  {
+    "name": "Gvozd",
+    "country": "HR"
+  },
+  {
+    "name": "Vrbovsko",
+    "country": "HR"
+  },
+  {
+    "name": "Vrbovec",
+    "country": "HR"
+  },
+  {
+    "name": "Vrbovec Samoborski",
+    "country": "HR"
+  },
+  {
+    "name": "Vrbova",
+    "country": "HR"
+  },
+  {
+    "name": "Vrbanja",
+    "country": "HR"
+  },
+  {
+    "name": "Vrati\u0161inec",
+    "country": "HR"
+  },
+  {
+    "name": "Volosko",
+    "country": "HR"
+  },
+  {
+    "name": "Voloder",
+    "country": "HR"
+  },
+  {
+    "name": "Vojni\u0107",
+    "country": "HR"
+  },
+  {
+    "name": "Vodnjan",
+    "country": "HR"
+  },
+  {
+    "name": "Vo\u0111inci",
+    "country": "HR"
+  },
+  {
+    "name": "Vodice",
+    "country": "HR"
+  },
+  {
+    "name": "Vo\u0107in",
+    "country": "HR"
+  },
+  {
+    "name": "Vladislavci",
+    "country": "HR"
+  },
+  {
+    "name": "Vi\u0161njevac",
+    "country": "HR"
+  },
+  {
+    "name": "Vi\u0161kovci",
+    "country": "HR"
+  },
+  {
+    "name": "Vis",
+    "country": "HR"
+  },
+  {
+    "name": "Virovitica",
+    "country": "HR"
+  },
+  {
+    "name": "Virje",
+    "country": "HR"
+  },
+  {
+    "name": "Vir",
+    "country": "HR"
+  },
+  {
+    "name": "Vinkovci",
+    "country": "HR"
+  },
+  {
+    "name": "Vinica",
+    "country": "HR"
+  },
+  {
+    "name": "Vine\u017e",
+    "country": "HR"
+  },
+  {
+    "name": "Viljevo",
+    "country": "HR"
+  },
+  {
+    "name": "Vetovo",
+    "country": "HR"
+  },
+  {
+    "name": "Velimirovac",
+    "country": "HR"
+  },
+  {
+    "name": "Veliki Lovre\u010dan",
+    "country": "HR"
+  },
+  {
+    "name": "Veliki Gr\u0111evac",
+    "country": "HR"
+  },
+  {
+    "name": "Veliki Drvenik",
+    "country": "HR"
+  },
+  {
+    "name": "Veliki Bukovec",
+    "country": "HR"
+  },
+  {
+    "name": "Velika Gorica",
+    "country": "HR"
+  },
+  {
+    "name": "Velika",
+    "country": "HR"
+  },
+  {
+    "name": "Vela Luka",
+    "country": "HR"
+  },
+  {
+    "name": "Vara\u017edinske Toplice",
+    "country": "HR"
+  },
+  {
+    "name": "Vara\u017edin",
+    "country": "HR"
+  },
+  {
+    "name": "Valpovo",
+    "country": "HR"
+  },
+  {
+    "name": "Umag",
+    "country": "HR"
+  },
+  {
+    "name": "Ugljan",
+    "country": "HR"
+  },
+  {
+    "name": "Udbinja",
+    "country": "HR"
+  },
+  {
+    "name": "Tu\u017eno",
+    "country": "HR"
+  },
+  {
+    "name": "Turopolje",
+    "country": "HR"
+  },
+  {
+    "name": "Turjaci",
+    "country": "HR"
+  },
+  {
+    "name": "Turanj",
+    "country": "HR"
+  },
+  {
+    "name": "Tu\u010depi",
+    "country": "HR"
+  },
+  {
+    "name": "Trpinja",
+    "country": "HR"
+  },
+  {
+    "name": "Trogir",
+    "country": "HR"
+  },
+  {
+    "name": "Trnovec",
+    "country": "HR"
+  },
+  {
+    "name": "Trilj",
+    "country": "HR"
+  },
+  {
+    "name": "Tribunj",
+    "country": "HR"
+  },
+  {
+    "name": "Tovarnik",
+    "country": "HR"
+  },
+  {
+    "name": "Korenica",
+    "country": "HR"
+  },
+  {
+    "name": "Tisno",
+    "country": "HR"
+  },
+  {
+    "name": "Tenja",
+    "country": "HR"
+  },
+  {
+    "name": "Supetarska Draga",
+    "country": "HR"
+  },
+  {
+    "name": "Supetar",
+    "country": "HR"
+  },
+  {
+    "name": "Sunja",
+    "country": "HR"
+  },
+  {
+    "name": "Suhopolje",
+    "country": "HR"
+  },
+  {
+    "name": "Stupno",
+    "country": "HR"
+  },
+  {
+    "name": "Strmec",
+    "country": "HR"
+  },
+  {
+    "name": "Strizivojna",
+    "country": "HR"
+  },
+  {
+    "name": "Strahoninec",
+    "country": "HR"
+  },
+  {
+    "name": "Ston",
+    "country": "HR"
+  },
+  {
+    "name": "Stobre\u010d",
+    "country": "HR"
+  },
+  {
+    "name": "\u0160titar",
+    "country": "HR"
+  },
+  {
+    "name": "Starigrad",
+    "country": "HR"
+  },
+  {
+    "name": "Stari Grad",
+    "country": "HR"
+  },
+  {
+    "name": "Nova Kapela",
+    "country": "HR"
+  },
+  {
+    "name": "Srinjine",
+    "country": "HR"
+  },
+  {
+    "name": "Sra\u010dinec",
+    "country": "HR"
+  },
+  {
+    "name": "Split",
+    "country": "HR"
+  },
+  {
+    "name": "\u0160pi\u0161i\u0107-Bukovica",
+    "country": "HR"
+  },
+  {
+    "name": "Soljani",
+    "country": "HR"
+  },
+  {
+    "name": "Solin",
+    "country": "HR"
+  },
+  {
+    "name": "Smokvica",
+    "country": "HR"
+  },
+  {
+    "name": "Slunj",
+    "country": "HR"
+  },
+  {
+    "name": "Slobodnica",
+    "country": "HR"
+  },
+  {
+    "name": "Slavonski Brod",
+    "country": "HR"
+  },
+  {
+    "name": "Po\u017eega",
+    "country": "HR"
+  },
+  {
+    "name": "Slakovci",
+    "country": "HR"
+  },
+  {
+    "name": "\u0160krljevo",
+    "country": "HR"
+  },
+  {
+    "name": "Skrad",
+    "country": "HR"
+  },
+  {
+    "name": "Sisak",
+    "country": "HR"
+  },
+  {
+    "name": "Sira\u010d",
+    "country": "HR"
+  },
+  {
+    "name": "Sinj",
+    "country": "HR"
+  },
+  {
+    "name": "Sikirevci",
+    "country": "HR"
+  },
+  {
+    "name": "Sigetec",
+    "country": "HR"
+  },
+  {
+    "name": "Sibinj",
+    "country": "HR"
+  },
+  {
+    "name": "\u0160ibenik",
+    "country": "HR"
+  },
+  {
+    "name": "Sesvete",
+    "country": "HR"
+  },
+  {
+    "name": "\u0160enkovec",
+    "country": "HR"
+  },
+  {
+    "name": "Senj",
+    "country": "HR"
+  },
+  {
+    "name": "Semeljci",
+    "country": "HR"
+  },
+  {
+    "name": "Selnica",
+    "country": "HR"
+  },
+  {
+    "name": "Selce",
+    "country": "HR"
+  },
+  {
+    "name": "Sarva\u0161",
+    "country": "HR"
+  },
+  {
+    "name": "Samobor",
+    "country": "HR"
+  },
+  {
+    "name": "Sali",
+    "country": "HR"
+  },
+  {
+    "name": "Runovi\u0107",
+    "country": "HR"
+  },
+  {
+    "name": "Rude",
+    "country": "HR"
+  },
+  {
+    "name": "Rube\u0161i",
+    "country": "HR"
+  },
+  {
+    "name": "Rovi\u0161\u0107e",
+    "country": "HR"
+  },
+  {
+    "name": "Rovinj",
+    "country": "HR"
+  },
+  {
+    "name": "Rokovci",
+    "country": "HR"
+  },
+  {
+    "name": "Rogoznica",
+    "country": "HR"
+  },
+  {
+    "name": "Rijeka",
+    "country": "HR"
+  },
+  {
+    "name": "Rezovac",
+    "country": "HR"
+  },
+  {
+    "name": "Retkovci",
+    "country": "HR"
+  },
+  {
+    "name": "Re\u0161etari",
+    "country": "HR"
+  },
+  {
+    "name": "Repu\u0161nica",
+    "country": "HR"
+  },
+  {
+    "name": "Remetinec",
+    "country": "HR"
+  },
+  {
+    "name": "Reka",
+    "country": "HR"
+  },
+  {
+    "name": "Ra\u017eanac",
+    "country": "HR"
+  },
+  {
+    "name": "Ra\u0161a",
+    "country": "HR"
+  },
+  {
+    "name": "Rakitje",
+    "country": "HR"
+  },
+  {
+    "name": "Radoboj",
+    "country": "HR"
+  },
+  {
+    "name": "Rabac",
+    "country": "HR"
+  },
+  {
+    "name": "Punat",
+    "country": "HR"
+  },
+  {
+    "name": "Pula",
+    "country": "HR"
+  },
+  {
+    "name": "Privlaka",
+    "country": "HR"
+  },
+  {
+    "name": "Primo\u0161ten",
+    "country": "HR"
+  },
+  {
+    "name": "Priles",
+    "country": "HR"
+  },
+  {
+    "name": "Pridraga",
+    "country": "HR"
+  },
+  {
+    "name": "Pribislavec",
+    "country": "HR"
+  },
+  {
+    "name": "Prelog",
+    "country": "HR"
+  },
+  {
+    "name": "Osljak",
+    "country": "HR"
+  },
+  {
+    "name": "Pregrada",
+    "country": "HR"
+  },
+  {
+    "name": "Predavac",
+    "country": "HR"
+  },
+  {
+    "name": "Postira",
+    "country": "HR"
+  },
+  {
+    "name": "Posedarje",
+    "country": "HR"
+  },
+  {
+    "name": "Pore\u010d",
+    "country": "HR"
+  },
+  {
+    "name": "Poli\u010dnik",
+    "country": "HR"
+  },
+  {
+    "name": "Pola\u010da",
+    "country": "HR"
+  },
+  {
+    "name": "Pokupsko",
+    "country": "HR"
+  },
+  {
+    "name": "Pojatno",
+    "country": "HR"
+  },
+  {
+    "name": "Podvinje",
+    "country": "HR"
+  },
+  {
+    "name": "Podturen",
+    "country": "HR"
+  },
+  {
+    "name": "Podstrana",
+    "country": "HR"
+  },
+  {
+    "name": "Slatina",
+    "country": "HR"
+  },
+  {
+    "name": "Podhum",
+    "country": "HR"
+  },
+  {
+    "name": "Plo\u010de",
+    "country": "HR"
+  },
+  {
+    "name": "Jezerce",
+    "country": "HR"
+  },
+  {
+    "name": "Pleternica",
+    "country": "HR"
+  },
+  {
+    "name": "Plemenita\u0161",
+    "country": "HR"
+  },
+  {
+    "name": "Pla\u0161ki",
+    "country": "HR"
+  },
+  {
+    "name": "Pitoma\u010da",
+    "country": "HR"
+  },
+  {
+    "name": "Pi\u0161korevci",
+    "country": "HR"
+  },
+  {
+    "name": "Pisarovina",
+    "country": "HR"
+  },
+  {
+    "name": "Pirovac",
+    "country": "HR"
+  },
+  {
+    "name": "Petrinja",
+    "country": "HR"
+  },
+  {
+    "name": "Petrijevci",
+    "country": "HR"
+  },
+  {
+    "name": "Petrijanec",
+    "country": "HR"
+  },
+  {
+    "name": "Peteranec",
+    "country": "HR"
+  },
+  {
+    "name": "Peklenica",
+    "country": "HR"
+  },
+  {
+    "name": "Pazin",
+    "country": "HR"
+  },
+  {
+    "name": "Palovec",
+    "country": "HR"
+  },
+  {
+    "name": "Pakrac",
+    "country": "HR"
+  },
+  {
+    "name": "Pako\u0161tane",
+    "country": "HR"
+  },
+  {
+    "name": "Pag",
+    "country": "HR"
+  },
+  {
+    "name": "Ozalj",
+    "country": "HR"
+  },
+  {
+    "name": "Ov\u010dara",
+    "country": "HR"
+  },
+  {
+    "name": "Otok",
+    "country": "HR"
+  },
+  {
+    "name": "Otok",
+    "country": "HR"
+  },
+  {
+    "name": "Oto\u010dac",
+    "country": "HR"
+  },
+  {
+    "name": "O\u0161tarije",
+    "country": "HR"
+  },
+  {
+    "name": "Osijek",
+    "country": "HR"
+  },
+  {
+    "name": "Osekovo",
+    "country": "HR"
+  },
+  {
+    "name": "Oroslavje",
+    "country": "HR"
+  },
+  {
+    "name": "Oriovac",
+    "country": "HR"
+  },
+  {
+    "name": "Orehovica",
+    "country": "HR"
+  },
+  {
+    "name": "Orebi\u0107",
+    "country": "HR"
+  },
+  {
+    "name": "Orahovica",
+    "country": "HR"
+  },
+  {
+    "name": "Opuzen",
+    "country": "HR"
+  },
+  {
+    "name": "Oprtalj",
+    "country": "HR"
+  },
+  {
+    "name": "Opatija",
+    "country": "HR"
+  },
+  {
+    "name": "Omi\u0161alj",
+    "country": "HR"
+  },
+  {
+    "name": "Omi\u0161",
+    "country": "HR"
+  },
+  {
+    "name": "Oku\u010dani",
+    "country": "HR"
+  },
+  {
+    "name": "Ogulin",
+    "country": "HR"
+  },
+  {
+    "name": "Odra",
+    "country": "HR"
+  },
+  {
+    "name": "Obrovac",
+    "country": "HR"
+  },
+  {
+    "name": "Nu\u0161tar",
+    "country": "HR"
+  },
+  {
+    "name": "Novska",
+    "country": "HR"
+  },
+  {
+    "name": "Novoselec",
+    "country": "HR"
+  },
+  {
+    "name": "Novi Vinodolski",
+    "country": "HR"
+  },
+  {
+    "name": "Novi Marof",
+    "country": "HR"
+  },
+  {
+    "name": "Novigrad",
+    "country": "HR"
+  },
+  {
+    "name": "Novalja",
+    "country": "HR"
+  },
+  {
+    "name": "Nova Gradi\u0161ka",
+    "country": "HR"
+  },
+  {
+    "name": "Njivice",
+    "country": "HR"
+  },
+  {
+    "name": "Nin",
+    "country": "HR"
+  },
+  {
+    "name": "Nijemci",
+    "country": "HR"
+  },
+  {
+    "name": "Negoslavci",
+    "country": "HR"
+  },
+  {
+    "name": "Nedeljanec",
+    "country": "HR"
+  },
+  {
+    "name": "Nedeli\u0161\u0107e",
+    "country": "HR"
+  },
+  {
+    "name": "Na\u0161ice",
+    "country": "HR"
+  },
+  {
+    "name": "Mursko Sredi\u0161\u0107e",
+    "country": "HR"
+  },
+  {
+    "name": "Murter",
+    "country": "HR"
+  },
+  {
+    "name": "Mrkopalj",
+    "country": "HR"
+  },
+  {
+    "name": "Mravince",
+    "country": "HR"
+  },
+  {
+    "name": "Mraclin",
+    "country": "HR"
+  },
+  {
+    "name": "Motovun",
+    "country": "HR"
+  },
+  {
+    "name": "Mo\u0161\u0107eni\u010dka Draga",
+    "country": "HR"
+  },
+  {
+    "name": "Molve",
+    "country": "HR"
+  },
+  {
+    "name": "Moko\u0161ica",
+    "country": "HR"
+  },
+  {
+    "name": "Mirkovci",
+    "country": "HR"
+  },
+  {
+    "name": "Mihovljan",
+    "country": "HR"
+  },
+  {
+    "name": "Mihovljan",
+    "country": "HR"
+  },
+  {
+    "name": "Mi\u010devec",
+    "country": "HR"
+  },
+  {
+    "name": "Metkovi\u0107",
+    "country": "HR"
+  },
+  {
+    "name": "Medulin",
+    "country": "HR"
+  },
+  {
+    "name": "Matulji",
+    "country": "HR"
+  },
+  {
+    "name": "Matenci",
+    "country": "HR"
+  },
+  {
+    "name": "Martin",
+    "country": "HR"
+  },
+  {
+    "name": "Marku\u0161ica",
+    "country": "HR"
+  },
+  {
+    "name": "Marini\u0107i",
+    "country": "HR"
+  },
+  {
+    "name": "Marina",
+    "country": "HR"
+  },
+  {
+    "name": "Marija Gorica",
+    "country": "HR"
+  },
+  {
+    "name": "Marija Bistrica",
+    "country": "HR"
+  },
+  {
+    "name": "Mar\u010delji",
+    "country": "HR"
+  },
+  {
+    "name": "Mar\u010dana",
+    "country": "HR"
+  },
+  {
+    "name": "Mali Raven",
+    "country": "HR"
+  },
+  {
+    "name": "Mali Lo\u0161inj",
+    "country": "HR"
+  },
+  {
+    "name": "Makarska",
+    "country": "HR"
+  },
+  {
+    "name": "Ma\u010dkovec",
+    "country": "HR"
+  },
+  {
+    "name": "Lu\u017eani",
+    "country": "HR"
+  },
+  {
+    "name": "Lupoglav",
+    "country": "HR"
+  },
+  {
+    "name": "Lumbarda",
+    "country": "HR"
+  },
+  {
+    "name": "Lukavec",
+    "country": "HR"
+  },
+  {
+    "name": "Ludbreg",
+    "country": "HR"
+  },
+  {
+    "name": "Lu\u010dko",
+    "country": "HR"
+  },
+  {
+    "name": "Lovran",
+    "country": "HR"
+  },
+  {
+    "name": "Lovas",
+    "country": "HR"
+  },
+  {
+    "name": "Lopar",
+    "country": "HR"
+  },
+  {
+    "name": "Ljupina",
+    "country": "HR"
+  },
+  {
+    "name": "Ljube\u0161\u0107ica",
+    "country": "HR"
+  },
+  {
+    "name": "Lipine",
+    "country": "HR"
+  },
+  {
+    "name": "Lipik",
+    "country": "HR"
+  },
+  {
+    "name": "Lepoglava",
+    "country": "HR"
+  },
+  {
+    "name": "Lekenik",
+    "country": "HR"
+  },
+  {
+    "name": "Legrad",
+    "country": "HR"
+  },
+  {
+    "name": "Laslovo",
+    "country": "HR"
+  },
+  {
+    "name": "Ladimirevci",
+    "country": "HR"
+  },
+  {
+    "name": "Labin",
+    "country": "HR"
+  },
+  {
+    "name": "Kutjevo",
+    "country": "HR"
+  },
+  {
+    "name": "Kutina",
+    "country": "HR"
+  },
+  {
+    "name": "Kur\u0161anec",
+    "country": "HR"
+  },
+  {
+    "name": "Kumrovec",
+    "country": "HR"
+  },
+  {
+    "name": "Kula Norinska",
+    "country": "HR"
+  },
+  {
+    "name": "Kru\u0161evo",
+    "country": "HR"
+  },
+  {
+    "name": "Kru\u0161evica",
+    "country": "HR"
+  },
+  {
+    "name": "Krk",
+    "country": "HR"
+  },
+  {
+    "name": "Kri\u017eevci",
+    "country": "HR"
+  },
+  {
+    "name": "Kri\u017e",
+    "country": "HR"
+  },
+  {
+    "name": "Krivaja",
+    "country": "HR"
+  },
+  {
+    "name": "Kravarsko",
+    "country": "HR"
+  },
+  {
+    "name": "Krasica",
+    "country": "HR"
+  },
+  {
+    "name": "Krapina",
+    "country": "HR"
+  },
+  {
+    "name": "Kraljevica",
+    "country": "HR"
+  },
+  {
+    "name": "Kotoriba",
+    "country": "HR"
+  },
+  {
+    "name": "Ko\u0161ute",
+    "country": "HR"
+  },
+  {
+    "name": "Kostrena",
+    "country": "HR"
+  },
+  {
+    "name": "Hrvatska Kostajnica",
+    "country": "HR"
+  },
+  {
+    "name": "Ko\u0161ka",
+    "country": "HR"
+  },
+  {
+    "name": "Kor\u010dula",
+    "country": "HR"
+  },
+  {
+    "name": "Koprivnica",
+    "country": "HR"
+  },
+  {
+    "name": "Komletinci",
+    "country": "HR"
+  },
+  {
+    "name": "Komi\u017ea",
+    "country": "HR"
+  },
+  {
+    "name": "Komin",
+    "country": "HR"
+  },
+  {
+    "name": "Knin",
+    "country": "HR"
+  },
+  {
+    "name": "Klo\u0161tar Ivani\u0107",
+    "country": "HR"
+  },
+  {
+    "name": "Klis",
+    "country": "HR"
+  },
+  {
+    "name": "Klin\u010da Sela",
+    "country": "HR"
+  },
+  {
+    "name": "Klenovnik",
+    "country": "HR"
+  },
+  {
+    "name": "Klanjec",
+    "country": "HR"
+  },
+  {
+    "name": "Klana",
+    "country": "HR"
+  },
+  {
+    "name": "Kistanje",
+    "country": "HR"
+  },
+  {
+    "name": "Kerestinec",
+    "country": "HR"
+  },
+  {
+    "name": "Kastav",
+    "country": "HR"
+  },
+  {
+    "name": "Ka\u0161ina",
+    "country": "HR"
+  },
+  {
+    "name": "Karojba",
+    "country": "HR"
+  },
+  {
+    "name": "Karlovac",
+    "country": "HR"
+  },
+  {
+    "name": "Karlobag",
+    "country": "HR"
+  },
+  {
+    "name": "Karanac",
+    "country": "HR"
+  },
+  {
+    "name": "Kaptol",
+    "country": "HR"
+  },
+  {
+    "name": "Kanfanar",
+    "country": "HR"
+  },
+  {
+    "name": "Kalinovac",
+    "country": "HR"
+  },
+  {
+    "name": "Kali",
+    "country": "HR"
+  },
+  {
+    "name": "Josipovac",
+    "country": "HR"
+  },
+  {
+    "name": "Je\u017edovec",
+    "country": "HR"
+  },
+  {
+    "name": "Jesenice",
+    "country": "HR"
+  },
+  {
+    "name": "Jelsa",
+    "country": "HR"
+  },
+  {
+    "name": "Jelisavac",
+    "country": "HR"
+  },
+  {
+    "name": "Jastrebarsko",
+    "country": "HR"
+  },
+  {
+    "name": "Jasenice",
+    "country": "HR"
+  },
+  {
+    "name": "Jarmina",
+    "country": "HR"
+  },
+  {
+    "name": "Janjina",
+    "country": "HR"
+  },
+  {
+    "name": "Jal\u017eabet",
+    "country": "HR"
+  },
+  {
+    "name": "Jalkovec",
+    "country": "HR"
+  },
+  {
+    "name": "Jak\u0161i\u0107",
+    "country": "HR"
+  },
+  {
+    "name": "Jakovlje",
+    "country": "HR"
+  },
+  {
+    "name": "Jagodnjak",
+    "country": "HR"
+  },
+  {
+    "name": "Jadranovo",
+    "country": "HR"
+  },
+  {
+    "name": "Jablanovec",
+    "country": "HR"
+  },
+  {
+    "name": "Ivanovec",
+    "country": "HR"
+  },
+  {
+    "name": "Ivankovo",
+    "country": "HR"
+  },
+  {
+    "name": "Ivani\u0107-Grad",
+    "country": "HR"
+  },
+  {
+    "name": "Ivanec",
+    "country": "HR"
+  },
+  {
+    "name": "Imotski",
+    "country": "HR"
+  },
+  {
+    "name": "Ilok",
+    "country": "HR"
+  },
+  {
+    "name": "Ila\u010da",
+    "country": "HR"
+  },
+  {
+    "name": "Hvar",
+    "country": "HR"
+  },
+  {
+    "name": "Husain",
+    "country": "HR"
+  },
+  {
+    "name": "Hrvace",
+    "country": "HR"
+  },
+  {
+    "name": "Hreljin",
+    "country": "HR"
+  },
+  {
+    "name": "Horvati",
+    "country": "HR"
+  },
+  {
+    "name": "Hodo\u0161an",
+    "country": "HR"
+  },
+  {
+    "name": "Hlebine",
+    "country": "HR"
+  },
+  {
+    "name": "Hercegovac",
+    "country": "HR"
+  },
+  {
+    "name": "Gunja",
+    "country": "HR"
+  },
+  {
+    "name": "Gundinci",
+    "country": "HR"
+  },
+  {
+    "name": "Gudovac",
+    "country": "HR"
+  },
+  {
+    "name": "Grubi\u0161no Polje",
+    "country": "HR"
+  },
+  {
+    "name": "Gro\u017enjan",
+    "country": "HR"
+  },
+  {
+    "name": "Gradi\u0161te",
+    "country": "HR"
+  },
+  {
+    "name": "Gradi\u0107i",
+    "country": "HR"
+  },
+  {
+    "name": "Gradac",
+    "country": "HR"
+  },
+  {
+    "name": "Gra\u010dec",
+    "country": "HR"
+  },
+  {
+    "name": "Gra\u010dac",
+    "country": "HR"
+  },
+  {
+    "name": "Gospi\u0107",
+    "country": "HR"
+  },
+  {
+    "name": "Gornji Kri\u017e",
+    "country": "HR"
+  },
+  {
+    "name": "Gorjani",
+    "country": "HR"
+  },
+  {
+    "name": "Gori\u010dan",
+    "country": "HR"
+  },
+  {
+    "name": "Glina",
+    "country": "HR"
+  },
+  {
+    "name": "Gare\u0161nica",
+    "country": "HR"
+  },
+  {
+    "name": "Gardinovec",
+    "country": "HR"
+  },
+  {
+    "name": "Gar\u010din",
+    "country": "HR"
+  },
+  {
+    "name": "Galovac",
+    "country": "HR"
+  },
+  {
+    "name": "Gali\u017eana",
+    "country": "HR"
+  },
+  {
+    "name": "Gala",
+    "country": "HR"
+  },
+  {
+    "name": "Fu\u017eine",
+    "country": "HR"
+  },
+  {
+    "name": "Feri\u010danci",
+    "country": "HR"
+  },
+  {
+    "name": "Ferdinandovac",
+    "country": "HR"
+  },
+  {
+    "name": "Fa\u017eana",
+    "country": "HR"
+  },
+  {
+    "name": "Ernestinovo",
+    "country": "HR"
+  },
+  {
+    "name": "Dvor",
+    "country": "HR"
+  },
+  {
+    "name": "\u0110ur\u0111evac",
+    "country": "HR"
+  },
+  {
+    "name": "Dugo Selo",
+    "country": "HR"
+  },
+  {
+    "name": "Dugopolje",
+    "country": "HR"
+  },
+  {
+    "name": "Duga Resa",
+    "country": "HR"
+  },
+  {
+    "name": "Du\u0107e",
+    "country": "HR"
+  },
+  {
+    "name": "Dubrovnik",
+    "country": "HR"
+  },
+  {
+    "name": "Dubrava",
+    "country": "HR"
+  },
+  {
+    "name": "Drnje",
+    "country": "HR"
+  },
+  {
+    "name": "Drni\u0161",
+    "country": "HR"
+  },
+  {
+    "name": "Dra\u017eice",
+    "country": "HR"
+  },
+  {
+    "name": "Donji Miholjac",
+    "country": "HR"
+  },
+  {
+    "name": "Donja Pu\u0161\u0107a",
+    "country": "HR"
+  },
+  {
+    "name": "Brela",
+    "country": "HR"
+  },
+  {
+    "name": "Donja Bistra",
+    "country": "HR"
+  },
+  {
+    "name": "Doma\u0161inec",
+    "country": "HR"
+  },
+  {
+    "name": "Divulje",
+    "country": "HR"
+  },
+  {
+    "name": "De\u017eanovac",
+    "country": "HR"
+  },
+  {
+    "name": "Delnice",
+    "country": "HR"
+  },
+  {
+    "name": "Davor",
+    "country": "HR"
+  },
+  {
+    "name": "Daruvar",
+    "country": "HR"
+  },
+  {
+    "name": "Darda",
+    "country": "HR"
+  },
+  {
+    "name": "Dalj",
+    "country": "HR"
+  },
+  {
+    "name": "\u0110akovo",
+    "country": "HR"
+  },
+  {
+    "name": "\u010cu\u010derski Vidovec",
+    "country": "HR"
+  },
+  {
+    "name": "Republic of Croatia",
+    "country": "HR"
+  },
+  {
+    "name": "Crikvenica",
+    "country": "HR"
+  },
+  {
+    "name": "Cres",
+    "country": "HR"
+  },
+  {
+    "name": "\u010ciba\u010da",
+    "country": "HR"
+  },
+  {
+    "name": "Cernik",
+    "country": "HR"
+  },
+  {
+    "name": "Cernik",
+    "country": "HR"
+  },
+  {
+    "name": "Cerna",
+    "country": "HR"
+  },
+  {
+    "name": "Ceri\u0107",
+    "country": "HR"
+  },
+  {
+    "name": "\u010cepin",
+    "country": "HR"
+  },
+  {
+    "name": "\u010ceminac",
+    "country": "HR"
+  },
+  {
+    "name": "\u010cazma",
+    "country": "HR"
+  },
+  {
+    "name": "Cavtat",
+    "country": "HR"
+  },
+  {
+    "name": "\u010cavle",
+    "country": "HR"
+  },
+  {
+    "name": "\u010cakovec",
+    "country": "HR"
+  },
+  {
+    "name": "\u010ca\u010dinci",
+    "country": "HR"
+  },
+  {
+    "name": "\u010cabar",
+    "country": "HR"
+  },
+  {
+    "name": "Buzet",
+    "country": "HR"
+  },
+  {
+    "name": "Bukovlje",
+    "country": "HR"
+  },
+  {
+    "name": "Buje",
+    "country": "HR"
+  },
+  {
+    "name": "Buda\u0161evo",
+    "country": "HR"
+  },
+  {
+    "name": "Bu\u010di\u010dka Slatina",
+    "country": "HR"
+  },
+  {
+    "name": "Br\u0161adin",
+    "country": "HR"
+  },
+  {
+    "name": "Brod Moravice",
+    "country": "HR"
+  },
+  {
+    "name": "Brnaze",
+    "country": "HR"
+  },
+  {
+    "name": "Brinje",
+    "country": "HR"
+  },
+  {
+    "name": "Bribir",
+    "country": "HR"
+  },
+  {
+    "name": "Brezovac",
+    "country": "HR"
+  },
+  {
+    "name": "Brezje",
+    "country": "HR"
+  },
+  {
+    "name": "Brestje",
+    "country": "HR"
+  },
+  {
+    "name": "Bregana",
+    "country": "HR"
+  },
+  {
+    "name": "Brdovec",
+    "country": "HR"
+  },
+  {
+    "name": "Brckovljani",
+    "country": "HR"
+  },
+  {
+    "name": "Bo\u0161njaci",
+    "country": "HR"
+  },
+  {
+    "name": "Borovo",
+    "country": "HR"
+  },
+  {
+    "name": "Bol",
+    "country": "HR"
+  },
+  {
+    "name": "Bobota",
+    "country": "HR"
+  },
+  {
+    "name": "Blato",
+    "country": "HR"
+  },
+  {
+    "name": "Bjelovar",
+    "country": "HR"
+  },
+  {
+    "name": "Bizovac",
+    "country": "HR"
+  },
+  {
+    "name": "Bistrinci",
+    "country": "HR"
+  },
+  {
+    "name": "Biograd na Moru",
+    "country": "HR"
+  },
+  {
+    "name": "Bilje",
+    "country": "HR"
+  },
+  {
+    "name": "Bilice",
+    "country": "HR"
+  },
+  {
+    "name": "Bibinje",
+    "country": "HR"
+  },
+  {
+    "name": "Beretinec",
+    "country": "HR"
+  },
+  {
+    "name": "Benkovac",
+    "country": "HR"
+  },
+  {
+    "name": "Beli\u0161\u0107e",
+    "country": "HR"
+  },
+  {
+    "name": "Beli Manastir",
+    "country": "HR"
+  },
+  {
+    "name": "Belica",
+    "country": "HR"
+  },
+  {
+    "name": "Beletinec",
+    "country": "HR"
+  },
+  {
+    "name": "Bedenica",
+    "country": "HR"
+  },
+  {
+    "name": "Bedekov\u010dina",
+    "country": "HR"
+  },
+  {
+    "name": "Batrina",
+    "country": "HR"
+  },
+  {
+    "name": "Batina",
+    "country": "HR"
+  },
+  {
+    "name": "Ba\u0161ka Voda",
+    "country": "HR"
+  },
+  {
+    "name": "Ba\u0161ka",
+    "country": "HR"
+  },
+  {
+    "name": "Bapska",
+    "country": "HR"
+  },
+  {
+    "name": "Banjol",
+    "country": "HR"
+  },
+  {
+    "name": "Banj",
+    "country": "HR"
+  },
+  {
+    "name": "Bakar",
+    "country": "HR"
+  },
+  {
+    "name": "Antunovac",
+    "country": "HR"
+  },
+  {
+    "name": "Andrija\u0161evci",
+    "country": "HR"
+  },
+  {
+    "name": "Bestovje",
+    "country": "HR"
+  },
+  {
+    "name": "Brodarica",
+    "country": "HR"
+  },
+  {
+    "name": "Ivani\u010di\u0107i",
+    "country": "HR"
+  },
+  {
+    "name": "Vukojevci",
+    "country": "HR"
+  },
+  {
+    "name": "Topolik",
+    "country": "HR"
+  },
+  {
+    "name": "Vezac",
+    "country": "HR"
+  },
+  {
+    "name": "Opatija",
+    "country": "HR"
+  },
+  {
+    "name": "Gospi\u0107",
+    "country": "HR"
+  },
+  {
+    "name": "Lipovljani",
+    "country": "HR"
+  },
+  {
+    "name": "Sukosan",
+    "country": "HR"
+  },
+  {
+    "name": "Smrdelje",
+    "country": "HR"
+  },
+  {
+    "name": "Preko",
+    "country": "HR"
+  },
+  {
+    "name": "Privlaka",
+    "country": "HR"
+  },
+  {
+    "name": "Stari Grad",
+    "country": "HR"
+  },
+  {
+    "name": "Li\u0161ka",
+    "country": "HR"
+  },
+  {
+    "name": "Popova\u010da",
+    "country": "HR"
+  },
+  {
+    "name": "Kampor",
+    "country": "HR"
+  },
+  {
+    "name": "Vidovci",
+    "country": "HR"
+  },
+  {
+    "name": "Drenovci",
+    "country": "HR"
+  },
+  {
+    "name": "Bara",
+    "country": "HR"
+  },
+  {
+    "name": "Podgora",
+    "country": "HR"
+  },
+  {
+    "name": "Bosanka",
+    "country": "HR"
+  },
+  {
+    "name": "Durovi\u0107i",
+    "country": "HR"
+  },
+  {
+    "name": "Plitka Draga",
+    "country": "HR"
+  },
+  {
+    "name": "Kamen",
+    "country": "HR"
+  },
+  {
+    "name": "Zmijavci",
+    "country": "HR"
+  },
+  {
+    "name": "Greda",
+    "country": "HR"
+  },
+  {
+    "name": "Grubine",
+    "country": "HR"
+  },
+  {
+    "name": "Pijavice",
+    "country": "HR"
+  },
+  {
+    "name": "Korenica",
+    "country": "HR"
+  },
+  {
+    "name": "Brijest",
+    "country": "HR"
+  },
+  {
+    "name": "Bjelovarsko-Bilogorska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Brodsko-Posavska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Dubrova\u010dko-Neretvanska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Istarska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Karlova\u010dka \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Koprivni\u010dko-Kri\u017eeva\u010dka \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Krapinsko-Zagorska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Li\u010dko-Senjska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Me\u0111imurska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Osje\u010dko-Baranjska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Po\u017ee\u0161ko-Slavonska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Primorsko-Goranska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "\u0160ibensko-Kninska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Sisa\u010dko-Moslava\u010dka \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Splitsko-Dalmatinska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Vara\u017edinska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Vukovarsko-Srijemska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Zadarska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Zagreb County",
+    "country": "HR"
+  },
+  {
+    "name": "Grad Zagreb",
+    "country": "HR"
+  },
+  {
+    "name": "Viroviti\u010dko-Podravska \u017dupanija",
+    "country": "HR"
+  },
+  {
+    "name": "Centar",
+    "country": "HR"
+  },
+  {
+    "name": "Britanski trg",
+    "country": "HR"
+  },
+  {
+    "name": "Malarm",
+    "country": "HR"
+  },
+  {
+    "name": "Sige\u010dica naselje",
+    "country": "HR"
+  }
+]

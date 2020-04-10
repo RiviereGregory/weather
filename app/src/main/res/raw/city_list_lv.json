@@ -1,0 +1,790 @@
+[
+  {
+    "name": "Valmiera",
+    "country": "LV"
+  },
+  {
+    "name": "Zilupe",
+    "country": "LV"
+  },
+  {
+    "name": "Vi\u0161\u0137i",
+    "country": "LV"
+  },
+  {
+    "name": "Vi\u013caka",
+    "country": "LV"
+  },
+  {
+    "name": "Vilc\u0113\u0146i",
+    "country": "LV"
+  },
+  {
+    "name": "Vi\u013c\u0101ni",
+    "country": "LV"
+  },
+  {
+    "name": "Vies\u012bte",
+    "country": "LV"
+  },
+  {
+    "name": "Vecumnieki",
+    "country": "LV"
+  },
+  {
+    "name": "Ventspils Municipality",
+    "country": "LV"
+  },
+  {
+    "name": "Ventspils",
+    "country": "LV"
+  },
+  {
+    "name": "Vecv\u0101rkava",
+    "country": "LV"
+  },
+  {
+    "name": "Vecpils",
+    "country": "LV"
+  },
+  {
+    "name": "Vec-Liep\u0101ja",
+    "country": "LV"
+  },
+  {
+    "name": "Veckrogi",
+    "country": "LV"
+  },
+  {
+    "name": "Vecauce",
+    "country": "LV"
+  },
+  {
+    "name": "Vanga\u017ei",
+    "country": "LV"
+  },
+  {
+    "name": "Valmiera",
+    "country": "LV"
+  },
+  {
+    "name": "Valka Municipality",
+    "country": "LV"
+  },
+  {
+    "name": "Valka",
+    "country": "LV"
+  },
+  {
+    "name": "Valdem\u0101rpils",
+    "country": "LV"
+  },
+  {
+    "name": "Vai\u0146ode",
+    "country": "LV"
+  },
+  {
+    "name": "Ulbroka",
+    "country": "LV"
+  },
+  {
+    "name": "\u016adri\u0146i",
+    "country": "LV"
+  },
+  {
+    "name": "Tukums",
+    "country": "LV"
+  },
+  {
+    "name": "Tukuma novads",
+    "country": "LV"
+  },
+  {
+    "name": "Tor\u0146akalns",
+    "country": "LV"
+  },
+  {
+    "name": "T\u012bre\u013ci",
+    "country": "LV"
+  },
+  {
+    "name": "Talsi Municipality",
+    "country": "LV"
+  },
+  {
+    "name": "Talsi",
+    "country": "LV"
+  },
+  {
+    "name": "Subate",
+    "country": "LV"
+  },
+  {
+    "name": "Stren\u010di",
+    "country": "LV"
+  },
+  {
+    "name": "Stende",
+    "country": "LV"
+  },
+  {
+    "name": "Staicele",
+    "country": "LV"
+  },
+  {
+    "name": "Somerseta",
+    "country": "LV"
+  },
+  {
+    "name": "Smiltene",
+    "country": "LV"
+  },
+  {
+    "name": "Skulte",
+    "country": "LV"
+  },
+  {
+    "name": "Skrunda",
+    "country": "LV"
+  },
+  {
+    "name": "Sigulda",
+    "country": "LV"
+  },
+  {
+    "name": "Sidgunda",
+    "country": "LV"
+  },
+  {
+    "name": "Seda",
+    "country": "LV"
+  },
+  {
+    "name": "Saulkrasti",
+    "country": "LV"
+  },
+  {
+    "name": "Saldus Municipality",
+    "country": "LV"
+  },
+  {
+    "name": "Saldus",
+    "country": "LV"
+  },
+  {
+    "name": "Salaspils",
+    "country": "LV"
+  },
+  {
+    "name": "Salacgr\u012bva",
+    "country": "LV"
+  },
+  {
+    "name": "Sabile",
+    "country": "LV"
+  },
+  {
+    "name": "R\u016bjiena",
+    "country": "LV"
+  },
+  {
+    "name": "Rug\u0101ji",
+    "country": "LV"
+  },
+  {
+    "name": "Ropa\u017ei",
+    "country": "LV"
+  },
+  {
+    "name": "Roja",
+    "country": "LV"
+  },
+  {
+    "name": "R\u012bgas Rajons",
+    "country": "LV"
+  },
+  {
+    "name": "Riga",
+    "country": "LV"
+  },
+  {
+    "name": "R\u012bga",
+    "country": "LV"
+  },
+  {
+    "name": "R\u0113zeknes Novads",
+    "country": "LV"
+  },
+  {
+    "name": "R\u0113zekne",
+    "country": "LV"
+  },
+  {
+    "name": "Priekule",
+    "country": "LV"
+  },
+  {
+    "name": "Prei\u013ci Municipality",
+    "country": "LV"
+  },
+  {
+    "name": "Prei\u013ci",
+    "country": "LV"
+  },
+  {
+    "name": "P\u013cavnieki",
+    "country": "LV"
+  },
+  {
+    "name": "P\u013cavi\u0146as",
+    "country": "LV"
+  },
+  {
+    "name": "Pi\u0146\u0137i",
+    "country": "LV"
+  },
+  {
+    "name": "Piltene",
+    "country": "LV"
+  },
+  {
+    "name": "Pilsrund\u0101le",
+    "country": "LV"
+  },
+  {
+    "name": "P\u0101vilosta",
+    "country": "LV"
+  },
+  {
+    "name": "Ozolnieki",
+    "country": "LV"
+  },
+  {
+    "name": "Olaine",
+    "country": "LV"
+  },
+  {
+    "name": "Ogres novads",
+    "country": "LV"
+  },
+  {
+    "name": "Ogre",
+    "country": "LV"
+  },
+  {
+    "name": "Nida",
+    "country": "LV"
+  },
+  {
+    "name": "M\u016brmui\u017ea",
+    "country": "LV"
+  },
+  {
+    "name": "M\u0113rsrags",
+    "country": "LV"
+  },
+  {
+    "name": "Mazsalaca",
+    "country": "LV"
+  },
+  {
+    "name": "M\u0101lpils",
+    "country": "LV"
+  },
+  {
+    "name": "Madona Municipality",
+    "country": "LV"
+  },
+  {
+    "name": "Madona",
+    "country": "LV"
+  },
+  {
+    "name": "\u013burbava",
+    "country": "LV"
+  },
+  {
+    "name": "Ludzas novads",
+    "country": "LV"
+  },
+  {
+    "name": "Ludza",
+    "country": "LV"
+  },
+  {
+    "name": "Lub\u0101na",
+    "country": "LV"
+  },
+  {
+    "name": "Loja",
+    "country": "LV"
+  },
+  {
+    "name": "L\u012bv\u0101ni",
+    "country": "LV"
+  },
+  {
+    "name": "Limba\u017eu novads",
+    "country": "LV"
+  },
+  {
+    "name": "Limba\u017ei",
+    "country": "LV"
+  },
+  {
+    "name": "L\u012bgatne",
+    "country": "LV"
+  },
+  {
+    "name": "Liep\u0101jas Rajons",
+    "country": "LV"
+  },
+  {
+    "name": "Liep\u0101ja",
+    "country": "LV"
+  },
+  {
+    "name": "Liep\u0101ja",
+    "country": "LV"
+  },
+  {
+    "name": "Lielv\u0101rde",
+    "country": "LV"
+  },
+  {
+    "name": "Lie\u0123i",
+    "country": "LV"
+  },
+  {
+    "name": "Lejasciems",
+    "country": "LV"
+  },
+  {
+    "name": "Republic of Latvia",
+    "country": "LV"
+  },
+  {
+    "name": "Kuld\u012bgas novads",
+    "country": "LV"
+  },
+  {
+    "name": "Kuld\u012bga",
+    "country": "LV"
+  },
+  {
+    "name": "Kr\u0101slavas novads",
+    "country": "LV"
+  },
+  {
+    "name": "Kr\u0101slava",
+    "country": "LV"
+  },
+  {
+    "name": "Kolka",
+    "country": "LV"
+  },
+  {
+    "name": "Koknese",
+    "country": "LV"
+  },
+  {
+    "name": "Kokari",
+    "country": "LV"
+  },
+  {
+    "name": "\u0136ivi\u013ci",
+    "country": "LV"
+  },
+  {
+    "name": "\u0136ekava",
+    "country": "LV"
+  },
+  {
+    "name": "\u0136egums",
+    "country": "LV"
+  },
+  {
+    "name": "K\u0101rsava",
+    "country": "LV"
+  },
+  {
+    "name": "Kandava",
+    "country": "LV"
+  },
+  {
+    "name": "L\u0101c\u012b\u0161i",
+    "country": "LV"
+  },
+  {
+    "name": "Kalnciems",
+    "country": "LV"
+  },
+  {
+    "name": "J\u016brmala",
+    "country": "LV"
+  },
+  {
+    "name": "J\u016brmala",
+    "country": "LV"
+  },
+  {
+    "name": "Jumprava",
+    "country": "LV"
+  },
+  {
+    "name": "Jelgavas novads",
+    "country": "LV"
+  },
+  {
+    "name": "Jelgava",
+    "country": "LV"
+  },
+  {
+    "name": "J\u0113kabpils Municipality",
+    "country": "LV"
+  },
+  {
+    "name": "J\u0113kabpils",
+    "country": "LV"
+  },
+  {
+    "name": "Jaunpils",
+    "country": "LV"
+  },
+  {
+    "name": "Jaunpiebalga",
+    "country": "LV"
+  },
+  {
+    "name": "Jaunjelgava",
+    "country": "LV"
+  },
+  {
+    "name": "Jaundubulti",
+    "country": "LV"
+  },
+  {
+    "name": "Jaunciems",
+    "country": "LV"
+  },
+  {
+    "name": "In\u010dukalns",
+    "country": "LV"
+  },
+  {
+    "name": "Il\u016bkste",
+    "country": "LV"
+  },
+  {
+    "name": "Ik\u0161\u0137ile",
+    "country": "LV"
+  },
+  {
+    "name": "Ieri\u0137i",
+    "country": "LV"
+  },
+  {
+    "name": "Iecava",
+    "country": "LV"
+  },
+  {
+    "name": "Gulbenes novads",
+    "country": "LV"
+  },
+  {
+    "name": "Gulbene",
+    "country": "LV"
+  },
+  {
+    "name": "Grobi\u0146a",
+    "country": "LV"
+  },
+  {
+    "name": "Gridzi\u0146kr\u016bmi\u0146i",
+    "country": "LV"
+  },
+  {
+    "name": "Cibla",
+    "country": "LV"
+  },
+  {
+    "name": "\u0112rg\u013ci",
+    "country": "LV"
+  },
+  {
+    "name": "Engure",
+    "country": "LV"
+  },
+  {
+    "name": "Dz\u0113rves",
+    "country": "LV"
+  },
+  {
+    "name": "Dundaga",
+    "country": "LV"
+  },
+  {
+    "name": "Dreili\u0146i",
+    "country": "LV"
+  },
+  {
+    "name": "Dobeles novads",
+    "country": "LV"
+  },
+  {
+    "name": "Dobele",
+    "country": "LV"
+  },
+  {
+    "name": "Daugavpils municipality",
+    "country": "LV"
+  },
+  {
+    "name": "Daugavpils",
+    "country": "LV"
+  },
+  {
+    "name": "Daugavgr\u012bva",
+    "country": "LV"
+  },
+  {
+    "name": "Dagda",
+    "country": "LV"
+  },
+  {
+    "name": "Cimdenieki",
+    "country": "LV"
+  },
+  {
+    "name": "Cesvaine",
+    "country": "LV"
+  },
+  {
+    "name": "C\u0113su Novads",
+    "country": "LV"
+  },
+  {
+    "name": "C\u0113sis",
+    "country": "LV"
+  },
+  {
+    "name": "Carnikava",
+    "country": "LV"
+  },
+  {
+    "name": "Broc\u0113ni",
+    "country": "LV"
+  },
+  {
+    "name": "Bolderaja",
+    "country": "LV"
+  },
+  {
+    "name": "Bauskas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Bauska",
+    "country": "LV"
+  },
+  {
+    "name": "Balvu Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Balvi",
+    "country": "LV"
+  },
+  {
+    "name": "Baltinava",
+    "country": "LV"
+  },
+  {
+    "name": "Balo\u017ei",
+    "country": "LV"
+  },
+  {
+    "name": "Baldone",
+    "country": "LV"
+  },
+  {
+    "name": "V\u0101rpas",
+    "country": "LV"
+  },
+  {
+    "name": "Bab\u012bte",
+    "country": "LV"
+  },
+  {
+    "name": "Auce",
+    "country": "LV"
+  },
+  {
+    "name": "Ape",
+    "country": "LV"
+  },
+  {
+    "name": "Al\u016bksnes Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Al\u016bksne",
+    "country": "LV"
+  },
+  {
+    "name": "Alsunga",
+    "country": "LV"
+  },
+  {
+    "name": "Aloja",
+    "country": "LV"
+  },
+  {
+    "name": "Akn\u012bste",
+    "country": "LV"
+  },
+  {
+    "name": "Aizpute",
+    "country": "LV"
+  },
+  {
+    "name": "Aizkraukles novads",
+    "country": "LV"
+  },
+  {
+    "name": "Aizkraukle",
+    "country": "LV"
+  },
+  {
+    "name": "Aina\u017ei",
+    "country": "LV"
+  },
+  {
+    "name": "Aglona",
+    "country": "LV"
+  },
+  {
+    "name": "\u0100da\u017ei",
+    "country": "LV"
+  },
+  {
+    "name": "Balo\u017ei",
+    "country": "LV"
+  },
+  {
+    "name": "M\u0101rupe",
+    "country": "LV"
+  },
+  {
+    "name": "Vecr\u012bga",
+    "country": "LV"
+  },
+  {
+    "name": "Dundagas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Rucavas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Grobi\u0146as Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Durbes Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Aizputes Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Skrundas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Broc\u0113nu Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Ozolnieku Novads",
+    "country": "LV"
+  },
+  {
+    "name": "M\u0101rupes Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Olaines Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Iecavas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Baldones Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Carnikavas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Jaunjelgavas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Il\u016bkstes Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Aglonas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Cesvaines Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Lub\u0101nas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Kokneses Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Ik\u0161\u0137iles Novads",
+    "country": "LV"
+  },
+  {
+    "name": "In\u010dukalna Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Siguldas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "M\u0101lpils Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Salacgr\u012bvas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Alojas Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Stren\u010du Novads",
+    "country": "LV"
+  },
+  {
+    "name": "Jaunpiebalgas Novads",
+    "country": "LV"
+  }
+]

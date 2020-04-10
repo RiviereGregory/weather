@@ -1,0 +1,818 @@
+[
+  {
+    "name": "Prishibinskoye",
+    "country": "AZ"
+  },
+  {
+    "name": "Beylagan Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Zangilan Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Zangilan",
+    "country": "AZ"
+  },
+  {
+    "name": "Yard\u0131ml\u0131",
+    "country": "AZ"
+  },
+  {
+    "name": "Yardymli Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Novyy Karanlug",
+    "country": "AZ"
+  },
+  {
+    "name": "Xankandi",
+    "country": "AZ"
+  },
+  {
+    "name": "\u018fhm\u0259db\u0259yli",
+    "country": "AZ"
+  },
+  {
+    "name": "Shushi",
+    "country": "AZ"
+  },
+  {
+    "name": "Shekyarabad",
+    "country": "AZ"
+  },
+  {
+    "name": "Salyan Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Salyan",
+    "country": "AZ"
+  },
+  {
+    "name": "\u015eahbuz",
+    "country": "AZ"
+  },
+  {
+    "name": "Sedarak",
+    "country": "AZ"
+  },
+  {
+    "name": "Sabirabad Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Saatly Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Qubadl\u0131",
+    "country": "AZ"
+  },
+  {
+    "name": "Qara\u00e7ala",
+    "country": "AZ"
+  },
+  {
+    "name": "Bilasuvar Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Orjonikidze",
+    "country": "AZ"
+  },
+  {
+    "name": "Ordubad",
+    "country": "AZ"
+  },
+  {
+    "name": "Neftchala Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Neft\u00e7ala",
+    "country": "AZ"
+  },
+  {
+    "name": "Nakhchivan",
+    "country": "AZ"
+  },
+  {
+    "name": "Nakhchivan Autonomous Republic",
+    "country": "AZ"
+  },
+  {
+    "name": "Mincivan",
+    "country": "AZ"
+  },
+  {
+    "name": "Masally District",
+    "country": "AZ"
+  },
+  {
+    "name": "Masally",
+    "country": "AZ"
+  },
+  {
+    "name": "Lerik Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Lerik",
+    "country": "AZ"
+  },
+  {
+    "name": "Lankaran Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Lankaran",
+    "country": "AZ"
+  },
+  {
+    "name": "La\u00e7\u0131n",
+    "country": "AZ"
+  },
+  {
+    "name": "La\u00e7\u0131n Rayonu",
+    "country": "AZ"
+  },
+  {
+    "name": "Qubadli Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Q\u0131rm\u0131z\u0131 Bazar",
+    "country": "AZ"
+  },
+  {
+    "name": "Kizhaba",
+    "country": "AZ"
+  },
+  {
+    "name": "Xocal\u0131",
+    "country": "AZ"
+  },
+  {
+    "name": "X\u0131ll\u0131",
+    "country": "AZ"
+  },
+  {
+    "name": "Imishli",
+    "country": "AZ"
+  },
+  {
+    "name": "Imishli Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Horadiz",
+    "country": "AZ"
+  },
+  {
+    "name": "Haftoni",
+    "country": "AZ"
+  },
+  {
+    "name": "Hadrut",
+    "country": "AZ"
+  },
+  {
+    "name": "Fizuli Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Jabrayil District",
+    "country": "AZ"
+  },
+  {
+    "name": "Jebrail",
+    "country": "AZ"
+  },
+  {
+    "name": "Jalilabad",
+    "country": "AZ"
+  },
+  {
+    "name": "Culfa",
+    "country": "AZ"
+  },
+  {
+    "name": "Jalilabad",
+    "country": "AZ"
+  },
+  {
+    "name": "Boradigah",
+    "country": "AZ"
+  },
+  {
+    "name": "Pushkino",
+    "country": "AZ"
+  },
+  {
+    "name": "Severo-Vostotchnyi Bank",
+    "country": "AZ"
+  },
+  {
+    "name": "Astara District",
+    "country": "AZ"
+  },
+  {
+    "name": "Astara",
+    "country": "AZ"
+  },
+  {
+    "name": "Xocal\u0131 Rayonu",
+    "country": "AZ"
+  },
+  {
+    "name": "Askyaran",
+    "country": "AZ"
+  },
+  {
+    "name": "\u015eirvan",
+    "country": "AZ"
+  },
+  {
+    "name": "Aghjabadi Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Aghdam Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "A\u011fdam",
+    "country": "AZ"
+  },
+  {
+    "name": "Sovetabad",
+    "country": "AZ"
+  },
+  {
+    "name": "Shirvan",
+    "country": "AZ"
+  },
+  {
+    "name": "Lankaran Sahari",
+    "country": "AZ"
+  },
+  {
+    "name": "Shusha",
+    "country": "AZ"
+  },
+  {
+    "name": "Tartar Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Xankandi Sahari",
+    "country": "AZ"
+  },
+  {
+    "name": "Khojavend District",
+    "country": "AZ"
+  },
+  {
+    "name": "Zyrya",
+    "country": "AZ"
+  },
+  {
+    "name": "Zardab Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Zardob",
+    "country": "AZ"
+  },
+  {
+    "name": "Zaqatala",
+    "country": "AZ"
+  },
+  {
+    "name": "Zaqatala Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Zabrat",
+    "country": "AZ"
+  },
+  {
+    "name": "Yevlakh",
+    "country": "AZ"
+  },
+  {
+    "name": "Yevlakh Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Xudat",
+    "country": "AZ"
+  },
+  {
+    "name": "Yelenendorf",
+    "country": "AZ"
+  },
+  {
+    "name": "Xa\u00e7maz",
+    "country": "AZ"
+  },
+  {
+    "name": "Verkhniy Dashkesan",
+    "country": "AZ"
+  },
+  {
+    "name": "Oghuz Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Ujar Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Ujar",
+    "country": "AZ"
+  },
+  {
+    "name": "T\u00fcrkan",
+    "country": "AZ"
+  },
+  {
+    "name": "Tovuz",
+    "country": "AZ"
+  },
+  {
+    "name": "Tovuz Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Terter",
+    "country": "AZ"
+  },
+  {
+    "name": "Sumqay\u0131t",
+    "country": "AZ"
+  },
+  {
+    "name": "Stepan Razin",
+    "country": "AZ"
+  },
+  {
+    "name": "\u015euraabad",
+    "country": "AZ"
+  },
+  {
+    "name": "Shamakhi Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Shaki Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Shamkir Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Qara\u00e7uxur",
+    "country": "AZ"
+  },
+  {
+    "name": "Saray",
+    "country": "AZ"
+  },
+  {
+    "name": "Samur",
+    "country": "AZ"
+  },
+  {
+    "name": "Shamkhor",
+    "country": "AZ"
+  },
+  {
+    "name": "Shamakhi",
+    "country": "AZ"
+  },
+  {
+    "name": "Sheki",
+    "country": "AZ"
+  },
+  {
+    "name": "Sabun\u00e7u",
+    "country": "AZ"
+  },
+  {
+    "name": "Sabirabad",
+    "country": "AZ"
+  },
+  {
+    "name": "Qusar",
+    "country": "AZ"
+  },
+  {
+    "name": "Quba",
+    "country": "AZ"
+  },
+  {
+    "name": "Qobustan",
+    "country": "AZ"
+  },
+  {
+    "name": "Hac\u0131qabul",
+    "country": "AZ"
+  },
+  {
+    "name": "Qazax",
+    "country": "AZ"
+  },
+  {
+    "name": "Qax",
+    "country": "AZ"
+  },
+  {
+    "name": "Qutqashen",
+    "country": "AZ"
+  },
+  {
+    "name": "Puta",
+    "country": "AZ"
+  },
+  {
+    "name": "O\u011fuz",
+    "country": "AZ"
+  },
+  {
+    "name": "Hac\u0131 Zeynalabdin",
+    "country": "AZ"
+  },
+  {
+    "name": "Nardaran",
+    "country": "AZ"
+  },
+  {
+    "name": "Naftalan",
+    "country": "AZ"
+  },
+  {
+    "name": "Nadil",
+    "country": "AZ"
+  },
+  {
+    "name": "Mingelchaur",
+    "country": "AZ"
+  },
+  {
+    "name": "Ma\u015fta\u011fa",
+    "country": "AZ"
+  },
+  {
+    "name": "Mardakan",
+    "country": "AZ"
+  },
+  {
+    "name": "Qobustan",
+    "country": "AZ"
+  },
+  {
+    "name": "L\u00f6kbatan",
+    "country": "AZ"
+  },
+  {
+    "name": "Q\u0131z\u0131lhac\u0131l\u0131",
+    "country": "AZ"
+  },
+  {
+    "name": "Qabala Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Qusar Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Quba Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Qobu",
+    "country": "AZ"
+  },
+  {
+    "name": "Kilyazi",
+    "country": "AZ"
+  },
+  {
+    "name": "Khyzy",
+    "country": "AZ"
+  },
+  {
+    "name": "Khirdalan",
+    "country": "AZ"
+  },
+  {
+    "name": "Khodzhi-Gasan",
+    "country": "AZ"
+  },
+  {
+    "name": "Goygol Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Khachmaz Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Korg\u00f6z",
+    "country": "AZ"
+  },
+  {
+    "name": "Kalbajar District",
+    "country": "AZ"
+  },
+  {
+    "name": "Qazakh Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Goranboy Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Qarayeri",
+    "country": "AZ"
+  },
+  {
+    "name": "Vur\u011fun",
+    "country": "AZ"
+  },
+  {
+    "name": "Kerbakhiar",
+    "country": "AZ"
+  },
+  {
+    "name": "Qala",
+    "country": "AZ"
+  },
+  {
+    "name": "Qakh Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "\u0130smay\u0131ll\u0131",
+    "country": "AZ"
+  },
+  {
+    "name": "Ismayilli Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Gyuzdek",
+    "country": "AZ"
+  },
+  {
+    "name": "Geoktschai",
+    "country": "AZ"
+  },
+  {
+    "name": "H\u00f6vsan",
+    "country": "AZ"
+  },
+  {
+    "name": "Goranboy",
+    "country": "AZ"
+  },
+  {
+    "name": "Goychay Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Ganja",
+    "country": "AZ"
+  },
+  {
+    "name": "Kyadabek",
+    "country": "AZ"
+  },
+  {
+    "name": "Corat",
+    "country": "AZ"
+  },
+  {
+    "name": "Ceyranbatan",
+    "country": "AZ"
+  },
+  {
+    "name": "Dzagam",
+    "country": "AZ"
+  },
+  {
+    "name": "Digah",
+    "country": "AZ"
+  },
+  {
+    "name": "Yukhary-Dashkesan",
+    "country": "AZ"
+  },
+  {
+    "name": "Dashkasan Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Dolyar",
+    "country": "AZ"
+  },
+  {
+    "name": "\u00c7inarl\u0131",
+    "country": "AZ"
+  },
+  {
+    "name": "Cherni Gorod",
+    "country": "AZ"
+  },
+  {
+    "name": "Buzovna",
+    "country": "AZ"
+  },
+  {
+    "name": "Binagadi",
+    "country": "AZ"
+  },
+  {
+    "name": "Biny Selo",
+    "country": "AZ"
+  },
+  {
+    "name": "Bilajer",
+    "country": "AZ"
+  },
+  {
+    "name": "Balakan Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Basqal",
+    "country": "AZ"
+  },
+  {
+    "name": "Ba\u015f G\u00f6yn\u00fck",
+    "country": "AZ"
+  },
+  {
+    "name": "Barda Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Barda",
+    "country": "AZ"
+  },
+  {
+    "name": "Belokany",
+    "country": "AZ"
+  },
+  {
+    "name": "Balakhani",
+    "country": "AZ"
+  },
+  {
+    "name": "Bilajari",
+    "country": "AZ"
+  },
+  {
+    "name": "Baku City",
+    "country": "AZ"
+  },
+  {
+    "name": "Baku",
+    "country": "AZ"
+  },
+  {
+    "name": "Republic of Azerbaijan",
+    "country": "AZ"
+  },
+  {
+    "name": "Pirallah\u0131",
+    "country": "AZ"
+  },
+  {
+    "name": "Absheron Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Amirdzhan",
+    "country": "AZ"
+  },
+  {
+    "name": "Alt\u0131a\u011fac",
+    "country": "AZ"
+  },
+  {
+    "name": "Aliabad",
+    "country": "AZ"
+  },
+  {
+    "name": "Aghsu Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Aghsu",
+    "country": "AZ"
+  },
+  {
+    "name": "Aghstafa",
+    "country": "AZ"
+  },
+  {
+    "name": "Aghdash Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "A\u011fda\u015f",
+    "country": "AZ"
+  },
+  {
+    "name": "Martakert",
+    "country": "AZ"
+  },
+  {
+    "name": "Agdzhabedy",
+    "country": "AZ"
+  },
+  {
+    "name": "Gadabay Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Mughan",
+    "country": "AZ"
+  },
+  {
+    "name": "Qabaq\u00e7\u00f6l",
+    "country": "AZ"
+  },
+  {
+    "name": "Bak\u0131xanov",
+    "country": "AZ"
+  },
+  {
+    "name": "Aran",
+    "country": "AZ"
+  },
+  {
+    "name": "Aghstafa Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Ganja City",
+    "country": "AZ"
+  },
+  {
+    "name": "Mingacevir City",
+    "country": "AZ"
+  },
+  {
+    "name": "Naftalan City",
+    "country": "AZ"
+  },
+  {
+    "name": "Gobustan Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Samukh Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Shaki city",
+    "country": "AZ"
+  },
+  {
+    "name": "Sumqayit City",
+    "country": "AZ"
+  },
+  {
+    "name": "Khizi Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Yevlakh City",
+    "country": "AZ"
+  },
+  {
+    "name": "Hajigabul Rayon",
+    "country": "AZ"
+  },
+  {
+    "name": "Ramana",
+    "country": "AZ"
+  },
+  {
+    "name": "Badamdar",
+    "country": "AZ"
+  },
+  {
+    "name": "Eibat",
+    "country": "AZ"
+  }
+]

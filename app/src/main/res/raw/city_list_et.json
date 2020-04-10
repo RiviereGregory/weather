@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Ziway",
+    "country": "ET"
+  },
+  {
+    "name": "Yirga \u2018Alem",
+    "country": "ET"
+  },
+  {
+    "name": "Yab\u0113lo",
+    "country": "ET"
+  },
+  {
+    "name": "Werota",
+    "country": "ET"
+  },
+  {
+    "name": "Were \u012alu",
+    "country": "ET"
+  },
+  {
+    "name": "Wenj\u012b",
+    "country": "ET"
+  },
+  {
+    "name": "Wendo",
+    "country": "ET"
+  },
+  {
+    "name": "Turmi",
+    "country": "ET"
+  },
+  {
+    "name": "Tulu Bolo",
+    "country": "ET"
+  },
+  {
+    "name": "Tippi",
+    "country": "ET"
+  },
+  {
+    "name": "Sirre",
+    "country": "ET"
+  },
+  {
+    "name": "Shashemen\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Shambu",
+    "country": "ET"
+  },
+  {
+    "name": "Shakiso",
+    "country": "ET"
+  },
+  {
+    "name": "Sendafa",
+    "country": "ET"
+  },
+  {
+    "name": "Sebeta",
+    "country": "ET"
+  },
+  {
+    "name": "Sab\u012byan",
+    "country": "ET"
+  },
+  {
+    "name": "Rob\u012bt",
+    "country": "ET"
+  },
+  {
+    "name": "Nejo",
+    "country": "ET"
+  },
+  {
+    "name": "Nazr\u0113t",
+    "country": "ET"
+  },
+  {
+    "name": "Mojo",
+    "country": "ET"
+  },
+  {
+    "name": "M\u012bzan Tefer\u012b",
+    "country": "ET"
+  },
+  {
+    "name": "Metu",
+    "country": "ET"
+  },
+  {
+    "name": "Met\u2019en\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Metah\u0101ra",
+    "country": "ET"
+  },
+  {
+    "name": "M\u0113ta",
+    "country": "ET"
+  },
+  {
+    "name": "Mend\u012b",
+    "country": "ET"
+  },
+  {
+    "name": "Mek'ele",
+    "country": "ET"
+  },
+  {
+    "name": "M\u0113ga",
+    "country": "ET"
+  },
+  {
+    "name": "Maych\u2019ew",
+    "country": "ET"
+  },
+  {
+    "name": "Lobuni",
+    "country": "ET"
+  },
+  {
+    "name": "Leku",
+    "country": "ET"
+  },
+  {
+    "name": "Lal\u012bbela",
+    "country": "ET"
+  },
+  {
+    "name": "Kw\u012bh\u0101",
+    "country": "ET"
+  },
+  {
+    "name": "Korem",
+    "country": "ET"
+  },
+  {
+    "name": "Konso",
+    "country": "ET"
+  },
+  {
+    "name": "K\u2019ol\u012bto",
+    "country": "ET"
+  },
+  {
+    "name": "Kofel\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Kibre Mengist",
+    "country": "ET"
+  },
+  {
+    "name": "Kemis\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Kombolcha",
+    "country": "ET"
+  },
+  {
+    "name": "Kebri Dahar",
+    "country": "ET"
+  },
+  {
+    "name": "Jinka",
+    "country": "ET"
+  },
+  {
+    "name": "Jimma",
+    "country": "ET"
+  },
+  {
+    "name": "Jijiga",
+    "country": "ET"
+  },
+  {
+    "name": "Jemo",
+    "country": "ET"
+  },
+  {
+    "name": "Inda Silas\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Huruta",
+    "country": "ET"
+  },
+  {
+    "name": "H\u012brna",
+    "country": "ET"
+  },
+  {
+    "name": "Harar",
+    "country": "ET"
+  },
+  {
+    "name": "H\u0101gere Selam",
+    "country": "ET"
+  },
+  {
+    "name": "H\u0101gere Hiywet",
+    "country": "ET"
+  },
+  {
+    "name": "Hadew",
+    "country": "ET"
+  },
+  {
+    "name": "Guder",
+    "country": "ET"
+  },
+  {
+    "name": "Gor\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Gondar",
+    "country": "ET"
+  },
+  {
+    "name": "Godo",
+    "country": "ET"
+  },
+  {
+    "name": "God\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Goba",
+    "country": "ET"
+  },
+  {
+    "name": "Waliso",
+    "country": "ET"
+  },
+  {
+    "name": "Ginir",
+    "country": "ET"
+  },
+  {
+    "name": "Gimbi",
+    "country": "ET"
+  },
+  {
+    "name": "G\u012bdol\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Gewan\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Genet",
+    "country": "ET"
+  },
+  {
+    "name": "Gelemso",
+    "country": "ET"
+  },
+  {
+    "name": "G\u0113do",
+    "country": "ET"
+  },
+  {
+    "name": "Gebre Tela",
+    "country": "ET"
+  },
+  {
+    "name": "Gebre Guracha",
+    "country": "ET"
+  },
+  {
+    "name": "Gamb\u0113la",
+    "country": "ET"
+  },
+  {
+    "name": "Finote Selam",
+    "country": "ET"
+  },
+  {
+    "name": "Fich\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Felege Neway",
+    "country": "ET"
+  },
+  {
+    "name": "Federal Democratic Republic of Ethiopia",
+    "country": "ET"
+  },
+  {
+    "name": "Dubti",
+    "country": "ET"
+  },
+  {
+    "name": "Dodola",
+    "country": "ET"
+  },
+  {
+    "name": "Dire Dawa",
+    "country": "ET"
+  },
+  {
+    "name": "D\u012bla",
+    "country": "ET"
+  },
+  {
+    "name": "Des\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Deresg\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Demb\u012b Dolo",
+    "country": "ET"
+  },
+  {
+    "name": "Dek\u2019\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Dejen",
+    "country": "ET"
+  },
+  {
+    "name": "Deder",
+    "country": "ET"
+  },
+  {
+    "name": "Bishoftu",
+    "country": "ET"
+  },
+  {
+    "name": "Debre Werk\u2019",
+    "country": "ET"
+  },
+  {
+    "name": "Debre Tabor",
+    "country": "ET"
+  },
+  {
+    "name": "Debre S\u012bna",
+    "country": "ET"
+  },
+  {
+    "name": "Debre Mark\u2019os",
+    "country": "ET"
+  },
+  {
+    "name": "Debre Birhan",
+    "country": "ET"
+  },
+  {
+    "name": "Debark\u2019",
+    "country": "ET"
+  },
+  {
+    "name": "Dalla",
+    "country": "ET"
+  },
+  {
+    "name": "Dafara",
+    "country": "ET"
+  },
+  {
+    "name": "Dabat",
+    "country": "ET"
+  },
+  {
+    "name": "Butaj\u012bra",
+    "country": "ET"
+  },
+  {
+    "name": "Bur\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Bonga",
+    "country": "ET"
+  },
+  {
+    "name": "Bod\u012bt\u012b",
+    "country": "ET"
+  },
+  {
+    "name": "Bichena",
+    "country": "ET"
+  },
+  {
+    "name": "Bekeksa",
+    "country": "ET"
+  },
+  {
+    "name": "Bed\u0113sa",
+    "country": "ET"
+  },
+  {
+    "name": "Bedel\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "Bat\u012b",
+    "country": "ET"
+  },
+  {
+    "name": "Bako",
+    "country": "ET"
+  },
+  {
+    "name": "Bahir Dar",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100wash",
+    "country": "ET"
+  },
+  {
+    "name": "Hawassa",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100war\u0113",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100sosa",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100sbe Tefer\u012b",
+    "country": "ET"
+  },
+  {
+    "name": "Asaita",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100sasa",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100reka",
+    "country": "ET"
+  },
+  {
+    "name": "Arba Minch",
+    "country": "ET"
+  },
+  {
+    "name": "Angetu",
+    "country": "ET"
+  },
+  {
+    "name": "Axum",
+    "country": "ET"
+  },
+  {
+    "name": "Hagere Maryam",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100garo",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100d\u012bs Zemen",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100d\u012bs \u2018Alem",
+    "country": "ET"
+  },
+  {
+    "name": "Addis Ababa",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100d\u012bs",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100d\u012bgrat",
+    "country": "ET"
+  },
+  {
+    "name": "Addiet Canna",
+    "country": "ET"
+  },
+  {
+    "name": "Abomsa",
+    "country": "ET"
+  },
+  {
+    "name": "\u0100d\u012bs \u0100beba \u0100stedader",
+    "country": "ET"
+  },
+  {
+    "name": "Afar Region",
+    "country": "ET"
+  },
+  {
+    "name": "Amhara Region",
+    "country": "ET"
+  },
+  {
+    "name": "Benishangul-Gumuz Region",
+    "country": "ET"
+  },
+  {
+    "name": "Dire Dawa Region",
+    "country": "ET"
+  },
+  {
+    "name": "Gambela Region",
+    "country": "ET"
+  },
+  {
+    "name": "Harari Region",
+    "country": "ET"
+  },
+  {
+    "name": "Oromiya Region",
+    "country": "ET"
+  },
+  {
+    "name": "Somali Region",
+    "country": "ET"
+  },
+  {
+    "name": "Tigray Region",
+    "country": "ET"
+  },
+  {
+    "name": "Southern Nations, Nationalities, and People's Region",
+    "country": "ET"
+  },
+  {
+    "name": "Semera",
+    "country": "ET"
+  },
+  {
+    "name": "Koka",
+    "country": "ET"
+  }
+]

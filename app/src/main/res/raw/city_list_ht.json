@@ -1,0 +1,510 @@
+[
+  {
+    "name": "Villars",
+    "country": "HT"
+  },
+  {
+    "name": "Verrettes",
+    "country": "HT"
+  },
+  {
+    "name": "Trou du Nord",
+    "country": "HT"
+  },
+  {
+    "name": "Torbeck",
+    "country": "HT"
+  },
+  {
+    "name": "Tiburon",
+    "country": "HT"
+  },
+  {
+    "name": "Thor",
+    "country": "HT"
+  },
+  {
+    "name": "Thomonde",
+    "country": "HT"
+  },
+  {
+    "name": "Thomazeau",
+    "country": "HT"
+  },
+  {
+    "name": "Thomassique",
+    "country": "HT"
+  },
+  {
+    "name": "Thiotte",
+    "country": "HT"
+  },
+  {
+    "name": "Sud-Est",
+    "country": "HT"
+  },
+  {
+    "name": "Sud",
+    "country": "HT"
+  },
+  {
+    "name": "Shada",
+    "country": "HT"
+  },
+  {
+    "name": "Saint-Rapha\u00ebl",
+    "country": "HT"
+  },
+  {
+    "name": "Saint-Marc",
+    "country": "HT"
+  },
+  {
+    "name": "Saint-Louis du Sud",
+    "country": "HT"
+  },
+  {
+    "name": "Saint-Louis du Nord",
+    "country": "HT"
+  },
+  {
+    "name": "Roche-\u00e0-Bateau",
+    "country": "HT"
+  },
+  {
+    "name": "Ranquitte",
+    "country": "HT"
+  },
+  {
+    "name": "Quartier Morin",
+    "country": "HT"
+  },
+  {
+    "name": "Port-Margot",
+    "country": "HT"
+  },
+  {
+    "name": "Port-au-Prince",
+    "country": "HT"
+  },
+  {
+    "name": "Port-\u00e0-Piment",
+    "country": "HT"
+  },
+  {
+    "name": "Plaisance",
+    "country": "HT"
+  },
+  {
+    "name": "Plaine du Nord",
+    "country": "HT"
+  },
+  {
+    "name": "Pilate",
+    "country": "HT"
+  },
+  {
+    "name": "Pignon",
+    "country": "HT"
+  },
+  {
+    "name": "Pha\u00ebton",
+    "country": "HT"
+  },
+  {
+    "name": "Petit Trou de Nippes",
+    "country": "HT"
+  },
+  {
+    "name": "Tigwav",
+    "country": "HT"
+  },
+  {
+    "name": "Petite Rivi\u00e8re de Nippes",
+    "country": "HT"
+  },
+  {
+    "name": "Petite Anse",
+    "country": "HT"
+  },
+  {
+    "name": "P\u00e9tionville",
+    "country": "HT"
+  },
+  {
+    "name": "Perches",
+    "country": "HT"
+  },
+  {
+    "name": "D\u00e9partement de l'Ouest",
+    "country": "HT"
+  },
+  {
+    "name": "Ouanaminthe",
+    "country": "HT"
+  },
+  {
+    "name": "Nord-Ouest",
+    "country": "HT"
+  },
+  {
+    "name": "Nord",
+    "country": "HT"
+  },
+  {
+    "name": "Moron",
+    "country": "HT"
+  },
+  {
+    "name": "Mont\u00f2rganize",
+    "country": "HT"
+  },
+  {
+    "name": "M\u00f4le Saint-Nicolas",
+    "country": "HT"
+  },
+  {
+    "name": "Mirebalais",
+    "country": "HT"
+  },
+  {
+    "name": "Mirago\u00e2ne",
+    "country": "HT"
+  },
+  {
+    "name": "Milot",
+    "country": "HT"
+  },
+  {
+    "name": "Marmelade",
+    "country": "HT"
+  },
+  {
+    "name": "Marigot",
+    "country": "HT"
+  },
+  {
+    "name": "Mayisad",
+    "country": "HT"
+  },
+  {
+    "name": "Ma\u00efs G\u00e2t\u00e9",
+    "country": "HT"
+  },
+  {
+    "name": "Limonade",
+    "country": "HT"
+  },
+  {
+    "name": "Lenbe",
+    "country": "HT"
+  },
+  {
+    "name": "Les Irois",
+    "country": "HT"
+  },
+  {
+    "name": "Les Anglais",
+    "country": "HT"
+  },
+  {
+    "name": "L\u00e9og\u00e2ne",
+    "country": "HT"
+  },
+  {
+    "name": "Borgne",
+    "country": "HT"
+  },
+  {
+    "name": "Lascahobas",
+    "country": "HT"
+  },
+  {
+    "name": "Kenscoff",
+    "country": "HT"
+  },
+  {
+    "name": "Ka Soleil",
+    "country": "HT"
+  },
+  {
+    "name": "J\u00e9r\u00e9mie",
+    "country": "HT"
+  },
+  {
+    "name": "Jean-Rabel",
+    "country": "HT"
+  },
+  {
+    "name": "Jacmel",
+    "country": "HT"
+  },
+  {
+    "name": "Hinche",
+    "country": "HT"
+  },
+  {
+    "name": "Hatte Borel",
+    "country": "HT"
+  },
+  {
+    "name": "Republic of Haiti",
+    "country": "HT"
+  },
+  {
+    "name": "Gros Morne",
+    "country": "HT"
+  },
+  {
+    "name": "Gressier",
+    "country": "HT"
+  },
+  {
+    "name": "Grangwav",
+    "country": "HT"
+  },
+  {
+    "name": "Grande Saline",
+    "country": "HT"
+  },
+  {
+    "name": "Grande Saline",
+    "country": "HT"
+  },
+  {
+    "name": "Grande Rivi\u00e8re du Nord",
+    "country": "HT"
+  },
+  {
+    "name": "Grandans",
+    "country": "HT"
+  },
+  {
+    "name": "Gona\u00efves",
+    "country": "HT"
+  },
+  {
+    "name": "Garnier",
+    "country": "HT"
+  },
+  {
+    "name": "Fort Libert\u00e9",
+    "country": "HT"
+  },
+  {
+    "name": "Fonds Verrettes",
+    "country": "HT"
+  },
+  {
+    "name": "Fond Parisien",
+    "country": "HT"
+  },
+  {
+    "name": "Fond Major",
+    "country": "HT"
+  },
+  {
+    "name": "Fond des Blancs",
+    "country": "HT"
+  },
+  {
+    "name": "Fond Bassin Bleu",
+    "country": "HT"
+  },
+  {
+    "name": "Ferrier",
+    "country": "HT"
+  },
+  {
+    "name": "Ennery",
+    "country": "HT"
+  },
+  {
+    "name": "Dufour",
+    "country": "HT"
+  },
+  {
+    "name": "Dondon",
+    "country": "HT"
+  },
+  {
+    "name": "Dessalines",
+    "country": "HT"
+  },
+  {
+    "name": "D\u00e9sarmes",
+    "country": "HT"
+  },
+  {
+    "name": "D\u00e9rac",
+    "country": "HT"
+  },
+  {
+    "name": "Delmas 73",
+    "country": "HT"
+  },
+  {
+    "name": "Dame-Marie",
+    "country": "HT"
+  },
+  {
+    "name": "Croix-des-Bouquets",
+    "country": "HT"
+  },
+  {
+    "name": "Kotdef\u00e8",
+    "country": "HT"
+  },
+  {
+    "name": "Koto",
+    "country": "HT"
+  },
+  {
+    "name": "Cornillon",
+    "country": "HT"
+  },
+  {
+    "name": "Corail",
+    "country": "HT"
+  },
+  {
+    "name": "Chardonni\u00e8re",
+    "country": "HT"
+  },
+  {
+    "name": "Chantal",
+    "country": "HT"
+  },
+  {
+    "name": "Chambellan",
+    "country": "HT"
+  },
+  {
+    "name": "Cerca la Source",
+    "country": "HT"
+  },
+  {
+    "name": "Centre",
+    "country": "HT"
+  },
+  {
+    "name": "Cazeau",
+    "country": "HT"
+  },
+  {
+    "name": "Cayes-Jacmel",
+    "country": "HT"
+  },
+  {
+    "name": "Les Cayes",
+    "country": "HT"
+  },
+  {
+    "name": "Cavaillon",
+    "country": "HT"
+  },
+  {
+    "name": "Castor",
+    "country": "HT"
+  },
+  {
+    "name": "Carrefour des Quatre Chemins",
+    "country": "HT"
+  },
+  {
+    "name": "Carrefour Canot",
+    "country": "HT"
+  },
+  {
+    "name": "Carrefour",
+    "country": "HT"
+  },
+  {
+    "name": "Carice",
+    "country": "HT"
+  },
+  {
+    "name": "Caracol",
+    "country": "HT"
+  },
+  {
+    "name": "Okap",
+    "country": "HT"
+  },
+  {
+    "name": "Calice",
+    "country": "HT"
+  },
+  {
+    "name": "Cabaret",
+    "country": "HT"
+  },
+  {
+    "name": "Brochette",
+    "country": "HT"
+  },
+  {
+    "name": "Bombardopolis",
+    "country": "HT"
+  },
+  {
+    "name": "Belle-Anse",
+    "country": "HT"
+  },
+  {
+    "name": "Barad\u00e8res",
+    "country": "HT"
+  },
+  {
+    "name": "Baie de Henne",
+    "country": "HT"
+  },
+  {
+    "name": "Bahon",
+    "country": "HT"
+  },
+  {
+    "name": "D\u00e9partement de l'Artibonite",
+    "country": "HT"
+  },
+  {
+    "name": "Arcahaie",
+    "country": "HT"
+  },
+  {
+    "name": "Aquin",
+    "country": "HT"
+  },
+  {
+    "name": "Anse Rouge",
+    "country": "HT"
+  },
+  {
+    "name": "Anse-\u00e0-Veau",
+    "country": "HT"
+  },
+  {
+    "name": "Anse-\u00e0-Pitre",
+    "country": "HT"
+  },
+  {
+    "name": "Anse \u00e0 Galets",
+    "country": "HT"
+  },
+  {
+    "name": "Acul du Nord",
+    "country": "HT"
+  },
+  {
+    "name": "Les Abricots",
+    "country": "HT"
+  },
+  {
+    "name": "Ti Port-de-Paix",
+    "country": "HT"
+  },
+  {
+    "name": "D\u00e9partement de Nippes",
+    "country": "HT"
+  }
+]

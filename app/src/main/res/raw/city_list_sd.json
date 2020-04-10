@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Dongola",
+    "country": "SD"
+  },
+  {
+    "name": "Zalingei",
+    "country": "SD"
+  },
+  {
+    "name": "Wagar",
+    "country": "SD"
+  },
+  {
+    "name": "Wad R\u0101wah",
+    "country": "SD"
+  },
+  {
+    "name": "Wad Medani",
+    "country": "SD"
+  },
+  {
+    "name": "Wadi Halfa",
+    "country": "SD"
+  },
+  {
+    "name": "Wad az Z\u0101ki",
+    "country": "SD"
+  },
+  {
+    "name": "Umm Ruwaba",
+    "country": "SD"
+  },
+  {
+    "name": "Umm Kaddadah",
+    "country": "SD"
+  },
+  {
+    "name": "Um Jar Al Gharbiyya",
+    "country": "SD"
+  },
+  {
+    "name": "Omdurman",
+    "country": "SD"
+  },
+  {
+    "name": "Um B\u0101rid",
+    "country": "SD"
+  },
+  {
+    "name": "Tumko",
+    "country": "SD"
+  },
+  {
+    "name": "Tok\u0101r",
+    "country": "SD"
+  },
+  {
+    "name": "Tandalt\u012b",
+    "country": "SD"
+  },
+  {
+    "name": "Talodi",
+    "country": "SD"
+  },
+  {
+    "name": "Republic of the Sudan",
+    "country": "SD"
+  },
+  {
+    "name": "Singa",
+    "country": "SD"
+  },
+  {
+    "name": "Shendi",
+    "country": "SD"
+  },
+  {
+    "name": "Saw\u0101kin",
+    "country": "SD"
+  },
+  {
+    "name": "Sinnar",
+    "country": "SD"
+  },
+  {
+    "name": "Rumaylah",
+    "country": "SD"
+  },
+  {
+    "name": "Rabak",
+    "country": "SD"
+  },
+  {
+    "name": "Nyala",
+    "country": "SD"
+  },
+  {
+    "name": "Massa",
+    "country": "SD"
+  },
+  {
+    "name": "Merowe",
+    "country": "SD"
+  },
+  {
+    "name": "Marabba",
+    "country": "SD"
+  },
+  {
+    "name": "Maiurno",
+    "country": "SD"
+  },
+  {
+    "name": "Ludu",
+    "country": "SD"
+  },
+  {
+    "name": "Kutum",
+    "country": "SD"
+  },
+  {
+    "name": "Kosti",
+    "country": "SD"
+  },
+  {
+    "name": "Kurmuk",
+    "country": "SD"
+  },
+  {
+    "name": "Kuraymah",
+    "country": "SD"
+  },
+  {
+    "name": "Kin\u0101na",
+    "country": "SD"
+  },
+  {
+    "name": "Kassala",
+    "country": "SD"
+  },
+  {
+    "name": "Karmah an Nuzul",
+    "country": "SD"
+  },
+  {
+    "name": "Kadugli",
+    "country": "SD"
+  },
+  {
+    "name": "Jabal Mayyah",
+    "country": "SD"
+  },
+  {
+    "name": "Gebeit",
+    "country": "SD"
+  },
+  {
+    "name": "Jalqani",
+    "country": "SD"
+  },
+  {
+    "name": "El \u2018Urdi",
+    "country": "SD"
+  },
+  {
+    "name": "Doka",
+    "country": "SD"
+  },
+  {
+    "name": "Dilling",
+    "country": "SD"
+  },
+  {
+    "name": "Port Sudan",
+    "country": "SD"
+  },
+  {
+    "name": "Berber",
+    "country": "SD"
+  },
+  {
+    "name": "B\u0101rah",
+    "country": "SD"
+  },
+  {
+    "name": "\u2018Az\u0101zah",
+    "country": "SD"
+  },
+  {
+    "name": "Atbara",
+    "country": "SD"
+  },
+  {
+    "name": "As S\u016bk\u012b",
+    "country": "SD"
+  },
+  {
+    "name": "Ash Shiqlah",
+    "country": "SD"
+  },
+  {
+    "name": "Northern",
+    "country": "SD"
+  },
+  {
+    "name": "Ar Ruseris",
+    "country": "SD"
+  },
+  {
+    "name": "Ar Rahad",
+    "country": "SD"
+  },
+  {
+    "name": "Aroma",
+    "country": "SD"
+  },
+  {
+    "name": "Argo",
+    "country": "SD"
+  },
+  {
+    "name": "An Nuh\u016bd",
+    "country": "SD"
+  },
+  {
+    "name": "El Obeid",
+    "country": "SD"
+  },
+  {
+    "name": "Al Qi\u0163ena",
+    "country": "SD"
+  },
+  {
+    "name": "Al Qadarif",
+    "country": "SD"
+  },
+  {
+    "name": "Al Masallamiyya",
+    "country": "SD"
+  },
+  {
+    "name": "Al Mijlad",
+    "country": "SD"
+  },
+  {
+    "name": "El Matama",
+    "country": "SD"
+  },
+  {
+    "name": "Al Man\u0101qil",
+    "country": "SD"
+  },
+  {
+    "name": "Al Lagowa",
+    "country": "SD"
+  },
+  {
+    "name": "Al Kodab",
+    "country": "SD"
+  },
+  {
+    "name": "Khartoum North",
+    "country": "SD"
+  },
+  {
+    "name": "Khartoum",
+    "country": "SD"
+  },
+  {
+    "name": "Khartoum",
+    "country": "SD"
+  },
+  {
+    "name": "Al Kiremit al \u2018Arakiyy\u012bn",
+    "country": "SD"
+  },
+  {
+    "name": "Al Kawa",
+    "country": "SD"
+  },
+  {
+    "name": "El Geneina Fort",
+    "country": "SD"
+  },
+  {
+    "name": "Geneina",
+    "country": "SD"
+  },
+  {
+    "name": "Al Hil\u0101liyya",
+    "country": "SD"
+  },
+  {
+    "name": "Al \u1e28aw\u0101tah",
+    "country": "SD"
+  },
+  {
+    "name": "Al Hasaheisa",
+    "country": "SD"
+  },
+  {
+    "name": "Al F\u016blah",
+    "country": "SD"
+  },
+  {
+    "name": "El Fasher",
+    "country": "SD"
+  },
+  {
+    "name": "El Bauga",
+    "country": "SD"
+  },
+  {
+    "name": "Ad Douiem",
+    "country": "SD"
+  },
+  {
+    "name": "Ad Dindar",
+    "country": "SD"
+  },
+  {
+    "name": "Ed Damer",
+    "country": "SD"
+  },
+  {
+    "name": "Ad-Damazin",
+    "country": "SD"
+  },
+  {
+    "name": "Ad Dabbah",
+    "country": "SD"
+  },
+  {
+    "name": "Abyei",
+    "country": "SD"
+  },
+  {
+    "name": "Ab\u016b Zabad",
+    "country": "SD"
+  },
+  {
+    "name": "Abu Jibeha",
+    "country": "SD"
+  },
+  {
+    "name": "Red Sea",
+    "country": "SD"
+  },
+  {
+    "name": "Al Jazirah State",
+    "country": "SD"
+  },
+  {
+    "name": "Al Qadarif State",
+    "country": "SD"
+  },
+  {
+    "name": "White Nile",
+    "country": "SD"
+  },
+  {
+    "name": "Blue Nile",
+    "country": "SD"
+  },
+  {
+    "name": "West Darfur",
+    "country": "SD"
+  },
+  {
+    "name": "South Darfur",
+    "country": "SD"
+  },
+  {
+    "name": "South Kordofan",
+    "country": "SD"
+  },
+  {
+    "name": "Kassala State",
+    "country": "SD"
+  },
+  {
+    "name": "River Nile",
+    "country": "SD"
+  },
+  {
+    "name": "North Darfur",
+    "country": "SD"
+  },
+  {
+    "name": "North Kordofan",
+    "country": "SD"
+  },
+  {
+    "name": "Sennar",
+    "country": "SD"
+  },
+  {
+    "name": "El Ghadoora",
+    "country": "SD"
+  },
+  {
+    "name": "Sal\u016bm",
+    "country": "SD"
+  },
+  {
+    "name": "Siy\u0101mt\u012bt Tisim\u012bt",
+    "country": "SD"
+  },
+  {
+    "name": "Nasir",
+    "country": "SD"
+  },
+  {
+    "name": "Tag\u016bg",
+    "country": "SD"
+  },
+  {
+    "name": "Baq\u012bs",
+    "country": "SD"
+  },
+  {
+    "name": "Godosgo",
+    "country": "SD"
+  }
+]

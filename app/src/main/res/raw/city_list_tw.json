@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Taipei",
+    "country": "TW"
+  },
+  {
+    "name": "Yunlin",
+    "country": "TW"
+  },
+  {
+    "name": "Douliu",
+    "country": "TW"
+  },
+  {
+    "name": "Yuren",
+    "country": "TW"
+  },
+  {
+    "name": "Yujing",
+    "country": "TW"
+  },
+  {
+    "name": "Zhigaozhuang",
+    "country": "TW"
+  },
+  {
+    "name": "Chishan",
+    "country": "TW"
+  },
+  {
+    "name": "Tongpanqian",
+    "country": "TW"
+  },
+  {
+    "name": "Touchongbu",
+    "country": "TW"
+  },
+  {
+    "name": "Dingjiaotan",
+    "country": "TW"
+  },
+  {
+    "name": "Taoyuan",
+    "country": "TW"
+  },
+  {
+    "name": "Taiwan",
+    "country": "TW"
+  },
+  {
+    "name": "Taitung",
+    "country": "TW"
+  },
+  {
+    "name": "Taipei City",
+    "country": "TW"
+  },
+  {
+    "name": "Taipei",
+    "country": "TW"
+  },
+  {
+    "name": "Taibao",
+    "country": "TW"
+  },
+  {
+    "name": "Tainan",
+    "country": "TW"
+  },
+  {
+    "name": "Xinying",
+    "country": "TW"
+  },
+  {
+    "name": "Tainan",
+    "country": "TW"
+  },
+  {
+    "name": "Fengyuan",
+    "country": "TW"
+  },
+  {
+    "name": "Taichung",
+    "country": "TW"
+  },
+  {
+    "name": "Daxi",
+    "country": "TW"
+  },
+  {
+    "name": "Wucheng",
+    "country": "TW"
+  },
+  {
+    "name": "Songwu",
+    "country": "TW"
+  },
+  {
+    "name": "Siji",
+    "country": "TW"
+  },
+  {
+    "name": "Shuiyuandi",
+    "country": "TW"
+  },
+  {
+    "name": "Shibazhang",
+    "country": "TW"
+  },
+  {
+    "name": "Dongshan",
+    "country": "TW"
+  },
+  {
+    "name": "Banqiao",
+    "country": "TW"
+  },
+  {
+    "name": "Puli",
+    "country": "TW"
+  },
+  {
+    "name": "Pojiao",
+    "country": "TW"
+  },
+  {
+    "name": "Pingtung",
+    "country": "TW"
+  },
+  {
+    "name": "Pingtung",
+    "country": "TW"
+  },
+  {
+    "name": "Penghu County",
+    "country": "TW"
+  },
+  {
+    "name": "Nantou",
+    "country": "TW"
+  },
+  {
+    "name": "Nantou",
+    "country": "TW"
+  },
+  {
+    "name": "Miaoli",
+    "country": "TW"
+  },
+  {
+    "name": "Huiyaozi",
+    "country": "TW"
+  },
+  {
+    "name": "Magong",
+    "country": "TW"
+  },
+  {
+    "name": "Longshanli",
+    "country": "TW"
+  },
+  {
+    "name": "Lugu",
+    "country": "TW"
+  },
+  {
+    "name": "Lugang",
+    "country": "TW"
+  },
+  {
+    "name": "Lindefu",
+    "country": "TW"
+  },
+  {
+    "name": "Laodian",
+    "country": "TW"
+  },
+  {
+    "name": "Guting",
+    "country": "TW"
+  },
+  {
+    "name": "Guomin",
+    "country": "TW"
+  },
+  {
+    "name": "Fengshan",
+    "country": "TW"
+  },
+  {
+    "name": "Kaohsiung",
+    "country": "TW"
+  },
+  {
+    "name": "Yilan",
+    "country": "TW"
+  },
+  {
+    "name": "Yilan",
+    "country": "TW"
+  },
+  {
+    "name": "Hualien",
+    "country": "TW"
+  },
+  {
+    "name": "Hualien City",
+    "country": "TW"
+  },
+  {
+    "name": "Hsinchu County",
+    "country": "TW"
+  },
+  {
+    "name": "Hsinchu",
+    "country": "TW"
+  },
+  {
+    "name": "Xiguoshan",
+    "country": "TW"
+  },
+  {
+    "name": "Xianeibu",
+    "country": "TW"
+  },
+  {
+    "name": "Houzhuangzi",
+    "country": "TW"
+  },
+  {
+    "name": "Hengchun",
+    "country": "TW"
+  },
+  {
+    "name": "Guoxizi",
+    "country": "TW"
+  },
+  {
+    "name": "Fuxingcun",
+    "country": "TW"
+  },
+  {
+    "name": "Erqiao",
+    "country": "TW"
+  },
+  {
+    "name": "Zhuzilin",
+    "country": "TW"
+  },
+  {
+    "name": "Zhubei",
+    "country": "TW"
+  },
+  {
+    "name": "Zhongdacuo",
+    "country": "TW"
+  },
+  {
+    "name": "Zhongliao",
+    "country": "TW"
+  },
+  {
+    "name": "Chonglan",
+    "country": "TW"
+  },
+  {
+    "name": "Jincheng",
+    "country": "TW"
+  },
+  {
+    "name": "Keelung",
+    "country": "TW"
+  },
+  {
+    "name": "Chikanlou",
+    "country": "TW"
+  },
+  {
+    "name": "Jiali",
+    "country": "TW"
+  },
+  {
+    "name": "Jiayi Shi",
+    "country": "TW"
+  },
+  {
+    "name": "Chang-hua",
+    "country": "TW"
+  },
+  {
+    "name": "Wuyi",
+    "country": "TW"
+  },
+  {
+    "name": "Shalun",
+    "country": "TW"
+  },
+  {
+    "name": "Gaoqiao",
+    "country": "TW"
+  },
+  {
+    "name": "Xincheng",
+    "country": "TW"
+  },
+  {
+    "name": "Zhongkangle",
+    "country": "TW"
+  },
+  {
+    "name": "Taoyuan City",
+    "country": "TW"
+  },
+  {
+    "name": "T\u2019ai-chung Hsien",
+    "country": "TW"
+  },
+  {
+    "name": "Keelung",
+    "country": "TW"
+  },
+  {
+    "name": "Antoushan",
+    "country": "TW"
+  },
+  {
+    "name": "Zhongshanzhuang",
+    "country": "TW"
+  },
+  {
+    "name": "Guizikeng",
+    "country": "TW"
+  },
+  {
+    "name": "Dongbuzi",
+    "country": "TW"
+  },
+  {
+    "name": "Taitung City",
+    "country": "TW"
+  },
+  {
+    "name": "Fukien",
+    "country": "TW"
+  },
+  {
+    "name": "Kaohsiung",
+    "country": "TW"
+  },
+  {
+    "name": "Taipei",
+    "country": "TW"
+  },
+  {
+    "name": "Taiwan",
+    "country": "TW"
+  },
+  {
+    "name": "Nangan",
+    "country": "TW"
+  },
+  {
+    "name": "Zhongxing New Village",
+    "country": "TW"
+  }
+]

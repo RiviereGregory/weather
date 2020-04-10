@@ -1,0 +1,1478 @@
+[
+  {
+    "name": "Zapallar",
+    "country": "CL"
+  },
+  {
+    "name": "Yumbel",
+    "country": "CL"
+  },
+  {
+    "name": "Vitacura",
+    "country": "CL"
+  },
+  {
+    "name": "Vi\u00f1a del Mar",
+    "country": "CL"
+  },
+  {
+    "name": "Villarrica",
+    "country": "CL"
+  },
+  {
+    "name": "Villa Paulina",
+    "country": "CL"
+  },
+  {
+    "name": "Villa Alhu\u00e9",
+    "country": "CL"
+  },
+  {
+    "name": "Villa Alemana",
+    "country": "CL"
+  },
+  {
+    "name": "Villa Alegre",
+    "country": "CL"
+  },
+  {
+    "name": "Vilc\u00fan",
+    "country": "CL"
+  },
+  {
+    "name": "Vicu\u00f1a",
+    "country": "CL"
+  },
+  {
+    "name": "Victoria",
+    "country": "CL"
+  },
+  {
+    "name": "Vichuqu\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n de Valpara\u00edso",
+    "country": "CL"
+  },
+  {
+    "name": "Provincia de Valpara\u00edso",
+    "country": "CL"
+  },
+  {
+    "name": "Valpara\u00edso",
+    "country": "CL"
+  },
+  {
+    "name": "Vallenar",
+    "country": "CL"
+  },
+  {
+    "name": "Valdivia de Paine",
+    "country": "CL"
+  },
+  {
+    "name": "Valdivia",
+    "country": "CL"
+  },
+  {
+    "name": "Traigu\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Tongoy",
+    "country": "CL"
+  },
+  {
+    "name": "Tongoicillo",
+    "country": "CL"
+  },
+  {
+    "name": "Tom\u00e9",
+    "country": "CL"
+  },
+  {
+    "name": "Tocopilla",
+    "country": "CL"
+  },
+  {
+    "name": "Tiltil",
+    "country": "CL"
+  },
+  {
+    "name": "Teno",
+    "country": "CL"
+  },
+  {
+    "name": "Temuco",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n de Tarapac\u00e1",
+    "country": "CL"
+  },
+  {
+    "name": "Tambillo",
+    "country": "CL"
+  },
+  {
+    "name": "Taltal",
+    "country": "CL"
+  },
+  {
+    "name": "Talcahuano",
+    "country": "CL"
+  },
+  {
+    "name": "Talca",
+    "country": "CL"
+  },
+  {
+    "name": "Talagante",
+    "country": "CL"
+  },
+  {
+    "name": "San Vicente de Tagua Tagua",
+    "country": "CL"
+  },
+  {
+    "name": "San Vicente",
+    "country": "CL"
+  },
+  {
+    "name": "Provincia de Santiago",
+    "country": "CL"
+  },
+  {
+    "name": "Santiago",
+    "country": "CL"
+  },
+  {
+    "name": "Santa Teresa de Lo Ovalle",
+    "country": "CL"
+  },
+  {
+    "name": "Santa Juana",
+    "country": "CL"
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "CL"
+  },
+  {
+    "name": "San Rosendo",
+    "country": "CL"
+  },
+  {
+    "name": "San Pedro de Atacama",
+    "country": "CL"
+  },
+  {
+    "name": "San Pablo",
+    "country": "CL"
+  },
+  {
+    "name": "San Jos\u00e9 de Tango",
+    "country": "CL"
+  },
+  {
+    "name": "San Jos\u00e9 de Maipo",
+    "country": "CL"
+  },
+  {
+    "name": "San Jos\u00e9 de la Mariquina",
+    "country": "CL"
+  },
+  {
+    "name": "San Joaqu\u00edn",
+    "country": "CL"
+  },
+  {
+    "name": "San Javier",
+    "country": "CL"
+  },
+  {
+    "name": "San Ignacio",
+    "country": "CL"
+  },
+  {
+    "name": "San Francisco de Mostazal",
+    "country": "CL"
+  },
+  {
+    "name": "San Francisco de Limache",
+    "country": "CL"
+  },
+  {
+    "name": "San Fernando",
+    "country": "CL"
+  },
+  {
+    "name": "San Felipe",
+    "country": "CL"
+  },
+  {
+    "name": "San Clemente",
+    "country": "CL"
+  },
+  {
+    "name": "San Carlos",
+    "country": "CL"
+  },
+  {
+    "name": "San Bernardo",
+    "country": "CL"
+  },
+  {
+    "name": "San Antonio",
+    "country": "CL"
+  },
+  {
+    "name": "Salamanca",
+    "country": "CL"
+  },
+  {
+    "name": "R\u00edo Negro",
+    "country": "CL"
+  },
+  {
+    "name": "Caser\u00edo R\u00edo Los Ciervos",
+    "country": "CL"
+  },
+  {
+    "name": "R\u00edo Bueno",
+    "country": "CL"
+  },
+  {
+    "name": "Retulemus",
+    "country": "CL"
+  },
+  {
+    "name": "Retiro",
+    "country": "CL"
+  },
+  {
+    "name": "Requ\u00ednoa",
+    "country": "CL"
+  },
+  {
+    "name": "Rengo",
+    "country": "CL"
+  },
+  {
+    "name": "Renca",
+    "country": "CL"
+  },
+  {
+    "name": "Re\u00f1aca",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n Metropolitana",
+    "country": "CL"
+  },
+  {
+    "name": "Recreo",
+    "country": "CL"
+  },
+  {
+    "name": "Recoleta",
+    "country": "CL"
+  },
+  {
+    "name": "Rancagua",
+    "country": "CL"
+  },
+  {
+    "name": "Radal",
+    "country": "CL"
+  },
+  {
+    "name": "Quirihue",
+    "country": "CL"
+  },
+  {
+    "name": "Quintero",
+    "country": "CL"
+  },
+  {
+    "name": "Quinta Normal",
+    "country": "CL"
+  },
+  {
+    "name": "Quinquimo",
+    "country": "CL"
+  },
+  {
+    "name": "Quilpu\u00e9",
+    "country": "CL"
+  },
+  {
+    "name": "Quillota",
+    "country": "CL"
+  },
+  {
+    "name": "Quill\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "Quilleco",
+    "country": "CL"
+  },
+  {
+    "name": "Quilicura",
+    "country": "CL"
+  },
+  {
+    "name": "Quepe",
+    "country": "CL"
+  },
+  {
+    "name": "Queil\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Putre",
+    "country": "CL"
+  },
+  {
+    "name": "Putaendo",
+    "country": "CL"
+  },
+  {
+    "name": "Purranque",
+    "country": "CL"
+  },
+  {
+    "name": "Purey",
+    "country": "CL"
+  },
+  {
+    "name": "Pur\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Pupelde",
+    "country": "CL"
+  },
+  {
+    "name": "Punta Arenas",
+    "country": "CL"
+  },
+  {
+    "name": "Puerto Williams",
+    "country": "CL"
+  },
+  {
+    "name": "Puerto Varas",
+    "country": "CL"
+  },
+  {
+    "name": "Puerto Saavedra",
+    "country": "CL"
+  },
+  {
+    "name": "Quell\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "Puerto Octay",
+    "country": "CL"
+  },
+  {
+    "name": "Puerto Natales",
+    "country": "CL"
+  },
+  {
+    "name": "Puerto Montt",
+    "country": "CL"
+  },
+  {
+    "name": "Puerto Cisnes",
+    "country": "CL"
+  },
+  {
+    "name": "Puerto Ays\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Puente Alto",
+    "country": "CL"
+  },
+  {
+    "name": "Puente Alto",
+    "country": "CL"
+  },
+  {
+    "name": "Puc\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "Puchuncav\u00ed",
+    "country": "CL"
+  },
+  {
+    "name": "P\u00faa",
+    "country": "CL"
+  },
+  {
+    "name": "Providencia",
+    "country": "CL"
+  },
+  {
+    "name": "Pozo Almonte",
+    "country": "CL"
+  },
+  {
+    "name": "Porvenir",
+    "country": "CL"
+  },
+  {
+    "name": "Portezuelo",
+    "country": "CL"
+  },
+  {
+    "name": "Poblaci\u00f3n Parque Forestal",
+    "country": "CL"
+  },
+  {
+    "name": "Playa Ancha",
+    "country": "CL"
+  },
+  {
+    "name": "Placilla de Pe\u00f1uelas",
+    "country": "CL"
+  },
+  {
+    "name": "Pitrufqu\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Pillanlelb\u00fan",
+    "country": "CL"
+  },
+  {
+    "name": "Pichil",
+    "country": "CL"
+  },
+  {
+    "name": "Pichidegua",
+    "country": "CL"
+  },
+  {
+    "name": "Pica",
+    "country": "CL"
+  },
+  {
+    "name": "Peumos",
+    "country": "CL"
+  },
+  {
+    "name": "Petorca",
+    "country": "CL"
+  },
+  {
+    "name": "Penco",
+    "country": "CL"
+  },
+  {
+    "name": "Pe\u00f1alol\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Pe\u00f1aflor",
+    "country": "CL"
+  },
+  {
+    "name": "Pe\u00f1ablanca",
+    "country": "CL"
+  },
+  {
+    "name": "Parral",
+    "country": "CL"
+  },
+  {
+    "name": "Papudo",
+    "country": "CL"
+  },
+  {
+    "name": "Panguipulli",
+    "country": "CL"
+  },
+  {
+    "name": "Palena",
+    "country": "CL"
+  },
+  {
+    "name": "Paine",
+    "country": "CL"
+  },
+  {
+    "name": "Paillaco",
+    "country": "CL"
+  },
+  {
+    "name": "Paiguano",
+    "country": "CL"
+  },
+  {
+    "name": "Padre Las Casas",
+    "country": "CL"
+  },
+  {
+    "name": "Ovalle",
+    "country": "CL"
+  },
+  {
+    "name": "Osorno",
+    "country": "CL"
+  },
+  {
+    "name": "Olmu\u00e9",
+    "country": "CL"
+  },
+  {
+    "name": "Olivar Bajo",
+    "country": "CL"
+  },
+  {
+    "name": "Oficina Mar\u00eda Elena",
+    "country": "CL"
+  },
+  {
+    "name": "Ochagav\u00eda",
+    "country": "CL"
+  },
+  {
+    "name": "\u00d1u\u00f1oa",
+    "country": "CL"
+  },
+  {
+    "name": "Nueva Imperial",
+    "country": "CL"
+  },
+  {
+    "name": "Nogales",
+    "country": "CL"
+  },
+  {
+    "name": "Nielol",
+    "country": "CL"
+  },
+  {
+    "name": "Neltume",
+    "country": "CL"
+  },
+  {
+    "name": "Negrete",
+    "country": "CL"
+  },
+  {
+    "name": "Nancagua",
+    "country": "CL"
+  },
+  {
+    "name": "Nacimiento",
+    "country": "CL"
+  },
+  {
+    "name": "Mulch\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Monte Patria",
+    "country": "CL"
+  },
+  {
+    "name": "Montemar",
+    "country": "CL"
+  },
+  {
+    "name": "Monte \u00c1guila",
+    "country": "CL"
+  },
+  {
+    "name": "Molina",
+    "country": "CL"
+  },
+  {
+    "name": "Misquihu\u00e9",
+    "country": "CL"
+  },
+  {
+    "name": "Miramar",
+    "country": "CL"
+  },
+  {
+    "name": "Mirador",
+    "country": "CL"
+  },
+  {
+    "name": "Melipilla",
+    "country": "CL"
+  },
+  {
+    "name": "Melipeuco",
+    "country": "CL"
+  },
+  {
+    "name": "Mejillones",
+    "country": "CL"
+  },
+  {
+    "name": "Maull\u00edn",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n del Maule",
+    "country": "CL"
+  },
+  {
+    "name": "Maquegua",
+    "country": "CL"
+  },
+  {
+    "name": "Malloco",
+    "country": "CL"
+  },
+  {
+    "name": "Rinconada de Malloa",
+    "country": "CL"
+  },
+  {
+    "name": "Majadas",
+    "country": "CL"
+  },
+  {
+    "name": "Maitencillo",
+    "country": "CL"
+  },
+  {
+    "name": "Maip\u00fa",
+    "country": "CL"
+  },
+  {
+    "name": "Maipo",
+    "country": "CL"
+  },
+  {
+    "name": "M\u00e1fil",
+    "country": "CL"
+  },
+  {
+    "name": "Macul",
+    "country": "CL"
+  },
+  {
+    "name": "Machal\u00ed",
+    "country": "CL"
+  },
+  {
+    "name": "Lota",
+    "country": "CL"
+  },
+  {
+    "name": "Los Ranchillos",
+    "country": "CL"
+  },
+  {
+    "name": "Los Quilos",
+    "country": "CL"
+  },
+  {
+    "name": "Los Pellines",
+    "country": "CL"
+  },
+  {
+    "name": "Los Muermos",
+    "country": "CL"
+  },
+  {
+    "name": "Los Maitenes",
+    "country": "CL"
+  },
+  {
+    "name": "Los Loros",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n de los Lagos",
+    "country": "CL"
+  },
+  {
+    "name": "Los \u00c1ngeles",
+    "country": "CL"
+  },
+  {
+    "name": "Los Andes",
+    "country": "CL"
+  },
+  {
+    "name": "Los \u00c1lamos",
+    "country": "CL"
+  },
+  {
+    "name": "Lo Ovalle",
+    "country": "CL"
+  },
+  {
+    "name": "Lontu\u00e9",
+    "country": "CL"
+  },
+  {
+    "name": "Longav\u00ed",
+    "country": "CL"
+  },
+  {
+    "name": "Loncoche",
+    "country": "CL"
+  },
+  {
+    "name": "Lo Moscoso",
+    "country": "CL"
+  },
+  {
+    "name": "Lo Miranda",
+    "country": "CL"
+  },
+  {
+    "name": "Lo Contador",
+    "country": "CL"
+  },
+  {
+    "name": "Lo Barnechea",
+    "country": "CL"
+  },
+  {
+    "name": "Llolleo",
+    "country": "CL"
+  },
+  {
+    "name": "Lleco",
+    "country": "CL"
+  },
+  {
+    "name": "Llanquihue",
+    "country": "CL"
+  },
+  {
+    "name": "Llaillay",
+    "country": "CL"
+  },
+  {
+    "name": "Lirqu\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Linares",
+    "country": "CL"
+  },
+  {
+    "name": "Limache",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n del Libertador General Bernardo O\u2019Higgins",
+    "country": "CL"
+  },
+  {
+    "name": "Lebu",
+    "country": "CL"
+  },
+  {
+    "name": "Lautaro",
+    "country": "CL"
+  },
+  {
+    "name": "La Uni\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "Las Hijuelas",
+    "country": "CL"
+  },
+  {
+    "name": "La Serena",
+    "country": "CL"
+  },
+  {
+    "name": "Las Condes",
+    "country": "CL"
+  },
+  {
+    "name": "Las Cardas",
+    "country": "CL"
+  },
+  {
+    "name": "Las Cabras",
+    "country": "CL"
+  },
+  {
+    "name": "Las Barrancas",
+    "country": "CL"
+  },
+  {
+    "name": "La Reina",
+    "country": "CL"
+  },
+  {
+    "name": "Laraquete",
+    "country": "CL"
+  },
+  {
+    "name": "La Rana",
+    "country": "CL"
+  },
+  {
+    "name": "La Portada",
+    "country": "CL"
+  },
+  {
+    "name": "La Palmilla",
+    "country": "CL"
+  },
+  {
+    "name": "Lanco",
+    "country": "CL"
+  },
+  {
+    "name": "Lampa",
+    "country": "CL"
+  },
+  {
+    "name": "La Ligua",
+    "country": "CL"
+  },
+  {
+    "name": "La Leonera",
+    "country": "CL"
+  },
+  {
+    "name": "Laja",
+    "country": "CL"
+  },
+  {
+    "name": "La Herradura",
+    "country": "CL"
+  },
+  {
+    "name": "La Feria",
+    "country": "CL"
+  },
+  {
+    "name": "La Estrella",
+    "country": "CL"
+  },
+  {
+    "name": "La Estancilla",
+    "country": "CL"
+  },
+  {
+    "name": "La Ermita",
+    "country": "CL"
+  },
+  {
+    "name": "La Cisterna",
+    "country": "CL"
+  },
+  {
+    "name": "La Chacrita",
+    "country": "CL"
+  },
+  {
+    "name": "La Calera",
+    "country": "CL"
+  },
+  {
+    "name": "Isl\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "Isla de Maipo",
+    "country": "CL"
+  },
+  {
+    "name": "Iquique",
+    "country": "CL"
+  },
+  {
+    "name": "Ipinco",
+    "country": "CL"
+  },
+  {
+    "name": "Illapel",
+    "country": "CL"
+  },
+  {
+    "name": "Huilco",
+    "country": "CL"
+  },
+  {
+    "name": "Huech\u00fan",
+    "country": "CL"
+  },
+  {
+    "name": "Huasco",
+    "country": "CL"
+  },
+  {
+    "name": "Huala\u00f1e",
+    "country": "CL"
+  },
+  {
+    "name": "Hijuelas",
+    "country": "CL"
+  },
+  {
+    "name": "Hacienda La Calera",
+    "country": "CL"
+  },
+  {
+    "name": "Hualqui",
+    "country": "CL"
+  },
+  {
+    "name": "Graneros",
+    "country": "CL"
+  },
+  {
+    "name": "Gorbea",
+    "country": "CL"
+  },
+  {
+    "name": "General Lagos Guindos",
+    "country": "CL"
+  },
+  {
+    "name": "Gamboa",
+    "country": "CL"
+  },
+  {
+    "name": "Galvarino",
+    "country": "CL"
+  },
+  {
+    "name": "Futrono",
+    "country": "CL"
+  },
+  {
+    "name": "Futaleuf\u00fa",
+    "country": "CL"
+  },
+  {
+    "name": "Frutillar Alto",
+    "country": "CL"
+  },
+  {
+    "name": "Frutillar",
+    "country": "CL"
+  },
+  {
+    "name": "Freirina",
+    "country": "CL"
+  },
+  {
+    "name": "Freire",
+    "country": "CL"
+  },
+  {
+    "name": "Francke",
+    "country": "CL"
+  },
+  {
+    "name": "Farellones",
+    "country": "CL"
+  },
+  {
+    "name": "Espejo",
+    "country": "CL"
+  },
+  {
+    "name": "Empedrado",
+    "country": "CL"
+  },
+  {
+    "name": "El Trebolar",
+    "country": "CL"
+  },
+  {
+    "name": "El Tabo",
+    "country": "CL"
+  },
+  {
+    "name": "El Salto",
+    "country": "CL"
+  },
+  {
+    "name": "El Rosal",
+    "country": "CL"
+  },
+  {
+    "name": "El Rosal",
+    "country": "CL"
+  },
+  {
+    "name": "El Retamo",
+    "country": "CL"
+  },
+  {
+    "name": "El Quisco",
+    "country": "CL"
+  },
+  {
+    "name": "El Pe\u00f1\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "El Monte",
+    "country": "CL"
+  },
+  {
+    "name": "Mel\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "El Manzano",
+    "country": "CL"
+  },
+  {
+    "name": "Crucero",
+    "country": "CL"
+  },
+  {
+    "name": "El Array\u00e1n",
+    "country": "CL"
+  },
+  {
+    "name": "Do\u00f1ihue",
+    "country": "CL"
+  },
+  {
+    "name": "Diego de Almagro",
+    "country": "CL"
+  },
+  {
+    "name": "Dichato",
+    "country": "CL"
+  },
+  {
+    "name": "Dalcahue",
+    "country": "CL"
+  },
+  {
+    "name": "Curic\u00f3",
+    "country": "CL"
+  },
+  {
+    "name": "Curepto",
+    "country": "CL"
+  },
+  {
+    "name": "Curanilahue",
+    "country": "CL"
+  },
+  {
+    "name": "Curaco de V\u00e9lez",
+    "country": "CL"
+  },
+  {
+    "name": "Curacav\u00ed",
+    "country": "CL"
+  },
+  {
+    "name": "Curacaut\u00edn",
+    "country": "CL"
+  },
+  {
+    "name": "Corral",
+    "country": "CL"
+  },
+  {
+    "name": "Coronel",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n de Coquimbo",
+    "country": "CL"
+  },
+  {
+    "name": "Coquimbo",
+    "country": "CL"
+  },
+  {
+    "name": "Copiap\u00f3",
+    "country": "CL"
+  },
+  {
+    "name": "Contulmo",
+    "country": "CL"
+  },
+  {
+    "name": "Constituci\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "Conc\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "Concepci\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "Combarbal\u00e1",
+    "country": "CL"
+  },
+  {
+    "name": "Coltauco",
+    "country": "CL"
+  },
+  {
+    "name": "Collipulli",
+    "country": "CL"
+  },
+  {
+    "name": "Colina",
+    "country": "CL"
+  },
+  {
+    "name": "Colb\u00fan Alto",
+    "country": "CL"
+  },
+  {
+    "name": "Coihueco",
+    "country": "CL"
+  },
+  {
+    "name": "Coihaique Alto",
+    "country": "CL"
+  },
+  {
+    "name": "Coyhaique",
+    "country": "CL"
+  },
+  {
+    "name": "Coelemu",
+    "country": "CL"
+  },
+  {
+    "name": "Cochrane",
+    "country": "CL"
+  },
+  {
+    "name": "Chuquicamata",
+    "country": "CL"
+  },
+  {
+    "name": "Chucumata",
+    "country": "CL"
+  },
+  {
+    "name": "Chonchi",
+    "country": "CL"
+  },
+  {
+    "name": "Chincolco",
+    "country": "CL"
+  },
+  {
+    "name": "Chimbarongo",
+    "country": "CL"
+  },
+  {
+    "name": "Chill\u00e1n",
+    "country": "CL"
+  },
+  {
+    "name": "Chile Chico",
+    "country": "CL"
+  },
+  {
+    "name": "Republic of Chile",
+    "country": "CL"
+  },
+  {
+    "name": "Chiguayante",
+    "country": "CL"
+  },
+  {
+    "name": "Cha\u00f1aral",
+    "country": "CL"
+  },
+  {
+    "name": "Cha\u00f1aral",
+    "country": "CL"
+  },
+  {
+    "name": "Chait\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Chacra Valpara\u00edso",
+    "country": "CL"
+  },
+  {
+    "name": "Chacarilla de Macul",
+    "country": "CL"
+  },
+  {
+    "name": "Chabunco",
+    "country": "CL"
+  },
+  {
+    "name": "Cerro Viejo",
+    "country": "CL"
+  },
+  {
+    "name": "Cauquenes",
+    "country": "CL"
+  },
+  {
+    "name": "Catemu",
+    "country": "CL"
+  },
+  {
+    "name": "Castro",
+    "country": "CL"
+  },
+  {
+    "name": "Casma",
+    "country": "CL"
+  },
+  {
+    "name": "Casas de Chacabuco",
+    "country": "CL"
+  },
+  {
+    "name": "Casablanca",
+    "country": "CL"
+  },
+  {
+    "name": "Cartagena",
+    "country": "CL"
+  },
+  {
+    "name": "Carahue",
+    "country": "CL"
+  },
+  {
+    "name": "Capellan\u00eda",
+    "country": "CL"
+  },
+  {
+    "name": "Ca\u00f1ete",
+    "country": "CL"
+  },
+  {
+    "name": "Canela Baja",
+    "country": "CL"
+  },
+  {
+    "name": "Caletones",
+    "country": "CL"
+  },
+  {
+    "name": "Caldera",
+    "country": "CL"
+  },
+  {
+    "name": "Calbuco",
+    "country": "CL"
+  },
+  {
+    "name": "Calama",
+    "country": "CL"
+  },
+  {
+    "name": "Cabrero",
+    "country": "CL"
+  },
+  {
+    "name": "Cabildo",
+    "country": "CL"
+  },
+  {
+    "name": "Bulnes",
+    "country": "CL"
+  },
+  {
+    "name": "Buin",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n del Biob\u00edo",
+    "country": "CL"
+  },
+  {
+    "name": "Bar\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "Ba\u00f1os de Colina",
+    "country": "CL"
+  },
+  {
+    "name": "Balmaceda",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n de Atacama",
+    "country": "CL"
+  },
+  {
+    "name": "Provincia de Arica",
+    "country": "CL"
+  },
+  {
+    "name": "Arica",
+    "country": "CL"
+  },
+  {
+    "name": "Arauco",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n de la Araucan\u00eda",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n de Antofagasta",
+    "country": "CL"
+  },
+  {
+    "name": "Provincia de Antofagasta",
+    "country": "CL"
+  },
+  {
+    "name": "Antofagasta",
+    "country": "CL"
+  },
+  {
+    "name": "Angostura",
+    "country": "CL"
+  },
+  {
+    "name": "Angol",
+    "country": "CL"
+  },
+  {
+    "name": "Andacollo",
+    "country": "CL"
+  },
+  {
+    "name": "Ancud",
+    "country": "CL"
+  },
+  {
+    "name": "Alto Hospicio",
+    "country": "CL"
+  },
+  {
+    "name": "Alerce",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n Ays\u00e9n",
+    "country": "CL"
+  },
+  {
+    "name": "Achupallas",
+    "country": "CL"
+  },
+  {
+    "name": "Achao",
+    "country": "CL"
+  },
+  {
+    "name": "Loncura",
+    "country": "CL"
+  },
+  {
+    "name": "Ca\u00f1ete",
+    "country": "CL"
+  },
+  {
+    "name": "Puerto Chacabuco",
+    "country": "CL"
+  },
+  {
+    "name": "La Junta",
+    "country": "CL"
+  },
+  {
+    "name": "Quell\u00f3n",
+    "country": "CL"
+  },
+  {
+    "name": "Hanga Roa",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n de Magallanes y Ant\u00e1rtica Chilena",
+    "country": "CL"
+  },
+  {
+    "name": "Las Gaviotas",
+    "country": "CL"
+  },
+  {
+    "name": "Las Animas",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n de Arica y Parinacota",
+    "country": "CL"
+  },
+  {
+    "name": "Regi\u00f3n de los R\u00edos",
+    "country": "CL"
+  },
+  {
+    "name": "Brisas del Sol",
+    "country": "CL"
+  },
+  {
+    "name": "Ostrov Paskhi",
+    "country": "CL"
+  },
+  {
+    "name": "La Pintana",
+    "country": "CL"
+  },
+  {
+    "name": "Lo Prado",
+    "country": "CL"
+  },
+  {
+    "name": "Barrio Brazil",
+    "country": "CL"
+  },
+  {
+    "name": "Barrio Bellavista",
+    "country": "CL"
+  },
+  {
+    "name": "Villa Presidente Frei, \u00d1u\u00f1oa, Santiago, Chile",
+    "country": "CL"
+  },
+  {
+    "name": "Puerto Bories",
+    "country": "CL"
+  },
+  {
+    "name": "San Antonio",
+    "country": "CL"
+  },
+  {
+    "name": "Vallenar",
+    "country": "CL"
+  },
+  {
+    "name": "Antofagasta",
+    "country": "CL"
+  },
+  {
+    "name": "Recoleta",
+    "country": "CL"
+  }
+]

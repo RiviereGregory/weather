@@ -1,0 +1,12926 @@
+[
+  {
+    "name": "Zibreira",
+    "country": "PT"
+  },
+  {
+    "name": "Zibreira",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Vi\u00e7osa",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Verde",
+    "country": "PT"
+  },
+  {
+    "name": "Vil\u00e3s",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Real de Santo Ant\u00f3nio",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Milfontes",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Babeca",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova da Baronia",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nogueira de Azeit\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Fria",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Franca do Ros\u00e1rio",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Franca de Xira",
+    "country": "PT"
+  },
+  {
+    "name": "Vila de Porto Santo",
+    "country": "PT"
+  },
+  {
+    "name": "Vila de Frades",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Ch\u00e3 de Ourique",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boim",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Alva",
+    "country": "PT"
+  },
+  {
+    "name": "Vieira de Leiria",
+    "country": "PT"
+  },
+  {
+    "name": "Vidais",
+    "country": "PT"
+  },
+  {
+    "name": "Via Rara",
+    "country": "PT"
+  },
+  {
+    "name": "Vialonga",
+    "country": "PT"
+  },
+  {
+    "name": "Vestiaria",
+    "country": "PT"
+  },
+  {
+    "name": "Vermelha",
+    "country": "PT"
+  },
+  {
+    "name": "Ventosa",
+    "country": "PT"
+  },
+  {
+    "name": "Vendas Novas",
+    "country": "PT"
+  },
+  {
+    "name": "Venda do Pinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Venda de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Vasco Car\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "V\u00e1rzea",
+    "country": "PT"
+  },
+  {
+    "name": "Valhascos",
+    "country": "PT"
+  },
+  {
+    "name": "Vales",
+    "country": "PT"
+  },
+  {
+    "name": "Valejas",
+    "country": "PT"
+  },
+  {
+    "name": "Vale do Para\u00edso",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Santar\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Lobos",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Cavalos",
+    "country": "PT"
+  },
+  {
+    "name": "Vale da Ursa",
+    "country": "PT"
+  },
+  {
+    "name": "Vale da Pinta",
+    "country": "PT"
+  },
+  {
+    "name": "Vale da Amoreira",
+    "country": "PT"
+  },
+  {
+    "name": "Vale Covo",
+    "country": "PT"
+  },
+  {
+    "name": "Vale Canhestro",
+    "country": "PT"
+  },
+  {
+    "name": "Valado de Frades",
+    "country": "PT"
+  },
+  {
+    "name": "Usseira",
+    "country": "PT"
+  },
+  {
+    "name": "Urra",
+    "country": "PT"
+  },
+  {
+    "name": "Urqueira",
+    "country": "PT"
+  },
+  {
+    "name": "Unhos",
+    "country": "PT"
+  },
+  {
+    "name": "Turquel",
+    "country": "PT"
+  },
+  {
+    "name": "Turcifal",
+    "country": "PT"
+  },
+  {
+    "name": "Tunes",
+    "country": "PT"
+  },
+  {
+    "name": "Trigaches",
+    "country": "PT"
+  },
+  {
+    "name": "Tramagal",
+    "country": "PT"
+  },
+  {
+    "name": "Tramaga",
+    "country": "PT"
+  },
+  {
+    "name": "Trafaria",
+    "country": "PT"
+  },
+  {
+    "name": "Torres Vedras",
+    "country": "PT"
+  },
+  {
+    "name": "Torres Novas",
+    "country": "PT"
+  },
+  {
+    "name": "Torr\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Tornada",
+    "country": "PT"
+  },
+  {
+    "name": "Tomar",
+    "country": "PT"
+  },
+  {
+    "name": "Tojeiras de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Tojal",
+    "country": "PT"
+  },
+  {
+    "name": "Tissoaria",
+    "country": "PT"
+  },
+  {
+    "name": "Terrugem",
+    "country": "PT"
+  },
+  {
+    "name": "Terroal",
+    "country": "PT"
+  },
+  {
+    "name": "Tercena",
+    "country": "PT"
+  },
+  {
+    "name": "Telhais",
+    "country": "PT"
+  },
+  {
+    "name": "Telhadouro",
+    "country": "PT"
+  },
+  {
+    "name": "Tavira",
+    "country": "PT"
+  },
+  {
+    "name": "Souto da Carpalhosa",
+    "country": "PT"
+  },
+  {
+    "name": "Sobreira Formosa",
+    "country": "PT"
+  },
+  {
+    "name": "Sobreda",
+    "country": "PT"
+  },
+  {
+    "name": "Sobralinho",
+    "country": "PT"
+  },
+  {
+    "name": "Sobral do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Sobral de Monte Agra\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Soalheira",
+    "country": "PT"
+  },
+  {
+    "name": "Sintra",
+    "country": "PT"
+  },
+  {
+    "name": "Sines",
+    "country": "PT"
+  },
+  {
+    "name": "Silves",
+    "country": "PT"
+  },
+  {
+    "name": "Silveira",
+    "country": "PT"
+  },
+  {
+    "name": "Sibilheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Sesimbra",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Set\u00fabal",
+    "country": "PT"
+  },
+  {
+    "name": "Set\u00fabal",
+    "country": "PT"
+  },
+  {
+    "name": "Sert\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Serradas",
+    "country": "PT"
+  },
+  {
+    "name": "Serpa",
+    "country": "PT"
+  },
+  {
+    "name": "Senhora da Gra\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Selmes",
+    "country": "PT"
+  },
+  {
+    "name": "Segura",
+    "country": "PT"
+  },
+  {
+    "name": "Seda",
+    "country": "PT"
+  },
+  {
+    "name": "Sarilhos Pequenos",
+    "country": "PT"
+  },
+  {
+    "name": "Sarilhos Grandes",
+    "country": "PT"
+  },
+  {
+    "name": "Sapataria",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Vicente",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Teot\u00f3nio",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Sebasti\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Sebasti\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro da Cadeira",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Miguel de Machede",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Miguel",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Martinho do Porto",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Marcos da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Man\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Juli\u00e3o da Barra",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Juli\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o dos Montes",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o de Negrilhos",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o da Talha",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o das Lampas",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Francisco da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Domingos de Rana",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Br\u00e1s de Alportel",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Bartolomeu de Messines",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Est\u00eav\u00e3o das Gal\u00e9s",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Est\u00eav\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Ant\u00f3nio da Charneca",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Ant\u00e3o do Tojal",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Andr\u00e9",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Andr\u00e9",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Amaro",
+    "country": "PT"
+  },
+  {
+    "name": "Santiago do Cac\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Santiago da Guarda",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Santar\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Santar\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Santana do Mato",
+    "country": "PT"
+  },
+  {
+    "name": "Santana",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Maria de Machede",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Margarida da Coutada",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Iria da Az\u00f3ia",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Eul\u00e1lia",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Euf\u00e9mia",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Catarina da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Santa B\u00e1rbara de Padr\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Santa B\u00e1rbara de Nexe",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Ana da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Samouco",
+    "country": "PT"
+  },
+  {
+    "name": "Samora Correia",
+    "country": "PT"
+  },
+  {
+    "name": "Samarra",
+    "country": "PT"
+  },
+  {
+    "name": "Salvaterra de Magos",
+    "country": "PT"
+  },
+  {
+    "name": "Salvador",
+    "country": "PT"
+  },
+  {
+    "name": "Salvada",
+    "country": "PT"
+  },
+  {
+    "name": "Salir de Matos",
+    "country": "PT"
+  },
+  {
+    "name": "Salgueiro do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Sagres",
+    "country": "PT"
+  },
+  {
+    "name": "Sacoto",
+    "country": "PT"
+  },
+  {
+    "name": "Sacav\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Sac\u00e1rio",
+    "country": "PT"
+  },
+  {
+    "name": "Sab\u00f3ia",
+    "country": "PT"
+  },
+  {
+    "name": "Runa",
+    "country": "PT"
+  },
+  {
+    "name": "Ruivas",
+    "country": "PT"
+  },
+  {
+    "name": "Rossio ao Sul do Tejo",
+    "country": "PT"
+  },
+  {
+    "name": "Roli\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Rocheira",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Maior",
+    "country": "PT"
+  },
+  {
+    "name": "Rio de Mouro",
+    "country": "PT"
+  },
+  {
+    "name": "Rio de Moinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Rio de Couros",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira de S\u00e3o Pedro",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira Brava",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira Branca",
+    "country": "PT"
+  },
+  {
+    "name": "Riba Fria",
+    "country": "PT"
+  },
+  {
+    "name": "Ribafria",
+    "country": "PT"
+  },
+  {
+    "name": "Riachos",
+    "country": "PT"
+  },
+  {
+    "name": "Retaxo",
+    "country": "PT"
+  },
+  {
+    "name": "Rel\u00edquias",
+    "country": "PT"
+  },
+  {
+    "name": "Reguengos de Monsaraz",
+    "country": "PT"
+  },
+  {
+    "name": "Reguengo do Fetal",
+    "country": "PT"
+  },
+  {
+    "name": "Reguengo",
+    "country": "PT"
+  },
+  {
+    "name": "Reguengo",
+    "country": "PT"
+  },
+  {
+    "name": "Regueira de Pontes",
+    "country": "PT"
+  },
+  {
+    "name": "Redondo",
+    "country": "PT"
+  },
+  {
+    "name": "Redinha",
+    "country": "PT"
+  },
+  {
+    "name": "Ramada",
+    "country": "PT"
+  },
+  {
+    "name": "Raba\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Quinta do Sobrado",
+    "country": "PT"
+  },
+  {
+    "name": "Quinta do Anjo",
+    "country": "PT"
+  },
+  {
+    "name": "Quinta da Vit\u00f3ria",
+    "country": "PT"
+  },
+  {
+    "name": "Quinta das Areias",
+    "country": "PT"
+  },
+  {
+    "name": "Quinta da Horta",
+    "country": "PT"
+  },
+  {
+    "name": "Quinta da Esperan\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Queren\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Queluz",
+    "country": "PT"
+  },
+  {
+    "name": "Queijas",
+    "country": "PT"
+  },
+  {
+    "name": "Quarteira",
+    "country": "PT"
+  },
+  {
+    "name": "Proen\u00e7a-a-Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Praia do Ribatejo",
+    "country": "PT"
+  },
+  {
+    "name": "Praia do Carvoeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Pragal",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa e Meadas",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Santo Adri\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Santa Iria",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Rio de Moinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Pousados",
+    "country": "PT"
+  },
+  {
+    "name": "Portuguese Republic",
+    "country": "PT"
+  },
+  {
+    "name": "Porto Salvo",
+    "country": "PT"
+  },
+  {
+    "name": "Porto Novo",
+    "country": "PT"
+  },
+  {
+    "name": "Porto Moscal",
+    "country": "PT"
+  },
+  {
+    "name": "Porto Moniz",
+    "country": "PT"
+  },
+  {
+    "name": "Porto de M\u00f3s",
+    "country": "PT"
+  },
+  {
+    "name": "Porto Covo",
+    "country": "PT"
+  },
+  {
+    "name": "Portim\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Portela",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Portalegre",
+    "country": "PT"
+  },
+  {
+    "name": "Portalegre",
+    "country": "PT"
+  },
+  {
+    "name": "Porches",
+    "country": "PT"
+  },
+  {
+    "name": "Pontinha",
+    "country": "PT"
+  },
+  {
+    "name": "Pont\u00e9vel",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte do Almagre",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte de S\u00f4r",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte de Frielas",
+    "country": "PT"
+  },
+  {
+    "name": "Ponta do Sol",
+    "country": "PT"
+  },
+  {
+    "name": "Pombal",
+    "country": "PT"
+  },
+  {
+    "name": "Pombais",
+    "country": "PT"
+  },
+  {
+    "name": "Po\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Poceir\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Pintores",
+    "country": "PT"
+  },
+  {
+    "name": "Pinhal Novo",
+    "country": "PT"
+  },
+  {
+    "name": "Piedade",
+    "country": "PT"
+  },
+  {
+    "name": "Piedade",
+    "country": "PT"
+  },
+  {
+    "name": "Picoto",
+    "country": "PT"
+  },
+  {
+    "name": "Pias",
+    "country": "PT"
+  },
+  {
+    "name": "Pero Pinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00earo Moniz",
+    "country": "PT"
+  },
+  {
+    "name": "Peral",
+    "country": "PT"
+  },
+  {
+    "name": "Peniche",
+    "country": "PT"
+  },
+  {
+    "name": "Pend\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Penedos de Alenquer",
+    "country": "PT"
+  },
+  {
+    "name": "Pelariga",
+    "country": "PT"
+  },
+  {
+    "name": "Peg\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Pego",
+    "country": "PT"
+  },
+  {
+    "name": "Pedr\u00f3g\u00e3o Pequeno",
+    "country": "PT"
+  },
+  {
+    "name": "Pedr\u00f3g\u00e3o Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Pedregais",
+    "country": "PT"
+  },
+  {
+    "name": "Pederneira",
+    "country": "PT"
+  },
+  {
+    "name": "Pataias",
+    "country": "PT"
+  },
+  {
+    "name": "Pataeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Parreira",
+    "country": "PT"
+  },
+  {
+    "name": "Parede",
+    "country": "PT"
+  },
+  {
+    "name": "Parceiros de S\u00e3o Jo\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Parceiros",
+    "country": "PT"
+  },
+  {
+    "name": "Pan\u00f3ias",
+    "country": "PT"
+  },
+  {
+    "name": "Palmela",
+    "country": "PT"
+  },
+  {
+    "name": "Palhais",
+    "country": "PT"
+  },
+  {
+    "name": "Painho",
+    "country": "PT"
+  },
+  {
+    "name": "Pai Cabe\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Paialvo",
+    "country": "PT"
+  },
+  {
+    "name": "Pai\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7o do Lumiar",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7o de Arcos",
+    "country": "PT"
+  },
+  {
+    "name": "Our\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Ortigosa",
+    "country": "PT"
+  },
+  {
+    "name": "Orada",
+    "country": "PT"
+  },
+  {
+    "name": "Opeia",
+    "country": "PT"
+  },
+  {
+    "name": "Olival do Basto",
+    "country": "PT"
+  },
+  {
+    "name": "Olival",
+    "country": "PT"
+  },
+  {
+    "name": "Olivais",
+    "country": "PT"
+  },
+  {
+    "name": "Olho Marinho",
+    "country": "PT"
+  },
+  {
+    "name": "Olheiros",
+    "country": "PT"
+  },
+  {
+    "name": "Olh\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Olhalvo",
+    "country": "PT"
+  },
+  {
+    "name": "Odivelas",
+    "country": "PT"
+  },
+  {
+    "name": "Odemira",
+    "country": "PT"
+  },
+  {
+    "name": "\u00d3bidos",
+    "country": "PT"
+  },
+  {
+    "name": "Nossa Senhora do Monte",
+    "country": "PT"
+  },
+  {
+    "name": "Nodeirinho",
+    "country": "PT"
+  },
+  {
+    "name": "Nesperal",
+    "country": "PT"
+  },
+  {
+    "name": "Nazar\u00e9",
+    "country": "PT"
+  },
+  {
+    "name": "Murri\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Muge",
+    "country": "PT"
+  },
+  {
+    "name": "Mourisca de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Mour\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Moura",
+    "country": "PT"
+  },
+  {
+    "name": "Moscavide e Portela",
+    "country": "PT"
+  },
+  {
+    "name": "Montijo",
+    "country": "PT"
+  },
+  {
+    "name": "Montesouros",
+    "country": "PT"
+  },
+  {
+    "name": "Monte Santos",
+    "country": "PT"
+  },
+  {
+    "name": "Montes",
+    "country": "PT"
+  },
+  {
+    "name": "Monte Redondo",
+    "country": "PT"
+  },
+  {
+    "name": "Monte Real",
+    "country": "PT"
+  },
+  {
+    "name": "Monte Novo",
+    "country": "PT"
+  },
+  {
+    "name": "Montemor-o-Novo",
+    "country": "PT"
+  },
+  {
+    "name": "Montelavar",
+    "country": "PT"
+  },
+  {
+    "name": "Monte Gordo",
+    "country": "PT"
+  },
+  {
+    "name": "Monte Estoril",
+    "country": "PT"
+  },
+  {
+    "name": "Monte da Pedra",
+    "country": "PT"
+  },
+  {
+    "name": "Monte da Igreja",
+    "country": "PT"
+  },
+  {
+    "name": "Montargil",
+    "country": "PT"
+  },
+  {
+    "name": "Montalvo",
+    "country": "PT"
+  },
+  {
+    "name": "Monsanto",
+    "country": "PT"
+  },
+  {
+    "name": "Monfortinho",
+    "country": "PT"
+  },
+  {
+    "name": "Monfalim",
+    "country": "PT"
+  },
+  {
+    "name": "Monchique",
+    "country": "PT"
+  },
+  {
+    "name": "Moncarapacho",
+    "country": "PT"
+  },
+  {
+    "name": "Moita dos Ferreiros",
+    "country": "PT"
+  },
+  {
+    "name": "Moita",
+    "country": "PT"
+  },
+  {
+    "name": "Moinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Mo\u00e7arria",
+    "country": "PT"
+  },
+  {
+    "name": "Miragaia",
+    "country": "PT"
+  },
+  {
+    "name": "Minde",
+    "country": "PT"
+  },
+  {
+    "name": "Milharado",
+    "country": "PT"
+  },
+  {
+    "name": "Milagres",
+    "country": "PT"
+  },
+  {
+    "name": "Mexilhoeira Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Mem Martins",
+    "country": "PT"
+  },
+  {
+    "name": "Melides",
+    "country": "PT"
+  },
+  {
+    "name": "Matos do Carri\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Massam\u00e1",
+    "country": "PT"
+  },
+  {
+    "name": "Marv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Martingan\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Martinchel",
+    "country": "PT"
+  },
+  {
+    "name": "Martim Longo",
+    "country": "PT"
+  },
+  {
+    "name": "Marrazes",
+    "country": "PT"
+  },
+  {
+    "name": "Marmeleira",
+    "country": "PT"
+  },
+  {
+    "name": "Marinhais",
+    "country": "PT"
+  },
+  {
+    "name": "Marinha Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Margueira",
+    "country": "PT"
+  },
+  {
+    "name": "Malveira",
+    "country": "PT"
+  },
+  {
+    "name": "Malhou",
+    "country": "PT"
+  },
+  {
+    "name": "Mafra",
+    "country": "PT"
+  },
+  {
+    "name": "Machico",
+    "country": "PT"
+  },
+  {
+    "name": "Maceira",
+    "country": "PT"
+  },
+  {
+    "name": "Ma\u00e7\u00e3s de Dona Maria",
+    "country": "PT"
+  },
+  {
+    "name": "Luz",
+    "country": "PT"
+  },
+  {
+    "name": "Lourinh\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Louri\u00e7al",
+    "country": "PT"
+  },
+  {
+    "name": "Loures",
+    "country": "PT"
+  },
+  {
+    "name": "Loureira",
+    "country": "PT"
+  },
+  {
+    "name": "Loul\u00e9",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Lisboa",
+    "country": "PT"
+  },
+  {
+    "name": "Lisbon",
+    "country": "PT"
+  },
+  {
+    "name": "Linda-a-Velha",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Leiria",
+    "country": "PT"
+  },
+  {
+    "name": "Leiria",
+    "country": "PT"
+  },
+  {
+    "name": "Lavradio",
+    "country": "PT"
+  },
+  {
+    "name": "Lardosa",
+    "country": "PT"
+  },
+  {
+    "name": "Laranjeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Lapas",
+    "country": "PT"
+  },
+  {
+    "name": "Lameiro",
+    "country": "PT"
+  },
+  {
+    "name": "Lagos",
+    "country": "PT"
+  },
+  {
+    "name": "Lagoa",
+    "country": "PT"
+  },
+  {
+    "name": "Lagoa",
+    "country": "PT"
+  },
+  {
+    "name": "Juncal",
+    "country": "PT"
+  },
+  {
+    "name": "Jardim Pelado",
+    "country": "PT"
+  },
+  {
+    "name": "Isenta",
+    "country": "PT"
+  },
+  {
+    "name": "Igreja Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Idanha",
+    "country": "PT"
+  },
+  {
+    "name": "Guisanderia",
+    "country": "PT"
+  },
+  {
+    "name": "Guia",
+    "country": "PT"
+  },
+  {
+    "name": "Guia",
+    "country": "PT"
+  },
+  {
+    "name": "Gr\u00e2ndola",
+    "country": "PT"
+  },
+  {
+    "name": "Gradil",
+    "country": "PT"
+  },
+  {
+    "name": "Gondemaria",
+    "country": "PT"
+  },
+  {
+    "name": "Gomes Aires",
+    "country": "PT"
+  },
+  {
+    "name": "Goleg\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Gavia\u00f5",
+    "country": "PT"
+  },
+  {
+    "name": "Garv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "G\u00e1fete",
+    "country": "PT"
+  },
+  {
+    "name": "Fuzeta",
+    "country": "PT"
+  },
+  {
+    "name": "Fundada",
+    "country": "PT"
+  },
+  {
+    "name": "Funchal",
+    "country": "PT"
+  },
+  {
+    "name": "Freiria",
+    "country": "PT"
+  },
+  {
+    "name": "Fr\u00e1guas",
+    "country": "PT"
+  },
+  {
+    "name": "Foz do Arelho",
+    "country": "PT"
+  },
+  {
+    "name": "Fortios",
+    "country": "PT"
+  },
+  {
+    "name": "Fonte de Boliqueime",
+    "country": "PT"
+  },
+  {
+    "name": "Fonte da Venda",
+    "country": "PT"
+  },
+  {
+    "name": "Fogueteiro",
+    "country": "PT"
+  },
+  {
+    "name": "Figueiros",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira e Barros",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira de Cavaleiros",
+    "country": "PT"
+  },
+  {
+    "name": "Ferrel",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreiras",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreira do Alentejo",
+    "country": "PT"
+  },
+  {
+    "name": "Fazendas de Alpiar\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Fazendas de Almeirim",
+    "country": "PT"
+  },
+  {
+    "name": "F\u00e1tima",
+    "country": "PT"
+  },
+  {
+    "name": "Faro do Alentejo",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Faro",
+    "country": "PT"
+  },
+  {
+    "name": "Faro",
+    "country": "PT"
+  },
+  {
+    "name": "Fanh\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Fam\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Falfosa",
+    "country": "PT"
+  },
+  {
+    "name": "Falagueira",
+    "country": "PT"
+  },
+  {
+    "name": "Faj\u00e3 da Ovelha",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de \u00c9vora",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c9vora",
+    "country": "PT"
+  },
+  {
+    "name": "Estremoz",
+    "country": "PT"
+  },
+  {
+    "name": "Estrela",
+    "country": "PT"
+  },
+  {
+    "name": "Estreito de C\u00e2mara de Lobos",
+    "country": "PT"
+  },
+  {
+    "name": "Estreito da Calheta",
+    "country": "PT"
+  },
+  {
+    "name": "Estoril",
+    "country": "PT"
+  },
+  {
+    "name": "Est\u00f4mbar",
+    "country": "PT"
+  },
+  {
+    "name": "Est\u00f3i",
+    "country": "PT"
+  },
+  {
+    "name": "Espite",
+    "country": "PT"
+  },
+  {
+    "name": "Escalos de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Escalos de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Erra",
+    "country": "PT"
+  },
+  {
+    "name": "Ermidas",
+    "country": "PT"
+  },
+  {
+    "name": "Ericeira",
+    "country": "PT"
+  },
+  {
+    "name": "Envendos",
+    "country": "PT"
+  },
+  {
+    "name": "Entroncamento",
+    "country": "PT"
+  },
+  {
+    "name": "Enejas",
+    "country": "PT"
+  },
+  {
+    "name": "Elvas",
+    "country": "PT"
+  },
+  {
+    "name": "Eiras",
+    "country": "PT"
+  },
+  {
+    "name": "Eiras",
+    "country": "PT"
+  },
+  {
+    "name": "Damaia",
+    "country": "PT"
+  },
+  {
+    "name": "Curral das Freiras",
+    "country": "PT"
+  },
+  {
+    "name": "Curral\u00e3o da Jardoa",
+    "country": "PT"
+  },
+  {
+    "name": "Cruz Quebrada",
+    "country": "PT"
+  },
+  {
+    "name": "Crujo",
+    "country": "PT"
+  },
+  {
+    "name": "Crato",
+    "country": "PT"
+  },
+  {
+    "name": "Cov\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Cov\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Courelas",
+    "country": "PT"
+  },
+  {
+    "name": "Cou\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Costa de Caparica",
+    "country": "PT"
+  },
+  {
+    "name": "Coruche",
+    "country": "PT"
+  },
+  {
+    "name": "Corte do Pinto",
+    "country": "PT"
+  },
+  {
+    "name": "Corroios",
+    "country": "PT"
+  },
+  {
+    "name": "Corredoura",
+    "country": "PT"
+  },
+  {
+    "name": "Comporta",
+    "country": "PT"
+  },
+  {
+    "name": "Colmeias",
+    "country": "PT"
+  },
+  {
+    "name": "Colares",
+    "country": "PT"
+  },
+  {
+    "name": "Coimbr\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Cogominho",
+    "country": "PT"
+  },
+  {
+    "name": "Ch\u00edcharo",
+    "country": "PT"
+  },
+  {
+    "name": "Chavelho",
+    "country": "PT"
+  },
+  {
+    "name": "Charneca",
+    "country": "PT"
+  },
+  {
+    "name": "Charneca",
+    "country": "PT"
+  },
+  {
+    "name": "Charneca de Caparica",
+    "country": "PT"
+  },
+  {
+    "name": "Chamusca",
+    "country": "PT"
+  },
+  {
+    "name": "Cerro das Taipas",
+    "country": "PT"
+  },
+  {
+    "name": "Cerca Velha",
+    "country": "PT"
+  },
+  {
+    "name": "Cercal",
+    "country": "PT"
+  },
+  {
+    "name": "Cebolais de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Caxias",
+    "country": "PT"
+  },
+  {
+    "name": "Castro Verde",
+    "country": "PT"
+  },
+  {
+    "name": "Castro Marim",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo de Vide",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Castelo Branco",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo Branco",
+    "country": "PT"
+  },
+  {
+    "name": "Castanheira do Ribatejo",
+    "country": "PT"
+  },
+  {
+    "name": "Castanheira de P\u00eara",
+    "country": "PT"
+  },
+  {
+    "name": "Caselas",
+    "country": "PT"
+  },
+  {
+    "name": "Cascais",
+    "country": "PT"
+  },
+  {
+    "name": "Casal do Soito",
+    "country": "PT"
+  },
+  {
+    "name": "Casal do Anafe de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Casais dos Matos",
+    "country": "PT"
+  },
+  {
+    "name": "Casais do Rio",
+    "country": "PT"
+  },
+  {
+    "name": "Casais do Norte",
+    "country": "PT"
+  },
+  {
+    "name": "Casais de Santa Maria de Almoster",
+    "country": "PT"
+  },
+  {
+    "name": "Casais de Matos",
+    "country": "PT"
+  },
+  {
+    "name": "Casa do Ninho",
+    "country": "PT"
+  },
+  {
+    "name": "Casa do Formigal",
+    "country": "PT"
+  },
+  {
+    "name": "Casa Branca",
+    "country": "PT"
+  },
+  {
+    "name": "Carvoeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Cartaxo",
+    "country": "PT"
+  },
+  {
+    "name": "Carregueira",
+    "country": "PT"
+  },
+  {
+    "name": "Carregado",
+    "country": "PT"
+  },
+  {
+    "name": "Carnaxide",
+    "country": "PT"
+  },
+  {
+    "name": "Cardosas",
+    "country": "PT"
+  },
+  {
+    "name": "Cardigos",
+    "country": "PT"
+  },
+  {
+    "name": "Carcavelos",
+    "country": "PT"
+  },
+  {
+    "name": "Caranguejeira",
+    "country": "PT"
+  },
+  {
+    "name": "Caparica",
+    "country": "PT"
+  },
+  {
+    "name": "Cano",
+    "country": "PT"
+  },
+  {
+    "name": "Cani\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Cani\u00e7al",
+    "country": "PT"
+  },
+  {
+    "name": "Canha",
+    "country": "PT"
+  },
+  {
+    "name": "Cane\u00e7as",
+    "country": "PT"
+  },
+  {
+    "name": "Cancinos",
+    "country": "PT"
+  },
+  {
+    "name": "Campo Maior",
+    "country": "PT"
+  },
+  {
+    "name": "Campolide",
+    "country": "PT"
+  },
+  {
+    "name": "Campinho",
+    "country": "PT"
+  },
+  {
+    "name": "Campelos",
+    "country": "PT"
+  },
+  {
+    "name": "Campan\u00e1rio",
+    "country": "PT"
+  },
+  {
+    "name": "Camarate",
+    "country": "PT"
+  },
+  {
+    "name": "C\u00e2mara de Lobos",
+    "country": "PT"
+  },
+  {
+    "name": "Camacha",
+    "country": "PT"
+  },
+  {
+    "name": "Camacha",
+    "country": "PT"
+  },
+  {
+    "name": "Calheta",
+    "country": "PT"
+  },
+  {
+    "name": "Calhandriz",
+    "country": "PT"
+  },
+  {
+    "name": "Caldas da Rainha",
+    "country": "PT"
+  },
+  {
+    "name": "Cacilhas",
+    "country": "PT"
+  },
+  {
+    "name": "Cachoeiras",
+    "country": "PT"
+  },
+  {
+    "name": "Cac\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Cabrela",
+    "country": "PT"
+  },
+  {
+    "name": "Cabreiro",
+    "country": "PT"
+  },
+  {
+    "name": "Cabe\u00e7o de Vide",
+    "country": "PT"
+  },
+  {
+    "name": "Cabe\u00e7as do Pinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Cabe\u00e7as",
+    "country": "PT"
+  },
+  {
+    "name": "Buraca",
+    "country": "PT"
+  },
+  {
+    "name": "Bugarrel",
+    "country": "PT"
+  },
+  {
+    "name": "Budens",
+    "country": "PT"
+  },
+  {
+    "name": "Bucelas",
+    "country": "PT"
+  },
+  {
+    "name": "Brogueira",
+    "country": "PT"
+  },
+  {
+    "name": "Braz\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Bra\u00e7al",
+    "country": "PT"
+  },
+  {
+    "name": "Borba",
+    "country": "PT"
+  },
+  {
+    "name": "Bom Sucesso",
+    "country": "PT"
+  },
+  {
+    "name": "Bom Jesus",
+    "country": "PT"
+  },
+  {
+    "name": "Bombarral",
+    "country": "PT"
+  },
+  {
+    "name": "Boliqueime",
+    "country": "PT"
+  },
+  {
+    "name": "Boi\u00e7as",
+    "country": "PT"
+  },
+  {
+    "name": "Boi\u00e7a de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Bobadela",
+    "country": "PT"
+  },
+  {
+    "name": "Biscainho",
+    "country": "PT"
+  },
+  {
+    "name": "Beringel",
+    "country": "PT"
+  },
+  {
+    "name": "Bensafrim",
+    "country": "PT"
+  },
+  {
+    "name": "Benedita",
+    "country": "PT"
+  },
+  {
+    "name": "Bencatel",
+    "country": "PT"
+  },
+  {
+    "name": "Benavente",
+    "country": "PT"
+  },
+  {
+    "name": "Benafim Pequeno",
+    "country": "PT"
+  },
+  {
+    "name": "Bemposta",
+    "country": "PT"
+  },
+  {
+    "name": "Belo Horizonte",
+    "country": "PT"
+  },
+  {
+    "name": "Belmonte",
+    "country": "PT"
+  },
+  {
+    "name": "Bel\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Belas",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Beja",
+    "country": "PT"
+  },
+  {
+    "name": "Beja",
+    "country": "PT"
+  },
+  {
+    "name": "Beirolas",
+    "country": "PT"
+  },
+  {
+    "name": "Beato Ant\u00f3nio",
+    "country": "PT"
+  },
+  {
+    "name": "Batalha",
+    "country": "PT"
+  },
+  {
+    "name": "Barrocas",
+    "country": "PT"
+  },
+  {
+    "name": "Barril de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Barreiro",
+    "country": "PT"
+  },
+  {
+    "name": "Barcarena",
+    "country": "PT"
+  },
+  {
+    "name": "Baleiz\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Bajanca",
+    "country": "PT"
+  },
+  {
+    "name": "Bairro de Dona Constan\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Bairro",
+    "country": "PT"
+  },
+  {
+    "name": "Bacelo",
+    "country": "PT"
+  },
+  {
+    "name": "Azinheira dos Barros",
+    "country": "PT"
+  },
+  {
+    "name": "Azambuja",
+    "country": "PT"
+  },
+  {
+    "name": "Aveiras de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Aveiras de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Atouguia da Baleia",
+    "country": "PT"
+  },
+  {
+    "name": "Atalaia",
+    "country": "PT"
+  },
+  {
+    "name": "Assumar",
+    "country": "PT"
+  },
+  {
+    "name": "Asseiceira",
+    "country": "PT"
+  },
+  {
+    "name": "Asseiceira",
+    "country": "PT"
+  },
+  {
+    "name": "Arruda dos Vinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Arruda dos Pis\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Arrouquelas",
+    "country": "PT"
+  },
+  {
+    "name": "Arrentela",
+    "country": "PT"
+  },
+  {
+    "name": "Arranjinho",
+    "country": "PT"
+  },
+  {
+    "name": "Arranh\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Arrabal",
+    "country": "PT"
+  },
+  {
+    "name": "Arneiro das Milhari\u00e7as",
+    "country": "PT"
+  },
+  {
+    "name": "Arneiro",
+    "country": "PT"
+  },
+  {
+    "name": "Arnal",
+    "country": "PT"
+  },
+  {
+    "name": "Arma\u00e7\u00e3o de P\u00eara",
+    "country": "PT"
+  },
+  {
+    "name": "Areias",
+    "country": "PT"
+  },
+  {
+    "name": "Areias",
+    "country": "PT"
+  },
+  {
+    "name": "Arco da Calheta",
+    "country": "PT"
+  },
+  {
+    "name": "Ara\u00fajo",
+    "country": "PT"
+  },
+  {
+    "name": "Aramanha",
+    "country": "PT"
+  },
+  {
+    "name": "Ar\u00e1bia",
+    "country": "PT"
+  },
+  {
+    "name": "Apela\u00e7\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Amoreira",
+    "country": "PT"
+  },
+  {
+    "name": "Amora",
+    "country": "PT"
+  },
+  {
+    "name": "Amor",
+    "country": "PT"
+  },
+  {
+    "name": "Ami\u00e3es de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Amareleja",
+    "country": "PT"
+  },
+  {
+    "name": "Amadora",
+    "country": "PT"
+  },
+  {
+    "name": "Alvorge",
+    "country": "PT"
+  },
+  {
+    "name": "Alvor",
+    "country": "PT"
+  },
+  {
+    "name": "Alverca do Ribatejo",
+    "country": "PT"
+  },
+  {
+    "name": "Alvega",
+    "country": "PT"
+  },
+  {
+    "name": "Alvalade",
+    "country": "PT"
+  },
+  {
+    "name": "Alvados",
+    "country": "PT"
+  },
+  {
+    "name": "Alto Mina",
+    "country": "PT"
+  },
+  {
+    "name": "Alto do Casal",
+    "country": "PT"
+  },
+  {
+    "name": "Alter do Ch\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Alqueid\u00e3o da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Alqueid\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Alpriate",
+    "country": "PT"
+  },
+  {
+    "name": "Alpiar\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Alpalh\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Almornos",
+    "country": "PT"
+  },
+  {
+    "name": "Almeirim",
+    "country": "PT"
+  },
+  {
+    "name": "Almargem",
+    "country": "PT"
+  },
+  {
+    "name": "Almancil",
+    "country": "PT"
+  },
+  {
+    "name": "Almada",
+    "country": "PT"
+  },
+  {
+    "name": "Aljustrel",
+    "country": "PT"
+  },
+  {
+    "name": "Aljubarrota",
+    "country": "PT"
+  },
+  {
+    "name": "Aljezur",
+    "country": "PT"
+  },
+  {
+    "name": "Alhos Vedros",
+    "country": "PT"
+  },
+  {
+    "name": "Alhandra",
+    "country": "PT"
+  },
+  {
+    "name": "Alguber",
+    "country": "PT"
+  },
+  {
+    "name": "Algoz",
+    "country": "PT"
+  },
+  {
+    "name": "Alg\u00e9s",
+    "country": "PT"
+  },
+  {
+    "name": "Alfund\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Alfouvez",
+    "country": "PT"
+  },
+  {
+    "name": "Alfornelos",
+    "country": "PT"
+  },
+  {
+    "name": "Alferrarede",
+    "country": "PT"
+  },
+  {
+    "name": "Alfeizer\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Alenquer",
+    "country": "PT"
+  },
+  {
+    "name": "Alegrete",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia Galega da Merceana",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia de Paio Pires",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia da Mata",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia Cimeira",
+    "country": "PT"
+  },
+  {
+    "name": "Alcorochel",
+    "country": "PT"
+  },
+  {
+    "name": "Alcoentre",
+    "country": "PT"
+  },
+  {
+    "name": "Alcochete",
+    "country": "PT"
+  },
+  {
+    "name": "Alcoba\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Alcaravela",
+    "country": "PT"
+  },
+  {
+    "name": "Alcantarilha",
+    "country": "PT"
+  },
+  {
+    "name": "Alc\u00e2ntara",
+    "country": "PT"
+  },
+  {
+    "name": "Alcanh\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Alcanena",
+    "country": "PT"
+  },
+  {
+    "name": "Alcanede",
+    "country": "PT"
+  },
+  {
+    "name": "Alcains",
+    "country": "PT"
+  },
+  {
+    "name": "Alcafozes",
+    "country": "PT"
+  },
+  {
+    "name": "Alc\u00e1cer do Sal",
+    "country": "PT"
+  },
+  {
+    "name": "Alcabideche",
+    "country": "PT"
+  },
+  {
+    "name": "Alburitel",
+    "country": "PT"
+  },
+  {
+    "name": "Albufeira",
+    "country": "PT"
+  },
+  {
+    "name": "Alandroal",
+    "country": "PT"
+  },
+  {
+    "name": "Alagoa",
+    "country": "PT"
+  },
+  {
+    "name": "Aguiar",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1gua de Pena",
+    "country": "PT"
+  },
+  {
+    "name": "A dos Cunhados",
+    "country": "PT"
+  },
+  {
+    "name": "A do Fa\u00e7\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "A da Beja",
+    "country": "PT"
+  },
+  {
+    "name": "Abrantes",
+    "country": "PT"
+  },
+  {
+    "name": "Abela",
+    "country": "PT"
+  },
+  {
+    "name": "Amoreira",
+    "country": "PT"
+  },
+  {
+    "name": "Albatroz",
+    "country": "PT"
+  },
+  {
+    "name": "Madeira",
+    "country": "PT"
+  },
+  {
+    "name": "Zambujal",
+    "country": "PT"
+  },
+  {
+    "name": "Vizela",
+    "country": "PT"
+  },
+  {
+    "name": "Vizela",
+    "country": "PT"
+  },
+  {
+    "name": "Vizela",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Viseu",
+    "country": "PT"
+  },
+  {
+    "name": "Viseu",
+    "country": "PT"
+  },
+  {
+    "name": "Virais",
+    "country": "PT"
+  },
+  {
+    "name": "Vinh\u00f3s",
+    "country": "PT"
+  },
+  {
+    "name": "Vinho",
+    "country": "PT"
+  },
+  {
+    "name": "Vinhais",
+    "country": "PT"
+  },
+  {
+    "name": "Vinha da Rainha",
+    "country": "PT"
+  },
+  {
+    "name": "Vilela",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Verde da Raia",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Verde",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Soeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Ruiva",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarinho de Cotas",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarinho das Cambas",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarinho",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar Formoso",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarelho",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarelho",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Vila Real",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Real",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar do Pinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar do Peso",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar do Para\u00edso",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar do Monte",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Nantes",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Murteda",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Besteiros",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Andorinho",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarandelo",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Praia de \u00c2ncora",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nune",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Monsarros",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Gaia",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Famalic\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova da Telha",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova da Rainha",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Me\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Frescainha",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Franca da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Vila do Conde",
+    "country": "PT"
+  },
+  {
+    "name": "Vila de Punhe",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Cova de Alva",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Cova",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Cort\u00eas da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Ch\u00e3 de S\u00e1",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Ch\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boa do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boa de Quires",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boa",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boa",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boa",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boa",
+    "country": "PT"
+  },
+  {
+    "name": "Vide",
+    "country": "PT"
+  },
+  {
+    "name": "Vidago",
+    "country": "PT"
+  },
+  {
+    "name": "Viatodos",
+    "country": "PT"
+  },
+  {
+    "name": "Viariz",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Viana do Castelo",
+    "country": "PT"
+  },
+  {
+    "name": "Viana do Castelo",
+    "country": "PT"
+  },
+  {
+    "name": "Verride",
+    "country": "PT"
+  },
+  {
+    "name": "Verdemilho",
+    "country": "PT"
+  },
+  {
+    "name": "Ventosa do Bairro",
+    "country": "PT"
+  },
+  {
+    "name": "Vendas de Grij\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Venda Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Vascoveiro",
+    "country": "PT"
+  },
+  {
+    "name": "V\u00e1rzea",
+    "country": "PT"
+  },
+  {
+    "name": "Valverde",
+    "country": "PT"
+  },
+  {
+    "name": "Valpedre",
+    "country": "PT"
+  },
+  {
+    "name": "Valpa\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Valongo",
+    "country": "PT"
+  },
+  {
+    "name": "Valongo",
+    "country": "PT"
+  },
+  {
+    "name": "Valezim",
+    "country": "PT"
+  },
+  {
+    "name": "Vales do Rio",
+    "country": "PT"
+  },
+  {
+    "name": "Vale Grande",
+    "country": "PT"
+  },
+  {
+    "name": "V\u00e1lega",
+    "country": "PT"
+  },
+  {
+    "name": "Vale do Matouco",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Rem\u00edgio",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Prados",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Lobo",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Cambra",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Amoreira",
+    "country": "PT"
+  },
+  {
+    "name": "Vale Bom Pitez",
+    "country": "PT"
+  },
+  {
+    "name": "Vale",
+    "country": "PT"
+  },
+  {
+    "name": "Valbom",
+    "country": "PT"
+  },
+  {
+    "name": "Valadares",
+    "country": "PT"
+  },
+  {
+    "name": "Valada",
+    "country": "PT"
+  },
+  {
+    "name": "Vair\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Vagos",
+    "country": "PT"
+  },
+  {
+    "name": "Ursulinas",
+    "country": "PT"
+  },
+  {
+    "name": "Urgeses",
+    "country": "PT"
+  },
+  {
+    "name": "Unhais da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Ul",
+    "country": "PT"
+  },
+  {
+    "name": "Ucanha",
+    "country": "PT"
+  },
+  {
+    "name": "Turiz",
+    "country": "PT"
+  },
+  {
+    "name": "Troviscoso",
+    "country": "PT"
+  },
+  {
+    "name": "Trofa Velha",
+    "country": "PT"
+  },
+  {
+    "name": "Trev\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Tresouras",
+    "country": "PT"
+  },
+  {
+    "name": "Treixedo",
+    "country": "PT"
+  },
+  {
+    "name": "Tregosa",
+    "country": "PT"
+  },
+  {
+    "name": "Travass\u00f3s",
+    "country": "PT"
+  },
+  {
+    "name": "Travasso",
+    "country": "PT"
+  },
+  {
+    "name": "Travanca de Lagos",
+    "country": "PT"
+  },
+  {
+    "name": "Travanca",
+    "country": "PT"
+  },
+  {
+    "name": "Tr\u00e1s-o-Rio",
+    "country": "PT"
+  },
+  {
+    "name": "Tr\u00e1s da Fonte",
+    "country": "PT"
+  },
+  {
+    "name": "Touro",
+    "country": "PT"
+  },
+  {
+    "name": "Tourim",
+    "country": "PT"
+  },
+  {
+    "name": "Tour\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Tourelhe",
+    "country": "PT"
+  },
+  {
+    "name": "Tourais",
+    "country": "PT"
+  },
+  {
+    "name": "Touguinho",
+    "country": "PT"
+  },
+  {
+    "name": "Touguinha",
+    "country": "PT"
+  },
+  {
+    "name": "Tougues",
+    "country": "PT"
+  },
+  {
+    "name": "Tortola",
+    "country": "PT"
+  },
+  {
+    "name": "Torreira",
+    "country": "PT"
+  },
+  {
+    "name": "Torre de Dona Chama",
+    "country": "PT"
+  },
+  {
+    "name": "Torre",
+    "country": "PT"
+  },
+  {
+    "name": "Tondela",
+    "country": "PT"
+  },
+  {
+    "name": "Tondela",
+    "country": "PT"
+  },
+  {
+    "name": "Tent\u00fagal",
+    "country": "PT"
+  },
+  {
+    "name": "Tel\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Teixoso",
+    "country": "PT"
+  },
+  {
+    "name": "Teixogueira",
+    "country": "PT"
+  },
+  {
+    "name": "Teixeira",
+    "country": "PT"
+  },
+  {
+    "name": "Tebosa",
+    "country": "PT"
+  },
+  {
+    "name": "Tazem",
+    "country": "PT"
+  },
+  {
+    "name": "Taveiro",
+    "country": "PT"
+  },
+  {
+    "name": "Tavaredes",
+    "country": "PT"
+  },
+  {
+    "name": "Tavarede",
+    "country": "PT"
+  },
+  {
+    "name": "Tardariz",
+    "country": "PT"
+  },
+  {
+    "name": "Tamengos",
+    "country": "PT"
+  },
+  {
+    "name": "Taipa",
+    "country": "PT"
+  },
+  {
+    "name": "Taide",
+    "country": "PT"
+  },
+  {
+    "name": "Souto de Megide",
+    "country": "PT"
+  },
+  {
+    "name": "Souto da Casa",
+    "country": "PT"
+  },
+  {
+    "name": "Souto",
+    "country": "PT"
+  },
+  {
+    "name": "Soutelo do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Soutelo",
+    "country": "PT"
+  },
+  {
+    "name": "Souselas",
+    "country": "PT"
+  },
+  {
+    "name": "Soure",
+    "country": "PT"
+  },
+  {
+    "name": "Sosa",
+    "country": "PT"
+  },
+  {
+    "name": "Soito Ch\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Sogueire",
+    "country": "PT"
+  },
+  {
+    "name": "Sobrosa",
+    "country": "PT"
+  },
+  {
+    "name": "Sobreira",
+    "country": "PT"
+  },
+  {
+    "name": "Sobrado",
+    "country": "PT"
+  },
+  {
+    "name": "Sobradelo da Goma",
+    "country": "PT"
+  },
+  {
+    "name": "Sistelos",
+    "country": "PT"
+  },
+  {
+    "name": "Sist\u00e3is",
+    "country": "PT"
+  },
+  {
+    "name": "Silveiros",
+    "country": "PT"
+  },
+  {
+    "name": "Silvares",
+    "country": "PT"
+  },
+  {
+    "name": "Silvares",
+    "country": "PT"
+  },
+  {
+    "name": "Silvalde",
+    "country": "PT"
+  },
+  {
+    "name": "Sever do Vouga",
+    "country": "PT"
+  },
+  {
+    "name": "Serzedo",
+    "country": "PT"
+  },
+  {
+    "name": "Serzedelo",
+    "country": "PT"
+  },
+  {
+    "name": "Serro Ventoso",
+    "country": "PT"
+  },
+  {
+    "name": "Serro",
+    "country": "PT"
+  },
+  {
+    "name": "Serpins",
+    "country": "PT"
+  },
+  {
+    "name": "Seroa",
+    "country": "PT"
+  },
+  {
+    "name": "Sequeira",
+    "country": "PT"
+  },
+  {
+    "name": "Sequeade",
+    "country": "PT"
+  },
+  {
+    "name": "Senhorim",
+    "country": "PT"
+  },
+  {
+    "name": "Senhor da Arieira",
+    "country": "PT"
+  },
+  {
+    "name": "Senhora do Vale",
+    "country": "PT"
+  },
+  {
+    "name": "Senhora das Preces",
+    "country": "PT"
+  },
+  {
+    "name": "Senhora da Rocha",
+    "country": "PT"
+  },
+  {
+    "name": "Senhora da Hora",
+    "country": "PT"
+  },
+  {
+    "name": "Sendim",
+    "country": "PT"
+  },
+  {
+    "name": "Selho",
+    "country": "PT"
+  },
+  {
+    "name": "Seixos",
+    "country": "PT"
+  },
+  {
+    "name": "Seixo",
+    "country": "PT"
+  },
+  {
+    "name": "Seia",
+    "country": "PT"
+  },
+  {
+    "name": "Secarias",
+    "country": "PT"
+  },
+  {
+    "name": "Sebolido",
+    "country": "PT"
+  },
+  {
+    "name": "Seara",
+    "country": "PT"
+  },
+  {
+    "name": "Saudel",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e1t\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Sardinha",
+    "country": "PT"
+  },
+  {
+    "name": "Sapi\u00e3os",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Vicente de Laf\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Tiago de Custoias",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Tiago",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Tiago",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Silvestre",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Salvador",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Roque da Lameira",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Roque",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Rom\u00e3o do Coronado",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Rom\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro Fins",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro do Sul",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro de Serracenos",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro de Alva",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro da Cova",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Paio",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Miguel do Couto",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Miguel de Acha",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Martinho de Antas",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Mamede de Infesta",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Mamede",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Louren\u00e7o do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jorge",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o de Ver",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o de Tarouca",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o da Madeira",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o da Azenha",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Joaninho",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o F\u00e9lix da Marinha",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o F\u00e9lix",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Facundo",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Cosmado",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Cipriano",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Bernardo",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Var\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Tirso",
+    "country": "PT"
+  },
+  {
+    "name": "Santos Evos",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Ant\u00f3nio",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Adri\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Santiago de Riba-Ul",
+    "country": "PT"
+  },
+  {
+    "name": "Santiago",
+    "country": "PT"
+  },
+  {
+    "name": "Santar",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Eul\u00e1lia",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Cruz do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Cruz da Trapa",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Comba de Rossas",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Comba D\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Sanradela",
+    "country": "PT"
+  },
+  {
+    "name": "Sanhoane",
+    "country": "PT"
+  },
+  {
+    "name": "Sangalhos",
+    "country": "PT"
+  },
+  {
+    "name": "Sanfins",
+    "country": "PT"
+  },
+  {
+    "name": "Sandim",
+    "country": "PT"
+  },
+  {
+    "name": "Sande",
+    "country": "PT"
+  },
+  {
+    "name": "Samuel",
+    "country": "PT"
+  },
+  {
+    "name": "Sam\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Sambade",
+    "country": "PT"
+  },
+  {
+    "name": "Saltadouro",
+    "country": "PT"
+  },
+  {
+    "name": "Salreu",
+    "country": "PT"
+  },
+  {
+    "name": "Salgueiral",
+    "country": "PT"
+  },
+  {
+    "name": "Sacoias",
+    "country": "PT"
+  },
+  {
+    "name": "Sabugosa",
+    "country": "PT"
+  },
+  {
+    "name": "Sabugal",
+    "country": "PT"
+  },
+  {
+    "name": "Sabrosa",
+    "country": "PT"
+  },
+  {
+    "name": "Sabrosa",
+    "country": "PT"
+  },
+  {
+    "name": "Rua Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Rua do Oliveira",
+    "country": "PT"
+  },
+  {
+    "name": "Rua do Arco",
+    "country": "PT"
+  },
+  {
+    "name": "Rozem",
+    "country": "PT"
+  },
+  {
+    "name": "Ronfe",
+    "country": "PT"
+  },
+  {
+    "name": "Rom\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "R\u00f3ios",
+    "country": "PT"
+  },
+  {
+    "name": "R\u00f3d\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Torto",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Tinto",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Me\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Frio",
+    "country": "PT"
+  },
+  {
+    "name": "Rio de Moinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Rio de Loba",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Caldo",
+    "country": "PT"
+  },
+  {
+    "name": "Rio",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeiros",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeir\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira do Abade",
+    "country": "PT"
+  },
+  {
+    "name": "Riba de Ave",
+    "country": "PT"
+  },
+  {
+    "name": "Requi\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Requeixo",
+    "country": "PT"
+  },
+  {
+    "name": "Renhadouro",
+    "country": "PT"
+  },
+  {
+    "name": "Rendufe",
+    "country": "PT"
+  },
+  {
+    "name": "Reguenga",
+    "country": "PT"
+  },
+  {
+    "name": "Rego",
+    "country": "PT"
+  },
+  {
+    "name": "Regilde",
+    "country": "PT"
+  },
+  {
+    "name": "Regadio",
+    "country": "PT"
+  },
+  {
+    "name": "Refojos de Basto",
+    "country": "PT"
+  },
+  {
+    "name": "Recreio",
+    "country": "PT"
+  },
+  {
+    "name": "Recoutas",
+    "country": "PT"
+  },
+  {
+    "name": "Recarei",
+    "country": "PT"
+  },
+  {
+    "name": "Rebordosa",
+    "country": "PT"
+  },
+  {
+    "name": "Rebolosa",
+    "country": "PT"
+  },
+  {
+    "name": "Real de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Real",
+    "country": "PT"
+  },
+  {
+    "name": "Real",
+    "country": "PT"
+  },
+  {
+    "name": "Real",
+    "country": "PT"
+  },
+  {
+    "name": "Raposeira",
+    "country": "PT"
+  },
+  {
+    "name": "Ramos",
+    "country": "PT"
+  },
+  {
+    "name": "Ramilos",
+    "country": "PT"
+  },
+  {
+    "name": "Rabal",
+    "country": "PT"
+  },
+  {
+    "name": "Quinti\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Quintela",
+    "country": "PT"
+  },
+  {
+    "name": "Quint\u00e3s",
+    "country": "PT"
+  },
+  {
+    "name": "Quint\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Quinta Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Quinch\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Quiaios",
+    "country": "PT"
+  },
+  {
+    "name": "Queiriga",
+    "country": "PT"
+  },
+  {
+    "name": "Queimada",
+    "country": "PT"
+  },
+  {
+    "name": "Queijada",
+    "country": "PT"
+  },
+  {
+    "name": "Prozela",
+    "country": "PT"
+  },
+  {
+    "name": "Prados",
+    "country": "PT"
+  },
+  {
+    "name": "Prado",
+    "country": "PT"
+  },
+  {
+    "name": "Pra\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Povolide",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa do Concelho",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Varzim",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Mid\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Lanhoso",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa",
+    "country": "PT"
+  },
+  {
+    "name": "Pouve",
+    "country": "PT"
+  },
+  {
+    "name": "Pousadouros",
+    "country": "PT"
+  },
+  {
+    "name": "Pousada de Saramagos",
+    "country": "PT"
+  },
+  {
+    "name": "Pousada",
+    "country": "PT"
+  },
+  {
+    "name": "Pousada",
+    "country": "PT"
+  },
+  {
+    "name": "Pousa",
+    "country": "PT"
+  },
+  {
+    "name": "Portunhos",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito do Porto",
+    "country": "PT"
+  },
+  {
+    "name": "Porto",
+    "country": "PT"
+  },
+  {
+    "name": "Portela",
+    "country": "PT"
+  },
+  {
+    "name": "Portela",
+    "country": "PT"
+  },
+  {
+    "name": "Portela",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte de Lima",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte de Vagos",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte",
+    "country": "PT"
+  },
+  {
+    "name": "Pombinhas",
+    "country": "PT"
+  },
+  {
+    "name": "Pombalinho",
+    "country": "PT"
+  },
+  {
+    "name": "Poiares",
+    "country": "PT"
+  },
+  {
+    "name": "Pogido",
+    "country": "PT"
+  },
+  {
+    "name": "Plisqueira",
+    "country": "PT"
+  },
+  {
+    "name": "Piquete",
+    "country": "PT"
+  },
+  {
+    "name": "Pinhel",
+    "country": "PT"
+  },
+  {
+    "name": "Pinheiro de Coja",
+    "country": "PT"
+  },
+  {
+    "name": "Pinheiro de \u00c1zere",
+    "country": "PT"
+  },
+  {
+    "name": "Pinheiro da Bemposta",
+    "country": "PT"
+  },
+  {
+    "name": "Pinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Pinh\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Pinhan\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Pindelo dos Milagres",
+    "country": "PT"
+  },
+  {
+    "name": "Pindelo",
+    "country": "PT"
+  },
+  {
+    "name": "Picotos",
+    "country": "PT"
+  },
+  {
+    "name": "Piares",
+    "country": "PT"
+  },
+  {
+    "name": "Peso da R\u00e9gua",
+    "country": "PT"
+  },
+  {
+    "name": "Perozinho",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00earo Viseu",
+    "country": "PT"
+  },
+  {
+    "name": "Perelada",
+    "country": "PT"
+  },
+  {
+    "name": "Pereiros",
+    "country": "PT"
+  },
+  {
+    "name": "Pereiro",
+    "country": "PT"
+  },
+  {
+    "name": "Perafita",
+    "country": "PT"
+  },
+  {
+    "name": "Penha Garcia",
+    "country": "PT"
+  },
+  {
+    "name": "Penedos",
+    "country": "PT"
+  },
+  {
+    "name": "Penedo do Monte",
+    "country": "PT"
+  },
+  {
+    "name": "Penamacor",
+    "country": "PT"
+  },
+  {
+    "name": "Penajoia",
+    "country": "PT"
+  },
+  {
+    "name": "Penafiel",
+    "country": "PT"
+  },
+  {
+    "name": "Pedrou\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Pedroso",
+    "country": "PT"
+  },
+  {
+    "name": "Pedreira de Vilarinho",
+    "country": "PT"
+  },
+  {
+    "name": "Pedras Salgadas",
+    "country": "PT"
+  },
+  {
+    "name": "Pedra Furada",
+    "country": "PT"
+  },
+  {
+    "name": "Pedra Fita",
+    "country": "PT"
+  },
+  {
+    "name": "Pedorido",
+    "country": "PT"
+  },
+  {
+    "name": "Pedome",
+    "country": "PT"
+  },
+  {
+    "name": "Pecene",
+    "country": "PT"
+  },
+  {
+    "name": "Passos",
+    "country": "PT"
+  },
+  {
+    "name": "Paredes da Beira",
+    "country": "PT"
+  },
+  {
+    "name": "Paredes",
+    "country": "PT"
+  },
+  {
+    "name": "Pardilh\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Paradinha",
+    "country": "PT"
+  },
+  {
+    "name": "Paradela",
+    "country": "PT"
+  },
+  {
+    "name": "Paradan\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Parada do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "Parada de Gonta",
+    "country": "PT"
+  },
+  {
+    "name": "Parada de Bouro",
+    "country": "PT"
+  },
+  {
+    "name": "Panchorra",
+    "country": "PT"
+  },
+  {
+    "name": "Pampilhosa do Bot\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Palmeira de Faro",
+    "country": "PT"
+  },
+  {
+    "name": "Palmeira",
+    "country": "PT"
+  },
+  {
+    "name": "Palme",
+    "country": "PT"
+  },
+  {
+    "name": "Palheiros de Mira",
+    "country": "PT"
+  },
+  {
+    "name": "Palha\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Pai Penela",
+    "country": "PT"
+  },
+  {
+    "name": "Pai\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Padim da Gra\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7\u00f4 Vieira",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7o Vedro de Magalh\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7os de Ferreira",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7os de Brand\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7oinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Ovar",
+    "country": "PT"
+  },
+  {
+    "name": "Outeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Outeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Ourondo",
+    "country": "PT"
+  },
+  {
+    "name": "Ourilhe",
+    "country": "PT"
+  },
+  {
+    "name": "Ourent\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Oura",
+    "country": "PT"
+  },
+  {
+    "name": "Ouca",
+    "country": "PT"
+  },
+  {
+    "name": "Orjais",
+    "country": "PT"
+  },
+  {
+    "name": "Orca",
+    "country": "PT"
+  },
+  {
+    "name": "Olo",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveirinha",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveiras",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira do Hospital",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira do Bairro",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira de Frades",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira de Azemeis",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira",
+    "country": "PT"
+  },
+  {
+    "name": "Olival",
+    "country": "PT"
+  },
+  {
+    "name": "\u00d3is do Bairro",
+    "country": "PT"
+  },
+  {
+    "name": "Oi\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Nunes",
+    "country": "PT"
+  },
+  {
+    "name": "Num\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Novais",
+    "country": "PT"
+  },
+  {
+    "name": "Nogueira do Cravo",
+    "country": "PT"
+  },
+  {
+    "name": "Nogueira da Regedoura",
+    "country": "PT"
+  },
+  {
+    "name": "Nogueira",
+    "country": "PT"
+  },
+  {
+    "name": "Nine",
+    "country": "PT"
+  },
+  {
+    "name": "Nespereira",
+    "country": "PT"
+  },
+  {
+    "name": "Nelas",
+    "country": "PT"
+  },
+  {
+    "name": "Negr\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Negrelos",
+    "country": "PT"
+  },
+  {
+    "name": "Negreiros",
+    "country": "PT"
+  },
+  {
+    "name": "Nabo",
+    "country": "PT"
+  },
+  {
+    "name": "Nabais",
+    "country": "PT"
+  },
+  {
+    "name": "Muxagata",
+    "country": "PT"
+  },
+  {
+    "name": "Murtede",
+    "country": "PT"
+  },
+  {
+    "name": "Muro",
+    "country": "PT"
+  },
+  {
+    "name": "Mur\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Mund\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Mozelos",
+    "country": "PT"
+  },
+  {
+    "name": "Mouronho",
+    "country": "PT"
+  },
+  {
+    "name": "Mouriz",
+    "country": "PT"
+  },
+  {
+    "name": "Morincheira",
+    "country": "PT"
+  },
+  {
+    "name": "Moreira de Conegos",
+    "country": "PT"
+  },
+  {
+    "name": "Moreira",
+    "country": "PT"
+  },
+  {
+    "name": "Montedor",
+    "country": "PT"
+  },
+  {
+    "name": "Monte da Touca",
+    "country": "PT"
+  },
+  {
+    "name": "Monte das Cruzes",
+    "country": "PT"
+  },
+  {
+    "name": "Monte C\u00f3rdova",
+    "country": "PT"
+  },
+  {
+    "name": "Montalegre",
+    "country": "PT"
+  },
+  {
+    "name": "Mon\u00e7\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Moimentinha",
+    "country": "PT"
+  },
+  {
+    "name": "Moimenta",
+    "country": "PT"
+  },
+  {
+    "name": "Moimenta",
+    "country": "PT"
+  },
+  {
+    "name": "Mogofores",
+    "country": "PT"
+  },
+  {
+    "name": "Mogege",
+    "country": "PT"
+  },
+  {
+    "name": "Mogadouro",
+    "country": "PT"
+  },
+  {
+    "name": "M\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Modivas",
+    "country": "PT"
+  },
+  {
+    "name": "Miuzela",
+    "country": "PT"
+  },
+  {
+    "name": "Mirandela",
+    "country": "PT"
+  },
+  {
+    "name": "Miranda do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Miranda do Corvo",
+    "country": "PT"
+  },
+  {
+    "name": "Mira",
+    "country": "PT"
+  },
+  {
+    "name": "Mira",
+    "country": "PT"
+  },
+  {
+    "name": "Minhot\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Minga Feia",
+    "country": "PT"
+  },
+  {
+    "name": "Milheir\u00f3s de Poiares",
+    "country": "PT"
+  },
+  {
+    "name": "Milheir\u00f3s",
+    "country": "PT"
+  },
+  {
+    "name": "Milheir\u00f3s",
+    "country": "PT"
+  },
+  {
+    "name": "Mid\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Mesa",
+    "country": "PT"
+  },
+  {
+    "name": "Menezas",
+    "country": "PT"
+  },
+  {
+    "name": "Melres",
+    "country": "PT"
+  },
+  {
+    "name": "Meixomil",
+    "country": "PT"
+  },
+  {
+    "name": "Meios",
+    "country": "PT"
+  },
+  {
+    "name": "Meinedo",
+    "country": "PT"
+  },
+  {
+    "name": "Medr\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Meda de Mouros",
+    "country": "PT"
+  },
+  {
+    "name": "Me\u00e3s de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Mealhada",
+    "country": "PT"
+  },
+  {
+    "name": "Meadela",
+    "country": "PT"
+  },
+  {
+    "name": "Matosinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Mato",
+    "country": "PT"
+  },
+  {
+    "name": "Mascotelos",
+    "country": "PT"
+  },
+  {
+    "name": "Marrancos",
+    "country": "PT"
+  },
+  {
+    "name": "Marmeleiro",
+    "country": "PT"
+  },
+  {
+    "name": "Marinha Velha",
+    "country": "PT"
+  },
+  {
+    "name": "Marinhas",
+    "country": "PT"
+  },
+  {
+    "name": "Marinhas",
+    "country": "PT"
+  },
+  {
+    "name": "Marinha das Ondas",
+    "country": "PT"
+  },
+  {
+    "name": "Margaride",
+    "country": "PT"
+  },
+  {
+    "name": "Marecos",
+    "country": "PT"
+  },
+  {
+    "name": "Marco de Canavezes",
+    "country": "PT"
+  },
+  {
+    "name": "Manteigas",
+    "country": "PT"
+  },
+  {
+    "name": "Mansores",
+    "country": "PT"
+  },
+  {
+    "name": "Mangualde",
+    "country": "PT"
+  },
+  {
+    "name": "Mancelos",
+    "country": "PT"
+  },
+  {
+    "name": "Mana",
+    "country": "PT"
+  },
+  {
+    "name": "Malha P\u00e3ozinho",
+    "country": "PT"
+  },
+  {
+    "name": "Maia",
+    "country": "PT"
+  },
+  {
+    "name": "Madalena",
+    "country": "PT"
+  },
+  {
+    "name": "Madail",
+    "country": "PT"
+  },
+  {
+    "name": "Ma\u00e7ores",
+    "country": "PT"
+  },
+  {
+    "name": "Macinhata da Seixa",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira de Sarnes",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira de Rates",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira de Cambra",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira da Maia",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira da Lixa",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira",
+    "country": "PT"
+  },
+  {
+    "name": "Macedo de Cavaleiros",
+    "country": "PT"
+  },
+  {
+    "name": "Maceda",
+    "country": "PT"
+  },
+  {
+    "name": "Ma\u00e7ainhas",
+    "country": "PT"
+  },
+  {
+    "name": "Lustosa",
+    "country": "PT"
+  },
+  {
+    "name": "Luso",
+    "country": "PT"
+  },
+  {
+    "name": "Lugar do Meio",
+    "country": "PT"
+  },
+  {
+    "name": "Lugar de Al\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Lugar da Igreja Pa\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Lousado",
+    "country": "PT"
+  },
+  {
+    "name": "Lous\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Lourosa",
+    "country": "PT"
+  },
+  {
+    "name": "Louro",
+    "country": "PT"
+  },
+  {
+    "name": "Loureiro",
+    "country": "PT"
+  },
+  {
+    "name": "Loureiro",
+    "country": "PT"
+  },
+  {
+    "name": "Lorv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Loriga",
+    "country": "PT"
+  },
+  {
+    "name": "Lordelo do Ouro",
+    "country": "PT"
+  },
+  {
+    "name": "Lordelo",
+    "country": "PT"
+  },
+  {
+    "name": "Lordelo",
+    "country": "PT"
+  },
+  {
+    "name": "Loivos",
+    "country": "PT"
+  },
+  {
+    "name": "Lod\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Lob\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Liceia",
+    "country": "PT"
+  },
+  {
+    "name": "Lever",
+    "country": "PT"
+  },
+  {
+    "name": "Leomil",
+    "country": "PT"
+  },
+  {
+    "name": "Lemenhe",
+    "country": "PT"
+  },
+  {
+    "name": "Leiroz",
+    "country": "PT"
+  },
+  {
+    "name": "Le\u00e7a do Bailio",
+    "country": "PT"
+  },
+  {
+    "name": "Le\u00e7a da Palmeira",
+    "country": "PT"
+  },
+  {
+    "name": "Lazarim",
+    "country": "PT"
+  },
+  {
+    "name": "Lavra",
+    "country": "PT"
+  },
+  {
+    "name": "Lavos",
+    "country": "PT"
+  },
+  {
+    "name": "Lavacolhos",
+    "country": "PT"
+  },
+  {
+    "name": "Lata",
+    "country": "PT"
+  },
+  {
+    "name": "Lapa do Lobo",
+    "country": "PT"
+  },
+  {
+    "name": "Lanhelas",
+    "country": "PT"
+  },
+  {
+    "name": "Landim",
+    "country": "PT"
+  },
+  {
+    "name": "Lamoso",
+    "country": "PT"
+  },
+  {
+    "name": "Lamelas",
+    "country": "PT"
+  },
+  {
+    "name": "Lameiras",
+    "country": "PT"
+  },
+  {
+    "name": "Lamego",
+    "country": "PT"
+  },
+  {
+    "name": "Lamas",
+    "country": "PT"
+  },
+  {
+    "name": "Lamas",
+    "country": "PT"
+  },
+  {
+    "name": "Lamarosa",
+    "country": "PT"
+  },
+  {
+    "name": "Lagielas",
+    "country": "PT"
+  },
+  {
+    "name": "Lagarteira",
+    "country": "PT"
+  },
+  {
+    "name": "Labruge",
+    "country": "PT"
+  },
+  {
+    "name": "Junqueira",
+    "country": "PT"
+  },
+  {
+    "name": "Jovim",
+    "country": "PT"
+  },
+  {
+    "name": "Joane",
+    "country": "PT"
+  },
+  {
+    "name": "Jesufrei",
+    "country": "PT"
+  },
+  {
+    "name": "Jazente",
+    "country": "PT"
+  },
+  {
+    "name": "Janeiro de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Izeda",
+    "country": "PT"
+  },
+  {
+    "name": "Irivo",
+    "country": "PT"
+  },
+  {
+    "name": "Infias",
+    "country": "PT"
+  },
+  {
+    "name": "Infesta",
+    "country": "PT"
+  },
+  {
+    "name": "Infesta",
+    "country": "PT"
+  },
+  {
+    "name": "\u00cdlhavo",
+    "country": "PT"
+  },
+  {
+    "name": "Id\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Gulpilhares",
+    "country": "PT"
+  },
+  {
+    "name": "Guisande",
+    "country": "PT"
+  },
+  {
+    "name": "Guimera",
+    "country": "PT"
+  },
+  {
+    "name": "Guimarei",
+    "country": "PT"
+  },
+  {
+    "name": "Guimar\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Guif\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Guetim",
+    "country": "PT"
+  },
+  {
+    "name": "Guardizela",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito da Guarda",
+    "country": "PT"
+  },
+  {
+    "name": "Guarda",
+    "country": "PT"
+  },
+  {
+    "name": "Guarda",
+    "country": "PT"
+  },
+  {
+    "name": "Grimancelos",
+    "country": "PT"
+  },
+  {
+    "name": "Grij\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Gravelos",
+    "country": "PT"
+  },
+  {
+    "name": "Gravateira",
+    "country": "PT"
+  },
+  {
+    "name": "Granja Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Granjal",
+    "country": "PT"
+  },
+  {
+    "name": "Granja do Ulmeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Granja de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Granja",
+    "country": "PT"
+  },
+  {
+    "name": "Granja",
+    "country": "PT"
+  },
+  {
+    "name": "Granja",
+    "country": "PT"
+  },
+  {
+    "name": "Gove",
+    "country": "PT"
+  },
+  {
+    "name": "Gouveias",
+    "country": "PT"
+  },
+  {
+    "name": "Gouveia",
+    "country": "PT"
+  },
+  {
+    "name": "Gondoriz",
+    "country": "PT"
+  },
+  {
+    "name": "Gondomar",
+    "country": "PT"
+  },
+  {
+    "name": "Gondim",
+    "country": "PT"
+  },
+  {
+    "name": "Gon\u00e7alo",
+    "country": "PT"
+  },
+  {
+    "name": "Godinho",
+    "country": "PT"
+  },
+  {
+    "name": "Godim",
+    "country": "PT"
+  },
+  {
+    "name": "Germil",
+    "country": "PT"
+  },
+  {
+    "name": "Gemunde",
+    "country": "PT"
+  },
+  {
+    "name": "Gat\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Gat\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Gateira",
+    "country": "PT"
+  },
+  {
+    "name": "Gandra",
+    "country": "PT"
+  },
+  {
+    "name": "Gandarela",
+    "country": "PT"
+  },
+  {
+    "name": "Galegos",
+    "country": "PT"
+  },
+  {
+    "name": "Gaj\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Gaiata",
+    "country": "PT"
+  },
+  {
+    "name": "Gagos",
+    "country": "PT"
+  },
+  {
+    "name": "Gafanha do Carmo",
+    "country": "PT"
+  },
+  {
+    "name": "Gafanha da Nazar\u00e9",
+    "country": "PT"
+  },
+  {
+    "name": "Gafanha da Encarna\u00e7\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Furadouro",
+    "country": "PT"
+  },
+  {
+    "name": "Funt\u00e3o de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Fundo de Vila",
+    "country": "PT"
+  },
+  {
+    "name": "Fundoais",
+    "country": "PT"
+  },
+  {
+    "name": "Fund\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Fund\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Freixo de Num\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Freixo de Espada \u00e0 Cinta",
+    "country": "PT"
+  },
+  {
+    "name": "Freixo",
+    "country": "PT"
+  },
+  {
+    "name": "Freixo",
+    "country": "PT"
+  },
+  {
+    "name": "Freixiel",
+    "country": "PT"
+  },
+  {
+    "name": "Freixieiro de Soutelo",
+    "country": "PT"
+  },
+  {
+    "name": "Freixieiro",
+    "country": "PT"
+  },
+  {
+    "name": "Freixedas",
+    "country": "PT"
+  },
+  {
+    "name": "Freixeda do Torr\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Freitas",
+    "country": "PT"
+  },
+  {
+    "name": "Freamunde",
+    "country": "PT"
+  },
+  {
+    "name": "Fraz\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Francelos",
+    "country": "PT"
+  },
+  {
+    "name": "Fradelos",
+    "country": "PT"
+  },
+  {
+    "name": "Foz do Sousa",
+    "country": "PT"
+  },
+  {
+    "name": "Foz do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Fornos",
+    "country": "PT"
+  },
+  {
+    "name": "Forninhos",
+    "country": "PT"
+  },
+  {
+    "name": "Fornelo",
+    "country": "PT"
+  },
+  {
+    "name": "Fontoura",
+    "country": "PT"
+  },
+  {
+    "name": "Fontinha",
+    "country": "PT"
+  },
+  {
+    "name": "Folhadosa",
+    "country": "PT"
+  },
+  {
+    "name": "Folgosinho",
+    "country": "PT"
+  },
+  {
+    "name": "Figueir\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Figueiredo",
+    "country": "PT"
+  },
+  {
+    "name": "Figueiredo",
+    "country": "PT"
+  },
+  {
+    "name": "Figueiredo",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira de Lorv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira da Foz",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira",
+    "country": "PT"
+  },
+  {
+    "name": "Fieis de Deus",
+    "country": "PT"
+  },
+  {
+    "name": "Fi\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreiros",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreiros",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreiros",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreira-a-Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreira",
+    "country": "PT"
+  },
+  {
+    "name": "Fern\u00e3o Joanes",
+    "country": "PT"
+  },
+  {
+    "name": "Fermentelos",
+    "country": "PT"
+  },
+  {
+    "name": "Felgueiras",
+    "country": "PT"
+  },
+  {
+    "name": "Feira do Eixo",
+    "country": "PT"
+  },
+  {
+    "name": "Feira",
+    "country": "PT"
+  },
+  {
+    "name": "Favaios",
+    "country": "PT"
+  },
+  {
+    "name": "F\u00e2nzeres",
+    "country": "PT"
+  },
+  {
+    "name": "Fajozes",
+    "country": "PT"
+  },
+  {
+    "name": "Fai\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Fail",
+    "country": "PT"
+  },
+  {
+    "name": "Faia",
+    "country": "PT"
+  },
+  {
+    "name": "Fafe",
+    "country": "PT"
+  },
+  {
+    "name": "Estela",
+    "country": "PT"
+  },
+  {
+    "name": "Esta\u00e7\u00e3o do Mogadouro",
+    "country": "PT"
+  },
+  {
+    "name": "Esposende",
+    "country": "PT"
+  },
+  {
+    "name": "Esposende",
+    "country": "PT"
+  },
+  {
+    "name": "Espinhosa",
+    "country": "PT"
+  },
+  {
+    "name": "Espinho",
+    "country": "PT"
+  },
+  {
+    "name": "Espinhel",
+    "country": "PT"
+  },
+  {
+    "name": "Espinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Espinca",
+    "country": "PT"
+  },
+  {
+    "name": "Esmoriz",
+    "country": "PT"
+  },
+  {
+    "name": "Esgueira",
+    "country": "PT"
+  },
+  {
+    "name": "Escoura",
+    "country": "PT"
+  },
+  {
+    "name": "Ermida",
+    "country": "PT"
+  },
+  {
+    "name": "Ermesinde",
+    "country": "PT"
+  },
+  {
+    "name": "Ereira",
+    "country": "PT"
+  },
+  {
+    "name": "Erada",
+    "country": "PT"
+  },
+  {
+    "name": "Enxames",
+    "country": "PT"
+  },
+  {
+    "name": "Eixo",
+    "country": "PT"
+  },
+  {
+    "name": "Eiriz",
+    "country": "PT"
+  },
+  {
+    "name": "Eiras",
+    "country": "PT"
+  },
+  {
+    "name": "Eiras",
+    "country": "PT"
+  },
+  {
+    "name": "Dornelas",
+    "country": "PT"
+  },
+  {
+    "name": "Doninhas",
+    "country": "PT"
+  },
+  {
+    "name": "Donim",
+    "country": "PT"
+  },
+  {
+    "name": "Dianteiro",
+    "country": "PT"
+  },
+  {
+    "name": "Destriz",
+    "country": "PT"
+  },
+  {
+    "name": "Degr\u00e1cias",
+    "country": "PT"
+  },
+  {
+    "name": "Darque",
+    "country": "PT"
+  },
+  {
+    "name": "Dalvares",
+    "country": "PT"
+  },
+  {
+    "name": "Custoias",
+    "country": "PT"
+  },
+  {
+    "name": "Cume",
+    "country": "PT"
+  },
+  {
+    "name": "Cucuj\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Cruz de Pau",
+    "country": "PT"
+  },
+  {
+    "name": "Cristelo",
+    "country": "PT"
+  },
+  {
+    "name": "Crestuma",
+    "country": "PT"
+  },
+  {
+    "name": "Creixomil",
+    "country": "PT"
+  },
+  {
+    "name": "Cov\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Covilh\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Covas",
+    "country": "PT"
+  },
+  {
+    "name": "Cova",
+    "country": "PT"
+  },
+  {
+    "name": "Couto",
+    "country": "PT"
+  },
+  {
+    "name": "Coutada",
+    "country": "PT"
+  },
+  {
+    "name": "Coucieiro",
+    "country": "PT"
+  },
+  {
+    "name": "Cota",
+    "country": "PT"
+  },
+  {
+    "name": "Costa",
+    "country": "PT"
+  },
+  {
+    "name": "Costa",
+    "country": "PT"
+  },
+  {
+    "name": "Corvo",
+    "country": "PT"
+  },
+  {
+    "name": "Corticeiro de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Cortega\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Cordinh\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Corados",
+    "country": "PT"
+  },
+  {
+    "name": "Constantim",
+    "country": "PT"
+  },
+  {
+    "name": "Condeixa-a-Velha",
+    "country": "PT"
+  },
+  {
+    "name": "Condeixa-a-Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Comenda",
+    "country": "PT"
+  },
+  {
+    "name": "Colmeal",
+    "country": "PT"
+  },
+  {
+    "name": "Coja",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Coimbra",
+    "country": "PT"
+  },
+  {
+    "name": "Coimbra",
+    "country": "PT"
+  },
+  {
+    "name": "Code\u00e7oso",
+    "country": "PT"
+  },
+  {
+    "name": "Cioga do Monte",
+    "country": "PT"
+  },
+  {
+    "name": "Cimo do Lugar",
+    "country": "PT"
+  },
+  {
+    "name": "Cimbres",
+    "country": "PT"
+  },
+  {
+    "name": "Cidoi",
+    "country": "PT"
+  },
+  {
+    "name": "Choca do Mar",
+    "country": "PT"
+  },
+  {
+    "name": "Chaves",
+    "country": "PT"
+  },
+  {
+    "name": "Chav\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Ch\u00e3s de Tavares",
+    "country": "PT"
+  },
+  {
+    "name": "Ch\u00e3o do Monte",
+    "country": "PT"
+  },
+  {
+    "name": "Cete",
+    "country": "PT"
+  },
+  {
+    "name": "Cest\u00e3is",
+    "country": "PT"
+  },
+  {
+    "name": "Cerva",
+    "country": "PT"
+  },
+  {
+    "name": "Cerdeira",
+    "country": "PT"
+  },
+  {
+    "name": "Cerdal",
+    "country": "PT"
+  },
+  {
+    "name": "Cepelos",
+    "country": "PT"
+  },
+  {
+    "name": "Cedovim",
+    "country": "PT"
+  },
+  {
+    "name": "Cedofeita",
+    "country": "PT"
+  },
+  {
+    "name": "Cavada",
+    "country": "PT"
+  },
+  {
+    "name": "Cavaco",
+    "country": "PT"
+  },
+  {
+    "name": "Catraia de S\u00e3o Paio",
+    "country": "PT"
+  },
+  {
+    "name": "Cativelos",
+    "country": "PT"
+  },
+  {
+    "name": "Castro Laboreiro",
+    "country": "PT"
+  },
+  {
+    "name": "Castro Daire",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo Viegas",
+    "country": "PT"
+  },
+  {
+    "name": "Castel\u00f5es de Cepeda",
+    "country": "PT"
+  },
+  {
+    "name": "Castel\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo de Paiva",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo Bom",
+    "country": "PT"
+  },
+  {
+    "name": "Castelejo",
+    "country": "PT"
+  },
+  {
+    "name": "Castedo",
+    "country": "PT"
+  },
+  {
+    "name": "Castanheiro do Sul",
+    "country": "PT"
+  },
+  {
+    "name": "Castanheira",
+    "country": "PT"
+  },
+  {
+    "name": "Castanheira",
+    "country": "PT"
+  },
+  {
+    "name": "Castain\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Casas Novas",
+    "country": "PT"
+  },
+  {
+    "name": "Casalmaninho",
+    "country": "PT"
+  },
+  {
+    "name": "Casalinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Casal do Pa\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Casal do Monte",
+    "country": "PT"
+  },
+  {
+    "name": "Casal Diz",
+    "country": "PT"
+  },
+  {
+    "name": "Casaldelo",
+    "country": "PT"
+  },
+  {
+    "name": "Casal de Ermio",
+    "country": "PT"
+  },
+  {
+    "name": "Casal das Brancas",
+    "country": "PT"
+  },
+  {
+    "name": "Casal da Fraga",
+    "country": "PT"
+  },
+  {
+    "name": "Casal da Fonte",
+    "country": "PT"
+  },
+  {
+    "name": "Casal Comba",
+    "country": "PT"
+  },
+  {
+    "name": "Casal",
+    "country": "PT"
+  },
+  {
+    "name": "Casal",
+    "country": "PT"
+  },
+  {
+    "name": "Casal",
+    "country": "PT"
+  },
+  {
+    "name": "Casal",
+    "country": "PT"
+  },
+  {
+    "name": "Casal",
+    "country": "PT"
+  },
+  {
+    "name": "Casais",
+    "country": "PT"
+  },
+  {
+    "name": "Casa do Ingl\u00eas",
+    "country": "PT"
+  },
+  {
+    "name": "Carv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Carvalhosa",
+    "country": "PT"
+  },
+  {
+    "name": "Carvalho",
+    "country": "PT"
+  },
+  {
+    "name": "Carvalhinho",
+    "country": "PT"
+  },
+  {
+    "name": "Carvalhal Redondo",
+    "country": "PT"
+  },
+  {
+    "name": "Carvalhais",
+    "country": "PT"
+  },
+  {
+    "name": "Carreira",
+    "country": "PT"
+  },
+  {
+    "name": "Carreira",
+    "country": "PT"
+  },
+  {
+    "name": "Carregosa",
+    "country": "PT"
+  },
+  {
+    "name": "Carregal do Sal",
+    "country": "PT"
+  },
+  {
+    "name": "Carregal",
+    "country": "PT"
+  },
+  {
+    "name": "Carrazedo de Montenegro",
+    "country": "PT"
+  },
+  {
+    "name": "Carrapichana",
+    "country": "PT"
+  },
+  {
+    "name": "Carneiro",
+    "country": "PT"
+  },
+  {
+    "name": "Carl\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Caria",
+    "country": "PT"
+  },
+  {
+    "name": "Carapinhal",
+    "country": "PT"
+  },
+  {
+    "name": "Carapinha",
+    "country": "PT"
+  },
+  {
+    "name": "Carape\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Capinha",
+    "country": "PT"
+  },
+  {
+    "name": "Capela",
+    "country": "PT"
+  },
+  {
+    "name": "Caparrosa",
+    "country": "PT"
+  },
+  {
+    "name": "Cantanhede",
+    "country": "PT"
+  },
+  {
+    "name": "Canidelo",
+    "country": "PT"
+  },
+  {
+    "name": "Canhoso",
+    "country": "PT"
+  },
+  {
+    "name": "Canelas",
+    "country": "PT"
+  },
+  {
+    "name": "Canedo",
+    "country": "PT"
+  },
+  {
+    "name": "Canedinho",
+    "country": "PT"
+  },
+  {
+    "name": "Candoso",
+    "country": "PT"
+  },
+  {
+    "name": "Canas de Senhorim",
+    "country": "PT"
+  },
+  {
+    "name": "Canada",
+    "country": "PT"
+  },
+  {
+    "name": "Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Campia",
+    "country": "PT"
+  },
+  {
+    "name": "Cambeses",
+    "country": "PT"
+  },
+  {
+    "name": "Camarneira",
+    "country": "PT"
+  },
+  {
+    "name": "Calv\u00e1rio",
+    "country": "PT"
+  },
+  {
+    "name": "Calv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Calend\u00e1rio",
+    "country": "PT"
+  },
+  {
+    "name": "Caldelas",
+    "country": "PT"
+  },
+  {
+    "name": "Caldas de Vizela",
+    "country": "PT"
+  },
+  {
+    "name": "Caldas das Taipas",
+    "country": "PT"
+  },
+  {
+    "name": "Caldas da Sa\u00fade",
+    "country": "PT"
+  },
+  {
+    "name": "Cadav\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Cacia",
+    "country": "PT"
+  },
+  {
+    "name": "Cabriteira",
+    "country": "PT"
+  },
+  {
+    "name": "Cabril",
+    "country": "PT"
+  },
+  {
+    "name": "Cabe\u00e7o de Eiras",
+    "country": "PT"
+  },
+  {
+    "name": "Caban\u00f5es de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Cabanas de Viriato",
+    "country": "PT"
+  },
+  {
+    "name": "Cabanas",
+    "country": "PT"
+  },
+  {
+    "name": "Caba\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Bustelo do Caima",
+    "country": "PT"
+  },
+  {
+    "name": "Bustelo",
+    "country": "PT"
+  },
+  {
+    "name": "Burgonha",
+    "country": "PT"
+  },
+  {
+    "name": "Buj\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Buarcos",
+    "country": "PT"
+  },
+  {
+    "name": "Brunhos",
+    "country": "PT"
+  },
+  {
+    "name": "Brito",
+    "country": "PT"
+  },
+  {
+    "name": "Breia",
+    "country": "PT"
+  },
+  {
+    "name": "Bregieira",
+    "country": "PT"
+  },
+  {
+    "name": "Brasfemes",
+    "country": "PT"
+  },
+  {
+    "name": "Branca",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Bragan\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Bragan\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Braga",
+    "country": "PT"
+  },
+  {
+    "name": "Braga",
+    "country": "PT"
+  },
+  {
+    "name": "Bougado",
+    "country": "PT"
+  },
+  {
+    "name": "Borralheira",
+    "country": "PT"
+  },
+  {
+    "name": "Bornes",
+    "country": "PT"
+  },
+  {
+    "name": "Borda de \u00c1gua",
+    "country": "PT"
+  },
+  {
+    "name": "Bom Sucesso",
+    "country": "PT"
+  },
+  {
+    "name": "Bom Despacho",
+    "country": "PT"
+  },
+  {
+    "name": "Bolas",
+    "country": "PT"
+  },
+  {
+    "name": "Boim",
+    "country": "PT"
+  },
+  {
+    "name": "Boidobra",
+    "country": "PT"
+  },
+  {
+    "name": "Boelhe",
+    "country": "PT"
+  },
+  {
+    "name": "Boeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Boavista",
+    "country": "PT"
+  },
+  {
+    "name": "Boa Aldeia",
+    "country": "PT"
+  },
+  {
+    "name": "Bitar\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Bispeira",
+    "country": "PT"
+  },
+  {
+    "name": "Bismula",
+    "country": "PT"
+  },
+  {
+    "name": "Bicha Moura",
+    "country": "PT"
+  },
+  {
+    "name": "Bessada",
+    "country": "PT"
+  },
+  {
+    "name": "Bernardo",
+    "country": "PT"
+  },
+  {
+    "name": "Beiriz",
+    "country": "PT"
+  },
+  {
+    "name": "Beij\u00f3s",
+    "country": "PT"
+  },
+  {
+    "name": "Beduido",
+    "country": "PT"
+  },
+  {
+    "name": "Beco",
+    "country": "PT"
+  },
+  {
+    "name": "Barrosas",
+    "country": "PT"
+  },
+  {
+    "name": "Barreiro de Besteiros",
+    "country": "PT"
+  },
+  {
+    "name": "Barreira",
+    "country": "PT"
+  },
+  {
+    "name": "Barcou\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Barcos",
+    "country": "PT"
+  },
+  {
+    "name": "Barco",
+    "country": "PT"
+  },
+  {
+    "name": "Barcelos",
+    "country": "PT"
+  },
+  {
+    "name": "Barca",
+    "country": "PT"
+  },
+  {
+    "name": "Bandeira",
+    "country": "PT"
+  },
+  {
+    "name": "Baltar",
+    "country": "PT"
+  },
+  {
+    "name": "Bairro",
+    "country": "PT"
+  },
+  {
+    "name": "Baguim do Monte",
+    "country": "PT"
+  },
+  {
+    "name": "Bagueixe",
+    "country": "PT"
+  },
+  {
+    "name": "Azenha Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Azenha",
+    "country": "PT"
+  },
+  {
+    "name": "Azenha",
+    "country": "PT"
+  },
+  {
+    "name": "Azenha",
+    "country": "PT"
+  },
+  {
+    "name": "Avintes",
+    "country": "PT"
+  },
+  {
+    "name": "Avidos",
+    "country": "PT"
+  },
+  {
+    "name": "Aves",
+    "country": "PT"
+  },
+  {
+    "name": "Aver-o-Mar",
+    "country": "PT"
+  },
+  {
+    "name": "Aveloso",
+    "country": "PT"
+  },
+  {
+    "name": "Avel\u00e3s de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Avel\u00e3s de Caminho",
+    "country": "PT"
+  },
+  {
+    "name": "Distrito de Aveiro",
+    "country": "PT"
+  },
+  {
+    "name": "Aveiro",
+    "country": "PT"
+  },
+  {
+    "name": "Avanca",
+    "country": "PT"
+  },
+  {
+    "name": "Atouguia",
+    "country": "PT"
+  },
+  {
+    "name": "Atalaia",
+    "country": "PT"
+  },
+  {
+    "name": "Atalaia",
+    "country": "PT"
+  },
+  {
+    "name": "Ata\u00edde",
+    "country": "PT"
+  },
+  {
+    "name": "Arzila",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1rvore",
+    "country": "PT"
+  },
+  {
+    "name": "Arrifana",
+    "country": "PT"
+  },
+  {
+    "name": "Arrifana",
+    "country": "PT"
+  },
+  {
+    "name": "Arreigada",
+    "country": "PT"
+  },
+  {
+    "name": "Arrega\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Ar\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Arnoia",
+    "country": "PT"
+  },
+  {
+    "name": "Armil",
+    "country": "PT"
+  },
+  {
+    "name": "Argoncilhe",
+    "country": "PT"
+  },
+  {
+    "name": "Arganil",
+    "country": "PT"
+  },
+  {
+    "name": "Arga de S\u00e3o Jo\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Areosa",
+    "country": "PT"
+  },
+  {
+    "name": "Arentim",
+    "country": "PT"
+  },
+  {
+    "name": "Areia",
+    "country": "PT"
+  },
+  {
+    "name": "Arcozelo das Maias",
+    "country": "PT"
+  },
+  {
+    "name": "Arcozelo",
+    "country": "PT"
+  },
+  {
+    "name": "Arcoss\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Arcos",
+    "country": "PT"
+  },
+  {
+    "name": "Arca",
+    "country": "PT"
+  },
+  {
+    "name": "Arazede",
+    "country": "PT"
+  },
+  {
+    "name": "Aranhas",
+    "country": "PT"
+  },
+  {
+    "name": "Aradas",
+    "country": "PT"
+  },
+  {
+    "name": "Ap\u00falia",
+    "country": "PT"
+  },
+  {
+    "name": "Antuzede",
+    "country": "PT"
+  },
+  {
+    "name": "Antu\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Antes",
+    "country": "PT"
+  },
+  {
+    "name": "Antas",
+    "country": "PT"
+  },
+  {
+    "name": "Antanhol",
+    "country": "PT"
+  },
+  {
+    "name": "Anta",
+    "country": "PT"
+  },
+  {
+    "name": "Angeja",
+    "country": "PT"
+  },
+  {
+    "name": "Anceriz",
+    "country": "PT"
+  },
+  {
+    "name": "An\u00e7\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Anadia",
+    "country": "PT"
+  },
+  {
+    "name": "Amoreira da G\u00e2ndara",
+    "country": "PT"
+  },
+  {
+    "name": "Amoreira",
+    "country": "PT"
+  },
+  {
+    "name": "Amial",
+    "country": "PT"
+  },
+  {
+    "name": "Ameal",
+    "country": "PT"
+  },
+  {
+    "name": "Amares",
+    "country": "PT"
+  },
+  {
+    "name": "Amarelhe",
+    "country": "PT"
+  },
+  {
+    "name": "Amarante",
+    "country": "PT"
+  },
+  {
+    "name": "Alvares",
+    "country": "PT"
+  },
+  {
+    "name": "Alvarenga",
+    "country": "PT"
+  },
+  {
+    "name": "Alvadia",
+    "country": "PT"
+  },
+  {
+    "name": "Alva\u00e7\u00f5es do Corgo",
+    "country": "PT"
+  },
+  {
+    "name": "Alufinha",
+    "country": "PT"
+  },
+  {
+    "name": "Alqueid\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Alqueid\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Alpedrinha",
+    "country": "PT"
+  },
+  {
+    "name": "Almendra",
+    "country": "PT"
+  },
+  {
+    "name": "Alhadas",
+    "country": "PT"
+  },
+  {
+    "name": "Alfena",
+    "country": "PT"
+  },
+  {
+    "name": "Alfarelos",
+    "country": "PT"
+  },
+  {
+    "name": "Alfarela",
+    "country": "PT"
+  },
+  {
+    "name": "Aldriz",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeias",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia Formosa",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia do Souto",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia de Santo Ant\u00f3nio",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia de Santa Margarida",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia de Joanes",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia das Dez",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia da Ponte",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia",
+    "country": "PT"
+  },
+  {
+    "name": "Alcaria",
+    "country": "PT"
+  },
+  {
+    "name": "Alcaide",
+    "country": "PT"
+  },
+  {
+    "name": "Alcafache",
+    "country": "PT"
+  },
+  {
+    "name": "Albergaria-a-Velha",
+    "country": "PT"
+  },
+  {
+    "name": "Air\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Aguim",
+    "country": "PT"
+  },
+  {
+    "name": "Aguiar de Sousa",
+    "country": "PT"
+  },
+  {
+    "name": "Agueiro de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1gueda",
+    "country": "PT"
+  },
+  {
+    "name": "Agu\u00e7adoura",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1guas Santas",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1guas Boas",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1gua Longa",
+    "country": "PT"
+  },
+  {
+    "name": "Aguada de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Agriboa",
+    "country": "PT"
+  },
+  {
+    "name": "Agrelos",
+    "country": "PT"
+  },
+  {
+    "name": "Agras",
+    "country": "PT"
+  },
+  {
+    "name": "Agilde",
+    "country": "PT"
+  },
+  {
+    "name": "Afurada de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Adoufe",
+    "country": "PT"
+  },
+  {
+    "name": "Ad\u00e9mia de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Adega",
+    "country": "PT"
+  },
+  {
+    "name": "Ada\u00fafe",
+    "country": "PT"
+  },
+  {
+    "name": "Abrunheira",
+    "country": "PT"
+  },
+  {
+    "name": "Abraveses",
+    "country": "PT"
+  },
+  {
+    "name": "Aboim",
+    "country": "PT"
+  },
+  {
+    "name": "Aboadela",
+    "country": "PT"
+  },
+  {
+    "name": "Paraiso",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Franca do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Velas",
+    "country": "PT"
+  },
+  {
+    "name": "Valverde",
+    "country": "PT"
+  },
+  {
+    "name": "Terra Ch\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Senhora da Piedade",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Sebasti\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Roque do Pico",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Mateus",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Cruz das Flores",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Ana",
+    "country": "PT"
+  },
+  {
+    "name": "Rosto de C\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira Quente",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira Pequena",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Ramalho",
+    "country": "PT"
+  },
+  {
+    "name": "Rabo de Peixe",
+    "country": "PT"
+  },
+  {
+    "name": "Praia da Vit\u00f3ria",
+    "country": "PT"
+  },
+  {
+    "name": "Ponta Delgada",
+    "country": "PT"
+  },
+  {
+    "name": "Ponta",
+    "country": "PT"
+  },
+  {
+    "name": "Matriz",
+    "country": "PT"
+  },
+  {
+    "name": "Madalena",
+    "country": "PT"
+  },
+  {
+    "name": "Lajido do Meio",
+    "country": "PT"
+  },
+  {
+    "name": "Lajes",
+    "country": "PT"
+  },
+  {
+    "name": "Lagoa",
+    "country": "PT"
+  },
+  {
+    "name": "Horta",
+    "country": "PT"
+  },
+  {
+    "name": "Gl\u00f3ria",
+    "country": "PT"
+  },
+  {
+    "name": "Furnas",
+    "country": "PT"
+  },
+  {
+    "name": "Faj\u00e3 de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Espig\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Vila do Corvo",
+    "country": "PT"
+  },
+  {
+    "name": "Cais do Pico",
+    "country": "PT"
+  },
+  {
+    "name": "Boa Vista",
+    "country": "PT"
+  },
+  {
+    "name": "Biscoitos",
+    "country": "PT"
+  },
+  {
+    "name": "Bel\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Arrifes",
+    "country": "PT"
+  },
+  {
+    "name": "Arrife",
+    "country": "PT"
+  },
+  {
+    "name": "Angra do Hero\u00edsmo",
+    "country": "PT"
+  },
+  {
+    "name": "Achada",
+    "country": "PT"
+  },
+  {
+    "name": "Azores",
+    "country": "PT"
+  },
+  {
+    "name": "Lisbon",
+    "country": "PT"
+  },
+  {
+    "name": "Porto",
+    "country": "PT"
+  },
+  {
+    "name": "Vilamoura",
+    "country": "PT"
+  },
+  {
+    "name": "Valenza",
+    "country": "PT"
+  },
+  {
+    "name": "Chiado",
+    "country": "PT"
+  },
+  {
+    "name": "Queijas",
+    "country": "PT"
+  },
+  {
+    "name": "Zambujeira do Mar",
+    "country": "PT"
+  },
+  {
+    "name": "Loures",
+    "country": "PT"
+  },
+  {
+    "name": "Loures",
+    "country": "PT"
+  },
+  {
+    "name": "Marv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Salvador da Aramenha",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Ant\u00f3nio das Areias",
+    "country": "PT"
+  },
+  {
+    "name": "Portalegre",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Louren\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Fortios",
+    "country": "PT"
+  },
+  {
+    "name": "Urra",
+    "country": "PT"
+  },
+  {
+    "name": "G\u00e1fete",
+    "country": "PT"
+  },
+  {
+    "name": "Monte da Pedra",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia da Mata",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte de Sor",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte de Sor",
+    "country": "PT"
+  },
+  {
+    "name": "Tramaga",
+    "country": "PT"
+  },
+  {
+    "name": "Galveias",
+    "country": "PT"
+  },
+  {
+    "name": "Montargil",
+    "country": "PT"
+  },
+  {
+    "name": "Alter do Ch\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Alter do Ch\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Seda",
+    "country": "PT"
+  },
+  {
+    "name": "Cabe\u00e7o de Vide",
+    "country": "PT"
+  },
+  {
+    "name": "Monforte",
+    "country": "PT"
+  },
+  {
+    "name": "Assumar",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Maria de Bel\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Sebasti\u00e3o da Pedreira",
+    "country": "PT"
+  },
+  {
+    "name": "Carregal do Sal",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira do Conde",
+    "country": "PT"
+  },
+  {
+    "name": "Costa da Caparica",
+    "country": "PT"
+  },
+  {
+    "name": "Vila",
+    "country": "PT"
+  },
+  {
+    "name": "Seixal",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1gueda",
+    "country": "PT"
+  },
+  {
+    "name": "Albergaria-A-Velha",
+    "country": "PT"
+  },
+  {
+    "name": "Anadia",
+    "country": "PT"
+  },
+  {
+    "name": "Arouca",
+    "country": "PT"
+  },
+  {
+    "name": "Aveiro",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo de Paiva",
+    "country": "PT"
+  },
+  {
+    "name": "Espinho",
+    "country": "PT"
+  },
+  {
+    "name": "Estarreja",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Maria da Feira",
+    "country": "PT"
+  },
+  {
+    "name": "\u00cdlhavo",
+    "country": "PT"
+  },
+  {
+    "name": "Mealhada",
+    "country": "PT"
+  },
+  {
+    "name": "Murtosa",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira de Azem\u00e9is",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira do Bairro",
+    "country": "PT"
+  },
+  {
+    "name": "Ovar",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o da Madeira",
+    "country": "PT"
+  },
+  {
+    "name": "Sever do Vouga",
+    "country": "PT"
+  },
+  {
+    "name": "Vagos",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Cambra",
+    "country": "PT"
+  },
+  {
+    "name": "Aljustrel",
+    "country": "PT"
+  },
+  {
+    "name": "Almod\u00f4var",
+    "country": "PT"
+  },
+  {
+    "name": "Alvito",
+    "country": "PT"
+  },
+  {
+    "name": "Beja",
+    "country": "PT"
+  },
+  {
+    "name": "Castro Verde",
+    "country": "PT"
+  },
+  {
+    "name": "Cuba",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreira do Alentejo",
+    "country": "PT"
+  },
+  {
+    "name": "M\u00e9rtola",
+    "country": "PT"
+  },
+  {
+    "name": "Moura",
+    "country": "PT"
+  },
+  {
+    "name": "Odemira",
+    "country": "PT"
+  },
+  {
+    "name": "Ourique",
+    "country": "PT"
+  },
+  {
+    "name": "Vidigueira",
+    "country": "PT"
+  },
+  {
+    "name": "Amares",
+    "country": "PT"
+  },
+  {
+    "name": "Barcelos",
+    "country": "PT"
+  },
+  {
+    "name": "Braga",
+    "country": "PT"
+  },
+  {
+    "name": "Cabeceiras de Basto",
+    "country": "PT"
+  },
+  {
+    "name": "Celorico de Basto",
+    "country": "PT"
+  },
+  {
+    "name": "Esposende",
+    "country": "PT"
+  },
+  {
+    "name": "Fafe",
+    "country": "PT"
+  },
+  {
+    "name": "Guimar\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Lanhoso",
+    "country": "PT"
+  },
+  {
+    "name": "Terras de Bouro",
+    "country": "PT"
+  },
+  {
+    "name": "Vieira do Minho",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Famalic\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Verde",
+    "country": "PT"
+  },
+  {
+    "name": "Vizela",
+    "country": "PT"
+  },
+  {
+    "name": "Alf\u00e2ndega da F\u00e9",
+    "country": "PT"
+  },
+  {
+    "name": "Bragan\u00e7a Municipality",
+    "country": "PT"
+  },
+  {
+    "name": "Freixo de Espada \u00c0 Cinta",
+    "country": "PT"
+  },
+  {
+    "name": "Macedo de Cavaleiros",
+    "country": "PT"
+  },
+  {
+    "name": "Miranda do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Mirandela",
+    "country": "PT"
+  },
+  {
+    "name": "Mogadouro",
+    "country": "PT"
+  },
+  {
+    "name": "Torre de Moncorvo",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Flor",
+    "country": "PT"
+  },
+  {
+    "name": "Vinhais",
+    "country": "PT"
+  },
+  {
+    "name": "Belmonte",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo Branco",
+    "country": "PT"
+  },
+  {
+    "name": "Covilh\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Idanha-A-Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Oleiros",
+    "country": "PT"
+  },
+  {
+    "name": "Penamacor",
+    "country": "PT"
+  },
+  {
+    "name": "Proen\u00e7a-A-Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Sert\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Vila de Rei",
+    "country": "PT"
+  },
+  {
+    "name": "Arganil",
+    "country": "PT"
+  },
+  {
+    "name": "Cantanhede",
+    "country": "PT"
+  },
+  {
+    "name": "Coimbra",
+    "country": "PT"
+  },
+  {
+    "name": "Condeixa-A-Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira da Foz",
+    "country": "PT"
+  },
+  {
+    "name": "G\u00f3is",
+    "country": "PT"
+  },
+  {
+    "name": "Lous\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Mira",
+    "country": "PT"
+  },
+  {
+    "name": "Miranda do Corvo",
+    "country": "PT"
+  },
+  {
+    "name": "Montemor-O-Velho",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira do Hospital",
+    "country": "PT"
+  },
+  {
+    "name": "Penacova",
+    "country": "PT"
+  },
+  {
+    "name": "Penela",
+    "country": "PT"
+  },
+  {
+    "name": "Soure",
+    "country": "PT"
+  },
+  {
+    "name": "T\u00e1bua",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Poiares",
+    "country": "PT"
+  },
+  {
+    "name": "Alandroal",
+    "country": "PT"
+  },
+  {
+    "name": "Borba",
+    "country": "PT"
+  },
+  {
+    "name": "Estremoz",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c9vora",
+    "country": "PT"
+  },
+  {
+    "name": "Montemor-O-Novo",
+    "country": "PT"
+  },
+  {
+    "name": "Mour\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Redondo",
+    "country": "PT"
+  },
+  {
+    "name": "Reguengos de Monsaraz",
+    "country": "PT"
+  },
+  {
+    "name": "Vendas Novas",
+    "country": "PT"
+  },
+  {
+    "name": "Viana do Alentejo",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Vi\u00e7osa",
+    "country": "PT"
+  },
+  {
+    "name": "Albufeira",
+    "country": "PT"
+  },
+  {
+    "name": "Alcoutim",
+    "country": "PT"
+  },
+  {
+    "name": "Castro Marim",
+    "country": "PT"
+  },
+  {
+    "name": "Faro",
+    "country": "PT"
+  },
+  {
+    "name": "Lagoa",
+    "country": "PT"
+  },
+  {
+    "name": "Lagos",
+    "country": "PT"
+  },
+  {
+    "name": "Loul\u00e9",
+    "country": "PT"
+  },
+  {
+    "name": "Olh\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Portim\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Silves",
+    "country": "PT"
+  },
+  {
+    "name": "Vila do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Real de Santo Ant\u00f3nio",
+    "country": "PT"
+  },
+  {
+    "name": "Aguiar da Beira",
+    "country": "PT"
+  },
+  {
+    "name": "Almeida",
+    "country": "PT"
+  },
+  {
+    "name": "Celorico da Beira",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira de Castelo Rodrigo",
+    "country": "PT"
+  },
+  {
+    "name": "Fornos de Algodres",
+    "country": "PT"
+  },
+  {
+    "name": "Guarda",
+    "country": "PT"
+  },
+  {
+    "name": "Manteigas",
+    "country": "PT"
+  },
+  {
+    "name": "M\u00eada",
+    "country": "PT"
+  },
+  {
+    "name": "Pinhel",
+    "country": "PT"
+  },
+  {
+    "name": "Sabugal",
+    "country": "PT"
+  },
+  {
+    "name": "Seia",
+    "country": "PT"
+  },
+  {
+    "name": "Trancoso",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Foz C\u00f4a",
+    "country": "PT"
+  },
+  {
+    "name": "Alcoba\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Alvai\u00e1zere",
+    "country": "PT"
+  },
+  {
+    "name": "Ansi\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Batalha",
+    "country": "PT"
+  },
+  {
+    "name": "Bombarral",
+    "country": "PT"
+  },
+  {
+    "name": "Caldas da Rainha",
+    "country": "PT"
+  },
+  {
+    "name": "Figueir\u00f3 Dos Vinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Leiria",
+    "country": "PT"
+  },
+  {
+    "name": "Marinha Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Nazar\u00e9",
+    "country": "PT"
+  },
+  {
+    "name": "\u00d3bidos",
+    "country": "PT"
+  },
+  {
+    "name": "Pedr\u00f3g\u00e3o Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Peniche",
+    "country": "PT"
+  },
+  {
+    "name": "Pombal",
+    "country": "PT"
+  },
+  {
+    "name": "Porto de M\u00f3s",
+    "country": "PT"
+  },
+  {
+    "name": "Alenquer",
+    "country": "PT"
+  },
+  {
+    "name": "Arruda Dos Vinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Azambuja",
+    "country": "PT"
+  },
+  {
+    "name": "Cadaval",
+    "country": "PT"
+  },
+  {
+    "name": "Cascais",
+    "country": "PT"
+  },
+  {
+    "name": "Lourinh\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Mafra",
+    "country": "PT"
+  },
+  {
+    "name": "Oeiras",
+    "country": "PT"
+  },
+  {
+    "name": "Sintra",
+    "country": "PT"
+  },
+  {
+    "name": "Sobral de Monte Agra\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Torres Vedras",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Franca de Xira",
+    "country": "PT"
+  },
+  {
+    "name": "Amadora",
+    "country": "PT"
+  },
+  {
+    "name": "Odivelas",
+    "country": "PT"
+  },
+  {
+    "name": "Avis",
+    "country": "PT"
+  },
+  {
+    "name": "Elvas",
+    "country": "PT"
+  },
+  {
+    "name": "Fronteira",
+    "country": "PT"
+  },
+  {
+    "name": "Sousel",
+    "country": "PT"
+  },
+  {
+    "name": "Amarante",
+    "country": "PT"
+  },
+  {
+    "name": "Bai\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Felgueiras",
+    "country": "PT"
+  },
+  {
+    "name": "Gondomar",
+    "country": "PT"
+  },
+  {
+    "name": "Lousada",
+    "country": "PT"
+  },
+  {
+    "name": "Maia",
+    "country": "PT"
+  },
+  {
+    "name": "Marco de Canaveses",
+    "country": "PT"
+  },
+  {
+    "name": "Matosinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7os de Ferreira",
+    "country": "PT"
+  },
+  {
+    "name": "Paredes",
+    "country": "PT"
+  },
+  {
+    "name": "Penafiel",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Varzim",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Tirso",
+    "country": "PT"
+  },
+  {
+    "name": "Valongo",
+    "country": "PT"
+  },
+  {
+    "name": "Vila do Conde",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Gaia",
+    "country": "PT"
+  },
+  {
+    "name": "Trofa",
+    "country": "PT"
+  },
+  {
+    "name": "Abrantes",
+    "country": "PT"
+  },
+  {
+    "name": "Alcanena",
+    "country": "PT"
+  },
+  {
+    "name": "Alpiar\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Benavente",
+    "country": "PT"
+  },
+  {
+    "name": "Cartaxo",
+    "country": "PT"
+  },
+  {
+    "name": "Chamusca",
+    "country": "PT"
+  },
+  {
+    "name": "Const\u00e2ncia",
+    "country": "PT"
+  },
+  {
+    "name": "Coruche",
+    "country": "PT"
+  },
+  {
+    "name": "Entroncamento",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreira do Z\u00eazere",
+    "country": "PT"
+  },
+  {
+    "name": "Ma\u00e7\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Maior",
+    "country": "PT"
+  },
+  {
+    "name": "Salvaterra de Magos",
+    "country": "PT"
+  },
+  {
+    "name": "Santar\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Sardoal",
+    "country": "PT"
+  },
+  {
+    "name": "Tomar",
+    "country": "PT"
+  },
+  {
+    "name": "Torres Novas",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova da Barquinha",
+    "country": "PT"
+  },
+  {
+    "name": "Our\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Alc\u00e1cer do Sal",
+    "country": "PT"
+  },
+  {
+    "name": "Alcochete",
+    "country": "PT"
+  },
+  {
+    "name": "Almada",
+    "country": "PT"
+  },
+  {
+    "name": "Barreiro",
+    "country": "PT"
+  },
+  {
+    "name": "Gr\u00e2ndola",
+    "country": "PT"
+  },
+  {
+    "name": "Moita",
+    "country": "PT"
+  },
+  {
+    "name": "Montijo",
+    "country": "PT"
+  },
+  {
+    "name": "Palmela",
+    "country": "PT"
+  },
+  {
+    "name": "Santiago do Cac\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Sesimbra",
+    "country": "PT"
+  },
+  {
+    "name": "Set\u00fabal",
+    "country": "PT"
+  },
+  {
+    "name": "Arcos de Valdevez",
+    "country": "PT"
+  },
+  {
+    "name": "Caminha",
+    "country": "PT"
+  },
+  {
+    "name": "Melga\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Mon\u00e7\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Paredes de Coura",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte da Barca",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte de Lima",
+    "country": "PT"
+  },
+  {
+    "name": "Valen\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Viana do Castelo",
+    "country": "PT"
+  },
+  {
+    "name": "Alij\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Boticas",
+    "country": "PT"
+  },
+  {
+    "name": "Chaves",
+    "country": "PT"
+  },
+  {
+    "name": "Mes\u00e3o Frio",
+    "country": "PT"
+  },
+  {
+    "name": "Mondim de Basto",
+    "country": "PT"
+  },
+  {
+    "name": "Montalegre",
+    "country": "PT"
+  },
+  {
+    "name": "Mur\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Peso da R\u00e9gua",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira de Pena",
+    "country": "PT"
+  },
+  {
+    "name": "Sabrosa",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Marta de Penagui\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Valpa\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Pouca de Aguiar",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Real",
+    "country": "PT"
+  },
+  {
+    "name": "Armamar",
+    "country": "PT"
+  },
+  {
+    "name": "Castro Daire",
+    "country": "PT"
+  },
+  {
+    "name": "Cinf\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Lamego",
+    "country": "PT"
+  },
+  {
+    "name": "Mangualde",
+    "country": "PT"
+  },
+  {
+    "name": "Moimenta da Beira",
+    "country": "PT"
+  },
+  {
+    "name": "Mort\u00e1gua",
+    "country": "PT"
+  },
+  {
+    "name": "Nelas",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira de Frades",
+    "country": "PT"
+  },
+  {
+    "name": "Penalva do Castelo",
+    "country": "PT"
+  },
+  {
+    "name": "Penedono",
+    "country": "PT"
+  },
+  {
+    "name": "Resende",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Comba D\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o da Pesqueira",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro do Sul",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e1t\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Sernancelhe",
+    "country": "PT"
+  },
+  {
+    "name": "Tabua\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Tarouca",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Paiva",
+    "country": "PT"
+  },
+  {
+    "name": "Viseu",
+    "country": "PT"
+  },
+  {
+    "name": "Vouzela",
+    "country": "PT"
+  },
+  {
+    "name": "Calheta",
+    "country": "PT"
+  },
+  {
+    "name": "C\u00e2mara de Lobos",
+    "country": "PT"
+  },
+  {
+    "name": "Machico",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "PT"
+  },
+  {
+    "name": "Santana",
+    "country": "PT"
+  },
+  {
+    "name": "Porto Santo",
+    "country": "PT"
+  },
+  {
+    "name": "Vila do Porto",
+    "country": "PT"
+  },
+  {
+    "name": "Ponta Delgada",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Franca do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Angra do Hero\u00edsmo",
+    "country": "PT"
+  },
+  {
+    "name": "Praia da Vit\u00f3ria",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Cruz da Graciosa",
+    "country": "PT"
+  },
+  {
+    "name": "Velas",
+    "country": "PT"
+  },
+  {
+    "name": "Madalena",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Roque do Pico",
+    "country": "PT"
+  },
+  {
+    "name": "Horta",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1gueda",
+    "country": "PT"
+  },
+  {
+    "name": "Espinhel",
+    "country": "PT"
+  },
+  {
+    "name": "Fermentelos",
+    "country": "PT"
+  },
+  {
+    "name": "Alquerubim",
+    "country": "PT"
+  },
+  {
+    "name": "Angeja",
+    "country": "PT"
+  },
+  {
+    "name": "Branca",
+    "country": "PT"
+  },
+  {
+    "name": "Frossos",
+    "country": "PT"
+  },
+  {
+    "name": "Arcos",
+    "country": "PT"
+  },
+  {
+    "name": "Mogofores",
+    "country": "PT"
+  },
+  {
+    "name": "Sangalhos",
+    "country": "PT"
+  },
+  {
+    "name": "Tamengos",
+    "country": "PT"
+  },
+  {
+    "name": "Aguim",
+    "country": "PT"
+  },
+  {
+    "name": "Fermedo",
+    "country": "PT"
+  },
+  {
+    "name": "Mansores",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Eul\u00e1lia",
+    "country": "PT"
+  },
+  {
+    "name": "Aradas",
+    "country": "PT"
+  },
+  {
+    "name": "Cacia",
+    "country": "PT"
+  },
+  {
+    "name": "Eixo",
+    "country": "PT"
+  },
+  {
+    "name": "Esgueira",
+    "country": "PT"
+  },
+  {
+    "name": "Gl\u00f3ria",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveirinha",
+    "country": "PT"
+  },
+  {
+    "name": "Requeixo",
+    "country": "PT"
+  },
+  {
+    "name": "Vera Cruz",
+    "country": "PT"
+  },
+  {
+    "name": "Fornos",
+    "country": "PT"
+  },
+  {
+    "name": "Pedorido",
+    "country": "PT"
+  },
+  {
+    "name": "Guetim",
+    "country": "PT"
+  },
+  {
+    "name": "Paramos",
+    "country": "PT"
+  },
+  {
+    "name": "Silvalde",
+    "country": "PT"
+  },
+  {
+    "name": "Avanca",
+    "country": "PT"
+  },
+  {
+    "name": "Bedu\u00eddo",
+    "country": "PT"
+  },
+  {
+    "name": "Fermel\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Pardilh\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Salreu",
+    "country": "PT"
+  },
+  {
+    "name": "Argoncilhe",
+    "country": "PT"
+  },
+  {
+    "name": "Arrifana",
+    "country": "PT"
+  },
+  {
+    "name": "Escap\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Feira",
+    "country": "PT"
+  },
+  {
+    "name": "Fi\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Fornos",
+    "country": "PT"
+  },
+  {
+    "name": "Gi\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Lob\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Lourosa",
+    "country": "PT"
+  },
+  {
+    "name": "Pigeiros",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Me\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Souto",
+    "country": "PT"
+  },
+  {
+    "name": "Vale",
+    "country": "PT"
+  },
+  {
+    "name": "\u00cdlhavo (S\u00e3o Salvador)",
+    "country": "PT"
+  },
+  {
+    "name": "Antes",
+    "country": "PT"
+  },
+  {
+    "name": "Barcou\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Casal Comba",
+    "country": "PT"
+  },
+  {
+    "name": "Luso",
+    "country": "PT"
+  },
+  {
+    "name": "Pampilhosa",
+    "country": "PT"
+  },
+  {
+    "name": "Bunheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Torreira",
+    "country": "PT"
+  },
+  {
+    "name": "Faj\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Madail",
+    "country": "PT"
+  },
+  {
+    "name": "Ossela",
+    "country": "PT"
+  },
+  {
+    "name": "Palmaz",
+    "country": "PT"
+  },
+  {
+    "name": "Ul",
+    "country": "PT"
+  },
+  {
+    "name": "Bustos",
+    "country": "PT"
+  },
+  {
+    "name": "Mamarrosa",
+    "country": "PT"
+  },
+  {
+    "name": "Oi\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Palha\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Cortega\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Maceda",
+    "country": "PT"
+  },
+  {
+    "name": "Ovar",
+    "country": "PT"
+  },
+  {
+    "name": "V\u00e1lega",
+    "country": "PT"
+  },
+  {
+    "name": "Paradela",
+    "country": "PT"
+  },
+  {
+    "name": "Talhadas",
+    "country": "PT"
+  },
+  {
+    "name": "Calv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Ouca",
+    "country": "PT"
+  },
+  {
+    "name": "Sosa",
+    "country": "PT"
+  },
+  {
+    "name": "Gomes Aires",
+    "country": "PT"
+  },
+  {
+    "name": "Baleiz\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Beringel",
+    "country": "PT"
+  },
+  {
+    "name": "Trigaches",
+    "country": "PT"
+  },
+  {
+    "name": "Cuba",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Alva",
+    "country": "PT"
+  },
+  {
+    "name": "Alfund\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira Dos Cavaleiros",
+    "country": "PT"
+  },
+  {
+    "name": "Amareleja",
+    "country": "PT"
+  },
+  {
+    "name": "Rel\u00edquias",
+    "country": "PT"
+  },
+  {
+    "name": "Saboia",
+    "country": "PT"
+  },
+  {
+    "name": "Odemira (S\u00e3o Salvador)",
+    "country": "PT"
+  },
+  {
+    "name": "Garv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Pan\u00f3ias",
+    "country": "PT"
+  },
+  {
+    "name": "Selmes",
+    "country": "PT"
+  },
+  {
+    "name": "Amares",
+    "country": "PT"
+  },
+  {
+    "name": "Caldelas",
+    "country": "PT"
+  },
+  {
+    "name": "Dornelas",
+    "country": "PT"
+  },
+  {
+    "name": "Figueiredo",
+    "country": "PT"
+  },
+  {
+    "name": "Rendufe",
+    "country": "PT"
+  },
+  {
+    "name": "Aldreu",
+    "country": "PT"
+  },
+  {
+    "name": "Arcozelo",
+    "country": "PT"
+  },
+  {
+    "name": "Barcelinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Cambeses",
+    "country": "PT"
+  },
+  {
+    "name": "Carape\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Chav\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "G\u00f3ios",
+    "country": "PT"
+  },
+  {
+    "name": "Grimancelos",
+    "country": "PT"
+  },
+  {
+    "name": "Lij\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Manhente",
+    "country": "PT"
+  },
+  {
+    "name": "Minhot\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Negreiros",
+    "country": "PT"
+  },
+  {
+    "name": "Palme",
+    "country": "PT"
+  },
+  {
+    "name": "Pousa",
+    "country": "PT"
+  },
+  {
+    "name": "Sequeade",
+    "country": "PT"
+  },
+  {
+    "name": "Silveiros",
+    "country": "PT"
+  },
+  {
+    "name": "Viatodos",
+    "country": "PT"
+  },
+  {
+    "name": "Ada\u00fafe",
+    "country": "PT"
+  },
+  {
+    "name": "Arentim",
+    "country": "PT"
+  },
+  {
+    "name": "Guisande",
+    "country": "PT"
+  },
+  {
+    "name": "Braga (Maximinos)",
+    "country": "PT"
+  },
+  {
+    "name": "Nogueir\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Palmeira",
+    "country": "PT"
+  },
+  {
+    "name": "Tebosa",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nune",
+    "country": "PT"
+  },
+  {
+    "name": "Agilde",
+    "country": "PT"
+  },
+  {
+    "name": "Arn\u00f3ia",
+    "country": "PT"
+  },
+  {
+    "name": "Ca\u00e7arilhe",
+    "country": "PT"
+  },
+  {
+    "name": "Code\u00e7oso",
+    "country": "PT"
+  },
+  {
+    "name": "Gagos",
+    "country": "PT"
+  },
+  {
+    "name": "Ourilhe",
+    "country": "PT"
+  },
+  {
+    "name": "Rego",
+    "country": "PT"
+  },
+  {
+    "name": "Basto (S\u00e3o Clemente)",
+    "country": "PT"
+  },
+  {
+    "name": "Esposende",
+    "country": "PT"
+  },
+  {
+    "name": "Gandra",
+    "country": "PT"
+  },
+  {
+    "name": "Marinhas",
+    "country": "PT"
+  },
+  {
+    "name": "Armil",
+    "country": "PT"
+  },
+  {
+    "name": "Fafe",
+    "country": "PT"
+  },
+  {
+    "name": "Freitas",
+    "country": "PT"
+  },
+  {
+    "name": "Quinch\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeiros",
+    "country": "PT"
+  },
+  {
+    "name": "Silvares (S\u00e3o Clemente)",
+    "country": "PT"
+  },
+  {
+    "name": "Ar\u00f5es (S\u00e3o Rom\u00e3o)",
+    "country": "PT"
+  },
+  {
+    "name": "Brito",
+    "country": "PT"
+  },
+  {
+    "name": "Caldelas",
+    "country": "PT"
+  },
+  {
+    "name": "Creixomil",
+    "country": "PT"
+  },
+  {
+    "name": "Donim",
+    "country": "PT"
+  },
+  {
+    "name": "Guardizela",
+    "country": "PT"
+  },
+  {
+    "name": "Mascotelos",
+    "country": "PT"
+  },
+  {
+    "name": "Mes\u00e3o Frio",
+    "country": "PT"
+  },
+  {
+    "name": "Rendufe",
+    "country": "PT"
+  },
+  {
+    "name": "Ronfe",
+    "country": "PT"
+  },
+  {
+    "name": "Guimar\u00e3es (S\u00e3o Paio)",
+    "country": "PT"
+  },
+  {
+    "name": "Serzedelo",
+    "country": "PT"
+  },
+  {
+    "name": "Serzedo",
+    "country": "PT"
+  },
+  {
+    "name": "Ta\u00edde",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarinho das Cambas",
+    "country": "PT"
+  },
+  {
+    "name": "Gondoriz",
+    "country": "PT"
+  },
+  {
+    "name": "Moimenta",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Caldo",
+    "country": "PT"
+  },
+  {
+    "name": "Tabua\u00e7as",
+    "country": "PT"
+  },
+  {
+    "name": "Avidos",
+    "country": "PT"
+  },
+  {
+    "name": "Brufe",
+    "country": "PT"
+  },
+  {
+    "name": "Calend\u00e1rio",
+    "country": "PT"
+  },
+  {
+    "name": "Carreira",
+    "country": "PT"
+  },
+  {
+    "name": "Caval\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Cruz",
+    "country": "PT"
+  },
+  {
+    "name": "Del\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Fradelos",
+    "country": "PT"
+  },
+  {
+    "name": "Gondifelos",
+    "country": "PT"
+  },
+  {
+    "name": "Lagoa",
+    "country": "PT"
+  },
+  {
+    "name": "Landim",
+    "country": "PT"
+  },
+  {
+    "name": "Lemenhe",
+    "country": "PT"
+  },
+  {
+    "name": "Louro",
+    "country": "PT"
+  },
+  {
+    "name": "Lousado",
+    "country": "PT"
+  },
+  {
+    "name": "Mogege",
+    "country": "PT"
+  },
+  {
+    "name": "Nine",
+    "country": "PT"
+  },
+  {
+    "name": "Pedome",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeir\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Cerv\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Coucieiro",
+    "country": "PT"
+  },
+  {
+    "name": "Marrancos",
+    "country": "PT"
+  },
+  {
+    "name": "Turiz",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Verde",
+    "country": "PT"
+  },
+  {
+    "name": "Vizela (S\u00e3o Paio)",
+    "country": "PT"
+  },
+  {
+    "name": "Sambade",
+    "country": "PT"
+  },
+  {
+    "name": "Ba\u00e7al",
+    "country": "PT"
+  },
+  {
+    "name": "Izeda",
+    "country": "PT"
+  },
+  {
+    "name": "Rabal",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Frio",
+    "country": "PT"
+  },
+  {
+    "name": "Bragan\u00e7a (S\u00e9)",
+    "country": "PT"
+  },
+  {
+    "name": "Bagueixe",
+    "country": "PT"
+  },
+  {
+    "name": "Mirandela",
+    "country": "PT"
+  },
+  {
+    "name": "Ma\u00e7ores",
+    "country": "PT"
+  },
+  {
+    "name": "Freixiel",
+    "country": "PT"
+  },
+  {
+    "name": "Lod\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Nabo",
+    "country": "PT"
+  },
+  {
+    "name": "Roios",
+    "country": "PT"
+  },
+  {
+    "name": "Sam\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Moimenta",
+    "country": "PT"
+  },
+  {
+    "name": "Nunes",
+    "country": "PT"
+  },
+  {
+    "name": "Vinhais",
+    "country": "PT"
+  },
+  {
+    "name": "Ma\u00e7ainhas",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo Branco",
+    "country": "PT"
+  },
+  {
+    "name": "Lardosa",
+    "country": "PT"
+  },
+  {
+    "name": "Retaxo",
+    "country": "PT"
+  },
+  {
+    "name": "Barco",
+    "country": "PT"
+  },
+  {
+    "name": "Boidobra",
+    "country": "PT"
+  },
+  {
+    "name": "Covilh\u00e3 (Concei\u00e7\u00e3o)",
+    "country": "PT"
+  },
+  {
+    "name": "Erada",
+    "country": "PT"
+  },
+  {
+    "name": "Orjais",
+    "country": "PT"
+  },
+  {
+    "name": "Ourondo",
+    "country": "PT"
+  },
+  {
+    "name": "Teixoso",
+    "country": "PT"
+  },
+  {
+    "name": "Coutada",
+    "country": "PT"
+  },
+  {
+    "name": "Canhoso",
+    "country": "PT"
+  },
+  {
+    "name": "Alcaide",
+    "country": "PT"
+  },
+  {
+    "name": "Alpedrinha",
+    "country": "PT"
+  },
+  {
+    "name": "Barroca",
+    "country": "PT"
+  },
+  {
+    "name": "Capinha",
+    "country": "PT"
+  },
+  {
+    "name": "Fund\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Lavacolhos",
+    "country": "PT"
+  },
+  {
+    "name": "Orca",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00earo Viseu",
+    "country": "PT"
+  },
+  {
+    "name": "Silvares",
+    "country": "PT"
+  },
+  {
+    "name": "Enxames",
+    "country": "PT"
+  },
+  {
+    "name": "Alcafozes",
+    "country": "PT"
+  },
+  {
+    "name": "Monfortinho",
+    "country": "PT"
+  },
+  {
+    "name": "Penha Garcia",
+    "country": "PT"
+  },
+  {
+    "name": "Segura",
+    "country": "PT"
+  },
+  {
+    "name": "Zebreira",
+    "country": "PT"
+  },
+  {
+    "name": "Oleiros",
+    "country": "PT"
+  },
+  {
+    "name": "Aranhas",
+    "country": "PT"
+  },
+  {
+    "name": "Penamacor",
+    "country": "PT"
+  },
+  {
+    "name": "Peral",
+    "country": "PT"
+  },
+  {
+    "name": "Sobreira Formosa",
+    "country": "PT"
+  },
+  {
+    "name": "Nesperal",
+    "country": "PT"
+  },
+  {
+    "name": "Pedr\u00f3g\u00e3o Pequeno",
+    "country": "PT"
+  },
+  {
+    "name": "Fundada",
+    "country": "PT"
+  },
+  {
+    "name": "Anceriz",
+    "country": "PT"
+  },
+  {
+    "name": "Arganil",
+    "country": "PT"
+  },
+  {
+    "name": "Coja",
+    "country": "PT"
+  },
+  {
+    "name": "Secarias",
+    "country": "PT"
+  },
+  {
+    "name": "Teixeira",
+    "country": "PT"
+  },
+  {
+    "name": "An\u00e7\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Bolho",
+    "country": "PT"
+  },
+  {
+    "name": "Cadima",
+    "country": "PT"
+  },
+  {
+    "name": "Cordinh\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Cov\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Febres",
+    "country": "PT"
+  },
+  {
+    "name": "Murtede",
+    "country": "PT"
+  },
+  {
+    "name": "Ourent\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Portunhos",
+    "country": "PT"
+  },
+  {
+    "name": "Tocha",
+    "country": "PT"
+  },
+  {
+    "name": "Camarneira",
+    "country": "PT"
+  },
+  {
+    "name": "Ameal",
+    "country": "PT"
+  },
+  {
+    "name": "Antanhol",
+    "country": "PT"
+  },
+  {
+    "name": "Antuzede",
+    "country": "PT"
+  },
+  {
+    "name": "Assafarge",
+    "country": "PT"
+  },
+  {
+    "name": "Brasfemes",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo Viegas",
+    "country": "PT"
+  },
+  {
+    "name": "Eiras",
+    "country": "PT"
+  },
+  {
+    "name": "Lamarosa",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Ant\u00f3nio Dos Olivais",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Silvestre",
+    "country": "PT"
+  },
+  {
+    "name": "Coimbra (S\u00e9 Nova)",
+    "country": "PT"
+  },
+  {
+    "name": "Souselas",
+    "country": "PT"
+  },
+  {
+    "name": "Taveiro",
+    "country": "PT"
+  },
+  {
+    "name": "Trouxemil",
+    "country": "PT"
+  },
+  {
+    "name": "Condeixa-A-Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Condeixa-A-Velha",
+    "country": "PT"
+  },
+  {
+    "name": "Ega",
+    "country": "PT"
+  },
+  {
+    "name": "Furadouro",
+    "country": "PT"
+  },
+  {
+    "name": "Zambujal",
+    "country": "PT"
+  },
+  {
+    "name": "Alhadas",
+    "country": "PT"
+  },
+  {
+    "name": "Alqueid\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Brenha",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreira-A-Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Lavos",
+    "country": "PT"
+  },
+  {
+    "name": "Pai\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Quiaios",
+    "country": "PT"
+  },
+  {
+    "name": "Marinha das Ondas",
+    "country": "PT"
+  },
+  {
+    "name": "Tavarede",
+    "country": "PT"
+  },
+  {
+    "name": "Bom Sucesso",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia das Dez",
+    "country": "PT"
+  },
+  {
+    "name": "Alvares",
+    "country": "PT"
+  },
+  {
+    "name": "Serpins",
+    "country": "PT"
+  },
+  {
+    "name": "G\u00e2ndaras",
+    "country": "PT"
+  },
+  {
+    "name": "Mira",
+    "country": "PT"
+  },
+  {
+    "name": "Semide",
+    "country": "PT"
+  },
+  {
+    "name": "Arazede",
+    "country": "PT"
+  },
+  {
+    "name": "Gat\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Liceia",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Var\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Tent\u00fagal",
+    "country": "PT"
+  },
+  {
+    "name": "Verride",
+    "country": "PT"
+  },
+  {
+    "name": "Ereira",
+    "country": "PT"
+  },
+  {
+    "name": "Lorv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Penacova",
+    "country": "PT"
+  },
+  {
+    "name": "Penela (S\u00e3o Miguel)",
+    "country": "PT"
+  },
+  {
+    "name": "Alfarelos",
+    "country": "PT"
+  },
+  {
+    "name": "Brunh\u00f3s",
+    "country": "PT"
+  },
+  {
+    "name": "Degracias",
+    "country": "PT"
+  },
+  {
+    "name": "Gesteira",
+    "country": "PT"
+  },
+  {
+    "name": "Pombalinho",
+    "country": "PT"
+  },
+  {
+    "name": "Samuel",
+    "country": "PT"
+  },
+  {
+    "name": "Soure",
+    "country": "PT"
+  },
+  {
+    "name": "Carapinha",
+    "country": "PT"
+  },
+  {
+    "name": "Mouronho",
+    "country": "PT"
+  },
+  {
+    "name": "Arrifana",
+    "country": "PT"
+  },
+  {
+    "name": "Orada",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c9vora Monte (Santa Maria)",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Man\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Cabrela",
+    "country": "PT"
+  },
+  {
+    "name": "Mour\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Redondo",
+    "country": "PT"
+  },
+  {
+    "name": "Campinho",
+    "country": "PT"
+  },
+  {
+    "name": "Vendas Novas",
+    "country": "PT"
+  },
+  {
+    "name": "Aguiar",
+    "country": "PT"
+  },
+  {
+    "name": "Bencatel",
+    "country": "PT"
+  },
+  {
+    "name": "Albufeira",
+    "country": "PT"
+  },
+  {
+    "name": "Guia",
+    "country": "PT"
+  },
+  {
+    "name": "Paderne",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreiras",
+    "country": "PT"
+  },
+  {
+    "name": "Martim Longo",
+    "country": "PT"
+  },
+  {
+    "name": "Castro Marim",
+    "country": "PT"
+  },
+  {
+    "name": "Altura",
+    "country": "PT"
+  },
+  {
+    "name": "Estoi",
+    "country": "PT"
+  },
+  {
+    "name": "Faro (S\u00e9)",
+    "country": "PT"
+  },
+  {
+    "name": "Montenegro",
+    "country": "PT"
+  },
+  {
+    "name": "Est\u00f4mbar",
+    "country": "PT"
+  },
+  {
+    "name": "Carvoeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Bensafrim",
+    "country": "PT"
+  },
+  {
+    "name": "Odi\u00e1xere",
+    "country": "PT"
+  },
+  {
+    "name": "Lagos (S\u00e3o Sebasti\u00e3o)",
+    "country": "PT"
+  },
+  {
+    "name": "Almancil",
+    "country": "PT"
+  },
+  {
+    "name": "Boliqueime",
+    "country": "PT"
+  },
+  {
+    "name": "Quarteira",
+    "country": "PT"
+  },
+  {
+    "name": "Queren\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Salir",
+    "country": "PT"
+  },
+  {
+    "name": "Loul\u00e9 (S\u00e3o Clemente)",
+    "country": "PT"
+  },
+  {
+    "name": "Loul\u00e9 (S\u00e3o Sebasti\u00e3o)",
+    "country": "PT"
+  },
+  {
+    "name": "Benafim",
+    "country": "PT"
+  },
+  {
+    "name": "Fuseta",
+    "country": "PT"
+  },
+  {
+    "name": "Moncarapacho",
+    "country": "PT"
+  },
+  {
+    "name": "Olh\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Pech\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Alvor",
+    "country": "PT"
+  },
+  {
+    "name": "Mexilhoeira Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Portim\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Alcantarilha",
+    "country": "PT"
+  },
+  {
+    "name": "Algoz",
+    "country": "PT"
+  },
+  {
+    "name": "Silves",
+    "country": "PT"
+  },
+  {
+    "name": "Budens",
+    "country": "PT"
+  },
+  {
+    "name": "Monte Gordo",
+    "country": "PT"
+  },
+  {
+    "name": "Forninhos",
+    "country": "PT"
+  },
+  {
+    "name": "Pinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Amoreira",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo Bom",
+    "country": "PT"
+  },
+  {
+    "name": "Freixo",
+    "country": "PT"
+  },
+  {
+    "name": "Miuzela",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar Formoso",
+    "country": "PT"
+  },
+  {
+    "name": "Carrapichana",
+    "country": "PT"
+  },
+  {
+    "name": "Prados",
+    "country": "PT"
+  },
+  {
+    "name": "Infias",
+    "country": "PT"
+  },
+  {
+    "name": "Muxagata",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeias",
+    "country": "PT"
+  },
+  {
+    "name": "Cativelos",
+    "country": "PT"
+  },
+  {
+    "name": "Folgosinho",
+    "country": "PT"
+  },
+  {
+    "name": "Nabais",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Torto",
+    "country": "PT"
+  },
+  {
+    "name": "Castanheira",
+    "country": "PT"
+  },
+  {
+    "name": "Faia",
+    "country": "PT"
+  },
+  {
+    "name": "Fern\u00e3o Joanes",
+    "country": "PT"
+  },
+  {
+    "name": "Gon\u00e7alo",
+    "country": "PT"
+  },
+  {
+    "name": "Marmeleiro",
+    "country": "PT"
+  },
+  {
+    "name": "Meios",
+    "country": "PT"
+  },
+  {
+    "name": "Ramela",
+    "country": "PT"
+  },
+  {
+    "name": "Guarda (S\u00e9)",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Soeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Manteigas (Santa Maria)",
+    "country": "PT"
+  },
+  {
+    "name": "Pai Penela",
+    "country": "PT"
+  },
+  {
+    "name": "Atalaia",
+    "country": "PT"
+  },
+  {
+    "name": "Freixedas",
+    "country": "PT"
+  },
+  {
+    "name": "Gouveia",
+    "country": "PT"
+  },
+  {
+    "name": "Pinhel",
+    "country": "PT"
+  },
+  {
+    "name": "Vascoveiro",
+    "country": "PT"
+  },
+  {
+    "name": "Bismula",
+    "country": "PT"
+  },
+  {
+    "name": "Rebolosa",
+    "country": "PT"
+  },
+  {
+    "name": "Sabugal",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boa",
+    "country": "PT"
+  },
+  {
+    "name": "Folhadosa",
+    "country": "PT"
+  },
+  {
+    "name": "Loriga",
+    "country": "PT"
+  },
+  {
+    "name": "Pinhan\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Sandomil",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Rom\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Seia",
+    "country": "PT"
+  },
+  {
+    "name": "Tourais",
+    "country": "PT"
+  },
+  {
+    "name": "Travancinha",
+    "country": "PT"
+  },
+  {
+    "name": "Valezim",
+    "country": "PT"
+  },
+  {
+    "name": "Granja",
+    "country": "PT"
+  },
+  {
+    "name": "Almendra",
+    "country": "PT"
+  },
+  {
+    "name": "Cedovim",
+    "country": "PT"
+  },
+  {
+    "name": "Cust\u00f3ias",
+    "country": "PT"
+  },
+  {
+    "name": "Num\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Alcoba\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Alfeizer\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Benedita",
+    "country": "PT"
+  },
+  {
+    "name": "Maiorga",
+    "country": "PT"
+  },
+  {
+    "name": "Pataias",
+    "country": "PT"
+  },
+  {
+    "name": "Turquel",
+    "country": "PT"
+  },
+  {
+    "name": "Vestiaria",
+    "country": "PT"
+  },
+  {
+    "name": "Vimeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Martingan\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Montes",
+    "country": "PT"
+  },
+  {
+    "name": "Alvai\u00e1zere",
+    "country": "PT"
+  },
+  {
+    "name": "Alvorge",
+    "country": "PT"
+  },
+  {
+    "name": "Batalha",
+    "country": "PT"
+  },
+  {
+    "name": "Golpilheira",
+    "country": "PT"
+  },
+  {
+    "name": "Bombarral",
+    "country": "PT"
+  },
+  {
+    "name": "Carvalhal",
+    "country": "PT"
+  },
+  {
+    "name": "Roli\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Vale Covo",
+    "country": "PT"
+  },
+  {
+    "name": "A Dos Francos",
+    "country": "PT"
+  },
+  {
+    "name": "Alvorninha",
+    "country": "PT"
+  },
+  {
+    "name": "Landal",
+    "country": "PT"
+  },
+  {
+    "name": "Nadadouro",
+    "country": "PT"
+  },
+  {
+    "name": "Tornada",
+    "country": "PT"
+  },
+  {
+    "name": "Vidais",
+    "country": "PT"
+  },
+  {
+    "name": "Aguda",
+    "country": "PT"
+  },
+  {
+    "name": "Arega",
+    "country": "PT"
+  },
+  {
+    "name": "Figueir\u00f3 Dos Vinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Azoia",
+    "country": "PT"
+  },
+  {
+    "name": "Barosa",
+    "country": "PT"
+  },
+  {
+    "name": "Caranguejeira",
+    "country": "PT"
+  },
+  {
+    "name": "Carvide",
+    "country": "PT"
+  },
+  {
+    "name": "Coimbr\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Colmeias",
+    "country": "PT"
+  },
+  {
+    "name": "Leiria",
+    "country": "PT"
+  },
+  {
+    "name": "Maceira",
+    "country": "PT"
+  },
+  {
+    "name": "Marrazes",
+    "country": "PT"
+  },
+  {
+    "name": "Milagres",
+    "country": "PT"
+  },
+  {
+    "name": "Monte Real",
+    "country": "PT"
+  },
+  {
+    "name": "Monte Redondo",
+    "country": "PT"
+  },
+  {
+    "name": "Ortigosa",
+    "country": "PT"
+  },
+  {
+    "name": "Parceiros",
+    "country": "PT"
+  },
+  {
+    "name": "Pousos",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Euf\u00e9mia",
+    "country": "PT"
+  },
+  {
+    "name": "Marinha Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Nazar\u00e9",
+    "country": "PT"
+  },
+  {
+    "name": "Valado Dos Frades",
+    "country": "PT"
+  },
+  {
+    "name": "Olho Marinho",
+    "country": "PT"
+  },
+  {
+    "name": "Vau",
+    "country": "PT"
+  },
+  {
+    "name": "Usseira",
+    "country": "PT"
+  },
+  {
+    "name": "Gra\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Pedr\u00f3g\u00e3o Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Peniche (Concei\u00e7\u00e3o)",
+    "country": "PT"
+  },
+  {
+    "name": "Ferrel",
+    "country": "PT"
+  },
+  {
+    "name": "Abiul",
+    "country": "PT"
+  },
+  {
+    "name": "Albergaria Dos Doze",
+    "country": "PT"
+  },
+  {
+    "name": "Carri\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Louri\u00e7al",
+    "country": "PT"
+  },
+  {
+    "name": "Mata Mourisca",
+    "country": "PT"
+  },
+  {
+    "name": "Pelariga",
+    "country": "PT"
+  },
+  {
+    "name": "Pombal",
+    "country": "PT"
+  },
+  {
+    "name": "Redinha",
+    "country": "PT"
+  },
+  {
+    "name": "Salir de Matos",
+    "country": "PT"
+  },
+  {
+    "name": "Guia",
+    "country": "PT"
+  },
+  {
+    "name": "Alvados",
+    "country": "PT"
+  },
+  {
+    "name": "Arrimal",
+    "country": "PT"
+  },
+  {
+    "name": "Juncal",
+    "country": "PT"
+  },
+  {
+    "name": "Abrigada",
+    "country": "PT"
+  },
+  {
+    "name": "Olhalvo",
+    "country": "PT"
+  },
+  {
+    "name": "Ota",
+    "country": "PT"
+  },
+  {
+    "name": "Ventosa",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Verde Dos Francos",
+    "country": "PT"
+  },
+  {
+    "name": "Carregado",
+    "country": "PT"
+  },
+  {
+    "name": "Ribafria",
+    "country": "PT"
+  },
+  {
+    "name": "Arranh\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Arruda Dos Vinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Cardosas",
+    "country": "PT"
+  },
+  {
+    "name": "Alcoentre",
+    "country": "PT"
+  },
+  {
+    "name": "Azambuja",
+    "country": "PT"
+  },
+  {
+    "name": "Alguber",
+    "country": "PT"
+  },
+  {
+    "name": "Figueiros",
+    "country": "PT"
+  },
+  {
+    "name": "Lamas",
+    "country": "PT"
+  },
+  {
+    "name": "Painho",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00earo Moniz",
+    "country": "PT"
+  },
+  {
+    "name": "Vermelha",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar",
+    "country": "PT"
+  },
+  {
+    "name": "Alcabideche",
+    "country": "PT"
+  },
+  {
+    "name": "Carcavelos",
+    "country": "PT"
+  },
+  {
+    "name": "Cascais",
+    "country": "PT"
+  },
+  {
+    "name": "Estoril",
+    "country": "PT"
+  },
+  {
+    "name": "Parede",
+    "country": "PT"
+  },
+  {
+    "name": "Beato",
+    "country": "PT"
+  },
+  {
+    "name": "Benfica",
+    "country": "PT"
+  },
+  {
+    "name": "Lumiar",
+    "country": "PT"
+  },
+  {
+    "name": "Prazeres",
+    "country": "PT"
+  },
+  {
+    "name": "Sacramento",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Maria Dos Olivais",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Francisco Xavier",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o das Lampas",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Est\u00eav\u00e3o das Gal\u00e9s",
+    "country": "PT"
+  },
+  {
+    "name": "Socorro",
+    "country": "PT"
+  },
+  {
+    "name": "Apela\u00e7\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Bucelas",
+    "country": "PT"
+  },
+  {
+    "name": "Camarate",
+    "country": "PT"
+  },
+  {
+    "name": "Fanh\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Sacav\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Unhos",
+    "country": "PT"
+  },
+  {
+    "name": "Portela",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Ant\u00f3nio Dos Cavaleiros",
+    "country": "PT"
+  },
+  {
+    "name": "Miragaia",
+    "country": "PT"
+  },
+  {
+    "name": "Moita Dos Ferreiros",
+    "country": "PT"
+  },
+  {
+    "name": "Reguengo Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Marteleira",
+    "country": "PT"
+  },
+  {
+    "name": "Atalaia",
+    "country": "PT"
+  },
+  {
+    "name": "Azueira",
+    "country": "PT"
+  },
+  {
+    "name": "Carvoeira",
+    "country": "PT"
+  },
+  {
+    "name": "Encarna\u00e7\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Gradil",
+    "country": "PT"
+  },
+  {
+    "name": "Igreja Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Mafra",
+    "country": "PT"
+  },
+  {
+    "name": "Malveira",
+    "country": "PT"
+  },
+  {
+    "name": "Milharado",
+    "country": "PT"
+  },
+  {
+    "name": "Barcarena",
+    "country": "PT"
+  },
+  {
+    "name": "Carnaxide",
+    "country": "PT"
+  },
+  {
+    "name": "Alg\u00e9s",
+    "country": "PT"
+  },
+  {
+    "name": "Cruz Quebrada-Dafundo",
+    "country": "PT"
+  },
+  {
+    "name": "Linda-A-Velha",
+    "country": "PT"
+  },
+  {
+    "name": "Porto Salvo",
+    "country": "PT"
+  },
+  {
+    "name": "Queijas",
+    "country": "PT"
+  },
+  {
+    "name": "Caxias",
+    "country": "PT"
+  },
+  {
+    "name": "Algueir\u00e3o-Mem Martins",
+    "country": "PT"
+  },
+  {
+    "name": "Belas",
+    "country": "PT"
+  },
+  {
+    "name": "Colares",
+    "country": "PT"
+  },
+  {
+    "name": "Montelavar",
+    "country": "PT"
+  },
+  {
+    "name": "Queluz",
+    "country": "PT"
+  },
+  {
+    "name": "Sintra (S\u00e3o Martinho)",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00earo Pinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Agualva",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Quintino",
+    "country": "PT"
+  },
+  {
+    "name": "Sapataria",
+    "country": "PT"
+  },
+  {
+    "name": "A Dos Cunhados",
+    "country": "PT"
+  },
+  {
+    "name": "Campelos",
+    "country": "PT"
+  },
+  {
+    "name": "Carm\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Freiria",
+    "country": "PT"
+  },
+  {
+    "name": "Runa",
+    "country": "PT"
+  },
+  {
+    "name": "Turcifal",
+    "country": "PT"
+  },
+  {
+    "name": "Alhandra",
+    "country": "PT"
+  },
+  {
+    "name": "Cachoeiras",
+    "country": "PT"
+  },
+  {
+    "name": "Calhandriz",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o Dos Montes",
+    "country": "PT"
+  },
+  {
+    "name": "Vialonga",
+    "country": "PT"
+  },
+  {
+    "name": "Sobralinho",
+    "country": "PT"
+  },
+  {
+    "name": "Falagueira",
+    "country": "PT"
+  },
+  {
+    "name": "Reboleira",
+    "country": "PT"
+  },
+  {
+    "name": "Alfornelos",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Br\u00e1s",
+    "country": "PT"
+  },
+  {
+    "name": "Venda Nova",
+    "country": "PT"
+  },
+  {
+    "name": "Fam\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Odivelas",
+    "country": "PT"
+  },
+  {
+    "name": "Pontinha",
+    "country": "PT"
+  },
+  {
+    "name": "Ramada",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Eul\u00e1lia",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boim",
+    "country": "PT"
+  },
+  {
+    "name": "Cano",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Amaro",
+    "country": "PT"
+  },
+  {
+    "name": "Aboadela",
+    "country": "PT"
+  },
+  {
+    "name": "Aboim",
+    "country": "PT"
+  },
+  {
+    "name": "Ata\u00edde",
+    "country": "PT"
+  },
+  {
+    "name": "Carneiro",
+    "country": "PT"
+  },
+  {
+    "name": "Cepelos",
+    "country": "PT"
+  },
+  {
+    "name": "Fregim",
+    "country": "PT"
+  },
+  {
+    "name": "Jazente",
+    "country": "PT"
+  },
+  {
+    "name": "Mancelos",
+    "country": "PT"
+  },
+  {
+    "name": "Olo",
+    "country": "PT"
+  },
+  {
+    "name": "Real",
+    "country": "PT"
+  },
+  {
+    "name": "Figueir\u00f3 (Santa Cristina)",
+    "country": "PT"
+  },
+  {
+    "name": "Gouveia (S\u00e3o Sim\u00e3o)",
+    "country": "PT"
+  },
+  {
+    "name": "Tel\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Ancede",
+    "country": "PT"
+  },
+  {
+    "name": "Campelo",
+    "country": "PT"
+  },
+  {
+    "name": "Gove",
+    "country": "PT"
+  },
+  {
+    "name": "Ovil",
+    "country": "PT"
+  },
+  {
+    "name": "Tresouras",
+    "country": "PT"
+  },
+  {
+    "name": "Valadares",
+    "country": "PT"
+  },
+  {
+    "name": "Viariz",
+    "country": "PT"
+  },
+  {
+    "name": "Air\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Caramos",
+    "country": "PT"
+  },
+  {
+    "name": "Id\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Regilde",
+    "country": "PT"
+  },
+  {
+    "name": "F\u00e2nzeres",
+    "country": "PT"
+  },
+  {
+    "name": "Jovim",
+    "country": "PT"
+  },
+  {
+    "name": "Melres",
+    "country": "PT"
+  },
+  {
+    "name": "Rio Tinto",
+    "country": "PT"
+  },
+  {
+    "name": "Gondomar (S\u00e3o Cosme)",
+    "country": "PT"
+  },
+  {
+    "name": "Valbom",
+    "country": "PT"
+  },
+  {
+    "name": "Alvarenga",
+    "country": "PT"
+  },
+  {
+    "name": "Boim",
+    "country": "PT"
+  },
+  {
+    "name": "Casais",
+    "country": "PT"
+  },
+  {
+    "name": "Lustosa",
+    "country": "PT"
+  },
+  {
+    "name": "Meinedo",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1guas Santas",
+    "country": "PT"
+  },
+  {
+    "name": "Barca",
+    "country": "PT"
+  },
+  {
+    "name": "Folgosa",
+    "country": "PT"
+  },
+  {
+    "name": "Gemunde",
+    "country": "PT"
+  },
+  {
+    "name": "Gondim",
+    "country": "PT"
+  },
+  {
+    "name": "Gueif\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Milheir\u00f3s",
+    "country": "PT"
+  },
+  {
+    "name": "Nogueira",
+    "country": "PT"
+  },
+  {
+    "name": "Vermoim",
+    "country": "PT"
+  },
+  {
+    "name": "Pedrou\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Penha Longa",
+    "country": "PT"
+  },
+  {
+    "name": "Rosem",
+    "country": "PT"
+  },
+  {
+    "name": "Tuias",
+    "country": "PT"
+  },
+  {
+    "name": "Guif\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Lavra",
+    "country": "PT"
+  },
+  {
+    "name": "Matosinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Perafita",
+    "country": "PT"
+  },
+  {
+    "name": "Arreigada",
+    "country": "PT"
+  },
+  {
+    "name": "Carvalhosa",
+    "country": "PT"
+  },
+  {
+    "name": "Fraz\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Freamunde",
+    "country": "PT"
+  },
+  {
+    "name": "Lamoso",
+    "country": "PT"
+  },
+  {
+    "name": "Meixomil",
+    "country": "PT"
+  },
+  {
+    "name": "Seroa",
+    "country": "PT"
+  },
+  {
+    "name": "Baltar",
+    "country": "PT"
+  },
+  {
+    "name": "Bitar\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Cete",
+    "country": "PT"
+  },
+  {
+    "name": "Cristelo",
+    "country": "PT"
+  },
+  {
+    "name": "Gandra",
+    "country": "PT"
+  },
+  {
+    "name": "Madalena",
+    "country": "PT"
+  },
+  {
+    "name": "Mouriz",
+    "country": "PT"
+  },
+  {
+    "name": "Rebordosa",
+    "country": "PT"
+  },
+  {
+    "name": "Recarei",
+    "country": "PT"
+  },
+  {
+    "name": "Sobrosa",
+    "country": "PT"
+  },
+  {
+    "name": "Boelhe",
+    "country": "PT"
+  },
+  {
+    "name": "Cabe\u00e7a Santa",
+    "country": "PT"
+  },
+  {
+    "name": "Canelas",
+    "country": "PT"
+  },
+  {
+    "name": "Capela",
+    "country": "PT"
+  },
+  {
+    "name": "Castel\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Duas Igrejas",
+    "country": "PT"
+  },
+  {
+    "name": "Irivo",
+    "country": "PT"
+  },
+  {
+    "name": "Marecos",
+    "country": "PT"
+  },
+  {
+    "name": "Novelas",
+    "country": "PT"
+  },
+  {
+    "name": "Oldr\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Sebolido",
+    "country": "PT"
+  },
+  {
+    "name": "Valpedre",
+    "country": "PT"
+  },
+  {
+    "name": "Aldoar",
+    "country": "PT"
+  },
+  {
+    "name": "Campanh\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Cedofeita",
+    "country": "PT"
+  },
+  {
+    "name": "Paranhos",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Ildefonso",
+    "country": "PT"
+  },
+  {
+    "name": "A Ver-O-Mar",
+    "country": "PT"
+  },
+  {
+    "name": "Amorim",
+    "country": "PT"
+  },
+  {
+    "name": "Argivai",
+    "country": "PT"
+  },
+  {
+    "name": "Beiriz",
+    "country": "PT"
+  },
+  {
+    "name": "Estela",
+    "country": "PT"
+  },
+  {
+    "name": "Laundos",
+    "country": "PT"
+  },
+  {
+    "name": "Rates",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1gua Longa",
+    "country": "PT"
+  },
+  {
+    "name": "Areias",
+    "country": "PT"
+  },
+  {
+    "name": "Lama",
+    "country": "PT"
+  },
+  {
+    "name": "Monte C\u00f3rdova",
+    "country": "PT"
+  },
+  {
+    "name": "Rebord\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Reguenga",
+    "country": "PT"
+  },
+  {
+    "name": "Roriz",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarinho",
+    "country": "PT"
+  },
+  {
+    "name": "Ermesinde",
+    "country": "PT"
+  },
+  {
+    "name": "Sobrado",
+    "country": "PT"
+  },
+  {
+    "name": "Valongo",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1rvore",
+    "country": "PT"
+  },
+  {
+    "name": "Aveleda",
+    "country": "PT"
+  },
+  {
+    "name": "Azurara",
+    "country": "PT"
+  },
+  {
+    "name": "Fajozes",
+    "country": "PT"
+  },
+  {
+    "name": "Guilhabreu",
+    "country": "PT"
+  },
+  {
+    "name": "Labruge",
+    "country": "PT"
+  },
+  {
+    "name": "Modivas",
+    "country": "PT"
+  },
+  {
+    "name": "Tougues",
+    "country": "PT"
+  },
+  {
+    "name": "Touguinha",
+    "country": "PT"
+  },
+  {
+    "name": "Touguinh\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Vair\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Arcozelo",
+    "country": "PT"
+  },
+  {
+    "name": "Avintes",
+    "country": "PT"
+  },
+  {
+    "name": "Canelas",
+    "country": "PT"
+  },
+  {
+    "name": "Canidelo",
+    "country": "PT"
+  },
+  {
+    "name": "Crestuma",
+    "country": "PT"
+  },
+  {
+    "name": "Grij\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Gulpilhares",
+    "country": "PT"
+  },
+  {
+    "name": "Lever",
+    "country": "PT"
+  },
+  {
+    "name": "Mafamude",
+    "country": "PT"
+  },
+  {
+    "name": "Olival",
+    "country": "PT"
+  },
+  {
+    "name": "Perosinho",
+    "country": "PT"
+  },
+  {
+    "name": "Sandim",
+    "country": "PT"
+  },
+  {
+    "name": "Seixezelo",
+    "country": "PT"
+  },
+  {
+    "name": "Sermonde",
+    "country": "PT"
+  },
+  {
+    "name": "Alvarelhos",
+    "country": "PT"
+  },
+  {
+    "name": "Bougado (Santiago)",
+    "country": "PT"
+  },
+  {
+    "name": "Bougado (S\u00e3o Martinho)",
+    "country": "PT"
+  },
+  {
+    "name": "Guid\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Alferrarede",
+    "country": "PT"
+  },
+  {
+    "name": "Alvega",
+    "country": "PT"
+  },
+  {
+    "name": "Bemposta",
+    "country": "PT"
+  },
+  {
+    "name": "Martinchel",
+    "country": "PT"
+  },
+  {
+    "name": "Mouriscas",
+    "country": "PT"
+  },
+  {
+    "name": "Pego",
+    "country": "PT"
+  },
+  {
+    "name": "Abrantes (S\u00e3o Vicente)",
+    "country": "PT"
+  },
+  {
+    "name": "Tramagal",
+    "country": "PT"
+  },
+  {
+    "name": "Alcanena",
+    "country": "PT"
+  },
+  {
+    "name": "Bugalhos",
+    "country": "PT"
+  },
+  {
+    "name": "Malhou",
+    "country": "PT"
+  },
+  {
+    "name": "Minde",
+    "country": "PT"
+  },
+  {
+    "name": "Monsanto",
+    "country": "PT"
+  },
+  {
+    "name": "Alpiar\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Benavente",
+    "country": "PT"
+  },
+  {
+    "name": "Samora Correia",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Est\u00eav\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Lapa",
+    "country": "PT"
+  },
+  {
+    "name": "Pont\u00e9vel",
+    "country": "PT"
+  },
+  {
+    "name": "Chamusca",
+    "country": "PT"
+  },
+  {
+    "name": "Chouto",
+    "country": "PT"
+  },
+  {
+    "name": "Pinheiro Grande",
+    "country": "PT"
+  },
+  {
+    "name": "Parreira",
+    "country": "PT"
+  },
+  {
+    "name": "Carregueira",
+    "country": "PT"
+  },
+  {
+    "name": "Montalvo",
+    "country": "PT"
+  },
+  {
+    "name": "Cou\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Erra",
+    "country": "PT"
+  },
+  {
+    "name": "Biscainho",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o Baptista",
+    "country": "PT"
+  },
+  {
+    "name": "Areias",
+    "country": "PT"
+  },
+  {
+    "name": "Paio Mendes",
+    "country": "PT"
+  },
+  {
+    "name": "Pias",
+    "country": "PT"
+  },
+  {
+    "name": "Cardigos",
+    "country": "PT"
+  },
+  {
+    "name": "Envendos",
+    "country": "PT"
+  },
+  {
+    "name": "Alcobertas",
+    "country": "PT"
+  },
+  {
+    "name": "Arrouquelas",
+    "country": "PT"
+  },
+  {
+    "name": "Arruda Dos Pis\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Azambujeira",
+    "country": "PT"
+  },
+  {
+    "name": "Fr\u00e1guas",
+    "country": "PT"
+  },
+  {
+    "name": "Marmeleira",
+    "country": "PT"
+  },
+  {
+    "name": "Asseiceira",
+    "country": "PT"
+  },
+  {
+    "name": "Marinhais",
+    "country": "PT"
+  },
+  {
+    "name": "Muge",
+    "country": "PT"
+  },
+  {
+    "name": "Arneiro das Milhari\u00e7as",
+    "country": "PT"
+  },
+  {
+    "name": "Nossa Senhora das Miseric\u00f3rdias",
+    "country": "PT"
+  },
+  {
+    "name": "Abitureiras",
+    "country": "PT"
+  },
+  {
+    "name": "Achete",
+    "country": "PT"
+  },
+  {
+    "name": "Alcanede",
+    "country": "PT"
+  },
+  {
+    "name": "Alcanh\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Almoster",
+    "country": "PT"
+  },
+  {
+    "name": "Santar\u00e9m (Marvila)",
+    "country": "PT"
+  },
+  {
+    "name": "Mo\u00e7arria",
+    "country": "PT"
+  },
+  {
+    "name": "Trem\u00eas",
+    "country": "PT"
+  },
+  {
+    "name": "Alcaravela",
+    "country": "PT"
+  },
+  {
+    "name": "Valhascos",
+    "country": "PT"
+  },
+  {
+    "name": "Carregueiros",
+    "country": "PT"
+  },
+  {
+    "name": "Junceira",
+    "country": "PT"
+  },
+  {
+    "name": "Madalena",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Maria Dos Olivais",
+    "country": "PT"
+  },
+  {
+    "name": "Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Alcorochel",
+    "country": "PT"
+  },
+  {
+    "name": "Assentiz",
+    "country": "PT"
+  },
+  {
+    "name": "Brogueira",
+    "country": "PT"
+  },
+  {
+    "name": "Lapas",
+    "country": "PT"
+  },
+  {
+    "name": "Olaia",
+    "country": "PT"
+  },
+  {
+    "name": "Riachos",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira Branca",
+    "country": "PT"
+  },
+  {
+    "name": "Zibreira",
+    "country": "PT"
+  },
+  {
+    "name": "Alburitel",
+    "country": "PT"
+  },
+  {
+    "name": "Caxarias",
+    "country": "PT"
+  },
+  {
+    "name": "Espite",
+    "country": "PT"
+  },
+  {
+    "name": "Gondemaria",
+    "country": "PT"
+  },
+  {
+    "name": "Urqueira",
+    "country": "PT"
+  },
+  {
+    "name": "Torr\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Comporta",
+    "country": "PT"
+  },
+  {
+    "name": "Samouco",
+    "country": "PT"
+  },
+  {
+    "name": "Almada",
+    "country": "PT"
+  },
+  {
+    "name": "Caparica",
+    "country": "PT"
+  },
+  {
+    "name": "Trafaria",
+    "country": "PT"
+  },
+  {
+    "name": "Cacilhas",
+    "country": "PT"
+  },
+  {
+    "name": "Sobreda",
+    "country": "PT"
+  },
+  {
+    "name": "Laranjeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Barreiro",
+    "country": "PT"
+  },
+  {
+    "name": "Lavradio",
+    "country": "PT"
+  },
+  {
+    "name": "Melides",
+    "country": "PT"
+  },
+  {
+    "name": "Alhos Vedros",
+    "country": "PT"
+  },
+  {
+    "name": "Moita",
+    "country": "PT"
+  },
+  {
+    "name": "Sarilhos Pequenos",
+    "country": "PT"
+  },
+  {
+    "name": "Montijo",
+    "country": "PT"
+  },
+  {
+    "name": "Sarilhos Grandes",
+    "country": "PT"
+  },
+  {
+    "name": "Peg\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Palmela",
+    "country": "PT"
+  },
+  {
+    "name": "Pinhal Novo",
+    "country": "PT"
+  },
+  {
+    "name": "Abela",
+    "country": "PT"
+  },
+  {
+    "name": "Alvalade",
+    "country": "PT"
+  },
+  {
+    "name": "Ermidas-Sado",
+    "country": "PT"
+  },
+  {
+    "name": "Amora",
+    "country": "PT"
+  },
+  {
+    "name": "Arrentela",
+    "country": "PT"
+  },
+  {
+    "name": "Corroios",
+    "country": "PT"
+  },
+  {
+    "name": "Sesimbra (Santiago)",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Louren\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1zere",
+    "country": "PT"
+  },
+  {
+    "name": "Gondoriz",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e1",
+    "country": "PT"
+  },
+  {
+    "name": "Sabadim",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Fonche",
+    "country": "PT"
+  },
+  {
+    "name": "Lanhelas",
+    "country": "PT"
+  },
+  {
+    "name": "Moledo",
+    "country": "PT"
+  },
+  {
+    "name": "Venade",
+    "country": "PT"
+  },
+  {
+    "name": "Cristoval",
+    "country": "PT"
+  },
+  {
+    "name": "Penso",
+    "country": "PT"
+  },
+  {
+    "name": "Mazedo",
+    "country": "PT"
+  },
+  {
+    "name": "Mon\u00e7\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Cossourado",
+    "country": "PT"
+  },
+  {
+    "name": "Rubi\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Vitorino das Donas",
+    "country": "PT"
+  },
+  {
+    "name": "Brandara",
+    "country": "PT"
+  },
+  {
+    "name": "Cep\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Facha",
+    "country": "PT"
+  },
+  {
+    "name": "Friastelas",
+    "country": "PT"
+  },
+  {
+    "name": "Queijada",
+    "country": "PT"
+  },
+  {
+    "name": "Cerdal",
+    "country": "PT"
+  },
+  {
+    "name": "Afife",
+    "country": "PT"
+  },
+  {
+    "name": "Anha",
+    "country": "PT"
+  },
+  {
+    "name": "Areosa",
+    "country": "PT"
+  },
+  {
+    "name": "Cardielos",
+    "country": "PT"
+  },
+  {
+    "name": "Carre\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Mazarefes",
+    "country": "PT"
+  },
+  {
+    "name": "Meadela",
+    "country": "PT"
+  },
+  {
+    "name": "Muj\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Perre",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Fria",
+    "country": "PT"
+  },
+  {
+    "name": "Ponta Delgada (S\u00e3o Jos\u00e9)",
+    "country": "PT"
+  },
+  {
+    "name": "Ponta Delgada (S\u00e3o Pedro)",
+    "country": "PT"
+  },
+  {
+    "name": "Ponta Gar\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Angra (S\u00e3o Pedro)",
+    "country": "PT"
+  },
+  {
+    "name": "Lajes",
+    "country": "PT"
+  },
+  {
+    "name": "Rosais",
+    "country": "PT"
+  },
+  {
+    "name": "Velas (S\u00e3o Jorge)",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Mateus",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Luzia",
+    "country": "PT"
+  },
+  {
+    "name": "Horta (Ang\u00fastias)",
+    "country": "PT"
+  },
+  {
+    "name": "Alij\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Carl\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Castedo",
+    "country": "PT"
+  },
+  {
+    "name": "Cotas",
+    "country": "PT"
+  },
+  {
+    "name": "Favaios",
+    "country": "PT"
+  },
+  {
+    "name": "Pinh\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Sapi\u00e3os",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar",
+    "country": "PT"
+  },
+  {
+    "name": "Arcoss\u00f3",
+    "country": "PT"
+  },
+  {
+    "name": "Calv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Fai\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Loivos",
+    "country": "PT"
+  },
+  {
+    "name": "Oura",
+    "country": "PT"
+  },
+  {
+    "name": "Vidago",
+    "country": "PT"
+  },
+  {
+    "name": "Barqueiros",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Marim",
+    "country": "PT"
+  },
+  {
+    "name": "Paradan\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Montalegre",
+    "country": "PT"
+  },
+  {
+    "name": "Negr\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Outeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Salto",
+    "country": "PT"
+  },
+  {
+    "name": "Tour\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Mur\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Godim",
+    "country": "PT"
+  },
+  {
+    "name": "Alvadia",
+    "country": "PT"
+  },
+  {
+    "name": "Cerva",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Marinha",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Sabrosa",
+    "country": "PT"
+  },
+  {
+    "name": "Medr\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Sanhoane",
+    "country": "PT"
+  },
+  {
+    "name": "Valpa\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarandelo",
+    "country": "PT"
+  },
+  {
+    "name": "Tresminas",
+    "country": "PT"
+  },
+  {
+    "name": "Aba\u00e7as",
+    "country": "PT"
+  },
+  {
+    "name": "Adoufe",
+    "country": "PT"
+  },
+  {
+    "name": "Borbela",
+    "country": "PT"
+  },
+  {
+    "name": "Campe\u00e3",
+    "country": "PT"
+  },
+  {
+    "name": "Constantim",
+    "country": "PT"
+  },
+  {
+    "name": "Ermida",
+    "country": "PT"
+  },
+  {
+    "name": "Folhadela",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Real (S\u00e3o Pedro)",
+    "country": "PT"
+  },
+  {
+    "name": "Cimbres",
+    "country": "PT"
+  },
+  {
+    "name": "Fontelo",
+    "country": "PT"
+  },
+  {
+    "name": "Queimada",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Adri\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Beij\u00f3s",
+    "country": "PT"
+  },
+  {
+    "name": "M\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Moledo",
+    "country": "PT"
+  },
+  {
+    "name": "Cinf\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Espadanedo",
+    "country": "PT"
+  },
+  {
+    "name": "Souselo",
+    "country": "PT"
+  },
+  {
+    "name": "Tendais",
+    "country": "PT"
+  },
+  {
+    "name": "Cambres",
+    "country": "PT"
+  },
+  {
+    "name": "Cep\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira",
+    "country": "PT"
+  },
+  {
+    "name": "Lazarim",
+    "country": "PT"
+  },
+  {
+    "name": "Penaj\u00f3ia",
+    "country": "PT"
+  },
+  {
+    "name": "Valdigem",
+    "country": "PT"
+  },
+  {
+    "name": "Alcafache",
+    "country": "PT"
+  },
+  {
+    "name": "Caba\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Caria",
+    "country": "PT"
+  },
+  {
+    "name": "Leomil",
+    "country": "PT"
+  },
+  {
+    "name": "Rua",
+    "country": "PT"
+  },
+  {
+    "name": "Marmeleira",
+    "country": "PT"
+  },
+  {
+    "name": "Trez\u00f3i",
+    "country": "PT"
+  },
+  {
+    "name": "Arcozelo das Maias",
+    "country": "PT"
+  },
+  {
+    "name": "Carvalhal Redondo",
+    "country": "PT"
+  },
+  {
+    "name": "Nelas",
+    "country": "PT"
+  },
+  {
+    "name": "Santar",
+    "country": "PT"
+  },
+  {
+    "name": "Senhorim",
+    "country": "PT"
+  },
+  {
+    "name": "Arca",
+    "country": "PT"
+  },
+  {
+    "name": "Destriz",
+    "country": "PT"
+  },
+  {
+    "name": "Pinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Germil",
+    "country": "PT"
+  },
+  {
+    "name": "Pindo",
+    "country": "PT"
+  },
+  {
+    "name": "Castain\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Barr\u00f4",
+    "country": "PT"
+  },
+  {
+    "name": "C\u00e1rquere",
+    "country": "PT"
+  },
+  {
+    "name": "Felgueiras",
+    "country": "PT"
+  },
+  {
+    "name": "Panchorra",
+    "country": "PT"
+  },
+  {
+    "name": "Paus",
+    "country": "PT"
+  },
+  {
+    "name": "Resende",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Comba D\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Joaninho",
+    "country": "PT"
+  },
+  {
+    "name": "Treixedo",
+    "country": "PT"
+  },
+  {
+    "name": "Espinhosa",
+    "country": "PT"
+  },
+  {
+    "name": "Trev\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Carvalhais",
+    "country": "PT"
+  },
+  {
+    "name": "Pindelo Dos Milagres",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o F\u00e9lix",
+    "country": "PT"
+  },
+  {
+    "name": "Sul",
+    "country": "PT"
+  },
+  {
+    "name": "\u00c1guas Boas",
+    "country": "PT"
+  },
+  {
+    "name": "Granjal",
+    "country": "PT"
+  },
+  {
+    "name": "Barcos",
+    "country": "PT"
+  },
+  {
+    "name": "Sendim",
+    "country": "PT"
+  },
+  {
+    "name": "D\u00e1lvares",
+    "country": "PT"
+  },
+  {
+    "name": "Ucanha",
+    "country": "PT"
+  },
+  {
+    "name": "Castel\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Sabugosa",
+    "country": "PT"
+  },
+  {
+    "name": "Tondela",
+    "country": "PT"
+  },
+  {
+    "name": "Queiriga",
+    "country": "PT"
+  },
+  {
+    "name": "Touro",
+    "country": "PT"
+  },
+  {
+    "name": "Boa Aldeia",
+    "country": "PT"
+  },
+  {
+    "name": "Calde",
+    "country": "PT"
+  },
+  {
+    "name": "Cota",
+    "country": "PT"
+  },
+  {
+    "name": "Fail",
+    "country": "PT"
+  },
+  {
+    "name": "Silgueiros",
+    "country": "PT"
+  },
+  {
+    "name": "Mund\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Orgens",
+    "country": "PT"
+  },
+  {
+    "name": "Povolide",
+    "country": "PT"
+  },
+  {
+    "name": "Ranhados",
+    "country": "PT"
+  },
+  {
+    "name": "Figueiredo das Donas",
+    "country": "PT"
+  },
+  {
+    "name": "Santos Evos",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Cipriano",
+    "country": "PT"
+  },
+  {
+    "name": "Viseu (S\u00e3o Jos\u00e9)",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Salvador",
+    "country": "PT"
+  },
+  {
+    "name": "Torredeita",
+    "country": "PT"
+  },
+  {
+    "name": "Alcofra",
+    "country": "PT"
+  },
+  {
+    "name": "Cambra",
+    "country": "PT"
+  },
+  {
+    "name": "Campia",
+    "country": "PT"
+  },
+  {
+    "name": "Prazeres",
+    "country": "PT"
+  },
+  {
+    "name": "Cani\u00e7al",
+    "country": "PT"
+  },
+  {
+    "name": "Gaula",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "PT"
+  },
+  {
+    "name": "Santana",
+    "country": "PT"
+  },
+  {
+    "name": "Porto Santo",
+    "country": "PT"
+  },
+  {
+    "name": "Aguiar de Sousa",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Gaia (Santa Marinha)",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Pinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Freixo de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Mamede de Infesta",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boa de Quires",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova da Telha",
+    "country": "PT"
+  },
+  {
+    "name": "Pinheiro de Coja",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira de Rates",
+    "country": "PT"
+  },
+  {
+    "name": "Santiago do Cac\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Corte do Pinto",
+    "country": "PT"
+  },
+  {
+    "name": "Rio de Moinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Unhais da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de S\u00e3o Miguel",
+    "country": "PT"
+  },
+  {
+    "name": "Freixeda do Torr\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Vila do Conde",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Tazem",
+    "country": "PT"
+  },
+  {
+    "name": "Gafanha da Boa Hora",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Franca da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Foz do Sousa",
+    "country": "PT"
+  },
+  {
+    "name": "Senhora da Hora",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o da Talha",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro da Cova",
+    "country": "PT"
+  },
+  {
+    "name": "Foz do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Santana do Mato",
+    "country": "PT"
+  },
+  {
+    "name": "Venda do Pinheiro",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar do Para\u00edso",
+    "country": "PT"
+  },
+  {
+    "name": "Baguim do Monte (Rio Tinto)",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Iria de Azoia",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Juli\u00e3o do Tojal",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Varzim",
+    "country": "PT"
+  },
+  {
+    "name": "Vila do Porto",
+    "country": "PT"
+  },
+  {
+    "name": "Salgueiro do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Miranda do Corvo",
+    "country": "PT"
+  },
+  {
+    "name": "Braga (S\u00e3o Jos\u00e9 de S\u00e3o L\u00e1zaro)",
+    "country": "PT"
+  },
+  {
+    "name": "Areias de Vilar",
+    "country": "PT"
+  },
+  {
+    "name": "Canas de Senhorim",
+    "country": "PT"
+  },
+  {
+    "name": "Barreiro de Besteiros",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Miguel do Mato",
+    "country": "PT"
+  },
+  {
+    "name": "Castanheira do Ribatejo",
+    "country": "PT"
+  },
+  {
+    "name": "Almargem do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Franca do Ros\u00e1rio",
+    "country": "PT"
+  },
+  {
+    "name": "Enxara do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "Castelo do Neiva",
+    "country": "PT"
+  },
+  {
+    "name": "Parada do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "Freixo de Espada \u00c0 Cinta",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Murteda",
+    "country": "PT"
+  },
+  {
+    "name": "Torres Vedras (S\u00e3o Pedro e S\u00e3o Tiago)",
+    "country": "PT"
+  },
+  {
+    "name": "Aveiras de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte do Rol",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira e Barros",
+    "country": "PT"
+  },
+  {
+    "name": "Aveiras de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Salvaterra de Magos",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro da Cadeira",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa da Isenta",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Ch\u00e3 de Ourique",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Santar\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o da Madeira",
+    "country": "PT"
+  },
+  {
+    "name": "Corticeiro de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Atouguia da Baleia",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira de Fr\u00e1guas",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Ma\u00e7ada",
+    "country": "PT"
+  },
+  {
+    "name": "Pinheiro da Bemposta",
+    "country": "PT"
+  },
+  {
+    "name": "Amiais de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Rossio Ao Sul do Tejo",
+    "country": "PT"
+  },
+  {
+    "name": "Foz do Arelho",
+    "country": "PT"
+  },
+  {
+    "name": "Caldas da Rainha (Nossa Senhora do P\u00f3pulo)",
+    "country": "PT"
+  },
+  {
+    "name": "Serra de Santo Ant\u00f3nio",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Martinho do Porto",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Mid\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Vila de Ala",
+    "country": "PT"
+  },
+  {
+    "name": "Reguengo do Fetal",
+    "country": "PT"
+  },
+  {
+    "name": "Rio de Couros",
+    "country": "PT"
+  },
+  {
+    "name": "Cebolais de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Calvaria de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Catarina da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Regueira de Pontes",
+    "country": "PT"
+  },
+  {
+    "name": "Montes da Senhora",
+    "country": "PT"
+  },
+  {
+    "name": "Ch\u00e3o de Couce",
+    "country": "PT"
+  },
+  {
+    "name": "Sobral do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Atalaia do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Miguel de Acha",
+    "country": "PT"
+  },
+  {
+    "name": "Louri\u00e7al do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Vicente da Beira",
+    "country": "PT"
+  },
+  {
+    "name": "Vinha da Rainha",
+    "country": "PT"
+  },
+  {
+    "name": "Padim da Gra\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Souto da Casa",
+    "country": "PT"
+  },
+  {
+    "name": "Figueir\u00f3 do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia de Joanes",
+    "country": "PT"
+  },
+  {
+    "name": "Granja do Ulmeiro",
+    "country": "PT"
+  },
+  {
+    "name": "Vales do Rio",
+    "country": "PT"
+  },
+  {
+    "name": "Seixo de Gat\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Torres do Mondego",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Cova de Alva",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Paio de Mondego",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro de Alva",
+    "country": "PT"
+  },
+  {
+    "name": "Pinheiro de \u00c1zere",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o da Boa Vista",
+    "country": "PT"
+  },
+  {
+    "name": "Ventosa do Bairro",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Paio de Grama\u00e7os",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Rem\u00edgio",
+    "country": "PT"
+  },
+  {
+    "name": "Praia de Mira",
+    "country": "PT"
+  },
+  {
+    "name": "\u00d3is do Bairro",
+    "country": "PT"
+  },
+  {
+    "name": "Aguada de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Ch\u00e3 de S\u00e1",
+    "country": "PT"
+  },
+  {
+    "name": "Lob\u00e3o da Beira",
+    "country": "PT"
+  },
+  {
+    "name": "Sobradelo da Goma",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Prados",
+    "country": "PT"
+  },
+  {
+    "name": "Ch\u00e3s de Tavares",
+    "country": "PT"
+  },
+  {
+    "name": "Milheir\u00f3s de Poiares",
+    "country": "PT"
+  },
+  {
+    "name": "Parceiros de Igreja",
+    "country": "PT"
+  },
+  {
+    "name": "Souto de Carpalhosa",
+    "country": "PT"
+  },
+  {
+    "name": "Santiago de Lit\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Vieira de Leiria",
+    "country": "PT"
+  },
+  {
+    "name": "Ma\u00e7\u00e3s de Dona Maria",
+    "country": "PT"
+  },
+  {
+    "name": "Escalos de Baixo",
+    "country": "PT"
+  },
+  {
+    "name": "Janeiro de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia de Santa Margarida",
+    "country": "PT"
+  },
+  {
+    "name": "Casal de Ermio",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o de Areias",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Monsarros",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Besteiros",
+    "country": "PT"
+  },
+  {
+    "name": "Fornelo do Monte",
+    "country": "PT"
+  },
+  {
+    "name": "Macinhata do Vouga",
+    "country": "PT"
+  },
+  {
+    "name": "Gafanha da Encarna\u00e7\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Gafanha da Nazar\u00e9",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Miguel de Vila Boa",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Vicente de Laf\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira de Frades",
+    "country": "PT"
+  },
+  {
+    "name": "Couto de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Rio de Moinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7os de Vilharigues",
+    "country": "PT"
+  },
+  {
+    "name": "Pousada de Saramagos",
+    "country": "PT"
+  },
+  {
+    "name": "Ribeira de Pena (Salvador)",
+    "country": "PT"
+  },
+  {
+    "name": "Figueira de Lorv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Avel\u00e3s de Caminho",
+    "country": "PT"
+  },
+  {
+    "name": "Riba de \u00c2ncora",
+    "country": "PT"
+  },
+  {
+    "name": "Arma\u00e7\u00e3o de P\u00eara",
+    "country": "PT"
+  },
+  {
+    "name": "Meda de Mouros",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o de Negrilhos",
+    "country": "PT"
+  },
+  {
+    "name": "Rio de Mouro",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Cristov\u00e3o de Nogueira",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Cruz da Trapa",
+    "country": "PT"
+  },
+  {
+    "name": "Macinhata da Seixa",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Louren\u00e7o de Ribapinh\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Moreira de C\u00f3negos",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7o Vedro de Magalh\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Arga de S\u00e3o Jo\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Riba de Mouro",
+    "country": "PT"
+  },
+  {
+    "name": "Riba de Ave",
+    "country": "PT"
+  },
+  {
+    "name": "Freixo de Num\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7os de Gaiolo",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Franca de Xira",
+    "country": "PT"
+  },
+  {
+    "name": "Sobral de Monte Agra\u00e7o",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira de Azem\u00e9is",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira de Cambra",
+    "country": "PT"
+  },
+  {
+    "name": "Refojos de Basto",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Comba de Rossas",
+    "country": "PT"
+  },
+  {
+    "name": "Figueiredo de Alva",
+    "country": "PT"
+  },
+  {
+    "name": "Castel\u00f5es de Cepeda",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Marinha do Z\u00eazere",
+    "country": "PT"
+  },
+  {
+    "name": "Le\u00e7a da Palmeira",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Roque do Pico",
+    "country": "PT"
+  },
+  {
+    "name": "Le\u00e7a do Balio",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira de Sarnes",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7o de Arcos",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o de Ver",
+    "country": "PT"
+  },
+  {
+    "name": "Santa B\u00e1rbara de Nexe",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Martinho da Corti\u00e7a",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Praia de \u00c2ncora",
+    "country": "PT"
+  },
+  {
+    "name": "Beja (Santa Maria da Feira)",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Mouros",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o de Tarouca",
+    "country": "PT"
+  },
+  {
+    "name": "Alandroal (Nossa Senhora da Concei\u00e7\u00e3o)",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Martinho de Antas",
+    "country": "PT"
+  },
+  {
+    "name": "Santana da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Santa B\u00e1rbara de Padr\u00f5es",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Bartolomeu de Messines",
+    "country": "PT"
+  },
+  {
+    "name": "Escalos de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte de Vagos",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Rio de Moinhos",
+    "country": "PT"
+  },
+  {
+    "name": "Vila de Frades",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova da Baronia",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia da Ponte",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Amoreira",
+    "country": "PT"
+  },
+  {
+    "name": "Avel\u00e3s de Cima",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa do Concelho",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira da Lixa",
+    "country": "PT"
+  },
+  {
+    "name": "Macieira da Maia",
+    "country": "PT"
+  },
+  {
+    "name": "Charneca de Caparica",
+    "country": "PT"
+  },
+  {
+    "name": "Set\u00fabal (Santa Maria da Gra\u00e7a)",
+    "country": "PT"
+  },
+  {
+    "name": "Ferreiros de Tendais",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia de Paio Pires",
+    "country": "PT"
+  },
+  {
+    "name": "Nossa Senhora de Machede",
+    "country": "PT"
+  },
+  {
+    "name": "Quinta do Anjo",
+    "country": "PT"
+  },
+  {
+    "name": "Alc\u00e1cer do Sal (Santiago)",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Miguel de Machede",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Maria de Bel\u00e9m",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia de Santo Ant\u00f3nio",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Cort\u00eas da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Parada de Gonta",
+    "country": "PT"
+  },
+  {
+    "name": "Cabanas de Viriato",
+    "country": "PT"
+  },
+  {
+    "name": "Carrazedo de Montenegro",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Santo Adri\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Vila de Cucuj\u00e3es",
+    "country": "PT"
+  },
+  {
+    "name": "Caldas de S\u00e3o Jorge",
+    "country": "PT"
+  },
+  {
+    "name": "Pa\u00e7o de Sousa",
+    "country": "PT"
+  },
+  {
+    "name": "Sintra (Santa Maria e S\u00e3o Miguel)",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Andorinho",
+    "country": "PT"
+  },
+  {
+    "name": "Parada de Ester",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova de Souto D' El-Rei",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Jo\u00e3o de Fontoura",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Martinho de Mouros",
+    "country": "PT"
+  },
+  {
+    "name": "Paredes da Beira",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarinho de Cotas",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Miguel da Guarda",
+    "country": "PT"
+  },
+  {
+    "name": "Peso da R\u00e9gua",
+    "country": "PT"
+  },
+  {
+    "name": "Ponte de Lima",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Verde da Raia",
+    "country": "PT"
+  },
+  {
+    "name": "Freixieiro de Soutelo",
+    "country": "PT"
+  },
+  {
+    "name": "C\u00e2mara de Lobos",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Cruz da Graciosa",
+    "country": "PT"
+  },
+  {
+    "name": "Rabo de Peixe",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Louren\u00e7o do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Boa do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "Nogueira do Cravo",
+    "country": "PT"
+  },
+  {
+    "name": "Santiago da Guarda",
+    "country": "PT"
+  },
+  {
+    "name": "Amoreira da G\u00e2ndara",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia Galega da Merceana",
+    "country": "PT"
+  },
+  {
+    "name": "Vale da Pinta",
+    "country": "PT"
+  },
+  {
+    "name": "Vila de S\u00e3o Sebasti\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Forte da Casa",
+    "country": "PT"
+  },
+  {
+    "name": "Rosto do C\u00e3o (Livramento)",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Marcos da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Travanca de Lagos",
+    "country": "PT"
+  },
+  {
+    "name": "Sever do Vouga",
+    "country": "PT"
+  },
+  {
+    "name": "Vila de Punhe",
+    "country": "PT"
+  },
+  {
+    "name": "Borba de Montanha",
+    "country": "PT"
+  },
+  {
+    "name": "P\u00f3voa de Santa Iria",
+    "country": "PT"
+  },
+  {
+    "name": "Alqueid\u00e3o da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Arco de Ba\u00falhe",
+    "country": "PT"
+  },
+  {
+    "name": "Macedo de Cavaleiros",
+    "country": "PT"
+  },
+  {
+    "name": "Santiago de Riba-Ul",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Cavalos",
+    "country": "PT"
+  },
+  {
+    "name": "Palmeira de Faro",
+    "country": "PT"
+  },
+  {
+    "name": "Torre de Dona Chama",
+    "country": "PT"
+  },
+  {
+    "name": "Seixo da Beira",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro de Sarracenos",
+    "country": "PT"
+  },
+  {
+    "name": "Bornes de Aguiar",
+    "country": "PT"
+  },
+  {
+    "name": "Abade de Neiva",
+    "country": "PT"
+  },
+  {
+    "name": "Miranda do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Vale de Gouvinhas",
+    "country": "PT"
+  },
+  {
+    "name": "Vilar de Nantes",
+    "country": "PT"
+  },
+  {
+    "name": "Rio de Loba",
+    "country": "PT"
+  },
+  {
+    "name": "Sintra (S\u00e3o Pedro de Penaferrim)",
+    "country": "PT"
+  },
+  {
+    "name": "Vilarinho do Bairro",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Pedro do Esteval",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Martinho do Bispo",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira do Bairro",
+    "country": "PT"
+  },
+  {
+    "name": "Lordelo do Ouro",
+    "country": "PT"
+  },
+  {
+    "name": "Alverca do Ribatejo",
+    "country": "PT"
+  },
+  {
+    "name": "Faro do Alentejo",
+    "country": "PT"
+  },
+  {
+    "name": "Lapa do Lobo",
+    "country": "PT"
+  },
+  {
+    "name": "Zambujeira do Mar",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Alva\u00e7\u00f5es do Corgo",
+    "country": "PT"
+  },
+  {
+    "name": "Castanheiro do Sul",
+    "country": "PT"
+  },
+  {
+    "name": "Soutelo do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Viana do Castelo (Monserrate)",
+    "country": "PT"
+  },
+  {
+    "name": "Vale do Para\u00edso",
+    "country": "PT"
+  },
+  {
+    "name": "Borda do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Me\u00e3s do Campo",
+    "country": "PT"
+  },
+  {
+    "name": "Sazes do Lorv\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Nogueira do Cravo",
+    "country": "PT"
+  },
+  {
+    "name": "Aldeia do Souto",
+    "country": "PT"
+  },
+  {
+    "name": "Gafanha do Carmo",
+    "country": "PT"
+  },
+  {
+    "name": "Azinheira Dos Barros e S\u00e3o Mamede do S\u00e1d\u00e3o",
+    "country": "PT"
+  },
+  {
+    "name": "Viana do Alentejo",
+    "country": "PT"
+  },
+  {
+    "name": "Oliveira do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Praia do Ribatejo",
+    "country": "PT"
+  },
+  {
+    "name": "Sanfins do Douro",
+    "country": "PT"
+  },
+  {
+    "name": "Parada do Bouro",
+    "country": "PT"
+  },
+  {
+    "name": "Santa Margarida da Coutada",
+    "country": "PT"
+  },
+  {
+    "name": "Colmeal da Torre",
+    "country": "PT"
+  },
+  {
+    "name": "Pombeiro da Beira",
+    "country": "PT"
+  },
+  {
+    "name": "Vila Nova da Rainha",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Francisco da Serra",
+    "country": "PT"
+  },
+  {
+    "name": "Senhora da Sa\u00fade",
+    "country": "PT"
+  },
+  {
+    "name": "Costa da Caparica",
+    "country": "PT"
+  },
+  {
+    "name": "Cova da Piedade",
+    "country": "PT"
+  },
+  {
+    "name": "Nogueira da Regedoura",
+    "country": "PT"
+  },
+  {
+    "name": "Nossa Senhora da Gra\u00e7a do Divor",
+    "country": "PT"
+  },
+  {
+    "name": "S\u00e3o Sebasti\u00e3o da Pedreira",
+    "country": "PT"
+  },
+  {
+    "name": "Oeiras e S\u00e3o Juli\u00e3o da Barra",
+    "country": "PT"
+  },
+  {
+    "name": "Santo Ant\u00f3nio da Charneca",
+    "country": "PT"
+  }
+]

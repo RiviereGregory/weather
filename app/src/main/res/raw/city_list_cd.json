@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Democratic Republic of the Congo",
+    "country": "CD"
+  },
+  {
+    "name": "Yangambi",
+    "country": "CD"
+  },
+  {
+    "name": "Watsa",
+    "country": "CD"
+  },
+  {
+    "name": "Wamba",
+    "country": "CD"
+  },
+  {
+    "name": "Uvira",
+    "country": "CD"
+  },
+  {
+    "name": "Ukungu",
+    "country": "CD"
+  },
+  {
+    "name": "Tshilundu",
+    "country": "CD"
+  },
+  {
+    "name": "Tshikapa",
+    "country": "CD"
+  },
+  {
+    "name": "Tambo",
+    "country": "CD"
+  },
+  {
+    "name": "South Kivu Province",
+    "country": "CD"
+  },
+  {
+    "name": "Katanga Province",
+    "country": "CD"
+  },
+  {
+    "name": "Sewe",
+    "country": "CD"
+  },
+  {
+    "name": "Salukwango",
+    "country": "CD"
+  },
+  {
+    "name": "Sake",
+    "country": "CD"
+  },
+  {
+    "name": "Pekia",
+    "country": "CD"
+  },
+  {
+    "name": "Province du Nord-Kivu",
+    "country": "CD"
+  },
+  {
+    "name": "Mwene-Ditu",
+    "country": "CD"
+  },
+  {
+    "name": "Mweka",
+    "country": "CD"
+  },
+  {
+    "name": "Moni",
+    "country": "CD"
+  },
+  {
+    "name": "Mokumbano",
+    "country": "CD"
+  },
+  {
+    "name": "Mbuji-Mayi",
+    "country": "CD"
+  },
+  {
+    "name": "Manono",
+    "country": "CD"
+  },
+  {
+    "name": "Province du Maniema",
+    "country": "CD"
+  },
+  {
+    "name": "Lusambo",
+    "country": "CD"
+  },
+  {
+    "name": "Luebo",
+    "country": "CD"
+  },
+  {
+    "name": "Lubao",
+    "country": "CD"
+  },
+  {
+    "name": "Longanio",
+    "country": "CD"
+  },
+  {
+    "name": "Lodja",
+    "country": "CD"
+  },
+  {
+    "name": "Lisala",
+    "country": "CD"
+  },
+  {
+    "name": "Kongolo",
+    "country": "CD"
+  },
+  {
+    "name": "Kisangani",
+    "country": "CD"
+  },
+  {
+    "name": "Kisangani",
+    "country": "CD"
+  },
+  {
+    "name": "Kirumba",
+    "country": "CD"
+  },
+  {
+    "name": "Kindu",
+    "country": "CD"
+  },
+  {
+    "name": "Kimbalata",
+    "country": "CD"
+  },
+  {
+    "name": "Kavumu",
+    "country": "CD"
+  },
+  {
+    "name": "Kasongo",
+    "country": "CD"
+  },
+  {
+    "name": "Province du Kasa\u00ef Oriental",
+    "country": "CD"
+  },
+  {
+    "name": "Province du Kasa\u00ef-Occidental",
+    "country": "CD"
+  },
+  {
+    "name": "Kapeo",
+    "country": "CD"
+  },
+  {
+    "name": "Kaniama",
+    "country": "CD"
+  },
+  {
+    "name": "Kananga",
+    "country": "CD"
+  },
+  {
+    "name": "Kananga",
+    "country": "CD"
+  },
+  {
+    "name": "Kampene",
+    "country": "CD"
+  },
+  {
+    "name": "Kamina",
+    "country": "CD"
+  },
+  {
+    "name": "Kama",
+    "country": "CD"
+  },
+  {
+    "name": "Kalemie",
+    "country": "CD"
+  },
+  {
+    "name": "Kabinda",
+    "country": "CD"
+  },
+  {
+    "name": "Kabasinze",
+    "country": "CD"
+  },
+  {
+    "name": "Kabasele-Pania",
+    "country": "CD"
+  },
+  {
+    "name": "Kabare",
+    "country": "CD"
+  },
+  {
+    "name": "Kabalo",
+    "country": "CD"
+  },
+  {
+    "name": "Isiro",
+    "country": "CD"
+  },
+  {
+    "name": "Ilebo",
+    "country": "CD"
+  },
+  {
+    "name": "Orientale Province",
+    "country": "CD"
+  },
+  {
+    "name": "Goma",
+    "country": "CD"
+  },
+  {
+    "name": "Gbadolite",
+    "country": "CD"
+  },
+  {
+    "name": "Gandajika",
+    "country": "CD"
+  },
+  {
+    "name": "Fizi",
+    "country": "CD"
+  },
+  {
+    "name": "Province de l\u2019\u00c9quateur",
+    "country": "CD"
+  },
+  {
+    "name": "Demba",
+    "country": "CD"
+  },
+  {
+    "name": "Butembo",
+    "country": "CD"
+  },
+  {
+    "name": "Buta",
+    "country": "CD"
+  },
+  {
+    "name": "Businga",
+    "country": "CD"
+  },
+  {
+    "name": "Bunia",
+    "country": "CD"
+  },
+  {
+    "name": "Bumba",
+    "country": "CD"
+  },
+  {
+    "name": "Bukavu",
+    "country": "CD"
+  },
+  {
+    "name": "Bukama",
+    "country": "CD"
+  },
+  {
+    "name": "Bongandanga",
+    "country": "CD"
+  },
+  {
+    "name": "Bonema",
+    "country": "CD"
+  },
+  {
+    "name": "Bondo",
+    "country": "CD"
+  },
+  {
+    "name": "Boluka",
+    "country": "CD"
+  },
+  {
+    "name": "Boende",
+    "country": "CD"
+  },
+  {
+    "name": "Beni",
+    "country": "CD"
+  },
+  {
+    "name": "Batikayafi",
+    "country": "CD"
+  },
+  {
+    "name": "Basoko",
+    "country": "CD"
+  },
+  {
+    "name": "Bapaidu",
+    "country": "CD"
+  },
+  {
+    "name": "Bangenze",
+    "country": "CD"
+  },
+  {
+    "name": "Aketi",
+    "country": "CD"
+  },
+  {
+    "name": "Lumwe",
+    "country": "CD"
+  },
+  {
+    "name": "Ruashi",
+    "country": "CD"
+  },
+  {
+    "name": "Lubumbashi",
+    "country": "CD"
+  },
+  {
+    "name": "Likasi",
+    "country": "CD"
+  },
+  {
+    "name": "Kolwezi",
+    "country": "CD"
+  },
+  {
+    "name": "Kipushi",
+    "country": "CD"
+  },
+  {
+    "name": "Kasumbalesa",
+    "country": "CD"
+  },
+  {
+    "name": "Sampasa Kamina",
+    "country": "CD"
+  },
+  {
+    "name": "Kambove",
+    "country": "CD"
+  },
+  {
+    "name": "Lumpundu",
+    "country": "CD"
+  },
+  {
+    "name": "Yanga",
+    "country": "CD"
+  },
+  {
+    "name": "Tshela",
+    "country": "CD"
+  },
+  {
+    "name": "Sengo",
+    "country": "CD"
+  },
+  {
+    "name": "Nioki",
+    "country": "CD"
+  },
+  {
+    "name": "Ndolo",
+    "country": "CD"
+  },
+  {
+    "name": "Mushie",
+    "country": "CD"
+  },
+  {
+    "name": "Moanda",
+    "country": "CD"
+  },
+  {
+    "name": "Mbanza-Ngungu",
+    "country": "CD"
+  },
+  {
+    "name": "Mbanza",
+    "country": "CD"
+  },
+  {
+    "name": "Mbandaka",
+    "country": "CD"
+  },
+  {
+    "name": "Matadi",
+    "country": "CD"
+  },
+  {
+    "name": "Mangai",
+    "country": "CD"
+  },
+  {
+    "name": "Lukolela",
+    "country": "CD"
+  },
+  {
+    "name": "Libenge",
+    "country": "CD"
+  },
+  {
+    "name": "Kiteke",
+    "country": "CD"
+  },
+  {
+    "name": "Kinshasa City",
+    "country": "CD"
+  },
+  {
+    "name": "Kinshasa",
+    "country": "CD"
+  },
+  {
+    "name": "Kikwit",
+    "country": "CD"
+  },
+  {
+    "name": "Kasongo-Lunda",
+    "country": "CD"
+  },
+  {
+    "name": "Kasangulu",
+    "country": "CD"
+  },
+  {
+    "name": "Inongo",
+    "country": "CD"
+  },
+  {
+    "name": "Gemena",
+    "country": "CD"
+  },
+  {
+    "name": "Bulungu",
+    "country": "CD"
+  },
+  {
+    "name": "Bosobolo",
+    "country": "CD"
+  },
+  {
+    "name": "Bolobo",
+    "country": "CD"
+  },
+  {
+    "name": "Bokuda",
+    "country": "CD"
+  },
+  {
+    "name": "Province du Kongo Central",
+    "country": "CD"
+  },
+  {
+    "name": "Basankusu",
+    "country": "CD"
+  },
+  {
+    "name": "Baraka",
+    "country": "CD"
+  },
+  {
+    "name": "Bandundu Province",
+    "country": "CD"
+  },
+  {
+    "name": "Bandundu",
+    "country": "CD"
+  },
+  {
+    "name": "Lukole",
+    "country": "CD"
+  },
+  {
+    "name": "Masina",
+    "country": "CD"
+  },
+  {
+    "name": "Bolaka",
+    "country": "CD"
+  },
+  {
+    "name": "Ipeko",
+    "country": "CD"
+  },
+  {
+    "name": "Noabo",
+    "country": "CD"
+  }
+]

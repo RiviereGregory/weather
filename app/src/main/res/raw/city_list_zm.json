@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Nchelenge",
+    "country": "ZM"
+  },
+  {
+    "name": "Nakonde",
+    "country": "ZM"
+  },
+  {
+    "name": "Mpulungu",
+    "country": "ZM"
+  },
+  {
+    "name": "Mporokoso",
+    "country": "ZM"
+  },
+  {
+    "name": "Mbala",
+    "country": "ZM"
+  },
+  {
+    "name": "Kawambwa",
+    "country": "ZM"
+  },
+  {
+    "name": "Kaputa",
+    "country": "ZM"
+  },
+  {
+    "name": "Kambwali",
+    "country": "ZM"
+  },
+  {
+    "name": "Republic of Zambia",
+    "country": "ZM"
+  },
+  {
+    "name": "Zambezi",
+    "country": "ZM"
+  },
+  {
+    "name": "Western Province",
+    "country": "ZM"
+  },
+  {
+    "name": "Thornton",
+    "country": "ZM"
+  },
+  {
+    "name": "Southern Province",
+    "country": "ZM"
+  },
+  {
+    "name": "Solwezi",
+    "country": "ZM"
+  },
+  {
+    "name": "Sinazongwe",
+    "country": "ZM"
+  },
+  {
+    "name": "Siavonga",
+    "country": "ZM"
+  },
+  {
+    "name": "Shimpanya",
+    "country": "ZM"
+  },
+  {
+    "name": "Sesheke",
+    "country": "ZM"
+  },
+  {
+    "name": "Serenje",
+    "country": "ZM"
+  },
+  {
+    "name": "Senanga",
+    "country": "ZM"
+  },
+  {
+    "name": "Sande",
+    "country": "ZM"
+  },
+  {
+    "name": "Samfya",
+    "country": "ZM"
+  },
+  {
+    "name": "Petauke",
+    "country": "ZM"
+  },
+  {
+    "name": "Panku",
+    "country": "ZM"
+  },
+  {
+    "name": "Nyimba",
+    "country": "ZM"
+  },
+  {
+    "name": "North-Western Province",
+    "country": "ZM"
+  },
+  {
+    "name": "Northern Province",
+    "country": "ZM"
+  },
+  {
+    "name": "Nkana",
+    "country": "ZM"
+  },
+  {
+    "name": "Ngwata",
+    "country": "ZM"
+  },
+  {
+    "name": "Ngambo",
+    "country": "ZM"
+  },
+  {
+    "name": "Ndumbakahehu",
+    "country": "ZM"
+  },
+  {
+    "name": "Ndola",
+    "country": "ZM"
+  },
+  {
+    "name": "Namwala",
+    "country": "ZM"
+  },
+  {
+    "name": "Namalindi",
+    "country": "ZM"
+  },
+  {
+    "name": "Nakambala",
+    "country": "ZM"
+  },
+  {
+    "name": "Mwinilunga",
+    "country": "ZM"
+  },
+  {
+    "name": "Mwense",
+    "country": "ZM"
+  },
+  {
+    "name": "Mungwi",
+    "country": "ZM"
+  },
+  {
+    "name": "Mungule Court",
+    "country": "ZM"
+  },
+  {
+    "name": "Mumbwa",
+    "country": "ZM"
+  },
+  {
+    "name": "Mulaya",
+    "country": "ZM"
+  },
+  {
+    "name": "Mukoko",
+    "country": "ZM"
+  },
+  {
+    "name": "Mufumbwe",
+    "country": "ZM"
+  },
+  {
+    "name": "Mufulira",
+    "country": "ZM"
+  },
+  {
+    "name": "Mpongwe",
+    "country": "ZM"
+  },
+  {
+    "name": "Mpika",
+    "country": "ZM"
+  },
+  {
+    "name": "Monze",
+    "country": "ZM"
+  },
+  {
+    "name": "Mongu",
+    "country": "ZM"
+  },
+  {
+    "name": "Mkushi",
+    "country": "ZM"
+  },
+  {
+    "name": "Mazabuka",
+    "country": "ZM"
+  },
+  {
+    "name": "Masupe",
+    "country": "ZM"
+  },
+  {
+    "name": "Mansa",
+    "country": "ZM"
+  },
+  {
+    "name": "Malabo",
+    "country": "ZM"
+  },
+  {
+    "name": "Maamba",
+    "country": "ZM"
+  },
+  {
+    "name": "Lyembo",
+    "country": "ZM"
+  },
+  {
+    "name": "Luwingu",
+    "country": "ZM"
+  },
+  {
+    "name": "Lusaka Province",
+    "country": "ZM"
+  },
+  {
+    "name": "Lusaka",
+    "country": "ZM"
+  },
+  {
+    "name": "Lundazi",
+    "country": "ZM"
+  },
+  {
+    "name": "Lukulu",
+    "country": "ZM"
+  },
+  {
+    "name": "Luapula Province",
+    "country": "ZM"
+  },
+  {
+    "name": "Luanshya",
+    "country": "ZM"
+  },
+  {
+    "name": "Luangwa",
+    "country": "ZM"
+  },
+  {
+    "name": "Livingstone",
+    "country": "ZM"
+  },
+  {
+    "name": "Limulunga",
+    "country": "ZM"
+  },
+  {
+    "name": "Kitwe",
+    "country": "ZM"
+  },
+  {
+    "name": "Kasempa",
+    "country": "ZM"
+  },
+  {
+    "name": "Kasama",
+    "country": "ZM"
+  },
+  {
+    "name": "Kapiri Mposhi",
+    "country": "ZM"
+  },
+  {
+    "name": "Kaoma",
+    "country": "ZM"
+  },
+  {
+    "name": "Kansanshi",
+    "country": "ZM"
+  },
+  {
+    "name": "Kamboka",
+    "country": "ZM"
+  },
+  {
+    "name": "Kalulushi",
+    "country": "ZM"
+  },
+  {
+    "name": "Kalengwa",
+    "country": "ZM"
+  },
+  {
+    "name": "Kalabo",
+    "country": "ZM"
+  },
+  {
+    "name": "Kanjonja",
+    "country": "ZM"
+  },
+  {
+    "name": "Kafue",
+    "country": "ZM"
+  },
+  {
+    "name": "Kabwe",
+    "country": "ZM"
+  },
+  {
+    "name": "Kabuko",
+    "country": "ZM"
+  },
+  {
+    "name": "Kabompo",
+    "country": "ZM"
+  },
+  {
+    "name": "Isoka",
+    "country": "ZM"
+  },
+  {
+    "name": "Highlands",
+    "country": "ZM"
+  },
+  {
+    "name": "Gwembe",
+    "country": "ZM"
+  },
+  {
+    "name": "Eastern Province",
+    "country": "ZM"
+  },
+  {
+    "name": "Copperbelt Province",
+    "country": "ZM"
+  },
+  {
+    "name": "Chongwe",
+    "country": "ZM"
+  },
+  {
+    "name": "Choma",
+    "country": "ZM"
+  },
+  {
+    "name": "Chiwempala",
+    "country": "ZM"
+  },
+  {
+    "name": "Chiulu",
+    "country": "ZM"
+  },
+  {
+    "name": "Chipata",
+    "country": "ZM"
+  },
+  {
+    "name": "Chinsali",
+    "country": "ZM"
+  },
+  {
+    "name": "Chingola",
+    "country": "ZM"
+  },
+  {
+    "name": "Chimese",
+    "country": "ZM"
+  },
+  {
+    "name": "Chililabombwe",
+    "country": "ZM"
+  },
+  {
+    "name": "Chikonkwelo",
+    "country": "ZM"
+  },
+  {
+    "name": "Chichili",
+    "country": "ZM"
+  },
+  {
+    "name": "Chibombo",
+    "country": "ZM"
+  },
+  {
+    "name": "Chambishi",
+    "country": "ZM"
+  },
+  {
+    "name": "Chama",
+    "country": "ZM"
+  },
+  {
+    "name": "Chalimbana",
+    "country": "ZM"
+  },
+  {
+    "name": "Chadiza",
+    "country": "ZM"
+  },
+  {
+    "name": "Chaba",
+    "country": "ZM"
+  },
+  {
+    "name": "Central Province",
+    "country": "ZM"
+  }
+]

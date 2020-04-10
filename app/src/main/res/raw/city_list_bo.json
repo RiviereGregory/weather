@@ -1,0 +1,986 @@
+[
+  {
+    "name": "San Pedro",
+    "country": "BO"
+  },
+  {
+    "name": "San Mat\u00edas",
+    "country": "BO"
+  },
+  {
+    "name": "Robor\u00e9",
+    "country": "BO"
+  },
+  {
+    "name": "Puerto Su\u00e1rez",
+    "country": "BO"
+  },
+  {
+    "name": "Puerto Quijarro",
+    "country": "BO"
+  },
+  {
+    "name": "Provincia Zud\u00e1\u00f1ez",
+    "country": "BO"
+  },
+  {
+    "name": "Provincia Yampar\u00e1ez",
+    "country": "BO"
+  },
+  {
+    "name": "Yampar\u00e1ez",
+    "country": "BO"
+  },
+  {
+    "name": "Yacuiba",
+    "country": "BO"
+  },
+  {
+    "name": "Warnes",
+    "country": "BO"
+  },
+  {
+    "name": "Viro Viro",
+    "country": "BO"
+  },
+  {
+    "name": "Vinto",
+    "country": "BO"
+  },
+  {
+    "name": "Viloco",
+    "country": "BO"
+  },
+  {
+    "name": "Villaz\u00f3n",
+    "country": "BO"
+  },
+  {
+    "name": "Villa Yapacan\u00ed",
+    "country": "BO"
+  },
+  {
+    "name": "Villa Serrano",
+    "country": "BO"
+  },
+  {
+    "name": "Yotala",
+    "country": "BO"
+  },
+  {
+    "name": "Villamontes",
+    "country": "BO"
+  },
+  {
+    "name": "Vallejos",
+    "country": "BO"
+  },
+  {
+    "name": "Vallegrande",
+    "country": "BO"
+  },
+  {
+    "name": "Uyuni",
+    "country": "BO"
+  },
+  {
+    "name": "Urubich\u00e1",
+    "country": "BO"
+  },
+  {
+    "name": "Tupiza",
+    "country": "BO"
+  },
+  {
+    "name": "Trinidad",
+    "country": "BO"
+  },
+  {
+    "name": "Totoral",
+    "country": "BO"
+  },
+  {
+    "name": "Totora",
+    "country": "BO"
+  },
+  {
+    "name": "Provincia Tomina",
+    "country": "BO"
+  },
+  {
+    "name": "Tomina",
+    "country": "BO"
+  },
+  {
+    "name": "Eucaliptus",
+    "country": "BO"
+  },
+  {
+    "name": "Tolomosita",
+    "country": "BO"
+  },
+  {
+    "name": "Tiahuanaco",
+    "country": "BO"
+  },
+  {
+    "name": "Departamento de Tarija",
+    "country": "BO"
+  },
+  {
+    "name": "Tarija",
+    "country": "BO"
+  },
+  {
+    "name": "Tarata",
+    "country": "BO"
+  },
+  {
+    "name": "Tarabuco",
+    "country": "BO"
+  },
+  {
+    "name": "Sur Cinti",
+    "country": "BO"
+  },
+  {
+    "name": "Sucre",
+    "country": "BO"
+  },
+  {
+    "name": "Sotomayor",
+    "country": "BO"
+  },
+  {
+    "name": "Sorata",
+    "country": "BO"
+  },
+  {
+    "name": "Sipe Sipe",
+    "country": "BO"
+  },
+  {
+    "name": "Sapirangui",
+    "country": "BO"
+  },
+  {
+    "name": "Santiago del Torno",
+    "country": "BO"
+  },
+  {
+    "name": "Santa Rosa",
+    "country": "BO"
+  },
+  {
+    "name": "Santa Rita",
+    "country": "BO"
+  },
+  {
+    "name": "Santa Elena",
+    "country": "BO"
+  },
+  {
+    "name": "Santa Cruz de la Sierra",
+    "country": "BO"
+  },
+  {
+    "name": "Departamento de Santa Cruz",
+    "country": "BO"
+  },
+  {
+    "name": "Santa B\u00e1rbara",
+    "country": "BO"
+  },
+  {
+    "name": "Santa Ana de Yacuma",
+    "country": "BO"
+  },
+  {
+    "name": "San Ram\u00f3n",
+    "country": "BO"
+  },
+  {
+    "name": "San Pedro",
+    "country": "BO"
+  },
+  {
+    "name": "San Pedro",
+    "country": "BO"
+  },
+  {
+    "name": "San Pablo",
+    "country": "BO"
+  },
+  {
+    "name": "San Julian",
+    "country": "BO"
+  },
+  {
+    "name": "San Juan del Surut\u00fa",
+    "country": "BO"
+  },
+  {
+    "name": "San Juan",
+    "country": "BO"
+  },
+  {
+    "name": "San Jos\u00e9 de Chiquitos",
+    "country": "BO"
+  },
+  {
+    "name": "San Ignacio de Velasco",
+    "country": "BO"
+  },
+  {
+    "name": "San Francisco",
+    "country": "BO"
+  },
+  {
+    "name": "San Carlos",
+    "country": "BO"
+  },
+  {
+    "name": "San Borja",
+    "country": "BO"
+  },
+  {
+    "name": "San Aurelio",
+    "country": "BO"
+  },
+  {
+    "name": "Samaipata",
+    "country": "BO"
+  },
+  {
+    "name": "Salitre",
+    "country": "BO"
+  },
+  {
+    "name": "Sacaba",
+    "country": "BO"
+  },
+  {
+    "name": "Rurrenabaque",
+    "country": "BO"
+  },
+  {
+    "name": "Rosario del Ingre",
+    "country": "BO"
+  },
+  {
+    "name": "Riberalta",
+    "country": "BO"
+  },
+  {
+    "name": "Reyes",
+    "country": "BO"
+  },
+  {
+    "name": "Quime",
+    "country": "BO"
+  },
+  {
+    "name": "Quillacollo",
+    "country": "BO"
+  },
+  {
+    "name": "Punata",
+    "country": "BO"
+  },
+  {
+    "name": "Pulqui",
+    "country": "BO"
+  },
+  {
+    "name": "Puesto de Pailas",
+    "country": "BO"
+  },
+  {
+    "name": "Pucara Chico",
+    "country": "BO"
+  },
+  {
+    "name": "Presto",
+    "country": "BO"
+  },
+  {
+    "name": "Departamento de Potos\u00ed",
+    "country": "BO"
+  },
+  {
+    "name": "Potos\u00ed",
+    "country": "BO"
+  },
+  {
+    "name": "Potolo",
+    "country": "BO"
+  },
+  {
+    "name": "Portachuelo",
+    "country": "BO"
+  },
+  {
+    "name": "Poop\u00f3",
+    "country": "BO"
+  },
+  {
+    "name": "Pocpo",
+    "country": "BO"
+  },
+  {
+    "name": "Piocera",
+    "country": "BO"
+  },
+  {
+    "name": "Pilaya",
+    "country": "BO"
+  },
+  {
+    "name": "Patacamaya",
+    "country": "BO"
+  },
+  {
+    "name": "Paso",
+    "country": "BO"
+  },
+  {
+    "name": "Para\u00edso",
+    "country": "BO"
+  },
+  {
+    "name": "Departamento de Pando",
+    "country": "BO"
+  },
+  {
+    "name": "Palca",
+    "country": "BO"
+  },
+  {
+    "name": "Pail\u00f3n",
+    "country": "BO"
+  },
+  {
+    "name": "Pail\u00f3n",
+    "country": "BO"
+  },
+  {
+    "name": "Padilla",
+    "country": "BO"
+  },
+  {
+    "name": "Departamento de Oruro",
+    "country": "BO"
+  },
+  {
+    "name": "Oruro",
+    "country": "BO"
+  },
+  {
+    "name": "Provincia Oropeza",
+    "country": "BO"
+  },
+  {
+    "name": "Okinawa N\u00famero Uno",
+    "country": "BO"
+  },
+  {
+    "name": "Provincia Nor Cinti",
+    "country": "BO"
+  },
+  {
+    "name": "Montero",
+    "country": "BO"
+  },
+  {
+    "name": "Monteagudo",
+    "country": "BO"
+  },
+  {
+    "name": "Mojotoro",
+    "country": "BO"
+  },
+  {
+    "name": "Mojocoya",
+    "country": "BO"
+  },
+  {
+    "name": "Mizque",
+    "country": "BO"
+  },
+  {
+    "name": "Mineros",
+    "country": "BO"
+  },
+  {
+    "name": "Maragua",
+    "country": "BO"
+  },
+  {
+    "name": "Mapiri",
+    "country": "BO"
+  },
+  {
+    "name": "Mairana",
+    "country": "BO"
+  },
+  {
+    "name": "Machacamarca",
+    "country": "BO"
+  },
+  {
+    "name": "Provincia Luis Calvo",
+    "country": "BO"
+  },
+  {
+    "name": "Los Negros",
+    "country": "BO"
+  },
+  {
+    "name": "Llallagua",
+    "country": "BO"
+  },
+  {
+    "name": "Lintaca",
+    "country": "BO"
+  },
+  {
+    "name": "Limoncito",
+    "country": "BO"
+  },
+  {
+    "name": "La Villa",
+    "country": "BO"
+  },
+  {
+    "name": "Las Carreras",
+    "country": "BO"
+  },
+  {
+    "name": "Las Carreras",
+    "country": "BO"
+  },
+  {
+    "name": "Departamento de La Paz",
+    "country": "BO"
+  },
+  {
+    "name": "La Paz",
+    "country": "BO"
+  },
+  {
+    "name": "Lahuachaca",
+    "country": "BO"
+  },
+  {
+    "name": "La Cueva",
+    "country": "BO"
+  },
+  {
+    "name": "La B\u00e9lgica",
+    "country": "BO"
+  },
+  {
+    "name": "La Barraca",
+    "country": "BO"
+  },
+  {
+    "name": "Jorochito",
+    "country": "BO"
+  },
+  {
+    "name": "Yumani",
+    "country": "BO"
+  },
+  {
+    "name": "Irpa Irpa",
+    "country": "BO"
+  },
+  {
+    "name": "Huayllas",
+    "country": "BO"
+  },
+  {
+    "name": "Huatajata",
+    "country": "BO"
+  },
+  {
+    "name": "Huata",
+    "country": "BO"
+  },
+  {
+    "name": "Huanuni",
+    "country": "BO"
+  },
+  {
+    "name": "Huajlaya",
+    "country": "BO"
+  },
+  {
+    "name": "Provincia Hernando Siles",
+    "country": "BO"
+  },
+  {
+    "name": "Guayaramer\u00edn",
+    "country": "BO"
+  },
+  {
+    "name": "Guachara",
+    "country": "BO"
+  },
+  {
+    "name": "Estancia Kharachi Pampa",
+    "country": "BO"
+  },
+  {
+    "name": "Estancia Jiltata",
+    "country": "BO"
+  },
+  {
+    "name": "Entre R\u00edos",
+    "country": "BO"
+  },
+  {
+    "name": "El Tejar",
+    "country": "BO"
+  },
+  {
+    "name": "El Carmen",
+    "country": "BO"
+  },
+  {
+    "name": "Dolorosa",
+    "country": "BO"
+  },
+  {
+    "name": "Culpina",
+    "country": "BO"
+  },
+  {
+    "name": "Cotoca",
+    "country": "BO"
+  },
+  {
+    "name": "Coroico",
+    "country": "BO"
+  },
+  {
+    "name": "Coripata",
+    "country": "BO"
+  },
+  {
+    "name": "Concepci\u00f3n",
+    "country": "BO"
+  },
+  {
+    "name": "Concepci\u00f3n",
+    "country": "BO"
+  },
+  {
+    "name": "Comunidad Sutunuqui\u00f1a",
+    "country": "BO"
+  },
+  {
+    "name": "La Maica",
+    "country": "BO"
+  },
+  {
+    "name": "Comarapa",
+    "country": "BO"
+  },
+  {
+    "name": "Colquiri",
+    "country": "BO"
+  },
+  {
+    "name": "Colquechaca",
+    "country": "BO"
+  },
+  {
+    "name": "Colomi",
+    "country": "BO"
+  },
+  {
+    "name": "Colchani",
+    "country": "BO"
+  },
+  {
+    "name": "Colchani",
+    "country": "BO"
+  },
+  {
+    "name": "Departamento de Cochabamba",
+    "country": "BO"
+  },
+  {
+    "name": "Cochabamba",
+    "country": "BO"
+  },
+  {
+    "name": "Cobija",
+    "country": "BO"
+  },
+  {
+    "name": "Cliza",
+    "country": "BO"
+  },
+  {
+    "name": "Departamento de Chuquisaca",
+    "country": "BO"
+  },
+  {
+    "name": "Chuqui Chuqui",
+    "country": "BO"
+  },
+  {
+    "name": "Chulumani",
+    "country": "BO"
+  },
+  {
+    "name": "Chulumani",
+    "country": "BO"
+  },
+  {
+    "name": "Choreti",
+    "country": "BO"
+  },
+  {
+    "name": "Chimor\u00e9",
+    "country": "BO"
+  },
+  {
+    "name": "Chaunaca",
+    "country": "BO"
+  },
+  {
+    "name": "Charagua",
+    "country": "BO"
+  },
+  {
+    "name": "Chan\u00e9 Abajo",
+    "country": "BO"
+  },
+  {
+    "name": "Challapata",
+    "country": "BO"
+  },
+  {
+    "name": "Carandayti",
+    "country": "BO"
+  },
+  {
+    "name": "Caranavi",
+    "country": "BO"
+  },
+  {
+    "name": "Capinota",
+    "country": "BO"
+  },
+  {
+    "name": "Camiri",
+    "country": "BO"
+  },
+  {
+    "name": "Camatindi",
+    "country": "BO"
+  },
+  {
+    "name": "Camargo",
+    "country": "BO"
+  },
+  {
+    "name": "Caipitandi",
+    "country": "BO"
+  },
+  {
+    "name": "Buena Vista",
+    "country": "BO"
+  },
+  {
+    "name": "Boyuibe",
+    "country": "BO"
+  },
+  {
+    "name": "Plurinational State of Bolivia",
+    "country": "BO"
+  },
+  {
+    "name": "Betanzos",
+    "country": "BO"
+  },
+  {
+    "name": "Bermejo",
+    "country": "BO"
+  },
+  {
+    "name": "El Beni",
+    "country": "BO"
+  },
+  {
+    "name": "Provincia Belisario Boeto",
+    "country": "BO"
+  },
+  {
+    "name": "Provincia Azurduy",
+    "country": "BO"
+  },
+  {
+    "name": "Azurduy",
+    "country": "BO"
+  },
+  {
+    "name": "Atocha",
+    "country": "BO"
+  },
+  {
+    "name": "Ascensi\u00f3n",
+    "country": "BO"
+  },
+  {
+    "name": "Arani",
+    "country": "BO"
+  },
+  {
+    "name": "Apolo",
+    "country": "BO"
+  },
+  {
+    "name": "Ancoraimes",
+    "country": "BO"
+  },
+  {
+    "name": "Aiquile",
+    "country": "BO"
+  },
+  {
+    "name": "Aguilar",
+    "country": "BO"
+  },
+  {
+    "name": "Achacachi",
+    "country": "BO"
+  },
+  {
+    "name": "Abap\u00f3",
+    "country": "BO"
+  },
+  {
+    "name": "Villa Madrecita",
+    "country": "BO"
+  },
+  {
+    "name": "Villa Pacajes",
+    "country": "BO"
+  },
+  {
+    "name": "Camargo",
+    "country": "BO"
+  },
+  {
+    "name": "Culpina",
+    "country": "BO"
+  },
+  {
+    "name": "Huacareta",
+    "country": "BO"
+  },
+  {
+    "name": "Incahuasi",
+    "country": "BO"
+  },
+  {
+    "name": "Las Carreras",
+    "country": "BO"
+  },
+  {
+    "name": "Macharet\u00ed",
+    "country": "BO"
+  },
+  {
+    "name": "Mojocoya",
+    "country": "BO"
+  },
+  {
+    "name": "Poroma",
+    "country": "BO"
+  },
+  {
+    "name": "Presto",
+    "country": "BO"
+  },
+  {
+    "name": "Sucre (Capital)",
+    "country": "BO"
+  },
+  {
+    "name": "Tarabuco",
+    "country": "BO"
+  },
+  {
+    "name": "Tarvita (Villa Or\u00edas)",
+    "country": "BO"
+  },
+  {
+    "name": "Tomina",
+    "country": "BO"
+  },
+  {
+    "name": "Villa Azurduy",
+    "country": "BO"
+  },
+  {
+    "name": "Villa Serrano",
+    "country": "BO"
+  },
+  {
+    "name": "Villa Vaca Guzm\u00e1n (Muyupampa)",
+    "country": "BO"
+  },
+  {
+    "name": "Yampar\u00e1ez",
+    "country": "BO"
+  },
+  {
+    "name": "Yotala",
+    "country": "BO"
+  },
+  {
+    "name": "Yotala",
+    "country": "BO"
+  },
+  {
+    "name": "Huayllas",
+    "country": "BO"
+  },
+  {
+    "name": "La Cueva",
+    "country": "BO"
+  },
+  {
+    "name": "San Francisco",
+    "country": "BO"
+  },
+  {
+    "name": "Tomina",
+    "country": "BO"
+  },
+  {
+    "name": "Maragua",
+    "country": "BO"
+  },
+  {
+    "name": "Pocpo",
+    "country": "BO"
+  },
+  {
+    "name": "Lintaca",
+    "country": "BO"
+  },
+  {
+    "name": "Sapirangui",
+    "country": "BO"
+  },
+  {
+    "name": "Mojotoro",
+    "country": "BO"
+  },
+  {
+    "name": "Chuqui Chuqui",
+    "country": "BO"
+  },
+  {
+    "name": "Pilaya",
+    "country": "BO"
+  },
+  {
+    "name": "Carandayti",
+    "country": "BO"
+  },
+  {
+    "name": "Huata",
+    "country": "BO"
+  },
+  {
+    "name": "San Pedro",
+    "country": "BO"
+  },
+  {
+    "name": "Camatindi",
+    "country": "BO"
+  },
+  {
+    "name": "Azurduy",
+    "country": "BO"
+  },
+  {
+    "name": "Tarabuco",
+    "country": "BO"
+  },
+  {
+    "name": "Camargo",
+    "country": "BO"
+  },
+  {
+    "name": "Potolo",
+    "country": "BO"
+  },
+  {
+    "name": "San Juan",
+    "country": "BO"
+  },
+  {
+    "name": "Huajlaya",
+    "country": "BO"
+  },
+  {
+    "name": "Culpina",
+    "country": "BO"
+  },
+  {
+    "name": "Santa Elena",
+    "country": "BO"
+  },
+  {
+    "name": "Piocera",
+    "country": "BO"
+  },
+  {
+    "name": "Chaunaca",
+    "country": "BO"
+  },
+  {
+    "name": "Pulqui",
+    "country": "BO"
+  },
+  {
+    "name": "Rosario del Ingre",
+    "country": "BO"
+  },
+  {
+    "name": "Presto",
+    "country": "BO"
+  },
+  {
+    "name": "Mojocoya",
+    "country": "BO"
+  },
+  {
+    "name": "Sotomayor",
+    "country": "BO"
+  },
+  {
+    "name": "Salitre",
+    "country": "BO"
+  },
+  {
+    "name": "Las Carreras",
+    "country": "BO"
+  },
+  {
+    "name": "Muyurina",
+    "country": "BO"
+  },
+  {
+    "name": "El Trompillo",
+    "country": "BO"
+  }
+]

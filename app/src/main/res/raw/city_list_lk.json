@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Western Province",
+    "country": "LK"
+  },
+  {
+    "name": "Weragampita",
+    "country": "LK"
+  },
+  {
+    "name": "Welisara",
+    "country": "LK"
+  },
+  {
+    "name": "Weligama",
+    "country": "LK"
+  },
+  {
+    "name": "Wattegama",
+    "country": "LK"
+  },
+  {
+    "name": "Wattala",
+    "country": "LK"
+  },
+  {
+    "name": "Vavuniya",
+    "country": "LK"
+  },
+  {
+    "name": "Valvedditturai",
+    "country": "LK"
+  },
+  {
+    "name": "Province of Uva",
+    "country": "LK"
+  },
+  {
+    "name": "Trincomalee",
+    "country": "LK"
+  },
+  {
+    "name": "Tirukkalkudah",
+    "country": "LK"
+  },
+  {
+    "name": "Timbirigasyaya",
+    "country": "LK"
+  },
+  {
+    "name": "Taralanda",
+    "country": "LK"
+  },
+  {
+    "name": "Tangalle",
+    "country": "LK"
+  },
+  {
+    "name": "Tammannekulama",
+    "country": "LK"
+  },
+  {
+    "name": "Talawakele",
+    "country": "LK"
+  },
+  {
+    "name": "Democratic Socialist Republic of Sri Lanka",
+    "country": "LK"
+  },
+  {
+    "name": "Southern Province",
+    "country": "LK"
+  },
+  {
+    "name": "Slave Island",
+    "country": "LK"
+  },
+  {
+    "name": "Sigiriya",
+    "country": "LK"
+  },
+  {
+    "name": "Sabaragamuwa Province",
+    "country": "LK"
+  },
+  {
+    "name": "Ratnapura",
+    "country": "LK"
+  },
+  {
+    "name": "Puttalam",
+    "country": "LK"
+  },
+  {
+    "name": "Puliyadikuda",
+    "country": "LK"
+  },
+  {
+    "name": "Polonnaruwa",
+    "country": "LK"
+  },
+  {
+    "name": "Point Pedro",
+    "country": "LK"
+  },
+  {
+    "name": "Pita Kotte",
+    "country": "LK"
+  },
+  {
+    "name": "Peliyagoda",
+    "country": "LK"
+  },
+  {
+    "name": "Panadura",
+    "country": "LK"
+  },
+  {
+    "name": "Pallimulla",
+    "country": "LK"
+  },
+  {
+    "name": "Nuwara Eliya",
+    "country": "LK"
+  },
+  {
+    "name": "North Western Province",
+    "country": "LK"
+  },
+  {
+    "name": "North Central Province",
+    "country": "LK"
+  },
+  {
+    "name": "New Town",
+    "country": "LK"
+  },
+  {
+    "name": "Negombo",
+    "country": "LK"
+  },
+  {
+    "name": "Mulleriyawa",
+    "country": "LK"
+  },
+  {
+    "name": "Moratuwa",
+    "country": "LK"
+  },
+  {
+    "name": "Monaragala",
+    "country": "LK"
+  },
+  {
+    "name": "Mohottiwatta",
+    "country": "LK"
+  },
+  {
+    "name": "Minuwangoda",
+    "country": "LK"
+  },
+  {
+    "name": "Matara",
+    "country": "LK"
+  },
+  {
+    "name": "Mannar",
+    "country": "LK"
+  },
+  {
+    "name": "Maharagama",
+    "country": "LK"
+  },
+  {
+    "name": "Kurunegala",
+    "country": "LK"
+  },
+  {
+    "name": "Kumbalwella",
+    "country": "LK"
+  },
+  {
+    "name": "Kuliyapitiya",
+    "country": "LK"
+  },
+  {
+    "name": "Sri Jayewardenepura Kotte",
+    "country": "LK"
+  },
+  {
+    "name": "Kotikawatta",
+    "country": "LK"
+  },
+  {
+    "name": "Kolonnawa",
+    "country": "LK"
+  },
+  {
+    "name": "Kilinochchi",
+    "country": "LK"
+  },
+  {
+    "name": "Kelaniya",
+    "country": "LK"
+  },
+  {
+    "name": "Katunayaka",
+    "country": "LK"
+  },
+  {
+    "name": "Kandy",
+    "country": "LK"
+  },
+  {
+    "name": "Kandana",
+    "country": "LK"
+  },
+  {
+    "name": "Kalutara",
+    "country": "LK"
+  },
+  {
+    "name": "Kalmunai",
+    "country": "LK"
+  },
+  {
+    "name": "Kallady",
+    "country": "LK"
+  },
+  {
+    "name": "Kadugannawa",
+    "country": "LK"
+  },
+  {
+    "name": "Jaffna",
+    "country": "LK"
+  },
+  {
+    "name": "Ja Ela",
+    "country": "LK"
+  },
+  {
+    "name": "Horana South",
+    "country": "LK"
+  },
+  {
+    "name": "Homagama",
+    "country": "LK"
+  },
+  {
+    "name": "Hingurakgoda",
+    "country": "LK"
+  },
+  {
+    "name": "Hikkaduwa",
+    "country": "LK"
+  },
+  {
+    "name": "Hendala",
+    "country": "LK"
+  },
+  {
+    "name": "Hatton",
+    "country": "LK"
+  },
+  {
+    "name": "Haputale",
+    "country": "LK"
+  },
+  {
+    "name": "Hanwella Ihala",
+    "country": "LK"
+  },
+  {
+    "name": "Hambantota",
+    "country": "LK"
+  },
+  {
+    "name": "Gampola",
+    "country": "LK"
+  },
+  {
+    "name": "Gampaha",
+    "country": "LK"
+  },
+  {
+    "name": "Galle",
+    "country": "LK"
+  },
+  {
+    "name": "Galkissa",
+    "country": "LK"
+  },
+  {
+    "name": "Eravur Town",
+    "country": "LK"
+  },
+  {
+    "name": "Dambulla",
+    "country": "LK"
+  },
+  {
+    "name": "Colombo",
+    "country": "LK"
+  },
+  {
+    "name": "Chilaw",
+    "country": "LK"
+  },
+  {
+    "name": "Central Province",
+    "country": "LK"
+  },
+  {
+    "name": "Beruwala",
+    "country": "LK"
+  },
+  {
+    "name": "Bentota",
+    "country": "LK"
+  },
+  {
+    "name": "Batticaloa",
+    "country": "LK"
+  },
+  {
+    "name": "Battaramulla South",
+    "country": "LK"
+  },
+  {
+    "name": "Badulla",
+    "country": "LK"
+  },
+  {
+    "name": "Anuradhapura",
+    "country": "LK"
+  },
+  {
+    "name": "Ampara",
+    "country": "LK"
+  },
+  {
+    "name": "Ambalangoda",
+    "country": "LK"
+  },
+  {
+    "name": "Horawala Junction",
+    "country": "LK"
+  },
+  {
+    "name": "Nekathkumbura",
+    "country": "LK"
+  },
+  {
+    "name": "Bandara Bulankulama",
+    "country": "LK"
+  },
+  {
+    "name": "Puthoor",
+    "country": "LK"
+  },
+  {
+    "name": "Goluwapokuna",
+    "country": "LK"
+  },
+  {
+    "name": "Venture Colony",
+    "country": "LK"
+  },
+  {
+    "name": "Northern Province",
+    "country": "LK"
+  },
+  {
+    "name": "Eastern Province",
+    "country": "LK"
+  },
+  {
+    "name": "Shanjeev Home",
+    "country": "LK"
+  }
+]

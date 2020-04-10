@@ -1,0 +1,526 @@
+[
+  {
+    "name": "Yala",
+    "country": "KE"
+  },
+  {
+    "name": "Wundanyi",
+    "country": "KE"
+  },
+  {
+    "name": "Wote",
+    "country": "KE"
+  },
+  {
+    "name": "Witu",
+    "country": "KE"
+  },
+  {
+    "name": "Webuye",
+    "country": "KE"
+  },
+  {
+    "name": "Wajir",
+    "country": "KE"
+  },
+  {
+    "name": "Voi",
+    "country": "KE"
+  },
+  {
+    "name": "Timau",
+    "country": "KE"
+  },
+  {
+    "name": "Thika",
+    "country": "KE"
+  },
+  {
+    "name": "Taveta",
+    "country": "KE"
+  },
+  {
+    "name": "Takaungu",
+    "country": "KE"
+  },
+  {
+    "name": "Sotik",
+    "country": "KE"
+  },
+  {
+    "name": "Shimoni",
+    "country": "KE"
+  },
+  {
+    "name": "Sawa Sawa",
+    "country": "KE"
+  },
+  {
+    "name": "Sagana",
+    "country": "KE"
+  },
+  {
+    "name": "Rumuruti",
+    "country": "KE"
+  },
+  {
+    "name": "Rongai",
+    "country": "KE"
+  },
+  {
+    "name": "Rambara",
+    "country": "KE"
+  },
+  {
+    "name": "Poka",
+    "country": "KE"
+  },
+  {
+    "name": "Parklands",
+    "country": "KE"
+  },
+  {
+    "name": "Oyugis",
+    "country": "KE"
+  },
+  {
+    "name": "Othaya",
+    "country": "KE"
+  },
+  {
+    "name": "Old Mombasa",
+    "country": "KE"
+  },
+  {
+    "name": "Ogembo",
+    "country": "KE"
+  },
+  {
+    "name": "Nyeri",
+    "country": "KE"
+  },
+  {
+    "name": "Nyanza Province",
+    "country": "KE"
+  },
+  {
+    "name": "Nyahururu",
+    "country": "KE"
+  },
+  {
+    "name": "Ngong",
+    "country": "KE"
+  },
+  {
+    "name": "Nginda",
+    "country": "KE"
+  },
+  {
+    "name": "Naro Moru",
+    "country": "KE"
+  },
+  {
+    "name": "Narok",
+    "country": "KE"
+  },
+  {
+    "name": "Nanyuki",
+    "country": "KE"
+  },
+  {
+    "name": "Nandi Hills",
+    "country": "KE"
+  },
+  {
+    "name": "Nambare",
+    "country": "KE"
+  },
+  {
+    "name": "Namanga",
+    "country": "KE"
+  },
+  {
+    "name": "Nakuru",
+    "country": "KE"
+  },
+  {
+    "name": "Naivasha",
+    "country": "KE"
+  },
+  {
+    "name": "Nairobi South",
+    "country": "KE"
+  },
+  {
+    "name": "Nairobi",
+    "country": "KE"
+  },
+  {
+    "name": "Nairobi",
+    "country": "KE"
+  },
+  {
+    "name": "Mwingi",
+    "country": "KE"
+  },
+  {
+    "name": "Murang\u2019a",
+    "country": "KE"
+  },
+  {
+    "name": "Mumias",
+    "country": "KE"
+  },
+  {
+    "name": "Muhoroni",
+    "country": "KE"
+  },
+  {
+    "name": "Mtito Andei",
+    "country": "KE"
+  },
+  {
+    "name": "Moyale",
+    "country": "KE"
+  },
+  {
+    "name": "Mombasa",
+    "country": "KE"
+  },
+  {
+    "name": "Molo",
+    "country": "KE"
+  },
+  {
+    "name": "Miti ya Hunter",
+    "country": "KE"
+  },
+  {
+    "name": "Migori",
+    "country": "KE"
+  },
+  {
+    "name": "Meru",
+    "country": "KE"
+  },
+  {
+    "name": "Maua",
+    "country": "KE"
+  },
+  {
+    "name": "Marsabit",
+    "country": "KE"
+  },
+  {
+    "name": "Mariakani",
+    "country": "KE"
+  },
+  {
+    "name": "Maralal",
+    "country": "KE"
+  },
+  {
+    "name": "Maragua",
+    "country": "KE"
+  },
+  {
+    "name": "Mandera",
+    "country": "KE"
+  },
+  {
+    "name": "Malindi",
+    "country": "KE"
+  },
+  {
+    "name": "Malikisi",
+    "country": "KE"
+  },
+  {
+    "name": "Malanga",
+    "country": "KE"
+  },
+  {
+    "name": "Malaba",
+    "country": "KE"
+  },
+  {
+    "name": "Makueni Boma",
+    "country": "KE"
+  },
+  {
+    "name": "Makinyambu",
+    "country": "KE"
+  },
+  {
+    "name": "Magadi",
+    "country": "KE"
+  },
+  {
+    "name": "Machakos",
+    "country": "KE"
+  },
+  {
+    "name": "Kipkelion",
+    "country": "KE"
+  },
+  {
+    "name": "Lugulu",
+    "country": "KE"
+  },
+  {
+    "name": "Luanda",
+    "country": "KE"
+  },
+  {
+    "name": "Londiani",
+    "country": "KE"
+  },
+  {
+    "name": "Lodwar",
+    "country": "KE"
+  },
+  {
+    "name": "Litein",
+    "country": "KE"
+  },
+  {
+    "name": "Limuru",
+    "country": "KE"
+  },
+  {
+    "name": "Lemek",
+    "country": "KE"
+  },
+  {
+    "name": "Lamu",
+    "country": "KE"
+  },
+  {
+    "name": "Lake View Estate",
+    "country": "KE"
+  },
+  {
+    "name": "Kwale",
+    "country": "KE"
+  },
+  {
+    "name": "Kwa Jomvu",
+    "country": "KE"
+  },
+  {
+    "name": "Konza",
+    "country": "KE"
+  },
+  {
+    "name": "Kitui",
+    "country": "KE"
+  },
+  {
+    "name": "Kitale",
+    "country": "KE"
+  },
+  {
+    "name": "Kisumu",
+    "country": "KE"
+  },
+  {
+    "name": "Kisii",
+    "country": "KE"
+  },
+  {
+    "name": "Kipini",
+    "country": "KE"
+  },
+  {
+    "name": "Kinango",
+    "country": "KE"
+  },
+  {
+    "name": "Kihancha",
+    "country": "KE"
+  },
+  {
+    "name": "Kilifi",
+    "country": "KE"
+  },
+  {
+    "name": "Kikuyu",
+    "country": "KE"
+  },
+  {
+    "name": "Kijabe",
+    "country": "KE"
+  },
+  {
+    "name": "Kiganjo",
+    "country": "KE"
+  },
+  {
+    "name": "Kiambu",
+    "country": "KE"
+  },
+  {
+    "name": "Kerugoya",
+    "country": "KE"
+  },
+  {
+    "name": "Keroka",
+    "country": "KE"
+  },
+  {
+    "name": "Kericho",
+    "country": "KE"
+  },
+  {
+    "name": "Republic of Kenya",
+    "country": "KE"
+  },
+  {
+    "name": "Karuri",
+    "country": "KE"
+  },
+  {
+    "name": "Kapsuset",
+    "country": "KE"
+  },
+  {
+    "name": "Kapsabet",
+    "country": "KE"
+  },
+  {
+    "name": "Kangundo",
+    "country": "KE"
+  },
+  {
+    "name": "Kangema",
+    "country": "KE"
+  },
+  {
+    "name": "Kamweri Forest Station",
+    "country": "KE"
+  },
+  {
+    "name": "Kakamega",
+    "country": "KE"
+  },
+  {
+    "name": "Kajiado",
+    "country": "KE"
+  },
+  {
+    "name": "Kabarnet",
+    "country": "KE"
+  },
+  {
+    "name": "Isiolo",
+    "country": "KE"
+  },
+  {
+    "name": "Homa Lime Kowuor",
+    "country": "KE"
+  },
+  {
+    "name": "Homa Bay",
+    "country": "KE"
+  },
+  {
+    "name": "Gicheru",
+    "country": "KE"
+  },
+  {
+    "name": "Gazi",
+    "country": "KE"
+  },
+  {
+    "name": "Garissa",
+    "country": "KE"
+  },
+  {
+    "name": "Embakasi",
+    "country": "KE"
+  },
+  {
+    "name": "Embu",
+    "country": "KE"
+  },
+  {
+    "name": "Eldoret",
+    "country": "KE"
+  },
+  {
+    "name": "Eldama Ravine",
+    "country": "KE"
+  },
+  {
+    "name": "Chuka",
+    "country": "KE"
+  },
+  {
+    "name": "Chepareria",
+    "country": "KE"
+  },
+  {
+    "name": "Butere",
+    "country": "KE"
+  },
+  {
+    "name": "Burji",
+    "country": "KE"
+  },
+  {
+    "name": "Port Victoria",
+    "country": "KE"
+  },
+  {
+    "name": "Bungoma",
+    "country": "KE"
+  },
+  {
+    "name": "Bondo",
+    "country": "KE"
+  },
+  {
+    "name": "Sotik Post",
+    "country": "KE"
+  },
+  {
+    "name": "Baringo",
+    "country": "KE"
+  },
+  {
+    "name": "Athi River",
+    "country": "KE"
+  },
+  {
+    "name": "Ahero",
+    "country": "KE"
+  },
+  {
+    "name": "Siaya",
+    "country": "KE"
+  },
+  {
+    "name": "Coast Province",
+    "country": "KE"
+  },
+  {
+    "name": "Eastern Province",
+    "country": "KE"
+  },
+  {
+    "name": "Central Province",
+    "country": "KE"
+  },
+  {
+    "name": "Western Province",
+    "country": "KE"
+  },
+  {
+    "name": "Rift Valley Province",
+    "country": "KE"
+  },
+  {
+    "name": "North Eastern Province",
+    "country": "KE"
+  }
+]

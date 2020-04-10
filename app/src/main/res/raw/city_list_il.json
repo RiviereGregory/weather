@@ -1,0 +1,858 @@
+[
+  {
+    "name": "Jerusalem",
+    "country": "IL"
+  },
+  {
+    "name": "Har Adar",
+    "country": "IL"
+  },
+  {
+    "name": "Beit \u1e62af\u0101f\u0101",
+    "country": "IL"
+  },
+  {
+    "name": "\u1e94ur Moshe",
+    "country": "IL"
+  },
+  {
+    "name": "\u1e94ur Hadassa",
+    "country": "IL"
+  },
+  {
+    "name": "Safed",
+    "country": "IL"
+  },
+  {
+    "name": "Yotvata",
+    "country": "IL"
+  },
+  {
+    "name": "Yoqne\u2018am \u2018Illit",
+    "country": "IL"
+  },
+  {
+    "name": "Yodefat",
+    "country": "IL"
+  },
+  {
+    "name": "Yirk\u0101",
+    "country": "IL"
+  },
+  {
+    "name": "Jerusalem",
+    "country": "IL"
+  },
+  {
+    "name": "Yero\u1e96am",
+    "country": "IL"
+  },
+  {
+    "name": "Yavne\u2019el",
+    "country": "IL"
+  },
+  {
+    "name": "Yavn\u00e9",
+    "country": "IL"
+  },
+  {
+    "name": "Jaffa",
+    "country": "IL"
+  },
+  {
+    "name": "Yad H\u0331anna",
+    "country": "IL"
+  },
+  {
+    "name": "\u2018Uzeir",
+    "country": "IL"
+  },
+  {
+    "name": "Urim",
+    "country": "IL"
+  },
+  {
+    "name": "Umm el Fa\u1e25m",
+    "country": "IL"
+  },
+  {
+    "name": "Tirat \u1e94evi",
+    "country": "IL"
+  },
+  {
+    "name": "Tirat Karmel",
+    "country": "IL"
+  },
+  {
+    "name": "Timrat",
+    "country": "IL"
+  },
+  {
+    "name": "Tiberias",
+    "country": "IL"
+  },
+  {
+    "name": "Tequma",
+    "country": "IL"
+  },
+  {
+    "name": "Tel Mond",
+    "country": "IL"
+  },
+  {
+    "name": "Tel Litwinsky",
+    "country": "IL"
+  },
+  {
+    "name": "Tel H\u0331anan",
+    "country": "IL"
+  },
+  {
+    "name": "Tel Aviv District",
+    "country": "IL"
+  },
+  {
+    "name": "Tel Aviv",
+    "country": "IL"
+  },
+  {
+    "name": "maalot Tarsh\u012bh\u0101",
+    "country": "IL"
+  },
+  {
+    "name": "Tamra",
+    "country": "IL"
+  },
+  {
+    "name": "Talme Menashe",
+    "country": "IL"
+  },
+  {
+    "name": "S\u016blam",
+    "country": "IL"
+  },
+  {
+    "name": "Shelomi",
+    "country": "IL"
+  },
+  {
+    "name": "Sederot",
+    "country": "IL"
+  },
+  {
+    "name": "Savyon",
+    "country": "IL"
+  },
+  {
+    "name": "Sakhn\u012bn",
+    "country": "IL"
+  },
+  {
+    "name": "S\u0101j\u016br",
+    "country": "IL"
+  },
+  {
+    "name": "Ru\u1e96ama",
+    "country": "IL"
+  },
+  {
+    "name": "Rosh Pinna",
+    "country": "IL"
+  },
+  {
+    "name": "Rosh Ha\u2018Ayin",
+    "country": "IL"
+  },
+  {
+    "name": "Rishon Le\u1e94iyyon",
+    "country": "IL"
+  },
+  {
+    "name": "Rekhasim",
+    "country": "IL"
+  },
+  {
+    "name": "Re\u1e96ovot",
+    "country": "IL"
+  },
+  {
+    "name": "Ramla",
+    "country": "IL"
+  },
+  {
+    "name": "Ramat Yishay",
+    "country": "IL"
+  },
+  {
+    "name": "Ramat HaSharon",
+    "country": "IL"
+  },
+  {
+    "name": "Ramat Gan",
+    "country": "IL"
+  },
+  {
+    "name": "Ramat Aviv",
+    "country": "IL"
+  },
+  {
+    "name": "Qiryat Yam",
+    "country": "IL"
+  },
+  {
+    "name": "Qiryat Tiv\u2018on",
+    "country": "IL"
+  },
+  {
+    "name": "Qiryat Shemu\u2019el",
+    "country": "IL"
+  },
+  {
+    "name": "Qiryat Shemona",
+    "country": "IL"
+  },
+  {
+    "name": "Qiryat Mo\u1e95qin",
+    "country": "IL"
+  },
+  {
+    "name": "Qiryat H\u0331ayyim",
+    "country": "IL"
+  },
+  {
+    "name": "Kiryat Gat",
+    "country": "IL"
+  },
+  {
+    "name": "Qiryat Bialik",
+    "country": "IL"
+  },
+  {
+    "name": "Qiryat Ata",
+    "country": "IL"
+  },
+  {
+    "name": "Qevu\u1e95at Yavne",
+    "country": "IL"
+  },
+  {
+    "name": "Qalansuwa",
+    "country": "IL"
+  },
+  {
+    "name": "Peta\u1e96 Tiqwa",
+    "country": "IL"
+  },
+  {
+    "name": "Pardesiyya",
+    "country": "IL"
+  },
+  {
+    "name": "Pard\u00e9s H\u0331anna Karkur",
+    "country": "IL"
+  },
+  {
+    "name": "Or Yehuda",
+    "country": "IL"
+  },
+  {
+    "name": "Orot",
+    "country": "IL"
+  },
+  {
+    "name": "Or Akiva",
+    "country": "IL"
+  },
+  {
+    "name": "Qiryat Ono",
+    "country": "IL"
+  },
+  {
+    "name": "Ofaqim",
+    "country": "IL"
+  },
+  {
+    "name": "Nordiyya",
+    "country": "IL"
+  },
+  {
+    "name": "Nirim",
+    "country": "IL"
+  },
+  {
+    "name": "Nir\u2018am",
+    "country": "IL"
+  },
+  {
+    "name": "New\u00e9 \u1e94edeq",
+    "country": "IL"
+  },
+  {
+    "name": "Neve Efrayim",
+    "country": "IL"
+  },
+  {
+    "name": "Nevatim",
+    "country": "IL"
+  },
+  {
+    "name": "Netivot",
+    "country": "IL"
+  },
+  {
+    "name": "Netanya",
+    "country": "IL"
+  },
+  {
+    "name": "Ness Ziona",
+    "country": "IL"
+  },
+  {
+    "name": "Nesher",
+    "country": "IL"
+  },
+  {
+    "name": "Nein",
+    "country": "IL"
+  },
+  {
+    "name": "Ne\u1e96alim",
+    "country": "IL"
+  },
+  {
+    "name": "Na\u1e95erat \u2018Illit",
+    "country": "IL"
+  },
+  {
+    "name": "Nazareth",
+    "country": "IL"
+  },
+  {
+    "name": "Na\u1e25f",
+    "country": "IL"
+  },
+  {
+    "name": "Nahariyya",
+    "country": "IL"
+  },
+  {
+    "name": "Mitzpe Ramon",
+    "country": "IL"
+  },
+  {
+    "name": "Mishmar HaNegev",
+    "country": "IL"
+  },
+  {
+    "name": "Mi\u2018ily\u0101",
+    "country": "IL"
+  },
+  {
+    "name": "Migdal Ha\u2018Emeq",
+    "country": "IL"
+  },
+  {
+    "name": "Mevo Betar",
+    "country": "IL"
+  },
+  {
+    "name": "Metulla",
+    "country": "IL"
+  },
+  {
+    "name": "Mazkeret Batya",
+    "country": "IL"
+  },
+  {
+    "name": "Ma\u1e96seya",
+    "country": "IL"
+  },
+  {
+    "name": "Ma\u1e96anayim",
+    "country": "IL"
+  },
+  {
+    "name": "Magh\u0101r",
+    "country": "IL"
+  },
+  {
+    "name": "Ma\u2018agan Mikha\u2019el",
+    "country": "IL"
+  },
+  {
+    "name": "Lod",
+    "country": "IL"
+  },
+  {
+    "name": "Lakhish",
+    "country": "IL"
+  },
+  {
+    "name": "Kefar Yona",
+    "country": "IL"
+  },
+  {
+    "name": "Kefar Vitqin",
+    "country": "IL"
+  },
+  {
+    "name": "Kefar Tavor",
+    "country": "IL"
+  },
+  {
+    "name": "Kefar Shemaryahu",
+    "country": "IL"
+  },
+  {
+    "name": "Kfar Saba",
+    "country": "IL"
+  },
+  {
+    "name": "Kefar H\u0331abad",
+    "country": "IL"
+  },
+  {
+    "name": "Kefar Aharon",
+    "country": "IL"
+  },
+  {
+    "name": "Kaukab Ab\u016b el H\u012bj\u0101",
+    "country": "IL"
+  },
+  {
+    "name": "Karmi\u2019el",
+    "country": "IL"
+  },
+  {
+    "name": "Kfar Yasif",
+    "country": "IL"
+  },
+  {
+    "name": "Kafr Q\u0101sim",
+    "country": "IL"
+  },
+  {
+    "name": "Kafr Mi\u1e63r",
+    "country": "IL"
+  },
+  {
+    "name": "Kafr Mand\u0101",
+    "country": "IL"
+  },
+  {
+    "name": "Kafr Kann\u0101",
+    "country": "IL"
+  },
+  {
+    "name": "Kafr Kamm\u0101",
+    "country": "IL"
+  },
+  {
+    "name": "K\u0101b\u016bl",
+    "country": "IL"
+  },
+  {
+    "name": "Judeida Makr",
+    "country": "IL"
+  },
+  {
+    "name": "J\u012bsh",
+    "country": "IL"
+  },
+  {
+    "name": "Jalj\u016blya",
+    "country": "IL"
+  },
+  {
+    "name": "State of Israel",
+    "country": "IL"
+  },
+  {
+    "name": "Iks\u0101l",
+    "country": "IL"
+  },
+  {
+    "name": "Ib\u1e6d\u012bn",
+    "country": "IL"
+  },
+  {
+    "name": "\u1e24urfeish",
+    "country": "IL"
+  },
+  {
+    "name": "H\u0331olon",
+    "country": "IL"
+  },
+  {
+    "name": "Hod HaSharon",
+    "country": "IL"
+  },
+  {
+    "name": "Her\u1e95liyya B",
+    "country": "IL"
+  },
+  {
+    "name": "Herzliya",
+    "country": "IL"
+  },
+  {
+    "name": "Haifa",
+    "country": "IL"
+  },
+  {
+    "name": "Haifa",
+    "country": "IL"
+  },
+  {
+    "name": "H\u0331a\u1e95erim",
+    "country": "IL"
+  },
+  {
+    "name": "Northern District",
+    "country": "IL"
+  },
+  {
+    "name": "Hartuv",
+    "country": "IL"
+  },
+  {
+    "name": "Central District",
+    "country": "IL"
+  },
+  {
+    "name": "Hadera",
+    "country": "IL"
+  },
+  {
+    "name": "Southern District",
+    "country": "IL"
+  },
+  {
+    "name": "Giv'at Shmuel",
+    "country": "IL"
+  },
+  {
+    "name": "Giv\u2018at Mordekhay",
+    "country": "IL"
+  },
+  {
+    "name": "Givatayim",
+    "country": "IL"
+  },
+  {
+    "name": "Gedera",
+    "country": "IL"
+  },
+  {
+    "name": "Gan Yavne",
+    "country": "IL"
+  },
+  {
+    "name": "Ganei Tikva",
+    "country": "IL"
+  },
+  {
+    "name": "Gal\u2019on",
+    "country": "IL"
+  },
+  {
+    "name": "Pasuta",
+    "country": "IL"
+  },
+  {
+    "name": "Even Yehuda",
+    "country": "IL"
+  },
+  {
+    "name": "Tirah",
+    "country": "IL"
+  },
+  {
+    "name": "E\u1e6d \u1e6caiyiba",
+    "country": "IL"
+  },
+  {
+    "name": "Esh Sheikh Dann\u016bn",
+    "country": "IL"
+  },
+  {
+    "name": "Er Reina",
+    "country": "IL"
+  },
+  {
+    "name": "\u2018En Zetim",
+    "country": "IL"
+  },
+  {
+    "name": "\u2018En Netafim",
+    "country": "IL"
+  },
+  {
+    "name": "\u2018En Boqeq",
+    "country": "IL"
+  },
+  {
+    "name": "Elyakhin",
+    "country": "IL"
+  },
+  {
+    "name": "El Mazra\u2018a",
+    "country": "IL"
+  },
+  {
+    "name": "El Huzaiyil",
+    "country": "IL"
+  },
+  {
+    "name": "El Fureid\u012bs",
+    "country": "IL"
+  },
+  {
+    "name": "Eilat",
+    "country": "IL"
+  },
+  {
+    "name": "\u2018Eilabun",
+    "country": "IL"
+  },
+  {
+    "name": "Dimona",
+    "country": "IL"
+  },
+  {
+    "name": "Deir \u1e24ann\u0101",
+    "country": "IL"
+  },
+  {
+    "name": "Daliyat al Karmel",
+    "country": "IL"
+  },
+  {
+    "name": "Dabb\u016br\u012bya",
+    "country": "IL"
+  },
+  {
+    "name": "Buqei\u2018a",
+    "country": "IL"
+  },
+  {
+    "name": "Bu\u2018eina",
+    "country": "IL"
+  },
+  {
+    "name": "B\u012br el Maks\u016br",
+    "country": "IL"
+  },
+  {
+    "name": "Binyamina",
+    "country": "IL"
+  },
+  {
+    "name": "Bet Yi\u1e95\u1e96aq",
+    "country": "IL"
+  },
+  {
+    "name": "Bet Shemesh",
+    "country": "IL"
+  },
+  {
+    "name": "Bet She\u2019an",
+    "country": "IL"
+  },
+  {
+    "name": "Bet Qama",
+    "country": "IL"
+  },
+  {
+    "name": "Bet \u2018Ezra",
+    "country": "IL"
+  },
+  {
+    "name": "Bet Dagan",
+    "country": "IL"
+  },
+  {
+    "name": "Bnei Brak",
+    "country": "IL"
+  },
+  {
+    "name": "Bnei Ayish",
+    "country": "IL"
+  },
+  {
+    "name": "Beit Jann",
+    "country": "IL"
+  },
+  {
+    "name": "Beersheba",
+    "country": "IL"
+  },
+  {
+    "name": "Bat Yam",
+    "country": "IL"
+  },
+  {
+    "name": "Basmat \u1e6cab\u2018\u016bn",
+    "country": "IL"
+  },
+  {
+    "name": "B\u0101qa el Gharb\u012bya",
+    "country": "IL"
+  },
+  {
+    "name": "\u2018Azriqam",
+    "country": "IL"
+  },
+  {
+    "name": "Azor",
+    "country": "IL"
+  },
+  {
+    "name": "Atlit",
+    "country": "IL"
+  },
+  {
+    "name": "Ashkelon",
+    "country": "IL"
+  },
+  {
+    "name": "Ashdod",
+    "country": "IL"
+  },
+  {
+    "name": "Allonim",
+    "country": "IL"
+  },
+  {
+    "name": "Acre",
+    "country": "IL"
+  },
+  {
+    "name": "\u2018Afula \u2018Illit",
+    "country": "IL"
+  },
+  {
+    "name": "Afula",
+    "country": "IL"
+  },
+  {
+    "name": "Ab\u016b Ghaush",
+    "country": "IL"
+  },
+  {
+    "name": "Shibli",
+    "country": "IL"
+  },
+  {
+    "name": "Rumat Heib",
+    "country": "IL"
+  },
+  {
+    "name": "Sallama",
+    "country": "IL"
+  },
+  {
+    "name": "Kefar Weradim",
+    "country": "IL"
+  },
+  {
+    "name": "Ketura",
+    "country": "IL"
+  },
+  {
+    "name": "Lehavim",
+    "country": "IL"
+  },
+  {
+    "name": "Petah Tikva",
+    "country": "IL"
+  },
+  {
+    "name": "Modiin",
+    "country": "IL"
+  },
+  {
+    "name": "Midreshet Ben-Gurion",
+    "country": "IL"
+  },
+  {
+    "name": "Old City",
+    "country": "IL"
+  },
+  {
+    "name": "Caesarea",
+    "country": "IL"
+  },
+  {
+    "name": "West Jerusalem",
+    "country": "IL"
+  },
+  {
+    "name": "Merkaz Shapira",
+    "country": "IL"
+  },
+  {
+    "name": "Modiin Ilit",
+    "country": "IL"
+  },
+  {
+    "name": "Nof Ayalon",
+    "country": "IL"
+  },
+  {
+    "name": "Hashmonaim",
+    "country": "IL"
+  },
+  {
+    "name": "Lapid",
+    "country": "IL"
+  },
+  {
+    "name": "Kfar NaOranim",
+    "country": "IL"
+  },
+  {
+    "name": "Mevo horon",
+    "country": "IL"
+  },
+  {
+    "name": "Givat Zeev",
+    "country": "IL"
+  },
+  {
+    "name": "Beit Horon",
+    "country": "IL"
+  },
+  {
+    "name": "Na'ale",
+    "country": "IL"
+  },
+  {
+    "name": "Giv'on HaHadasha",
+    "country": "IL"
+  },
+  {
+    "name": "Talmon",
+    "country": "IL"
+  },
+  {
+    "name": "Dolev",
+    "country": "IL"
+  },
+  {
+    "name": "Ariel",
+    "country": "IL"
+  },
+  {
+    "name": "Oranit",
+    "country": "IL"
+  },
+  {
+    "name": "Nirit",
+    "country": "IL"
+  },
+  {
+    "name": "Revava",
+    "country": "IL"
+  }
+]

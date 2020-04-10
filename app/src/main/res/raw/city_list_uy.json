@@ -1,0 +1,670 @@
+[
+  {
+    "name": "Young",
+    "country": "UY"
+  },
+  {
+    "name": "Villa Sara",
+    "country": "UY"
+  },
+  {
+    "name": "Villa del Carmen",
+    "country": "UY"
+  },
+  {
+    "name": "Vichadero",
+    "country": "UY"
+  },
+  {
+    "name": "Vergara",
+    "country": "UY"
+  },
+  {
+    "name": "Vel\u00e1zquez",
+    "country": "UY"
+  },
+  {
+    "name": "25 de Mayo",
+    "country": "UY"
+  },
+  {
+    "name": "25 de Agosto",
+    "country": "UY"
+  },
+  {
+    "name": "Colonia Valdense",
+    "country": "UY"
+  },
+  {
+    "name": "Oriental Republic of Uruguay",
+    "country": "UY"
+  },
+  {
+    "name": "Tupamba\u00e9",
+    "country": "UY"
+  },
+  {
+    "name": "Trinidad",
+    "country": "UY"
+  },
+  {
+    "name": "Trinidad",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Treinta y Tres",
+    "country": "UY"
+  },
+  {
+    "name": "Treinta y Tres",
+    "country": "UY"
+  },
+  {
+    "name": "Tranqueras",
+    "country": "UY"
+  },
+  {
+    "name": "Tom\u00e1s Gomensoro",
+    "country": "UY"
+  },
+  {
+    "name": "Toledo",
+    "country": "UY"
+  },
+  {
+    "name": "Tarariras",
+    "country": "UY"
+  },
+  {
+    "name": "Tala",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Tacuaremb\u00f3",
+    "country": "UY"
+  },
+  {
+    "name": "Tacuaremb\u00f3",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Soriano",
+    "country": "UY"
+  },
+  {
+    "name": "Villa Soriano",
+    "country": "UY"
+  },
+  {
+    "name": "Sol\u00eds de Mataojo",
+    "country": "UY"
+  },
+  {
+    "name": "Soca",
+    "country": "UY"
+  },
+  {
+    "name": "Sauce",
+    "country": "UY"
+  },
+  {
+    "name": "Sarand\u00ed Grande",
+    "country": "UY"
+  },
+  {
+    "name": "Sarand\u00ed del Yi",
+    "country": "UY"
+  },
+  {
+    "name": "Santiago V\u00e1zquez",
+    "country": "UY"
+  },
+  {
+    "name": "Santa Rosa",
+    "country": "UY"
+  },
+  {
+    "name": "Santa Luc\u00eda",
+    "country": "UY"
+  },
+  {
+    "name": "Santa Clara de Olimar",
+    "country": "UY"
+  },
+  {
+    "name": "Santa Catalina",
+    "country": "UY"
+  },
+  {
+    "name": "Santa Bernardina",
+    "country": "UY"
+  },
+  {
+    "name": "San Ram\u00f3n",
+    "country": "UY"
+  },
+  {
+    "name": "San Jos\u00e9 de Mayo",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de San Jos\u00e9",
+    "country": "UY"
+  },
+  {
+    "name": "San Javier",
+    "country": "UY"
+  },
+  {
+    "name": "San Jacinto",
+    "country": "UY"
+  },
+  {
+    "name": "San F\u00e9lix",
+    "country": "UY"
+  },
+  {
+    "name": "San Carlos",
+    "country": "UY"
+  },
+  {
+    "name": "San Bautista",
+    "country": "UY"
+  },
+  {
+    "name": "San Antonio",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Salto",
+    "country": "UY"
+  },
+  {
+    "name": "Salto",
+    "country": "UY"
+  },
+  {
+    "name": "Rosario",
+    "country": "UY"
+  },
+  {
+    "name": "Rodr\u00edguez",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Rocha",
+    "country": "UY"
+  },
+  {
+    "name": "Rocha",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Rivera",
+    "country": "UY"
+  },
+  {
+    "name": "Rivera",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de R\u00edo Negro",
+    "country": "UY"
+  },
+  {
+    "name": "Rio Branco",
+    "country": "UY"
+  },
+  {
+    "name": "Riachuelo",
+    "country": "UY"
+  },
+  {
+    "name": "Rafael Perazza",
+    "country": "UY"
+  },
+  {
+    "name": "Quebracho",
+    "country": "UY"
+  },
+  {
+    "name": "Punta del Este",
+    "country": "UY"
+  },
+  {
+    "name": "Punta Carretas",
+    "country": "UY"
+  },
+  {
+    "name": "Progreso",
+    "country": "UY"
+  },
+  {
+    "name": "Porvenir",
+    "country": "UY"
+  },
+  {
+    "name": "Pocitos",
+    "country": "UY"
+  },
+  {
+    "name": "Piriapolis",
+    "country": "UY"
+  },
+  {
+    "name": "Piedras Coloradas",
+    "country": "UY"
+  },
+  {
+    "name": "Piedras Blancas",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Paysand\u00fa",
+    "country": "UY"
+  },
+  {
+    "name": "Paysandu",
+    "country": "UY"
+  },
+  {
+    "name": "Paso de los Toros",
+    "country": "UY"
+  },
+  {
+    "name": "Paso de la Cadena",
+    "country": "UY"
+  },
+  {
+    "name": "Paso de Carrasco",
+    "country": "UY"
+  },
+  {
+    "name": "Pando",
+    "country": "UY"
+  },
+  {
+    "name": "Pan de Azucar",
+    "country": "UY"
+  },
+  {
+    "name": "Palmitas",
+    "country": "UY"
+  },
+  {
+    "name": "Ombues de Lavalle",
+    "country": "UY"
+  },
+  {
+    "name": "Nuevo Par\u00eds",
+    "country": "UY"
+  },
+  {
+    "name": "Nuevo Berlin",
+    "country": "UY"
+  },
+  {
+    "name": "Nueva Palmira",
+    "country": "UY"
+  },
+  {
+    "name": "Nueva Helvecia",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Montevideo",
+    "country": "UY"
+  },
+  {
+    "name": "Montevideo",
+    "country": "UY"
+  },
+  {
+    "name": "Montes",
+    "country": "UY"
+  },
+  {
+    "name": "Minas de Corrales",
+    "country": "UY"
+  },
+  {
+    "name": "Minas",
+    "country": "UY"
+  },
+  {
+    "name": "Migues",
+    "country": "UY"
+  },
+  {
+    "name": "Mercedes",
+    "country": "UY"
+  },
+  {
+    "name": "Mendoza Chico",
+    "country": "UY"
+  },
+  {
+    "name": "Melo",
+    "country": "UY"
+  },
+  {
+    "name": "Mariscala",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Maldonado",
+    "country": "UY"
+  },
+  {
+    "name": "Maldonado",
+    "country": "UY"
+  },
+  {
+    "name": "Los Cerrillos",
+    "country": "UY"
+  },
+  {
+    "name": "Libertad",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Lavalleja",
+    "country": "UY"
+  },
+  {
+    "name": "Las Toscas",
+    "country": "UY"
+  },
+  {
+    "name": "Las Toscas",
+    "country": "UY"
+  },
+  {
+    "name": "Las Piedras",
+    "country": "UY"
+  },
+  {
+    "name": "Las Piedras",
+    "country": "UY"
+  },
+  {
+    "name": "Lascano",
+    "country": "UY"
+  },
+  {
+    "name": "La Paz",
+    "country": "UY"
+  },
+  {
+    "name": "La Paloma",
+    "country": "UY"
+  },
+  {
+    "name": "La Paloma",
+    "country": "UY"
+  },
+  {
+    "name": "La Floresta",
+    "country": "UY"
+  },
+  {
+    "name": "La Barra",
+    "country": "UY"
+  },
+  {
+    "name": "Juan L. Lacaze",
+    "country": "UY"
+  },
+  {
+    "name": "Jose Pedro Varela",
+    "country": "UY"
+  },
+  {
+    "name": "Jose Enrique Rodo",
+    "country": "UY"
+  },
+  {
+    "name": "Jose Batlle y Ordonez",
+    "country": "UY"
+  },
+  {
+    "name": "Joaquin Suarez",
+    "country": "UY"
+  },
+  {
+    "name": "Joanico",
+    "country": "UY"
+  },
+  {
+    "name": "Isidoro Noblia",
+    "country": "UY"
+  },
+  {
+    "name": "Guichon",
+    "country": "UY"
+  },
+  {
+    "name": "Gregorio Azn\u00e1rez",
+    "country": "UY"
+  },
+  {
+    "name": "Garz\u00f3n",
+    "country": "UY"
+  },
+  {
+    "name": "Fray Bentos",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Florida",
+    "country": "UY"
+  },
+  {
+    "name": "Florida",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Flores",
+    "country": "UY"
+  },
+  {
+    "name": "Florencio Sanchez",
+    "country": "UY"
+  },
+  {
+    "name": "Empalme Olmos",
+    "country": "UY"
+  },
+  {
+    "name": "Ecilda Paullier",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Durazno",
+    "country": "UY"
+  },
+  {
+    "name": "Durazno",
+    "country": "UY"
+  },
+  {
+    "name": "Dolores",
+    "country": "UY"
+  },
+  {
+    "name": "Dieciocho de Julio",
+    "country": "UY"
+  },
+  {
+    "name": "Delta del Tigre",
+    "country": "UY"
+  },
+  {
+    "name": "Curtina",
+    "country": "UY"
+  },
+  {
+    "name": "Curticeras",
+    "country": "UY"
+  },
+  {
+    "name": "Cord\u00f3n",
+    "country": "UY"
+  },
+  {
+    "name": "Constitucion",
+    "country": "UY"
+  },
+  {
+    "name": "Colonia Suiza",
+    "country": "UY"
+  },
+  {
+    "name": "Colonia del Sacramento",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Colonia",
+    "country": "UY"
+  },
+  {
+    "name": "Col\u00f3n",
+    "country": "UY"
+  },
+  {
+    "name": "Chuy",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Cerro Largo",
+    "country": "UY"
+  },
+  {
+    "name": "Cerro Colorado",
+    "country": "UY"
+  },
+  {
+    "name": "Cerrito",
+    "country": "UY"
+  },
+  {
+    "name": "Cebollati",
+    "country": "UY"
+  },
+  {
+    "name": "Casupa",
+    "country": "UY"
+  },
+  {
+    "name": "Castillos",
+    "country": "UY"
+  },
+  {
+    "name": "Carmelo",
+    "country": "UY"
+  },
+  {
+    "name": "Carlos Reyles",
+    "country": "UY"
+  },
+  {
+    "name": "Cardona",
+    "country": "UY"
+  },
+  {
+    "name": "Cardal",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Canelones",
+    "country": "UY"
+  },
+  {
+    "name": "Canelones",
+    "country": "UY"
+  },
+  {
+    "name": "Buceo",
+    "country": "UY"
+  },
+  {
+    "name": "Blanquillo",
+    "country": "UY"
+  },
+  {
+    "name": "Bella Union",
+    "country": "UY"
+  },
+  {
+    "name": "Bella Italia",
+    "country": "UY"
+  },
+  {
+    "name": "Belen",
+    "country": "UY"
+  },
+  {
+    "name": "Baltasar Brum",
+    "country": "UY"
+  },
+  {
+    "name": "Atlantida",
+    "country": "UY"
+  },
+  {
+    "name": "Departamento de Artigas",
+    "country": "UY"
+  },
+  {
+    "name": "Artigas",
+    "country": "UY"
+  },
+  {
+    "name": "Anastasia",
+    "country": "UY"
+  },
+  {
+    "name": "Aigua",
+    "country": "UY"
+  },
+  {
+    "name": "Aguas Corrientes",
+    "country": "UY"
+  },
+  {
+    "name": "Acegua",
+    "country": "UY"
+  },
+  {
+    "name": "Puntas de Valdez",
+    "country": "UY"
+  },
+  {
+    "name": "Cap. Juan A. Artigas",
+    "country": "UY"
+  },
+  {
+    "name": "Villa Garc\u00eda",
+    "country": "UY"
+  },
+  {
+    "name": "Colonia Nicolich",
+    "country": "UY"
+  },
+  {
+    "name": "Barra de Carrasco",
+    "country": "UY"
+  },
+  {
+    "name": "Carrasco",
+    "country": "UY"
+  },
+  {
+    "name": "Pajas Blancas",
+    "country": "UY"
+  },
+  {
+    "name": "City Park",
+    "country": "UY"
+  }
+]

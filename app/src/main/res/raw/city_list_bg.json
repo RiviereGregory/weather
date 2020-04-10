@@ -1,0 +1,5482 @@
+[
+  {
+    "name": "Oblast Razgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Montana",
+    "country": "BG"
+  },
+  {
+    "name": "Beloslav",
+    "country": "BG"
+  },
+  {
+    "name": "Zverino",
+    "country": "BG"
+  },
+  {
+    "name": "Zanzarite",
+    "country": "BG"
+  },
+  {
+    "name": "Zornitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Zlatograd",
+    "country": "BG"
+  },
+  {
+    "name": "Zlatograd",
+    "country": "BG"
+  },
+  {
+    "name": "Zlatitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Zlatitrap",
+    "country": "BG"
+  },
+  {
+    "name": "Zlatina",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Zlataritsa",
+    "country": "BG"
+  },
+  {
+    "name": "Zlataritsa",
+    "country": "BG"
+  },
+  {
+    "name": "Zhizhevo",
+    "country": "BG"
+  },
+  {
+    "name": "Zgorigrad",
+    "country": "BG"
+  },
+  {
+    "name": "Zgalevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Zemen",
+    "country": "BG"
+  },
+  {
+    "name": "Zemen",
+    "country": "BG"
+  },
+  {
+    "name": "Zelenikovo",
+    "country": "BG"
+  },
+  {
+    "name": "Zelenika",
+    "country": "BG"
+  },
+  {
+    "name": "Zaychar",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Zavet",
+    "country": "BG"
+  },
+  {
+    "name": "Zavet",
+    "country": "BG"
+  },
+  {
+    "name": "Zamfirovo",
+    "country": "BG"
+  },
+  {
+    "name": "Zagrade",
+    "country": "BG"
+  },
+  {
+    "name": "Yordan Yovkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Yoakim-Gruevo",
+    "country": "BG"
+  },
+  {
+    "name": "Yarlovo",
+    "country": "BG"
+  },
+  {
+    "name": "Yarebitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Yambol",
+    "country": "BG"
+  },
+  {
+    "name": "Yambol",
+    "country": "BG"
+  },
+  {
+    "name": "Yakovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Yakoruda",
+    "country": "BG"
+  },
+  {
+    "name": "Yakoruda",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Yakimovo",
+    "country": "BG"
+  },
+  {
+    "name": "Yakimovo",
+    "country": "BG"
+  },
+  {
+    "name": "Yagodina",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Yablanitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Yablanitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Varzulitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Varshets",
+    "country": "BG"
+  },
+  {
+    "name": "Varshets",
+    "country": "BG"
+  },
+  {
+    "name": "Varbovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Varbitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Varbitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Valchidol",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Valchedram",
+    "country": "BG"
+  },
+  {
+    "name": "Valchedram",
+    "country": "BG"
+  },
+  {
+    "name": "Vrajdebna",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Vratsa",
+    "country": "BG"
+  },
+  {
+    "name": "Vratsa",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Vratsa",
+    "country": "BG"
+  },
+  {
+    "name": "Vranya",
+    "country": "BG"
+  },
+  {
+    "name": "Vrachesh",
+    "country": "BG"
+  },
+  {
+    "name": "Vrabevo",
+    "country": "BG"
+  },
+  {
+    "name": "Voyvodinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Sveti Vlas",
+    "country": "BG"
+  },
+  {
+    "name": "Vladislav",
+    "country": "BG"
+  },
+  {
+    "name": "Vladaya",
+    "country": "BG"
+  },
+  {
+    "name": "Vinarovo",
+    "country": "BG"
+  },
+  {
+    "name": "Vievo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Vidin",
+    "country": "BG"
+  },
+  {
+    "name": "Vidin",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Vetrino",
+    "country": "BG"
+  },
+  {
+    "name": "Vetrino",
+    "country": "BG"
+  },
+  {
+    "name": "Vetren",
+    "country": "BG"
+  },
+  {
+    "name": "Vetren",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Vetovo",
+    "country": "BG"
+  },
+  {
+    "name": "Vetovo",
+    "country": "BG"
+  },
+  {
+    "name": "Veselinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Veselina",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Venets",
+    "country": "BG"
+  },
+  {
+    "name": "Venets",
+    "country": "BG"
+  },
+  {
+    "name": "Velkovtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Velingrad",
+    "country": "BG"
+  },
+  {
+    "name": "Velingrad",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Veliko T\u016drnovo",
+    "country": "BG"
+  },
+  {
+    "name": "Veliko T\u016drnovo",
+    "country": "BG"
+  },
+  {
+    "name": "Velchevska",
+    "country": "BG"
+  },
+  {
+    "name": "Vazovo",
+    "country": "BG"
+  },
+  {
+    "name": "Vasil Levski",
+    "country": "BG"
+  },
+  {
+    "name": "Varvara",
+    "country": "BG"
+  },
+  {
+    "name": "Varvara",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Varna",
+    "country": "BG"
+  },
+  {
+    "name": "Varna",
+    "country": "BG"
+  },
+  {
+    "name": "Varna",
+    "country": "BG"
+  },
+  {
+    "name": "Vardim",
+    "country": "BG"
+  },
+  {
+    "name": "Vankovtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Vaklinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Vakarel",
+    "country": "BG"
+  },
+  {
+    "name": "Ustrem",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Ugarchin",
+    "country": "BG"
+  },
+  {
+    "name": "Ugarchin",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Tvarditsa",
+    "country": "BG"
+  },
+  {
+    "name": "Tvarditsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Tutrakan",
+    "country": "BG"
+  },
+  {
+    "name": "Tutrakan",
+    "country": "BG"
+  },
+  {
+    "name": "Taran",
+    "country": "BG"
+  },
+  {
+    "name": "Tarnava",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Targovishte",
+    "country": "BG"
+  },
+  {
+    "name": "Targovishte",
+    "country": "BG"
+  },
+  {
+    "name": "Turchinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Tulovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Tsenovo",
+    "country": "BG"
+  },
+  {
+    "name": "Tsenovo",
+    "country": "BG"
+  },
+  {
+    "name": "Tsarichina",
+    "country": "BG"
+  },
+  {
+    "name": "Tsar Ferdinand",
+    "country": "BG"
+  },
+  {
+    "name": "Tsaratsovo",
+    "country": "BG"
+  },
+  {
+    "name": "Tsalapitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Tryavna",
+    "country": "BG"
+  },
+  {
+    "name": "Tryavna",
+    "country": "BG"
+  },
+  {
+    "name": "Tran",
+    "country": "BG"
+  },
+  {
+    "name": "Tran",
+    "country": "BG"
+  },
+  {
+    "name": "Trudovets",
+    "country": "BG"
+  },
+  {
+    "name": "Trud",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Troyan",
+    "country": "BG"
+  },
+  {
+    "name": "Troyan",
+    "country": "BG"
+  },
+  {
+    "name": "Trite Kashti",
+    "country": "BG"
+  },
+  {
+    "name": "Tri Kladentsi",
+    "country": "BG"
+  },
+  {
+    "name": "Trapoklovo",
+    "country": "BG"
+  },
+  {
+    "name": "Totleben",
+    "country": "BG"
+  },
+  {
+    "name": "Topolovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Topolovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Topolovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Topoli",
+    "country": "BG"
+  },
+  {
+    "name": "Topolchane",
+    "country": "BG"
+  },
+  {
+    "name": "Tonchevtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Dobrich",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Dobrich",
+    "country": "BG"
+  },
+  {
+    "name": "Tochilari",
+    "country": "BG"
+  },
+  {
+    "name": "Ticha",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Teteven",
+    "country": "BG"
+  },
+  {
+    "name": "Teteven",
+    "country": "BG"
+  },
+  {
+    "name": "Terziysko",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Tervel",
+    "country": "BG"
+  },
+  {
+    "name": "Tervel",
+    "country": "BG"
+  },
+  {
+    "name": "Temnisko",
+    "country": "BG"
+  },
+  {
+    "name": "Batanovtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Svoge",
+    "country": "BG"
+  },
+  {
+    "name": "Svoge",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Svishtov",
+    "country": "BG"
+  },
+  {
+    "name": "Svishtov",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Svilengrad",
+    "country": "BG"
+  },
+  {
+    "name": "Svilengrad",
+    "country": "BG"
+  },
+  {
+    "name": "Svidnya",
+    "country": "BG"
+  },
+  {
+    "name": "Svezhen",
+    "country": "BG"
+  },
+  {
+    "name": "Svetlen",
+    "country": "BG"
+  },
+  {
+    "name": "Sveta Petka",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Suvorovo",
+    "country": "BG"
+  },
+  {
+    "name": "Suvorovo",
+    "country": "BG"
+  },
+  {
+    "name": "Sarnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Sungurlare",
+    "country": "BG"
+  },
+  {
+    "name": "Sungurlare",
+    "country": "BG"
+  },
+  {
+    "name": "Sumer",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Suhindol",
+    "country": "BG"
+  },
+  {
+    "name": "Suhindol",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Saedinenie",
+    "country": "BG"
+  },
+  {
+    "name": "Saedinenie",
+    "country": "BG"
+  },
+  {
+    "name": "Starmen",
+    "country": "BG"
+  },
+  {
+    "name": "Studenets",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Strumyani",
+    "country": "BG"
+  },
+  {
+    "name": "Strumyani",
+    "country": "BG"
+  },
+  {
+    "name": "Struma",
+    "country": "BG"
+  },
+  {
+    "name": "Stroevo",
+    "country": "BG"
+  },
+  {
+    "name": "Strelets",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Strelcha",
+    "country": "BG"
+  },
+  {
+    "name": "Strelcha",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Strazhitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Strazhitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Straldzha",
+    "country": "BG"
+  },
+  {
+    "name": "Straldzha",
+    "country": "BG"
+  },
+  {
+    "name": "Stob",
+    "country": "BG"
+  },
+  {
+    "name": "Stefanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Stefan Karadzha",
+    "country": "BG"
+  },
+  {
+    "name": "Startsevo",
+    "country": "BG"
+  },
+  {
+    "name": "Staro Selishte",
+    "country": "BG"
+  },
+  {
+    "name": "Starchevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Stara Zagora",
+    "country": "BG"
+  },
+  {
+    "name": "Stara Zagora",
+    "country": "BG"
+  },
+  {
+    "name": "Stara Reka",
+    "country": "BG"
+  },
+  {
+    "name": "Stara Kresna",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dupnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Dupnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Stanchevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Stambolovo",
+    "country": "BG"
+  },
+  {
+    "name": "Stambolovo",
+    "country": "BG"
+  },
+  {
+    "name": "Stamboliyski",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Zlatitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Spasovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Sozopol",
+    "country": "BG"
+  },
+  {
+    "name": "Sozopol",
+    "country": "BG"
+  },
+  {
+    "name": "Sopot",
+    "country": "BG"
+  },
+  {
+    "name": "Sopot",
+    "country": "BG"
+  },
+  {
+    "name": "Sokolovo",
+    "country": "BG"
+  },
+  {
+    "name": "Sofia",
+    "country": "BG"
+  },
+  {
+    "name": "Sofia",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Smyadovo",
+    "country": "BG"
+  },
+  {
+    "name": "Smyadovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Smolyan",
+    "country": "BG"
+  },
+  {
+    "name": "Smolyan",
+    "country": "BG"
+  },
+  {
+    "name": "Slokoshtitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Slivo Pole",
+    "country": "BG"
+  },
+  {
+    "name": "Slivo Pole",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Slivnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Slivnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Sliven",
+    "country": "BG"
+  },
+  {
+    "name": "Sliven",
+    "country": "BG"
+  },
+  {
+    "name": "Slavyantsi",
+    "country": "BG"
+  },
+  {
+    "name": "Slavyanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Slavovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Slashten",
+    "country": "BG"
+  },
+  {
+    "name": "Skutare",
+    "country": "BG"
+  },
+  {
+    "name": "Skrat",
+    "country": "BG"
+  },
+  {
+    "name": "Skrinyano",
+    "country": "BG"
+  },
+  {
+    "name": "Sklave",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Sitovo",
+    "country": "BG"
+  },
+  {
+    "name": "Sitovo",
+    "country": "BG"
+  },
+  {
+    "name": "Sipets",
+    "country": "BG"
+  },
+  {
+    "name": "Sinitovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Simitli",
+    "country": "BG"
+  },
+  {
+    "name": "Simitli",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Simeonovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Simeonovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Silistra",
+    "country": "BG"
+  },
+  {
+    "name": "Silistra",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Shumen",
+    "country": "BG"
+  },
+  {
+    "name": "Shumen",
+    "country": "BG"
+  },
+  {
+    "name": "Shtraklevo",
+    "country": "BG"
+  },
+  {
+    "name": "Shivachevo",
+    "country": "BG"
+  },
+  {
+    "name": "Shipkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Shipka",
+    "country": "BG"
+  },
+  {
+    "name": "Shipka",
+    "country": "BG"
+  },
+  {
+    "name": "Sharanite",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Shabla",
+    "country": "BG"
+  },
+  {
+    "name": "Shabla",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Sevlievo",
+    "country": "BG"
+  },
+  {
+    "name": "Sevlievo",
+    "country": "BG"
+  },
+  {
+    "name": "Sestrimo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Septemvri",
+    "country": "BG"
+  },
+  {
+    "name": "Septemvri",
+    "country": "BG"
+  },
+  {
+    "name": "Senovo",
+    "country": "BG"
+  },
+  {
+    "name": "Semchinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Selanovtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Sekulovo",
+    "country": "BG"
+  },
+  {
+    "name": "Sedlarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Satovcha",
+    "country": "BG"
+  },
+  {
+    "name": "Satovcha",
+    "country": "BG"
+  },
+  {
+    "name": "Sarafovo",
+    "country": "BG"
+  },
+  {
+    "name": "Saparevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Sapareva Banya",
+    "country": "BG"
+  },
+  {
+    "name": "Sapareva Banya",
+    "country": "BG"
+  },
+  {
+    "name": "San Stefano",
+    "country": "BG"
+  },
+  {
+    "name": "Sandrovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Sandanski",
+    "country": "BG"
+  },
+  {
+    "name": "Sandanski",
+    "country": "BG"
+  },
+  {
+    "name": "Samuilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Samuilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Samuil",
+    "country": "BG"
+  },
+  {
+    "name": "Samuil",
+    "country": "BG"
+  },
+  {
+    "name": "Samoranovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Samokov",
+    "country": "BG"
+  },
+  {
+    "name": "Samokov",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Sadovo",
+    "country": "BG"
+  },
+  {
+    "name": "Sadovo",
+    "country": "BG"
+  },
+  {
+    "name": "Sadovets",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Ruzhintsi",
+    "country": "BG"
+  },
+  {
+    "name": "Ruzhintsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Ruse",
+    "country": "BG"
+  },
+  {
+    "name": "Ruse",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Ruse",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Ruen",
+    "country": "BG"
+  },
+  {
+    "name": "Ruen",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Rudozem",
+    "country": "BG"
+  },
+  {
+    "name": "Rudozem",
+    "country": "BG"
+  },
+  {
+    "name": "Rozovo",
+    "country": "BG"
+  },
+  {
+    "name": "Rozino",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Roman",
+    "country": "BG"
+  },
+  {
+    "name": "Roman",
+    "country": "BG"
+  },
+  {
+    "name": "Rogosh",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Rila",
+    "country": "BG"
+  },
+  {
+    "name": "Rila",
+    "country": "BG"
+  },
+  {
+    "name": "Ribnovo",
+    "country": "BG"
+  },
+  {
+    "name": "Riben",
+    "country": "BG"
+  },
+  {
+    "name": "Ribaritsa",
+    "country": "BG"
+  },
+  {
+    "name": "Resilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Resen",
+    "country": "BG"
+  },
+  {
+    "name": "Redina",
+    "country": "BG"
+  },
+  {
+    "name": "Rebrovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Razlog",
+    "country": "BG"
+  },
+  {
+    "name": "Razlog",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Razgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Razgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Razdel",
+    "country": "BG"
+  },
+  {
+    "name": "Ravno",
+    "country": "BG"
+  },
+  {
+    "name": "Ravna",
+    "country": "BG"
+  },
+  {
+    "name": "Ravda",
+    "country": "BG"
+  },
+  {
+    "name": "Ravadinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Rastnik",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Rakovski",
+    "country": "BG"
+  },
+  {
+    "name": "Rakovski",
+    "country": "BG"
+  },
+  {
+    "name": "Rakov Dol",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Rakitovo",
+    "country": "BG"
+  },
+  {
+    "name": "Rakitovo",
+    "country": "BG"
+  },
+  {
+    "name": "Raduil",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Radomir",
+    "country": "BG"
+  },
+  {
+    "name": "Radomir",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Radnevo",
+    "country": "BG"
+  },
+  {
+    "name": "Radnevo",
+    "country": "BG"
+  },
+  {
+    "name": "Radinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Radilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Radanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Parvomaytsi",
+    "country": "BG"
+  },
+  {
+    "name": "Parvomay",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Provadia",
+    "country": "BG"
+  },
+  {
+    "name": "Provadia",
+    "country": "BG"
+  },
+  {
+    "name": "Prosenik",
+    "country": "BG"
+  },
+  {
+    "name": "Prosena",
+    "country": "BG"
+  },
+  {
+    "name": "Prolesha",
+    "country": "BG"
+  },
+  {
+    "name": "Profesor Ishirkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Prisovo",
+    "country": "BG"
+  },
+  {
+    "name": "Primorsko",
+    "country": "BG"
+  },
+  {
+    "name": "Prezhda",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Veliki Preslav",
+    "country": "BG"
+  },
+  {
+    "name": "Veliki Preslav",
+    "country": "BG"
+  },
+  {
+    "name": "Pravets",
+    "country": "BG"
+  },
+  {
+    "name": "Pravda",
+    "country": "BG"
+  },
+  {
+    "name": "Potop",
+    "country": "BG"
+  },
+  {
+    "name": "Posabina",
+    "country": "BG"
+  },
+  {
+    "name": "Porominovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Pordim",
+    "country": "BG"
+  },
+  {
+    "name": "Pordim",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Popovo",
+    "country": "BG"
+  },
+  {
+    "name": "Popovo",
+    "country": "BG"
+  },
+  {
+    "name": "Popkralevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Pomorie",
+    "country": "BG"
+  },
+  {
+    "name": "Pomorie",
+    "country": "BG"
+  },
+  {
+    "name": "Polyatsite",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Polski Trambesh",
+    "country": "BG"
+  },
+  {
+    "name": "Polski Trambesh",
+    "country": "BG"
+  },
+  {
+    "name": "Polikrayshte",
+    "country": "BG"
+  },
+  {
+    "name": "Poleto",
+    "country": "BG"
+  },
+  {
+    "name": "Polena",
+    "country": "BG"
+  },
+  {
+    "name": "Pokrayna",
+    "country": "BG"
+  },
+  {
+    "name": "Podrvrah",
+    "country": "BG"
+  },
+  {
+    "name": "Podgumer",
+    "country": "BG"
+  },
+  {
+    "name": "Podayva",
+    "country": "BG"
+  },
+  {
+    "name": "Plovdivtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Plovdiv",
+    "country": "BG"
+  },
+  {
+    "name": "Plovdiv",
+    "country": "BG"
+  },
+  {
+    "name": "Plovdiv",
+    "country": "BG"
+  },
+  {
+    "name": "Ploski",
+    "country": "BG"
+  },
+  {
+    "name": "Ploska Mogila",
+    "country": "BG"
+  },
+  {
+    "name": "Pliska",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Pleven",
+    "country": "BG"
+  },
+  {
+    "name": "Pleven",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Pleven",
+    "country": "BG"
+  },
+  {
+    "name": "Pishtigovo",
+    "country": "BG"
+  },
+  {
+    "name": "Pisarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Pirgovo",
+    "country": "BG"
+  },
+  {
+    "name": "Pirdop",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Petrich",
+    "country": "BG"
+  },
+  {
+    "name": "Petrich",
+    "country": "BG"
+  },
+  {
+    "name": "Petleshkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Peshtera",
+    "country": "BG"
+  },
+  {
+    "name": "Peshtera",
+    "country": "BG"
+  },
+  {
+    "name": "Perushtitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Pernik",
+    "country": "BG"
+  },
+  {
+    "name": "Pernik",
+    "country": "BG"
+  },
+  {
+    "name": "Pernik",
+    "country": "BG"
+  },
+  {
+    "name": "Pepelishte",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Iskar",
+    "country": "BG"
+  },
+  {
+    "name": "Iskar",
+    "country": "BG"
+  },
+  {
+    "name": "Pehlivantsi",
+    "country": "BG"
+  },
+  {
+    "name": "Pchelishte",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Pazardzhik",
+    "country": "BG"
+  },
+  {
+    "name": "Pazardzhik",
+    "country": "BG"
+  },
+  {
+    "name": "Pazardzhik",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Pavlikeni",
+    "country": "BG"
+  },
+  {
+    "name": "Pavlikeni",
+    "country": "BG"
+  },
+  {
+    "name": "Pavelsko",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Pavel Banya",
+    "country": "BG"
+  },
+  {
+    "name": "Pavel Banya",
+    "country": "BG"
+  },
+  {
+    "name": "Patalenitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Partizanin",
+    "country": "BG"
+  },
+  {
+    "name": "Partizani",
+    "country": "BG"
+  },
+  {
+    "name": "Pancharevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Panagyurishte",
+    "country": "BG"
+  },
+  {
+    "name": "Panagyurishte",
+    "country": "BG"
+  },
+  {
+    "name": "Pamidovo",
+    "country": "BG"
+  },
+  {
+    "name": "Padesh",
+    "country": "BG"
+  },
+  {
+    "name": "Ovoshtnik",
+    "country": "BG"
+  },
+  {
+    "name": "Ovchartsi",
+    "country": "BG"
+  },
+  {
+    "name": "Ostrov",
+    "country": "BG"
+  },
+  {
+    "name": "Ostrets",
+    "country": "BG"
+  },
+  {
+    "name": "Osikovo",
+    "country": "BG"
+  },
+  {
+    "name": "Osetenovo",
+    "country": "BG"
+  },
+  {
+    "name": "Osenovlag",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Oryahovo",
+    "country": "BG"
+  },
+  {
+    "name": "Oryahovo",
+    "country": "BG"
+  },
+  {
+    "name": "Oryahovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Orizovo",
+    "country": "BG"
+  },
+  {
+    "name": "Oreshak",
+    "country": "BG"
+  },
+  {
+    "name": "Oresh",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Opaka",
+    "country": "BG"
+  },
+  {
+    "name": "Opaka",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Omurtag",
+    "country": "BG"
+  },
+  {
+    "name": "Omurtag",
+    "country": "BG"
+  },
+  {
+    "name": "Ognyanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obzor",
+    "country": "BG"
+  },
+  {
+    "name": "Obruchishte",
+    "country": "BG"
+  },
+  {
+    "name": "Obrochishte",
+    "country": "BG"
+  },
+  {
+    "name": "Oborishte",
+    "country": "BG"
+  },
+  {
+    "name": "Obnova",
+    "country": "BG"
+  },
+  {
+    "name": "Obedinenie",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Novo Selo",
+    "country": "BG"
+  },
+  {
+    "name": "Novo Selo",
+    "country": "BG"
+  },
+  {
+    "name": "Novosel",
+    "country": "BG"
+  },
+  {
+    "name": "Novo Leski",
+    "country": "BG"
+  },
+  {
+    "name": "Novo Delchevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Novi Pazar",
+    "country": "BG"
+  },
+  {
+    "name": "Novi Pazar",
+    "country": "BG"
+  },
+  {
+    "name": "Novi Han",
+    "country": "BG"
+  },
+  {
+    "name": "Novi Iskar",
+    "country": "BG"
+  },
+  {
+    "name": "Novgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Nova Zagora",
+    "country": "BG"
+  },
+  {
+    "name": "Nova Zagora",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Nikopol",
+    "country": "BG"
+  },
+  {
+    "name": "Nikopol",
+    "country": "BG"
+  },
+  {
+    "name": "Nikolovo",
+    "country": "BG"
+  },
+  {
+    "name": "Nikolichevtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Nikolaevo",
+    "country": "BG"
+  },
+  {
+    "name": "Nikolaevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Nevestino",
+    "country": "BG"
+  },
+  {
+    "name": "Nevestino",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Nesebar",
+    "country": "BG"
+  },
+  {
+    "name": "Nesebar",
+    "country": "BG"
+  },
+  {
+    "name": "Neofit Rilski",
+    "country": "BG"
+  },
+  {
+    "name": "Nenovo",
+    "country": "BG"
+  },
+  {
+    "name": "Nedyalsko",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Nedelino",
+    "country": "BG"
+  },
+  {
+    "name": "Nedelino",
+    "country": "BG"
+  },
+  {
+    "name": "Musomishta",
+    "country": "BG"
+  },
+  {
+    "name": "Muselievo",
+    "country": "BG"
+  },
+  {
+    "name": "Marchaevo",
+    "country": "BG"
+  },
+  {
+    "name": "Rupite",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Maglizh",
+    "country": "BG"
+  },
+  {
+    "name": "Maglizh",
+    "country": "BG"
+  },
+  {
+    "name": "Mramor",
+    "country": "BG"
+  },
+  {
+    "name": "Moskovets",
+    "country": "BG"
+  },
+  {
+    "name": "Momina Klisura",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Momchilgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Momchilgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Mladen",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Mizia",
+    "country": "BG"
+  },
+  {
+    "name": "Mizia",
+    "country": "BG"
+  },
+  {
+    "name": "Mirovtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Mirkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Mineralni Bani",
+    "country": "BG"
+  },
+  {
+    "name": "Mineralni Bani",
+    "country": "BG"
+  },
+  {
+    "name": "Milevo",
+    "country": "BG"
+  },
+  {
+    "name": "Miladinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Montana",
+    "country": "BG"
+  },
+  {
+    "name": "Montana",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Tsarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Tsarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Mezdra",
+    "country": "BG"
+  },
+  {
+    "name": "Mezdra",
+    "country": "BG"
+  },
+  {
+    "name": "Mesta",
+    "country": "BG"
+  },
+  {
+    "name": "Melyane",
+    "country": "BG"
+  },
+  {
+    "name": "Melnik",
+    "country": "BG"
+  },
+  {
+    "name": "Medovets",
+    "country": "BG"
+  },
+  {
+    "name": "Medovene",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Medkovets",
+    "country": "BG"
+  },
+  {
+    "name": "Medkovets",
+    "country": "BG"
+  },
+  {
+    "name": "Medeni Polyani",
+    "country": "BG"
+  },
+  {
+    "name": "Mechka",
+    "country": "BG"
+  },
+  {
+    "name": "Matsa",
+    "country": "BG"
+  },
+  {
+    "name": "Marten",
+    "country": "BG"
+  },
+  {
+    "name": "Markovo",
+    "country": "BG"
+  },
+  {
+    "name": "Marikostinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Marchevo",
+    "country": "BG"
+  },
+  {
+    "name": "Manolsko Konare",
+    "country": "BG"
+  },
+  {
+    "name": "Manole",
+    "country": "BG"
+  },
+  {
+    "name": "Malomir",
+    "country": "BG"
+  },
+  {
+    "name": "Malo Konare",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Malko Tarnovo",
+    "country": "BG"
+  },
+  {
+    "name": "Malko Tarnovo",
+    "country": "BG"
+  },
+  {
+    "name": "Malko Kadievo",
+    "country": "BG"
+  },
+  {
+    "name": "Malina",
+    "country": "BG"
+  },
+  {
+    "name": "Malchika",
+    "country": "BG"
+  },
+  {
+    "name": "Makotsevo",
+    "country": "BG"
+  },
+  {
+    "name": "Madzharovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Madan",
+    "country": "BG"
+  },
+  {
+    "name": "Madan",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Lyubimets",
+    "country": "BG"
+  },
+  {
+    "name": "Lyubimets",
+    "country": "BG"
+  },
+  {
+    "name": "Lyubichevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Lyaskovets",
+    "country": "BG"
+  },
+  {
+    "name": "Lyaskovets",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Lukovit",
+    "country": "BG"
+  },
+  {
+    "name": "Lukovit",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Laki",
+    "country": "BG"
+  },
+  {
+    "name": "Laki",
+    "country": "BG"
+  },
+  {
+    "name": "Ladzhene",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Loznitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Loznitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Lozen",
+    "country": "BG"
+  },
+  {
+    "name": "Lozarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Lovsko",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Lovech",
+    "country": "BG"
+  },
+  {
+    "name": "Lovech",
+    "country": "BG"
+  },
+  {
+    "name": "Lovech",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Lom",
+    "country": "BG"
+  },
+  {
+    "name": "Lom",
+    "country": "BG"
+  },
+  {
+    "name": "Levunovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Levski",
+    "country": "BG"
+  },
+  {
+    "name": "Levski",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Letnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Letnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Lesovo",
+    "country": "BG"
+  },
+  {
+    "name": "Leskovdol",
+    "country": "BG"
+  },
+  {
+    "name": "Lesidren",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Lesichovo",
+    "country": "BG"
+  },
+  {
+    "name": "Lesichovo",
+    "country": "BG"
+  },
+  {
+    "name": "Lesiche",
+    "country": "BG"
+  },
+  {
+    "name": "Leshko",
+    "country": "BG"
+  },
+  {
+    "name": "Ledenik",
+    "country": "BG"
+  },
+  {
+    "name": "Toros",
+    "country": "BG"
+  },
+  {
+    "name": "Latinka",
+    "country": "BG"
+  },
+  {
+    "name": "Laskarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Lakatnik",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kyustendil",
+    "country": "BG"
+  },
+  {
+    "name": "Kyustendil",
+    "country": "BG"
+  },
+  {
+    "name": "Kurtovo Konare",
+    "country": "BG"
+  },
+  {
+    "name": "Karnare",
+    "country": "BG"
+  },
+  {
+    "name": "Karnalovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kardzhali",
+    "country": "BG"
+  },
+  {
+    "name": "Kardzhali",
+    "country": "BG"
+  },
+  {
+    "name": "Kunevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kula",
+    "country": "BG"
+  },
+  {
+    "name": "Kula",
+    "country": "BG"
+  },
+  {
+    "name": "Kuklen",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kubrat",
+    "country": "BG"
+  },
+  {
+    "name": "Kubrat",
+    "country": "BG"
+  },
+  {
+    "name": "Krastina",
+    "country": "BG"
+  },
+  {
+    "name": "Krushuna",
+    "country": "BG"
+  },
+  {
+    "name": "Krushovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Krushari",
+    "country": "BG"
+  },
+  {
+    "name": "Krushari",
+    "country": "BG"
+  },
+  {
+    "name": "Krupnik",
+    "country": "BG"
+  },
+  {
+    "name": "Krumovo Gradishte",
+    "country": "BG"
+  },
+  {
+    "name": "Krumovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Krumovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Krumovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Krivodol",
+    "country": "BG"
+  },
+  {
+    "name": "Krivodol",
+    "country": "BG"
+  },
+  {
+    "name": "Krivina",
+    "country": "BG"
+  },
+  {
+    "name": "Krichim",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kresna",
+    "country": "BG"
+  },
+  {
+    "name": "Kresna",
+    "country": "BG"
+  },
+  {
+    "name": "Krasno Selo",
+    "country": "BG"
+  },
+  {
+    "name": "Krasimir",
+    "country": "BG"
+  },
+  {
+    "name": "Krasen",
+    "country": "BG"
+  },
+  {
+    "name": "Krapets",
+    "country": "BG"
+  },
+  {
+    "name": "Kranevo",
+    "country": "BG"
+  },
+  {
+    "name": "Kran",
+    "country": "BG"
+  },
+  {
+    "name": "Kraishte",
+    "country": "BG"
+  },
+  {
+    "name": "Kozlovets",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kozloduy",
+    "country": "BG"
+  },
+  {
+    "name": "Kozloduy",
+    "country": "BG"
+  },
+  {
+    "name": "Kozar Belene",
+    "country": "BG"
+  },
+  {
+    "name": "Koynare",
+    "country": "BG"
+  },
+  {
+    "name": "Kovachevets",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kotel",
+    "country": "BG"
+  },
+  {
+    "name": "Kotel",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kostinbrod",
+    "country": "BG"
+  },
+  {
+    "name": "Kostinbrod",
+    "country": "BG"
+  },
+  {
+    "name": "Kostievo",
+    "country": "BG"
+  },
+  {
+    "name": "Kostandovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kosharna",
+    "country": "BG"
+  },
+  {
+    "name": "Kosharitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Korten",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Koprivshtitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Koprivshtitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Koprivlen",
+    "country": "BG"
+  },
+  {
+    "name": "Kochmar",
+    "country": "BG"
+  },
+  {
+    "name": "Kochevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kocherinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kocherinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kochan",
+    "country": "BG"
+  },
+  {
+    "name": "Knyazhevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Knezha",
+    "country": "BG"
+  },
+  {
+    "name": "Knezha",
+    "country": "BG"
+  },
+  {
+    "name": "Klisura",
+    "country": "BG"
+  },
+  {
+    "name": "Kliment",
+    "country": "BG"
+  },
+  {
+    "name": "Kitka",
+    "country": "BG"
+  },
+  {
+    "name": "Kiten",
+    "country": "BG"
+  },
+  {
+    "name": "Kiten",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kirkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kirkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kirchevo",
+    "country": "BG"
+  },
+  {
+    "name": "Kilifarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Hristo-Danovo",
+    "country": "BG"
+  },
+  {
+    "name": "Hotnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Tsar Kaloyan",
+    "country": "BG"
+  },
+  {
+    "name": "Tsar Kaloyan",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Hisarya",
+    "country": "BG"
+  },
+  {
+    "name": "Hisarya",
+    "country": "BG"
+  },
+  {
+    "name": "Hayredin",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Haskovo",
+    "country": "BG"
+  },
+  {
+    "name": "Haskovo",
+    "country": "BG"
+  },
+  {
+    "name": "Haskovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Harmanli",
+    "country": "BG"
+  },
+  {
+    "name": "Harmanli",
+    "country": "BG"
+  },
+  {
+    "name": "Hadzhidimovo",
+    "country": "BG"
+  },
+  {
+    "name": "Hadzhidimovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kermen",
+    "country": "BG"
+  },
+  {
+    "name": "Kazichene",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kazanl\u016dk",
+    "country": "BG"
+  },
+  {
+    "name": "Kazanlak",
+    "country": "BG"
+  },
+  {
+    "name": "Kazanka",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kaynardzha",
+    "country": "BG"
+  },
+  {
+    "name": "Kaynardzha",
+    "country": "BG"
+  },
+  {
+    "name": "Kavrakirovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kavarna",
+    "country": "BG"
+  },
+  {
+    "name": "Kavarna",
+    "country": "BG"
+  },
+  {
+    "name": "Katuntsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kaspichan",
+    "country": "BG"
+  },
+  {
+    "name": "Kaspichan",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Karnobat",
+    "country": "BG"
+  },
+  {
+    "name": "Karnobat",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Karlovo",
+    "country": "BG"
+  },
+  {
+    "name": "Karlovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kardam",
+    "country": "BG"
+  },
+  {
+    "name": "Karavelovo",
+    "country": "BG"
+  },
+  {
+    "name": "Karapelit",
+    "country": "BG"
+  },
+  {
+    "name": "Karaisen",
+    "country": "BG"
+  },
+  {
+    "name": "Karageorgievo",
+    "country": "BG"
+  },
+  {
+    "name": "Karabunar",
+    "country": "BG"
+  },
+  {
+    "name": "Kapitan-Dimitrievo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kaolinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kaolinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kameno",
+    "country": "BG"
+  },
+  {
+    "name": "Kameno",
+    "country": "BG"
+  },
+  {
+    "name": "Kamenets",
+    "country": "BG"
+  },
+  {
+    "name": "Kaltinets",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kaloyanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kaloyanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kalofer",
+    "country": "BG"
+  },
+  {
+    "name": "Kalipetrovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kalchovska",
+    "country": "BG"
+  },
+  {
+    "name": "Kadievo",
+    "country": "BG"
+  },
+  {
+    "name": "Kableshkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kabile",
+    "country": "BG"
+  },
+  {
+    "name": "Izvor",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Ivaylovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Ivaylovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Ivan-Vazovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Ivanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Ivanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Isperihovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Isperih",
+    "country": "BG"
+  },
+  {
+    "name": "Isperih",
+    "country": "BG"
+  },
+  {
+    "name": "Iliyno",
+    "country": "BG"
+  },
+  {
+    "name": "Ilinden",
+    "country": "BG"
+  },
+  {
+    "name": "Ihtiman",
+    "country": "BG"
+  },
+  {
+    "name": "Ihtiman",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Garmen",
+    "country": "BG"
+  },
+  {
+    "name": "Garmen",
+    "country": "BG"
+  },
+  {
+    "name": "Gurkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Gulyantsi",
+    "country": "BG"
+  },
+  {
+    "name": "Gulyantsi",
+    "country": "BG"
+  },
+  {
+    "name": "G\u016dl\u016dbovo",
+    "country": "BG"
+  },
+  {
+    "name": "Gruevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Sredets",
+    "country": "BG"
+  },
+  {
+    "name": "Sredets",
+    "country": "BG"
+  },
+  {
+    "name": "Gromshin",
+    "country": "BG"
+  },
+  {
+    "name": "Grashevo",
+    "country": "BG"
+  },
+  {
+    "name": "Granitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Gramada",
+    "country": "BG"
+  },
+  {
+    "name": "Gramada",
+    "country": "BG"
+  },
+  {
+    "name": "Gradat",
+    "country": "BG"
+  },
+  {
+    "name": "Sofia-Grad",
+    "country": "BG"
+  },
+  {
+    "name": "Gradnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Gradevo",
+    "country": "BG"
+  },
+  {
+    "name": "Gyovren",
+    "country": "BG"
+  },
+  {
+    "name": "Govedartsi",
+    "country": "BG"
+  },
+  {
+    "name": "Govedare",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Gotse Delchev",
+    "country": "BG"
+  },
+  {
+    "name": "Gotse Delchev",
+    "country": "BG"
+  },
+  {
+    "name": "Gostilitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Gorunaka",
+    "country": "BG"
+  },
+  {
+    "name": "Gorno Draglishte",
+    "country": "BG"
+  },
+  {
+    "name": "Gorni Kray",
+    "country": "BG"
+  },
+  {
+    "name": "Gorni Bogrov",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Gorna Oryahovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Gorna Oryahovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Gorna Malina",
+    "country": "BG"
+  },
+  {
+    "name": "Gorna Malina",
+    "country": "BG"
+  },
+  {
+    "name": "Gorna Luka",
+    "country": "BG"
+  },
+  {
+    "name": "Gorichevo",
+    "country": "BG"
+  },
+  {
+    "name": "Golemo Buchino",
+    "country": "BG"
+  },
+  {
+    "name": "Golema Rakovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Godech",
+    "country": "BG"
+  },
+  {
+    "name": "Godech",
+    "country": "BG"
+  },
+  {
+    "name": "Gluhar",
+    "country": "BG"
+  },
+  {
+    "name": "Glogovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Glavinitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Glavinitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Glavatar",
+    "country": "BG"
+  },
+  {
+    "name": "Glava",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dolni Chiflik",
+    "country": "BG"
+  },
+  {
+    "name": "Dolni Chiflik",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Georgi Damyanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina General Toshevo",
+    "country": "BG"
+  },
+  {
+    "name": "General Toshevo",
+    "country": "BG"
+  },
+  {
+    "name": "Kvartal Popovo",
+    "country": "BG"
+  },
+  {
+    "name": "Gavril Genovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Hitrino",
+    "country": "BG"
+  },
+  {
+    "name": "Gara Hitrino",
+    "country": "BG"
+  },
+  {
+    "name": "Gara Elin Pelin",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Gabrovo",
+    "country": "BG"
+  },
+  {
+    "name": "Gabrovo",
+    "country": "BG"
+  },
+  {
+    "name": "Gabrovo",
+    "country": "BG"
+  },
+  {
+    "name": "Gabrene",
+    "country": "BG"
+  },
+  {
+    "name": "Ezerovo",
+    "country": "BG"
+  },
+  {
+    "name": "Evlogievo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Etropole",
+    "country": "BG"
+  },
+  {
+    "name": "Etropole",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Elhovo",
+    "country": "BG"
+  },
+  {
+    "name": "Elkhovo",
+    "country": "BG"
+  },
+  {
+    "name": "Elhovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Elin Pelin",
+    "country": "BG"
+  },
+  {
+    "name": "Elin Pelin",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Elena",
+    "country": "BG"
+  },
+  {
+    "name": "Elena",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dzhebel",
+    "country": "BG"
+  },
+  {
+    "name": "Dzhebel",
+    "country": "BG"
+  },
+  {
+    "name": "Dyankovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dve Mogili",
+    "country": "BG"
+  },
+  {
+    "name": "Dve Mogili",
+    "country": "BG"
+  },
+  {
+    "name": "Daskotna",
+    "country": "BG"
+  },
+  {
+    "name": "Durankulak",
+    "country": "BG"
+  },
+  {
+    "name": "Dunavtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dulovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dulovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dalgopol",
+    "country": "BG"
+  },
+  {
+    "name": "Dalgopol",
+    "country": "BG"
+  },
+  {
+    "name": "Dalboki",
+    "country": "BG"
+  },
+  {
+    "name": "Dabnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Dabene",
+    "country": "BG"
+  },
+  {
+    "name": "Daben",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dryanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dryanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Druzhba",
+    "country": "BG"
+  },
+  {
+    "name": "Dren",
+    "country": "BG"
+  },
+  {
+    "name": "Drangovo",
+    "country": "BG"
+  },
+  {
+    "name": "Drangovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dragovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dragoman",
+    "country": "BG"
+  },
+  {
+    "name": "Dragoman",
+    "country": "BG"
+  },
+  {
+    "name": "Dragichevo",
+    "country": "BG"
+  },
+  {
+    "name": "Dragalevtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dospat",
+    "country": "BG"
+  },
+  {
+    "name": "Dospat",
+    "country": "BG"
+  },
+  {
+    "name": "Dolno Tserovene",
+    "country": "BG"
+  },
+  {
+    "name": "Dolno Sahrane",
+    "country": "BG"
+  },
+  {
+    "name": "Dolno Osenovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dolno Linevo",
+    "country": "BG"
+  },
+  {
+    "name": "Dolni Okol",
+    "country": "BG"
+  },
+  {
+    "name": "Dolni Lukovit",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dolni Dabnik",
+    "country": "BG"
+  },
+  {
+    "name": "Dolni Dabnik",
+    "country": "BG"
+  },
+  {
+    "name": "Dolni Bogrov",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Studena",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Oryahovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dolna Mitropolia",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Mitropolia",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Kremena",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Koznitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Gradeshnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dolna Banya",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Banya",
+    "country": "BG"
+  },
+  {
+    "name": "Dolen Bliznak",
+    "country": "BG"
+  },
+  {
+    "name": "Dolen",
+    "country": "BG"
+  },
+  {
+    "name": "Dobromir",
+    "country": "BG"
+  },
+  {
+    "name": "Dobrogled",
+    "country": "BG"
+  },
+  {
+    "name": "Dobrodan",
+    "country": "BG"
+  },
+  {
+    "name": "Dobri Voynikovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dobrinishte",
+    "country": "BG"
+  },
+  {
+    "name": "Divotino",
+    "country": "BG"
+  },
+  {
+    "name": "Dinkata",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dimovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dimovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dimitrovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Dimitrovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Dibich",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Devnya",
+    "country": "BG"
+  },
+  {
+    "name": "Devnya",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Devin",
+    "country": "BG"
+  },
+  {
+    "name": "Devin",
+    "country": "BG"
+  },
+  {
+    "name": "Dekov",
+    "country": "BG"
+  },
+  {
+    "name": "Debnevo",
+    "country": "BG"
+  },
+  {
+    "name": "Debelt",
+    "country": "BG"
+  },
+  {
+    "name": "Debeli Lag",
+    "country": "BG"
+  },
+  {
+    "name": "Debelets",
+    "country": "BG"
+  },
+  {
+    "name": "Daveri",
+    "country": "BG"
+  },
+  {
+    "name": "Choba",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Chirpan",
+    "country": "BG"
+  },
+  {
+    "name": "Chirpan",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Chiprovtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Chiprovtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Chilnov",
+    "country": "BG"
+  },
+  {
+    "name": "Cheshnegirovo",
+    "country": "BG"
+  },
+  {
+    "name": "Cherveni Bryag",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Cherven Bryag",
+    "country": "BG"
+  },
+  {
+    "name": "Cherven Bryag",
+    "country": "BG"
+  },
+  {
+    "name": "Chervena",
+    "country": "BG"
+  },
+  {
+    "name": "Cherven",
+    "country": "BG"
+  },
+  {
+    "name": "Cherven",
+    "country": "BG"
+  },
+  {
+    "name": "Chernook",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Chernoochene",
+    "country": "BG"
+  },
+  {
+    "name": "Chernomorets",
+    "country": "BG"
+  },
+  {
+    "name": "Cherniche",
+    "country": "BG"
+  },
+  {
+    "name": "Cherkovna",
+    "country": "BG"
+  },
+  {
+    "name": "Cherkovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Chepelare",
+    "country": "BG"
+  },
+  {
+    "name": "Chepelare",
+    "country": "BG"
+  },
+  {
+    "name": "Chelopech",
+    "country": "BG"
+  },
+  {
+    "name": "Chavdar",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Byala Slatina",
+    "country": "BG"
+  },
+  {
+    "name": "Byala Slatina",
+    "country": "BG"
+  },
+  {
+    "name": "Byala Cherkva",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Byala",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Byala",
+    "country": "BG"
+  },
+  {
+    "name": "Byala",
+    "country": "BG"
+  },
+  {
+    "name": "Byala",
+    "country": "BG"
+  },
+  {
+    "name": "Byaga",
+    "country": "BG"
+  },
+  {
+    "name": "Butovo",
+    "country": "BG"
+  },
+  {
+    "name": "Busmantsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Burgas",
+    "country": "BG"
+  },
+  {
+    "name": "Burgas",
+    "country": "BG"
+  },
+  {
+    "name": "Burgas",
+    "country": "BG"
+  },
+  {
+    "name": "Balgarski Izvor",
+    "country": "BG"
+  },
+  {
+    "name": "Balgarovo",
+    "country": "BG"
+  },
+  {
+    "name": "Republic of Bulgaria",
+    "country": "BG"
+  },
+  {
+    "name": "Balgarene",
+    "country": "BG"
+  },
+  {
+    "name": "Bukovlak",
+    "country": "BG"
+  },
+  {
+    "name": "Bukovets",
+    "country": "BG"
+  },
+  {
+    "name": "Buhovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Brusartsi",
+    "country": "BG"
+  },
+  {
+    "name": "Brusartsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Brezovo",
+    "country": "BG"
+  },
+  {
+    "name": "Brezovo",
+    "country": "BG"
+  },
+  {
+    "name": "Breznitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Breznik",
+    "country": "BG"
+  },
+  {
+    "name": "Breznik",
+    "country": "BG"
+  },
+  {
+    "name": "Brestovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Brestovene",
+    "country": "BG"
+  },
+  {
+    "name": "Brestnik",
+    "country": "BG"
+  },
+  {
+    "name": "Bregovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Bratya Daskalovi",
+    "country": "BG"
+  },
+  {
+    "name": "Bratya Daskalovi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Bratsigovo",
+    "country": "BG"
+  },
+  {
+    "name": "Bratsigovo",
+    "country": "BG"
+  },
+  {
+    "name": "Branipole",
+    "country": "BG"
+  },
+  {
+    "name": "Branichevo",
+    "country": "BG"
+  },
+  {
+    "name": "Bradvari",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Bozhurishte",
+    "country": "BG"
+  },
+  {
+    "name": "Bozhurishte",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Boynitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Boynitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Boychinovtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Boychinovtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Bov",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Botevgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Botevgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Bosnek",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Borovo",
+    "country": "BG"
+  },
+  {
+    "name": "Borovo",
+    "country": "BG"
+  },
+  {
+    "name": "Borovets",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Borovan",
+    "country": "BG"
+  },
+  {
+    "name": "Borovan",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Borino",
+    "country": "BG"
+  },
+  {
+    "name": "Borino",
+    "country": "BG"
+  },
+  {
+    "name": "Borima",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Bolyarovo",
+    "country": "BG"
+  },
+  {
+    "name": "Bolyarovo",
+    "country": "BG"
+  },
+  {
+    "name": "Bogomilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Bogolin",
+    "country": "BG"
+  },
+  {
+    "name": "Boeritsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Bobov Dol",
+    "country": "BG"
+  },
+  {
+    "name": "Bobov Dol",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Boboshevo",
+    "country": "BG"
+  },
+  {
+    "name": "Boboshevo",
+    "country": "BG"
+  },
+  {
+    "name": "Bliznatsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Blagoevgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Blagoevgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Blagoevgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Bistritsa",
+    "country": "BG"
+  },
+  {
+    "name": "Biser",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Berkovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Berkovitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Benkovski",
+    "country": "BG"
+  },
+  {
+    "name": "Benkovski",
+    "country": "BG"
+  },
+  {
+    "name": "Belozem",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Belovo",
+    "country": "BG"
+  },
+  {
+    "name": "Belovo",
+    "country": "BG"
+  },
+  {
+    "name": "Belovets",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Beloslav",
+    "country": "BG"
+  },
+  {
+    "name": "Belopoptsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Belogradchik",
+    "country": "BG"
+  },
+  {
+    "name": "Belogradchik",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Belitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Belitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Beli Os\u016dm",
+    "country": "BG"
+  },
+  {
+    "name": "Beli Izvor",
+    "country": "BG"
+  },
+  {
+    "name": "Beli Breg",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Belene",
+    "country": "BG"
+  },
+  {
+    "name": "Belene",
+    "country": "BG"
+  },
+  {
+    "name": "Belashtitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Batishnitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Batin",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Batak",
+    "country": "BG"
+  },
+  {
+    "name": "Batak",
+    "country": "BG"
+  },
+  {
+    "name": "Barutin",
+    "country": "BG"
+  },
+  {
+    "name": "Barakovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Bansko",
+    "country": "BG"
+  },
+  {
+    "name": "Bansko",
+    "country": "BG"
+  },
+  {
+    "name": "Bankya",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Banite",
+    "country": "BG"
+  },
+  {
+    "name": "Banite",
+    "country": "BG"
+  },
+  {
+    "name": "Banevo",
+    "country": "BG"
+  },
+  {
+    "name": "Balvan",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Balchik",
+    "country": "BG"
+  },
+  {
+    "name": "Balchik",
+    "country": "BG"
+  },
+  {
+    "name": "Bagrentsi",
+    "country": "BG"
+  },
+  {
+    "name": "Bagra",
+    "country": "BG"
+  },
+  {
+    "name": "Bachkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Bachevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Aytos",
+    "country": "BG"
+  },
+  {
+    "name": "Aytos",
+    "country": "BG"
+  },
+  {
+    "name": "Aydemir",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Avren",
+    "country": "BG"
+  },
+  {
+    "name": "Avren",
+    "country": "BG"
+  },
+  {
+    "name": "Mokren",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Asenovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Asenovgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Asen",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Ardino",
+    "country": "BG"
+  },
+  {
+    "name": "Ardino",
+    "country": "BG"
+  },
+  {
+    "name": "Arda",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Apriltsi",
+    "country": "BG"
+  },
+  {
+    "name": "Apriltsi",
+    "country": "BG"
+  },
+  {
+    "name": "Apriltsi",
+    "country": "BG"
+  },
+  {
+    "name": "Aprilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Antonovo",
+    "country": "BG"
+  },
+  {
+    "name": "Antonovo",
+    "country": "BG"
+  },
+  {
+    "name": "Anton",
+    "country": "BG"
+  },
+  {
+    "name": "Anevo",
+    "country": "BG"
+  },
+  {
+    "name": "Alfatar",
+    "country": "BG"
+  },
+  {
+    "name": "Aleko Konstantinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Aldomirovtsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Aksakovo",
+    "country": "BG"
+  },
+  {
+    "name": "Aksakovo",
+    "country": "BG"
+  },
+  {
+    "name": "Ahtopol",
+    "country": "BG"
+  },
+  {
+    "name": "Agatovo",
+    "country": "BG"
+  },
+  {
+    "name": "Gabrovo",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Kardzhali",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Kyustendil",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Shumen",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Silistra",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Sliven",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Smolyan",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Stara Zagora",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Targovishte",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Veliko Tarnovo",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Vidin",
+    "country": "BG"
+  },
+  {
+    "name": "Oblast Yambol",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Primorsko",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Dobrich-Selska",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Hayredin",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Rodopi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Perushtitsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Krichim",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Stamboliyski",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Maritsa",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Mirkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Chavdar",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Chelopech",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Pirdop",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Anton",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Pravets",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Nikolaevo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Madzharovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Tundzha",
+    "country": "BG"
+  },
+  {
+    "name": "Zlatni Pyasatsi",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Sopot",
+    "country": "BG"
+  },
+  {
+    "name": "Obshtina Kuklen",
+    "country": "BG"
+  },
+  {
+    "name": "Stolichna Obshtina",
+    "country": "BG"
+  },
+  {
+    "name": "Velkovci",
+    "country": "BG"
+  },
+  {
+    "name": "Golemo Buchino",
+    "country": "BG"
+  },
+  {
+    "name": "Divotino",
+    "country": "BG"
+  },
+  {
+    "name": "Batanovci",
+    "country": "BG"
+  },
+  {
+    "name": "Dren",
+    "country": "BG"
+  },
+  {
+    "name": "Stefanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Zamfirovo",
+    "country": "BG"
+  },
+  {
+    "name": "Gromshin",
+    "country": "BG"
+  },
+  {
+    "name": "Bukovec",
+    "country": "BG"
+  },
+  {
+    "name": "Gavril Genovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dolno Linevo",
+    "country": "BG"
+  },
+  {
+    "name": "Sumer",
+    "country": "BG"
+  },
+  {
+    "name": "Gorna Luka",
+    "country": "BG"
+  },
+  {
+    "name": "Dolno Cerovene",
+    "country": "BG"
+  },
+  {
+    "name": "Brestovene",
+    "country": "BG"
+  },
+  {
+    "name": "Vazovo",
+    "country": "BG"
+  },
+  {
+    "name": "Podajva",
+    "country": "BG"
+  },
+  {
+    "name": "Staro selishhe",
+    "country": "BG"
+  },
+  {
+    "name": "Belovec",
+    "country": "BG"
+  },
+  {
+    "name": "Gorichevo",
+    "country": "BG"
+  },
+  {
+    "name": "Medovene",
+    "country": "BG"
+  },
+  {
+    "name": "Tochilari",
+    "country": "BG"
+  },
+  {
+    "name": "Veselina",
+    "country": "BG"
+  },
+  {
+    "name": "Lovsko",
+    "country": "BG"
+  },
+  {
+    "name": "Djankovo",
+    "country": "BG"
+  },
+  {
+    "name": "Krushuna",
+    "country": "BG"
+  },
+  {
+    "name": "Toros",
+    "country": "BG"
+  },
+  {
+    "name": "Bulgarski izvor",
+    "country": "BG"
+  },
+  {
+    "name": "Glogovo",
+    "country": "BG"
+  },
+  {
+    "name": "Ribarica",
+    "country": "BG"
+  },
+  {
+    "name": "Beli Osum",
+    "country": "BG"
+  },
+  {
+    "name": "Borima",
+    "country": "BG"
+  },
+  {
+    "name": "Vrabevo",
+    "country": "BG"
+  },
+  {
+    "name": "Debnevo",
+    "country": "BG"
+  },
+  {
+    "name": "Oreshak",
+    "country": "BG"
+  },
+  {
+    "name": "Shipkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dobrodan",
+    "country": "BG"
+  },
+  {
+    "name": "Kirchevo",
+    "country": "BG"
+  },
+  {
+    "name": "Lesidren",
+    "country": "BG"
+  },
+  {
+    "name": "Ustrem",
+    "country": "BG"
+  },
+  {
+    "name": "Biser",
+    "country": "BG"
+  },
+  {
+    "name": "Vurbovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dobrinishhe",
+    "country": "BG"
+  },
+  {
+    "name": "Mesta",
+    "country": "BG"
+  },
+  {
+    "name": "Kraishhe",
+    "country": "BG"
+  },
+  {
+    "name": "Padesh",
+    "country": "BG"
+  },
+  {
+    "name": "Breznica",
+    "country": "BG"
+  },
+  {
+    "name": "Musomishha",
+    "country": "BG"
+  },
+  {
+    "name": "Dubnica",
+    "country": "BG"
+  },
+  {
+    "name": "Ribnovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Gradeshnica",
+    "country": "BG"
+  },
+  {
+    "name": "Gabrene",
+    "country": "BG"
+  },
+  {
+    "name": "Drangovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kavrakirovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kurnalovo",
+    "country": "BG"
+  },
+  {
+    "name": "Marikostinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Rupite",
+    "country": "BG"
+  },
+  {
+    "name": "Samuilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Skrut",
+    "country": "BG"
+  },
+  {
+    "name": "Starchevo",
+    "country": "BG"
+  },
+  {
+    "name": "Bachevo",
+    "country": "BG"
+  },
+  {
+    "name": "Gorno Draglishhe",
+    "country": "BG"
+  },
+  {
+    "name": "Katunci",
+    "country": "BG"
+  },
+  {
+    "name": "Laskarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Levunovo",
+    "country": "BG"
+  },
+  {
+    "name": "Melnik",
+    "country": "BG"
+  },
+  {
+    "name": "Novo Delchevo",
+    "country": "BG"
+  },
+  {
+    "name": "Ploski",
+    "country": "BG"
+  },
+  {
+    "name": "Sklave",
+    "country": "BG"
+  },
+  {
+    "name": "Struma",
+    "country": "BG"
+  },
+  {
+    "name": "Bogolin",
+    "country": "BG"
+  },
+  {
+    "name": "Vaklinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Zhizhevo",
+    "country": "BG"
+  },
+  {
+    "name": "Kochan",
+    "country": "BG"
+  },
+  {
+    "name": "Slashhen",
+    "country": "BG"
+  },
+  {
+    "name": "Dolno Osenovo",
+    "country": "BG"
+  },
+  {
+    "name": "Krupnik",
+    "country": "BG"
+  },
+  {
+    "name": "Polena",
+    "country": "BG"
+  },
+  {
+    "name": "Poleto",
+    "country": "BG"
+  },
+  {
+    "name": "Cherniche",
+    "country": "BG"
+  },
+  {
+    "name": "Koprivlen",
+    "country": "BG"
+  },
+  {
+    "name": "Novo Leski",
+    "country": "BG"
+  },
+  {
+    "name": "Stefan Karadzha",
+    "country": "BG"
+  },
+  {
+    "name": "Sekulovo",
+    "country": "BG"
+  },
+  {
+    "name": "Jarebica",
+    "country": "BG"
+  },
+  {
+    "name": "Ajdemir",
+    "country": "BG"
+  },
+  {
+    "name": "Bradvari",
+    "country": "BG"
+  },
+  {
+    "name": "Vetren",
+    "country": "BG"
+  },
+  {
+    "name": "Profesor Ishirkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Benkovski",
+    "country": "BG"
+  },
+  {
+    "name": "Ljuben Karavelovo",
+    "country": "BG"
+  },
+  {
+    "name": "Ezerovo",
+    "country": "BG"
+  },
+  {
+    "name": "Topoli",
+    "country": "BG"
+  },
+  {
+    "name": "Neofit Rilski",
+    "country": "BG"
+  },
+  {
+    "name": "Medovec",
+    "country": "BG"
+  },
+  {
+    "name": "Poljacite",
+    "country": "BG"
+  },
+  {
+    "name": "Zlatina",
+    "country": "BG"
+  },
+  {
+    "name": "Chernook",
+    "country": "BG"
+  },
+  {
+    "name": "Topolovo",
+    "country": "BG"
+  },
+  {
+    "name": "Cherven",
+    "country": "BG"
+  },
+  {
+    "name": "Bachkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Zelenikovo",
+    "country": "BG"
+  },
+  {
+    "name": "Choba",
+    "country": "BG"
+  },
+  {
+    "name": "Drangovo",
+    "country": "BG"
+  },
+  {
+    "name": "Ivan Vazovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dubene",
+    "country": "BG"
+  },
+  {
+    "name": "Kalofer",
+    "country": "BG"
+  },
+  {
+    "name": "Karavelovo",
+    "country": "BG"
+  },
+  {
+    "name": "Klisura",
+    "country": "BG"
+  },
+  {
+    "name": "Kurnare",
+    "country": "BG"
+  },
+  {
+    "name": "Rozino",
+    "country": "BG"
+  },
+  {
+    "name": "Khristo Danovo",
+    "country": "BG"
+  },
+  {
+    "name": "Moskovec",
+    "country": "BG"
+  },
+  {
+    "name": "Benkovski",
+    "country": "BG"
+  },
+  {
+    "name": "Vojvodinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kostievo",
+    "country": "BG"
+  },
+  {
+    "name": "Manole",
+    "country": "BG"
+  },
+  {
+    "name": "Manolsko Konare",
+    "country": "BG"
+  },
+  {
+    "name": "Radinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Rogosh",
+    "country": "BG"
+  },
+  {
+    "name": "Skutare",
+    "country": "BG"
+  },
+  {
+    "name": "Stroevo",
+    "country": "BG"
+  },
+  {
+    "name": "Trud",
+    "country": "BG"
+  },
+  {
+    "name": "Caracovo",
+    "country": "BG"
+  },
+  {
+    "name": "Belozem",
+    "country": "BG"
+  },
+  {
+    "name": "Branipole",
+    "country": "BG"
+  },
+  {
+    "name": "Brestnik",
+    "country": "BG"
+  },
+  {
+    "name": "Brestovica",
+    "country": "BG"
+  },
+  {
+    "name": "Zlatitrap",
+    "country": "BG"
+  },
+  {
+    "name": "Kadievo",
+    "country": "BG"
+  },
+  {
+    "name": "Krumovo",
+    "country": "BG"
+  },
+  {
+    "name": "Markovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kochevo",
+    "country": "BG"
+  },
+  {
+    "name": "Cheshnegirovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kurtovo Konare",
+    "country": "BG"
+  },
+  {
+    "name": "Anevo",
+    "country": "BG"
+  },
+  {
+    "name": "Karageorgievo",
+    "country": "BG"
+  },
+  {
+    "name": "Banevo",
+    "country": "BG"
+  },
+  {
+    "name": "Bulgarovo",
+    "country": "BG"
+  },
+  {
+    "name": "Debelt",
+    "country": "BG"
+  },
+  {
+    "name": "Zornica",
+    "country": "BG"
+  },
+  {
+    "name": "Krustina",
+    "country": "BG"
+  },
+  {
+    "name": "Dragovo",
+    "country": "BG"
+  },
+  {
+    "name": "Krumovo gradishhe",
+    "country": "BG"
+  },
+  {
+    "name": "Sokolovo",
+    "country": "BG"
+  },
+  {
+    "name": "Akhtopol",
+    "country": "BG"
+  },
+  {
+    "name": "Varvara",
+    "country": "BG"
+  },
+  {
+    "name": "Sveti Vlas",
+    "country": "BG"
+  },
+  {
+    "name": "Kosharica",
+    "country": "BG"
+  },
+  {
+    "name": "Obzor",
+    "country": "BG"
+  },
+  {
+    "name": "Ravda",
+    "country": "BG"
+  },
+  {
+    "name": "Kableshkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dobromir",
+    "country": "BG"
+  },
+  {
+    "name": "Duskotna",
+    "country": "BG"
+  },
+  {
+    "name": "Zajchar",
+    "country": "BG"
+  },
+  {
+    "name": "Prosenik",
+    "country": "BG"
+  },
+  {
+    "name": "Ravadinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Chernomorec",
+    "country": "BG"
+  },
+  {
+    "name": "Lozarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Slavjanci",
+    "country": "BG"
+  },
+  {
+    "name": "Kiten",
+    "country": "BG"
+  },
+  {
+    "name": "Batin",
+    "country": "BG"
+  },
+  {
+    "name": "Sturmen",
+    "country": "BG"
+  },
+  {
+    "name": "Senovo",
+    "country": "BG"
+  },
+  {
+    "name": "Batishnica",
+    "country": "BG"
+  },
+  {
+    "name": "Chilnov",
+    "country": "BG"
+  },
+  {
+    "name": "Krasen",
+    "country": "BG"
+  },
+  {
+    "name": "Mechka",
+    "country": "BG"
+  },
+  {
+    "name": "Pirgovo",
+    "country": "BG"
+  },
+  {
+    "name": "Shhruklevo",
+    "country": "BG"
+  },
+  {
+    "name": "Cherven",
+    "country": "BG"
+  },
+  {
+    "name": "Nikolovo",
+    "country": "BG"
+  },
+  {
+    "name": "Prosena",
+    "country": "BG"
+  },
+  {
+    "name": "Sandrovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kosharna",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Studena",
+    "country": "BG"
+  },
+  {
+    "name": "Novgrad",
+    "country": "BG"
+  },
+  {
+    "name": "Dekov",
+    "country": "BG"
+  },
+  {
+    "name": "Riben",
+    "country": "BG"
+  },
+  {
+    "name": "Sadovec",
+    "country": "BG"
+  },
+  {
+    "name": "Kozar Belene",
+    "country": "BG"
+  },
+  {
+    "name": "Malchika",
+    "country": "BG"
+  },
+  {
+    "name": "Obnova",
+    "country": "BG"
+  },
+  {
+    "name": "Muselievo",
+    "country": "BG"
+  },
+  {
+    "name": "Cherkovica",
+    "country": "BG"
+  },
+  {
+    "name": "Dolni Lukovit",
+    "country": "BG"
+  },
+  {
+    "name": "Bukovluk",
+    "country": "BG"
+  },
+  {
+    "name": "Slavjanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Zgalevo",
+    "country": "BG"
+  },
+  {
+    "name": "Totleben",
+    "country": "BG"
+  },
+  {
+    "name": "Glava",
+    "country": "BG"
+  },
+  {
+    "name": "Kojnare",
+    "country": "BG"
+  },
+  {
+    "name": "Orizovo",
+    "country": "BG"
+  },
+  {
+    "name": "Partizanin",
+    "country": "BG"
+  },
+  {
+    "name": "Shipka",
+    "country": "BG"
+  },
+  {
+    "name": "Tulovo",
+    "country": "BG"
+  },
+  {
+    "name": "Asen",
+    "country": "BG"
+  },
+  {
+    "name": "Dolno Sakhrane",
+    "country": "BG"
+  },
+  {
+    "name": "Osetenovo",
+    "country": "BG"
+  },
+  {
+    "name": "Bogomilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dulboki",
+    "country": "BG"
+  },
+  {
+    "name": "Malko Kadievo",
+    "country": "BG"
+  },
+  {
+    "name": "Orjakhovica",
+    "country": "BG"
+  },
+  {
+    "name": "Ploska mogila",
+    "country": "BG"
+  },
+  {
+    "name": "Elkhovo",
+    "country": "BG"
+  },
+  {
+    "name": "Obrochishhe",
+    "country": "BG"
+  },
+  {
+    "name": "Petleshkovo",
+    "country": "BG"
+  },
+  {
+    "name": "Spasovo",
+    "country": "BG"
+  },
+  {
+    "name": "Karapelit",
+    "country": "BG"
+  },
+  {
+    "name": "Kochmar",
+    "country": "BG"
+  },
+  {
+    "name": "Durankulak",
+    "country": "BG"
+  },
+  {
+    "name": "Mokren",
+    "country": "BG"
+  },
+  {
+    "name": "Ticha",
+    "country": "BG"
+  },
+  {
+    "name": "Korten",
+    "country": "BG"
+  },
+  {
+    "name": "Kermen",
+    "country": "BG"
+  },
+  {
+    "name": "Samuilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Stara reka",
+    "country": "BG"
+  },
+  {
+    "name": "Topolchane",
+    "country": "BG"
+  },
+  {
+    "name": "Trapoklovo",
+    "country": "BG"
+  },
+  {
+    "name": "Shivachevo",
+    "country": "BG"
+  },
+  {
+    "name": "Gostilica",
+    "country": "BG"
+  },
+  {
+    "name": "Agatovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dunavci",
+    "country": "BG"
+  },
+  {
+    "name": "Pokrajna",
+    "country": "BG"
+  },
+  {
+    "name": "Druzhba",
+    "country": "BG"
+  },
+  {
+    "name": "Vinarovo",
+    "country": "BG"
+  },
+  {
+    "name": "Dobri Vojnikovo",
+    "country": "BG"
+  },
+  {
+    "name": "Branichevo",
+    "country": "BG"
+  },
+  {
+    "name": "Kliment",
+    "country": "BG"
+  },
+  {
+    "name": "Kaspichan",
+    "country": "BG"
+  },
+  {
+    "name": "Pliska",
+    "country": "BG"
+  },
+  {
+    "name": "Mirovci",
+    "country": "BG"
+  },
+  {
+    "name": "Dibich",
+    "country": "BG"
+  },
+  {
+    "name": "Novosel",
+    "country": "BG"
+  },
+  {
+    "name": "Balvan",
+    "country": "BG"
+  },
+  {
+    "name": "Debelec",
+    "country": "BG"
+  },
+  {
+    "name": "Kilifarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Ledenik",
+    "country": "BG"
+  },
+  {
+    "name": "Prisovo",
+    "country": "BG"
+  },
+  {
+    "name": "Pchelishhe",
+    "country": "BG"
+  },
+  {
+    "name": "Resen",
+    "country": "BG"
+  },
+  {
+    "name": "Khotnica",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Orjakhovica",
+    "country": "BG"
+  },
+  {
+    "name": "Pisarevo",
+    "country": "BG"
+  },
+  {
+    "name": "Polikraishhe",
+    "country": "BG"
+  },
+  {
+    "name": "Purvomajci",
+    "country": "BG"
+  },
+  {
+    "name": "Butovo",
+    "country": "BG"
+  },
+  {
+    "name": "Bjala cherkva",
+    "country": "BG"
+  },
+  {
+    "name": "Karaisen",
+    "country": "BG"
+  },
+  {
+    "name": "Obedinenie",
+    "country": "BG"
+  },
+  {
+    "name": "Radanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Vardim",
+    "country": "BG"
+  },
+  {
+    "name": "Kozlovec",
+    "country": "BG"
+  },
+  {
+    "name": "Oresh",
+    "country": "BG"
+  },
+  {
+    "name": "Chervena",
+    "country": "BG"
+  },
+  {
+    "name": "Vladislav",
+    "country": "BG"
+  },
+  {
+    "name": "Mishevsko",
+    "country": "BG"
+  },
+  {
+    "name": "Chakalci",
+    "country": "BG"
+  },
+  {
+    "name": "Dzherovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kran",
+    "country": "BG"
+  },
+  {
+    "name": "Rastnik",
+    "country": "BG"
+  },
+  {
+    "name": "Glukhar",
+    "country": "BG"
+  },
+  {
+    "name": "Makedonci",
+    "country": "BG"
+  },
+  {
+    "name": "Miladinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Skalna glava",
+    "country": "BG"
+  },
+  {
+    "name": "Gruevo",
+    "country": "BG"
+  },
+  {
+    "name": "Gabrovo",
+    "country": "BG"
+  },
+  {
+    "name": "Momina klisura",
+    "country": "BG"
+  },
+  {
+    "name": "Sestrimo",
+    "country": "BG"
+  },
+  {
+    "name": "Bjaga",
+    "country": "BG"
+  },
+  {
+    "name": "Isperikhovo",
+    "country": "BG"
+  },
+  {
+    "name": "Rozovo",
+    "country": "BG"
+  },
+  {
+    "name": "Grashevo",
+    "country": "BG"
+  },
+  {
+    "name": "Medeni poljani",
+    "country": "BG"
+  },
+  {
+    "name": "Sveta Petka",
+    "country": "BG"
+  },
+  {
+    "name": "Surnica",
+    "country": "BG"
+  },
+  {
+    "name": "Dinkata",
+    "country": "BG"
+  },
+  {
+    "name": "Pamidovo",
+    "country": "BG"
+  },
+  {
+    "name": "Aleko Konstantinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Aprilci",
+    "country": "BG"
+  },
+  {
+    "name": "Govedare",
+    "country": "BG"
+  },
+  {
+    "name": "Malo Konare",
+    "country": "BG"
+  },
+  {
+    "name": "Ognjanovo",
+    "country": "BG"
+  },
+  {
+    "name": "Patalenica",
+    "country": "BG"
+  },
+  {
+    "name": "Pishhigovo",
+    "country": "BG"
+  },
+  {
+    "name": "Sinitovo",
+    "country": "BG"
+  },
+  {
+    "name": "Oborishhe",
+    "country": "BG"
+  },
+  {
+    "name": "Kapitan Dimitrievo",
+    "country": "BG"
+  },
+  {
+    "name": "Radilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Kostandovo",
+    "country": "BG"
+  },
+  {
+    "name": "Varvara",
+    "country": "BG"
+  },
+  {
+    "name": "Vetren",
+    "country": "BG"
+  },
+  {
+    "name": "Karabunar",
+    "country": "BG"
+  },
+  {
+    "name": "Semchinovo",
+    "country": "BG"
+  },
+  {
+    "name": "Slavovica",
+    "country": "BG"
+  },
+  {
+    "name": "Barakovo",
+    "country": "BG"
+  },
+  {
+    "name": "Porominovo",
+    "country": "BG"
+  },
+  {
+    "name": "Stob",
+    "country": "BG"
+  },
+  {
+    "name": "Bagrenci",
+    "country": "BG"
+  },
+  {
+    "name": "Granica",
+    "country": "BG"
+  },
+  {
+    "name": "Nikolichevci",
+    "country": "BG"
+  },
+  {
+    "name": "Ovcharci",
+    "country": "BG"
+  },
+  {
+    "name": "Resilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Saparevo",
+    "country": "BG"
+  },
+  {
+    "name": "Samoranovo",
+    "country": "BG"
+  },
+  {
+    "name": "Jagodina",
+    "country": "BG"
+  },
+  {
+    "name": "Gyovren",
+    "country": "BG"
+  },
+  {
+    "name": "Barutin",
+    "country": "BG"
+  },
+  {
+    "name": "Dolen",
+    "country": "BG"
+  },
+  {
+    "name": "Starcevo",
+    "country": "BG"
+  },
+  {
+    "name": "Plovdivci",
+    "country": "BG"
+  },
+  {
+    "name": "Arda",
+    "country": "BG"
+  },
+  {
+    "name": "Vievo",
+    "country": "BG"
+  },
+  {
+    "name": "Turun",
+    "country": "BG"
+  },
+  {
+    "name": "Pavelsko",
+    "country": "BG"
+  },
+  {
+    "name": "Lesovo",
+    "country": "BG"
+  },
+  {
+    "name": "Razdel",
+    "country": "BG"
+  },
+  {
+    "name": "Kamenec",
+    "country": "BG"
+  },
+  {
+    "name": "Nedjalsko",
+    "country": "BG"
+  },
+  {
+    "name": "Kabile",
+    "country": "BG"
+  },
+  {
+    "name": "Malomir",
+    "country": "BG"
+  },
+  {
+    "name": "Ljubichevo",
+    "country": "BG"
+  },
+  {
+    "name": "Ilijno",
+    "country": "BG"
+  },
+  {
+    "name": "Kardam",
+    "country": "BG"
+  },
+  {
+    "name": "Kovachevec",
+    "country": "BG"
+  },
+  {
+    "name": "Osikovo",
+    "country": "BG"
+  },
+  {
+    "name": "Posabina",
+    "country": "BG"
+  },
+  {
+    "name": "Svetlen",
+    "country": "BG"
+  },
+  {
+    "name": "Ostrec",
+    "country": "BG"
+  },
+  {
+    "name": "Cherkovna",
+    "country": "BG"
+  },
+  {
+    "name": "Turnava",
+    "country": "BG"
+  },
+  {
+    "name": "Beli izvor",
+    "country": "BG"
+  },
+  {
+    "name": "Zgorigrad",
+    "country": "BG"
+  },
+  {
+    "name": "Tri kladenci",
+    "country": "BG"
+  },
+  {
+    "name": "Dolna Kremena",
+    "country": "BG"
+  },
+  {
+    "name": "Zverino",
+    "country": "BG"
+  },
+  {
+    "name": "Krushovica",
+    "country": "BG"
+  },
+  {
+    "name": "Ostrov",
+    "country": "BG"
+  },
+  {
+    "name": "Selanovci",
+    "country": "BG"
+  },
+  {
+    "name": "Prolesha",
+    "country": "BG"
+  },
+  {
+    "name": "Vrachesh",
+    "country": "BG"
+  },
+  {
+    "name": "Trudovec",
+    "country": "BG"
+  },
+  {
+    "name": "Aprilovo",
+    "country": "BG"
+  },
+  {
+    "name": "Belopopci",
+    "country": "BG"
+  },
+  {
+    "name": "Golema Rakovica",
+    "country": "BG"
+  },
+  {
+    "name": "Elin Pelin",
+    "country": "BG"
+  },
+  {
+    "name": "Novi khan",
+    "country": "BG"
+  },
+  {
+    "name": "Vakarel",
+    "country": "BG"
+  },
+  {
+    "name": "Gradec",
+    "country": "BG"
+  },
+  {
+    "name": "Govedarci",
+    "country": "BG"
+  },
+  {
+    "name": "Raduil",
+    "country": "BG"
+  },
+  {
+    "name": "Jarlovo",
+    "country": "BG"
+  },
+  {
+    "name": "Bov",
+    "country": "BG"
+  },
+  {
+    "name": "Lakatnik",
+    "country": "BG"
+  },
+  {
+    "name": "Osenovlag",
+    "country": "BG"
+  },
+  {
+    "name": "Rebrovo",
+    "country": "BG"
+  },
+  {
+    "name": "Svidnja",
+    "country": "BG"
+  },
+  {
+    "name": "Aldomirovci",
+    "country": "BG"
+  },
+  {
+    "name": "Vladaja",
+    "country": "BG"
+  },
+  {
+    "name": "Murchaevo",
+    "country": "BG"
+  },
+  {
+    "name": "Mramor",
+    "country": "BG"
+  },
+  {
+    "name": "Podgumer",
+    "country": "BG"
+  },
+  {
+    "name": "Bukhovo",
+    "country": "BG"
+  },
+  {
+    "name": "Gorni Bogrov",
+    "country": "BG"
+  },
+  {
+    "name": "Dolni Bogrov",
+    "country": "BG"
+  },
+  {
+    "name": "Bistrica",
+    "country": "BG"
+  },
+  {
+    "name": "Kazichene",
+    "country": "BG"
+  },
+  {
+    "name": "Krivina",
+    "country": "BG"
+  },
+  {
+    "name": "Lozen",
+    "country": "BG"
+  },
+  {
+    "name": "\u0410\u0441\u0435\u043d\u043e\u0432\u0430 \u043c\u0430\u0445\u0430\u043b\u0430",
+    "country": "BG"
+  }
+]

@@ -1,0 +1,882 @@
+[
+  {
+    "name": "Kuah",
+    "country": "MY"
+  },
+  {
+    "name": "Jerantut",
+    "country": "MY"
+  },
+  {
+    "name": "Maran",
+    "country": "MY"
+  },
+  {
+    "name": "Raub",
+    "country": "MY"
+  },
+  {
+    "name": "Batu Pahat",
+    "country": "MY"
+  },
+  {
+    "name": "Parit Raja",
+    "country": "MY"
+  },
+  {
+    "name": "Pekan Nenas",
+    "country": "MY"
+  },
+  {
+    "name": "Pontian Kechil",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Pasir Gudang Baru",
+    "country": "MY"
+  },
+  {
+    "name": "Kota Tinggi",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Seelong",
+    "country": "MY"
+  },
+  {
+    "name": "Taman Senai",
+    "country": "MY"
+  },
+  {
+    "name": "Kulai",
+    "country": "MY"
+  },
+  {
+    "name": "Skudai",
+    "country": "MY"
+  },
+  {
+    "name": "Johor Bahru",
+    "country": "MY"
+  },
+  {
+    "name": "Kluang",
+    "country": "MY"
+  },
+  {
+    "name": "Yong Peng",
+    "country": "MY"
+  },
+  {
+    "name": "Mersing",
+    "country": "MY"
+  },
+  {
+    "name": "Segamat",
+    "country": "MY"
+  },
+  {
+    "name": "Tangkak",
+    "country": "MY"
+  },
+  {
+    "name": "Muar",
+    "country": "MY"
+  },
+  {
+    "name": "Bakri",
+    "country": "MY"
+  },
+  {
+    "name": "Labis",
+    "country": "MY"
+  },
+  {
+    "name": "Chaah",
+    "country": "MY"
+  },
+  {
+    "name": "Kuala Selangor",
+    "country": "MY"
+  },
+  {
+    "name": "Batang Berjuntai",
+    "country": "MY"
+  },
+  {
+    "name": "Batu Arang",
+    "country": "MY"
+  },
+  {
+    "name": "Shah Alam",
+    "country": "MY"
+  },
+  {
+    "name": "Klang",
+    "country": "MY"
+  },
+  {
+    "name": "Cukai",
+    "country": "MY"
+  },
+  {
+    "name": "Kuala Lipis",
+    "country": "MY"
+  },
+  {
+    "name": "Melaka",
+    "country": "MY"
+  },
+  {
+    "name": "Terengganu",
+    "country": "MY"
+  },
+  {
+    "name": "Selangor",
+    "country": "MY"
+  },
+  {
+    "name": "Sarawak",
+    "country": "MY"
+  },
+  {
+    "name": "Sabah",
+    "country": "MY"
+  },
+  {
+    "name": "Perlis",
+    "country": "MY"
+  },
+  {
+    "name": "Perak",
+    "country": "MY"
+  },
+  {
+    "name": "Pahang",
+    "country": "MY"
+  },
+  {
+    "name": "Negeri Sembilan",
+    "country": "MY"
+  },
+  {
+    "name": "Kelantan",
+    "country": "MY"
+  },
+  {
+    "name": "Malaysia",
+    "country": "MY"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "country": "MY"
+  },
+  {
+    "name": "Pulau Pinang",
+    "country": "MY"
+  },
+  {
+    "name": "Kedah",
+    "country": "MY"
+  },
+  {
+    "name": "Johor",
+    "country": "MY"
+  },
+  {
+    "name": "Papar",
+    "country": "MY"
+  },
+  {
+    "name": "Kota Kinabalu",
+    "country": "MY"
+  },
+  {
+    "name": "Donggongon",
+    "country": "MY"
+  },
+  {
+    "name": "Putatan",
+    "country": "MY"
+  },
+  {
+    "name": "Kinarut",
+    "country": "MY"
+  },
+  {
+    "name": "Ranau",
+    "country": "MY"
+  },
+  {
+    "name": "Semporna",
+    "country": "MY"
+  },
+  {
+    "name": "Labuan",
+    "country": "MY"
+  },
+  {
+    "name": "Beaufort",
+    "country": "MY"
+  },
+  {
+    "name": "Lahad Datu",
+    "country": "MY"
+  },
+  {
+    "name": "Sandakan",
+    "country": "MY"
+  },
+  {
+    "name": "Keningau",
+    "country": "MY"
+  },
+  {
+    "name": "Tawau",
+    "country": "MY"
+  },
+  {
+    "name": "Labuan",
+    "country": "MY"
+  },
+  {
+    "name": "Paka",
+    "country": "MY"
+  },
+  {
+    "name": "Kertih",
+    "country": "MY"
+  },
+  {
+    "name": "Kulim",
+    "country": "MY"
+  },
+  {
+    "name": "Bagan Serai",
+    "country": "MY"
+  },
+  {
+    "name": "Bedong",
+    "country": "MY"
+  },
+  {
+    "name": "Simpang Empat",
+    "country": "MY"
+  },
+  {
+    "name": "Taiping",
+    "country": "MY"
+  },
+  {
+    "name": "Kuala Kangsar",
+    "country": "MY"
+  },
+  {
+    "name": "Ipoh",
+    "country": "MY"
+  },
+  {
+    "name": "Gua Musang",
+    "country": "MY"
+  },
+  {
+    "name": "Kuala Terengganu",
+    "country": "MY"
+  },
+  {
+    "name": "Marang",
+    "country": "MY"
+  },
+  {
+    "name": "Tampin",
+    "country": "MY"
+  },
+  {
+    "name": "Alor Gajah",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Ayer Keroh",
+    "country": "MY"
+  },
+  {
+    "name": "Sungai Udang",
+    "country": "MY"
+  },
+  {
+    "name": "Malacca",
+    "country": "MY"
+  },
+  {
+    "name": "Pelabuhan Klang",
+    "country": "MY"
+  },
+  {
+    "name": "Banting",
+    "country": "MY"
+  },
+  {
+    "name": "Jenjarum",
+    "country": "MY"
+  },
+  {
+    "name": "Semenyih",
+    "country": "MY"
+  },
+  {
+    "name": "Beranang",
+    "country": "MY"
+  },
+  {
+    "name": "Seremban",
+    "country": "MY"
+  },
+  {
+    "name": "Port Dickson",
+    "country": "MY"
+  },
+  {
+    "name": "Bahau",
+    "country": "MY"
+  },
+  {
+    "name": "Kuala Pilah",
+    "country": "MY"
+  },
+  {
+    "name": "Buloh Kasap",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Tekek",
+    "country": "MY"
+  },
+  {
+    "name": "Pekan",
+    "country": "MY"
+  },
+  {
+    "name": "Mentekab",
+    "country": "MY"
+  },
+  {
+    "name": "Temerluh",
+    "country": "MY"
+  },
+  {
+    "name": "Permatang Damar Laut",
+    "country": "MY"
+  },
+  {
+    "name": "Butterworth",
+    "country": "MY"
+  },
+  {
+    "name": "Perai",
+    "country": "MY"
+  },
+  {
+    "name": "Bukit Mertajam",
+    "country": "MY"
+  },
+  {
+    "name": "Nibong Tebal",
+    "country": "MY"
+  },
+  {
+    "name": "Parit Buntar",
+    "country": "MY"
+  },
+  {
+    "name": "Tasek Glugor",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Sungai Nibung Besar",
+    "country": "MY"
+  },
+  {
+    "name": "George Town",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Bukit Tinggi, Bentong",
+    "country": "MY"
+  },
+  {
+    "name": "Serendah",
+    "country": "MY"
+  },
+  {
+    "name": "Rawang",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Subang",
+    "country": "MY"
+  },
+  {
+    "name": "Petaling",
+    "country": "MY"
+  },
+  {
+    "name": "Petaling Jaya",
+    "country": "MY"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "country": "MY"
+  },
+  {
+    "name": "Setapak",
+    "country": "MY"
+  },
+  {
+    "name": "Sabak Bernam",
+    "country": "MY"
+  },
+  {
+    "name": "Sungai Besar",
+    "country": "MY"
+  },
+  {
+    "name": "Kuantan",
+    "country": "MY"
+  },
+  {
+    "name": "Telok Baharu",
+    "country": "MY"
+  },
+  {
+    "name": "Tanah Rata",
+    "country": "MY"
+  },
+  {
+    "name": "Batu Gajah",
+    "country": "MY"
+  },
+  {
+    "name": "Kampar",
+    "country": "MY"
+  },
+  {
+    "name": "Tapah Road",
+    "country": "MY"
+  },
+  {
+    "name": "Bidur",
+    "country": "MY"
+  },
+  {
+    "name": "Lumut",
+    "country": "MY"
+  },
+  {
+    "name": "Sitiawan",
+    "country": "MY"
+  },
+  {
+    "name": "Teluk Intan",
+    "country": "MY"
+  },
+  {
+    "name": "Gurun",
+    "country": "MY"
+  },
+  {
+    "name": "Sungai Petani",
+    "country": "MY"
+  },
+  {
+    "name": "Kepala Batas",
+    "country": "MY"
+  },
+  {
+    "name": "Ketereh",
+    "country": "MY"
+  },
+  {
+    "name": "Pulai Chondong",
+    "country": "MY"
+  },
+  {
+    "name": "Tanah Merah",
+    "country": "MY"
+  },
+  {
+    "name": "Kuching",
+    "country": "MY"
+  },
+  {
+    "name": "Simanggang",
+    "country": "MY"
+  },
+  {
+    "name": "Sarikei",
+    "country": "MY"
+  },
+  {
+    "name": "Sibu",
+    "country": "MY"
+  },
+  {
+    "name": "Kangar",
+    "country": "MY"
+  },
+  {
+    "name": "Kuala Perlis",
+    "country": "MY"
+  },
+  {
+    "name": "Jitra",
+    "country": "MY"
+  },
+  {
+    "name": "Kuala Kedah",
+    "country": "MY"
+  },
+  {
+    "name": "Alor Setar",
+    "country": "MY"
+  },
+  {
+    "name": "Tumpat",
+    "country": "MY"
+  },
+  {
+    "name": "Pasir Mas",
+    "country": "MY"
+  },
+  {
+    "name": "Kota Bharu",
+    "country": "MY"
+  },
+  {
+    "name": "Jertih",
+    "country": "MY"
+  },
+  {
+    "name": "Kudat",
+    "country": "MY"
+  },
+  {
+    "name": "Kota Belud",
+    "country": "MY"
+  },
+  {
+    "name": "Kapit",
+    "country": "MY"
+  },
+  {
+    "name": "Bintulu",
+    "country": "MY"
+  },
+  {
+    "name": "Limbang",
+    "country": "MY"
+  },
+  {
+    "name": "Miri",
+    "country": "MY"
+  },
+  {
+    "name": "Ulu Tiram",
+    "country": "MY"
+  },
+  {
+    "name": "Tanjung Tokong",
+    "country": "MY"
+  },
+  {
+    "name": "Tanjung Sepat",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Tabanac",
+    "country": "MY"
+  },
+  {
+    "name": "Sungai Pelek New Village",
+    "country": "MY"
+  },
+  {
+    "name": "Rumah Dana",
+    "country": "MY"
+  },
+  {
+    "name": "Rumah Ampeng",
+    "country": "MY"
+  },
+  {
+    "name": "Riam Road Bazaar",
+    "country": "MY"
+  },
+  {
+    "name": "Pulau Sebang",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Pokok Manggis",
+    "country": "MY"
+  },
+  {
+    "name": "Permatang Kuching",
+    "country": "MY"
+  },
+  {
+    "name": "Peringat",
+    "country": "MY"
+  },
+  {
+    "name": "Ladang Seri Kundang",
+    "country": "MY"
+  },
+  {
+    "name": "Pekan Darat",
+    "country": "MY"
+  },
+  {
+    "name": "Pasir Penambang",
+    "country": "MY"
+  },
+  {
+    "name": "Pantai Remis",
+    "country": "MY"
+  },
+  {
+    "name": "Kuang",
+    "country": "MY"
+  },
+  {
+    "name": "Kuala Sungai Baru",
+    "country": "MY"
+  },
+  {
+    "name": "Kepong",
+    "country": "MY"
+  },
+  {
+    "name": "Klebang Besar",
+    "country": "MY"
+  },
+  {
+    "name": "Kelapa Sawit",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Wakuba",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Tengah",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Telok Reba",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Teluk Dalam",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Telaga Batin",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Tanjung Karang",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Sungai Tanah Liat",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Sungai Glugur",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Sungai Ara",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Simpang Renggam",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Rantau Panjang",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Pulau Samak",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Pangkal Kalong",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Naran",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Masjid Tanah",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Kota Lama",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Kadok",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Gual Payong",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Dungun",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Bukit Baharu",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Batu Perak",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Batu Lapan Tiga Suku",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Baru Subang",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Baharu Nilai",
+    "country": "MY"
+  },
+  {
+    "name": "Kampong Baharu Balakong",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Ayer Molek",
+    "country": "MY"
+  },
+  {
+    "name": "Juru",
+    "country": "MY"
+  },
+  {
+    "name": "Bukit Rambai",
+    "country": "MY"
+  },
+  {
+    "name": "Brighton",
+    "country": "MY"
+  },
+  {
+    "name": "Bentong Town",
+    "country": "MY"
+  },
+  {
+    "name": "Bemban",
+    "country": "MY"
+  },
+  {
+    "name": "Batu Berendam",
+    "country": "MY"
+  },
+  {
+    "name": "Api Rokok",
+    "country": "MY"
+  },
+  {
+    "name": "Pelabuhan Kelang Utara",
+    "country": "MY"
+  },
+  {
+    "name": "Putrajaya",
+    "country": "MY"
+  },
+  {
+    "name": "Putrajaya",
+    "country": "MY"
+  },
+  {
+    "name": "Chabang Wahid",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Alor Perang",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Bakau",
+    "country": "MY"
+  },
+  {
+    "name": "Batu Hitam",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Pamaguan",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Lemal",
+    "country": "MY"
+  },
+  {
+    "name": "Bandar Labuan",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Agung Agung",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Pasir Penjih",
+    "country": "MY"
+  },
+  {
+    "name": "Kemajuan Tanah Batu Enam Puluh Tujuh",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Kubur",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Paya Kenangan",
+    "country": "MY"
+  },
+  {
+    "name": "Perkampungan Kertih Lima",
+    "country": "MY"
+  },
+  {
+    "name": "Ladang Lothian",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Baharu",
+    "country": "MY"
+  },
+  {
+    "name": "Taman Labu Jaya",
+    "country": "MY"
+  },
+  {
+    "name": "Kampung Dua",
+    "country": "MY"
+  },
+  {
+    "name": "Taman Khalidi Baru",
+    "country": "MY"
+  }
+]

@@ -1,0 +1,3106 @@
+[
+  {
+    "name": "Vard\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Vuonnabahta",
+    "country": "NO"
+  },
+  {
+    "name": "Vads\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Svartnes",
+    "country": "NO"
+  },
+  {
+    "name": "Straumen",
+    "country": "NO"
+  },
+  {
+    "name": "Storslett",
+    "country": "NO"
+  },
+  {
+    "name": "S\u00f8r-Varanger",
+    "country": "NO"
+  },
+  {
+    "name": "S\u00f8rkjosen",
+    "country": "NO"
+  },
+  {
+    "name": "Skjerv\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Olderdalen",
+    "country": "NO"
+  },
+  {
+    "name": "\u00d8ksfjord",
+    "country": "NO"
+  },
+  {
+    "name": "Nordreisa",
+    "country": "NO"
+  },
+  {
+    "name": "Nordkapp",
+    "country": "NO"
+  },
+  {
+    "name": "Mehamn",
+    "country": "NO"
+  },
+  {
+    "name": "Lyngseidet",
+    "country": "NO"
+  },
+  {
+    "name": "Lakselv",
+    "country": "NO"
+  },
+  {
+    "name": "Kvalsund",
+    "country": "NO"
+  },
+  {
+    "name": "Kj\u00f8llefjord",
+    "country": "NO"
+  },
+  {
+    "name": "Kirkenes",
+    "country": "NO"
+  },
+  {
+    "name": "Kiby",
+    "country": "NO"
+  },
+  {
+    "name": "Kautokeino",
+    "country": "NO"
+  },
+  {
+    "name": "Kautokeino",
+    "country": "NO"
+  },
+  {
+    "name": "Karasjok",
+    "country": "NO"
+  },
+  {
+    "name": "K\u00e1r\u00e1\u0161johka",
+    "country": "NO"
+  },
+  {
+    "name": "H\u00f8ybukt",
+    "country": "NO"
+  },
+  {
+    "name": "Honningsv\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c1vanuorri",
+    "country": "NO"
+  },
+  {
+    "name": "Hasvik",
+    "country": "NO"
+  },
+  {
+    "name": "Hasvik",
+    "country": "NO"
+  },
+  {
+    "name": "Hammerfest",
+    "country": "NO"
+  },
+  {
+    "name": "Gamvik",
+    "country": "NO"
+  },
+  {
+    "name": "Finnmark Fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Elvebakken",
+    "country": "NO"
+  },
+  {
+    "name": "Burfjord",
+    "country": "NO"
+  },
+  {
+    "name": "Bukta",
+    "country": "NO"
+  },
+  {
+    "name": "Bossekop",
+    "country": "NO"
+  },
+  {
+    "name": "Bj\u00f8rnevatn",
+    "country": "NO"
+  },
+  {
+    "name": "Berlev\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "Berlev\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "B\u00e5tsfjord",
+    "country": "NO"
+  },
+  {
+    "name": "B\u00e5tsfjord",
+    "country": "NO"
+  },
+  {
+    "name": "Alta",
+    "country": "NO"
+  },
+  {
+    "name": "Nordmannset",
+    "country": "NO"
+  },
+  {
+    "name": "Alta",
+    "country": "NO"
+  },
+  {
+    "name": "Rypefjord",
+    "country": "NO"
+  },
+  {
+    "name": "Strai",
+    "country": "NO"
+  },
+  {
+    "name": "Sk\u00e5levik",
+    "country": "NO"
+  },
+  {
+    "name": "Ytre Arna",
+    "country": "NO"
+  },
+  {
+    "name": "Voss",
+    "country": "NO"
+  },
+  {
+    "name": "Volda",
+    "country": "NO"
+  },
+  {
+    "name": "Visnes",
+    "country": "NO"
+  },
+  {
+    "name": "Vinstra",
+    "country": "NO"
+  },
+  {
+    "name": "Vik\u00f8yri",
+    "country": "NO"
+  },
+  {
+    "name": "Vikna",
+    "country": "NO"
+  },
+  {
+    "name": "Vik",
+    "country": "NO"
+  },
+  {
+    "name": "Vikes\u00e5",
+    "country": "NO"
+  },
+  {
+    "name": "Vikersund",
+    "country": "NO"
+  },
+  {
+    "name": "Vik",
+    "country": "NO"
+  },
+  {
+    "name": "Vigrestad",
+    "country": "NO"
+  },
+  {
+    "name": "Vigeland",
+    "country": "NO"
+  },
+  {
+    "name": "Vevelstad",
+    "country": "NO"
+  },
+  {
+    "name": "Vestfold fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Vestbygd",
+    "country": "NO"
+  },
+  {
+    "name": "Vestby",
+    "country": "NO"
+  },
+  {
+    "name": "Vest-Agder Fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Gloppen",
+    "country": "NO"
+  },
+  {
+    "name": "Verdal",
+    "country": "NO"
+  },
+  {
+    "name": "Vennesla",
+    "country": "NO"
+  },
+  {
+    "name": "Vennesla",
+    "country": "NO"
+  },
+  {
+    "name": "Veka",
+    "country": "NO"
+  },
+  {
+    "name": "Vefsn",
+    "country": "NO"
+  },
+  {
+    "name": "Vatne",
+    "country": "NO"
+  },
+  {
+    "name": "Vassvika",
+    "country": "NO"
+  },
+  {
+    "name": "Varhaug",
+    "country": "NO"
+  },
+  {
+    "name": "Vanse",
+    "country": "NO"
+  },
+  {
+    "name": "Vangsvika",
+    "country": "NO"
+  },
+  {
+    "name": "Valle",
+    "country": "NO"
+  },
+  {
+    "name": "Valldal",
+    "country": "NO"
+  },
+  {
+    "name": "V\u00e5ler",
+    "country": "NO"
+  },
+  {
+    "name": "V\u00e5ge",
+    "country": "NO"
+  },
+  {
+    "name": "V\u00e5g\u00e5mo",
+    "country": "NO"
+  },
+  {
+    "name": "Utsira",
+    "country": "NO"
+  },
+  {
+    "name": "Ulvik",
+    "country": "NO"
+  },
+  {
+    "name": "Ulvik",
+    "country": "NO"
+  },
+  {
+    "name": "Ulsteinvik",
+    "country": "NO"
+  },
+  {
+    "name": "Ullensaker",
+    "country": "NO"
+  },
+  {
+    "name": "Ulefoss",
+    "country": "NO"
+  },
+  {
+    "name": "Uggdal",
+    "country": "NO"
+  },
+  {
+    "name": "Tysv\u00e6r",
+    "country": "NO"
+  },
+  {
+    "name": "Tysv\u00e6r",
+    "country": "NO"
+  },
+  {
+    "name": "Tysse",
+    "country": "NO"
+  },
+  {
+    "name": "Tysnes",
+    "country": "NO"
+  },
+  {
+    "name": "Tynset",
+    "country": "NO"
+  },
+  {
+    "name": "Tydal",
+    "country": "NO"
+  },
+  {
+    "name": "Tverr\u00e5nes",
+    "country": "NO"
+  },
+  {
+    "name": "Tveit",
+    "country": "NO"
+  },
+  {
+    "name": "Tvedestrand",
+    "country": "NO"
+  },
+  {
+    "name": "Innbygda",
+    "country": "NO"
+  },
+  {
+    "name": "Trondheim",
+    "country": "NO"
+  },
+  {
+    "name": "Trondheim",
+    "country": "NO"
+  },
+  {
+    "name": "Troms\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Troms Fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Trofors",
+    "country": "NO"
+  },
+  {
+    "name": "Treungen",
+    "country": "NO"
+  },
+  {
+    "name": "Tretten",
+    "country": "NO"
+  },
+  {
+    "name": "Tranby",
+    "country": "NO"
+  },
+  {
+    "name": "Torp",
+    "country": "NO"
+  },
+  {
+    "name": "Torp",
+    "country": "NO"
+  },
+  {
+    "name": "Tonstad",
+    "country": "NO"
+  },
+  {
+    "name": "T\u00f8nsberg",
+    "country": "NO"
+  },
+  {
+    "name": "Tomter",
+    "country": "NO"
+  },
+  {
+    "name": "Tomra",
+    "country": "NO"
+  },
+  {
+    "name": "Tomb",
+    "country": "NO"
+  },
+  {
+    "name": "Tolga",
+    "country": "NO"
+  },
+  {
+    "name": "Tofte",
+    "country": "NO"
+  },
+  {
+    "name": "Tj\u00f8me",
+    "country": "NO"
+  },
+  {
+    "name": "Tjeldst\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Tingvatn",
+    "country": "NO"
+  },
+  {
+    "name": "Terr\u00e5k",
+    "country": "NO"
+  },
+  {
+    "name": "Telemark fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Tau",
+    "country": "NO"
+  },
+  {
+    "name": "Tangvall",
+    "country": "NO"
+  },
+  {
+    "name": "Tananger",
+    "country": "NO"
+  },
+  {
+    "name": "Synes",
+    "country": "NO"
+  },
+  {
+    "name": "Syfteland",
+    "country": "NO"
+  },
+  {
+    "name": "Svolv\u00e6r",
+    "country": "NO"
+  },
+  {
+    "name": "Svelvik",
+    "country": "NO"
+  },
+  {
+    "name": "Svelgen",
+    "country": "NO"
+  },
+  {
+    "name": "Sveio",
+    "country": "NO"
+  },
+  {
+    "name": "Sunndals\u00f8ra",
+    "country": "NO"
+  },
+  {
+    "name": "Sunndal",
+    "country": "NO"
+  },
+  {
+    "name": "Sundbakken",
+    "country": "NO"
+  },
+  {
+    "name": "Suldalsosen",
+    "country": "NO"
+  },
+  {
+    "name": "Stunes",
+    "country": "NO"
+  },
+  {
+    "name": "Stryn",
+    "country": "NO"
+  },
+  {
+    "name": "Strusshamn",
+    "country": "NO"
+  },
+  {
+    "name": "Straumen",
+    "country": "NO"
+  },
+  {
+    "name": "Straumen",
+    "country": "NO"
+  },
+  {
+    "name": "Straume",
+    "country": "NO"
+  },
+  {
+    "name": "Stranda",
+    "country": "NO"
+  },
+  {
+    "name": "Storsteinnes",
+    "country": "NO"
+  },
+  {
+    "name": "Storhaug",
+    "country": "NO"
+  },
+  {
+    "name": "Storeb\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Stokmarknes",
+    "country": "NO"
+  },
+  {
+    "name": "Stokke",
+    "country": "NO"
+  },
+  {
+    "name": "Stj\u00f8rdalshalsen",
+    "country": "NO"
+  },
+  {
+    "name": "Stj\u00f8rdal",
+    "country": "NO"
+  },
+  {
+    "name": "Steinshamn",
+    "country": "NO"
+  },
+  {
+    "name": "Steinkjer",
+    "country": "NO"
+  },
+  {
+    "name": "Steinkjer",
+    "country": "NO"
+  },
+  {
+    "name": "Stavern",
+    "country": "NO"
+  },
+  {
+    "name": "Stavanger",
+    "country": "NO"
+  },
+  {
+    "name": "Stange",
+    "country": "NO"
+  },
+  {
+    "name": "Spydeberg",
+    "country": "NO"
+  },
+  {
+    "name": "Sponvika",
+    "country": "NO"
+  },
+  {
+    "name": "Spetalen",
+    "country": "NO"
+  },
+  {
+    "name": "S\u00f8vik",
+    "country": "NO"
+  },
+  {
+    "name": "S\u00f8rumsand",
+    "country": "NO"
+  },
+  {
+    "name": "S\u00f8r-Tr\u00f8ndelag Fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Sortland",
+    "country": "NO"
+  },
+  {
+    "name": "S\u00f8r-Odal",
+    "country": "NO"
+  },
+  {
+    "name": "S\u00f8rland",
+    "country": "NO"
+  },
+  {
+    "name": "Sola",
+    "country": "NO"
+  },
+  {
+    "name": "Sola",
+    "country": "NO"
+  },
+  {
+    "name": "Sogn og Fjordane Fylke",
+    "country": "NO"
+  },
+  {
+    "name": "S\u00f8gne",
+    "country": "NO"
+  },
+  {
+    "name": "Sogndalsfj\u00f8ra",
+    "country": "NO"
+  },
+  {
+    "name": "Sogndal",
+    "country": "NO"
+  },
+  {
+    "name": "Sn\u00e5ase",
+    "country": "NO"
+  },
+  {
+    "name": "Smestad",
+    "country": "NO"
+  },
+  {
+    "name": "Sletten",
+    "country": "NO"
+  },
+  {
+    "name": "Slemmestad",
+    "country": "NO"
+  },
+  {
+    "name": "Skytta",
+    "country": "NO"
+  },
+  {
+    "name": "Skui",
+    "country": "NO"
+  },
+  {
+    "name": "Skudeneshavn",
+    "country": "NO"
+  },
+  {
+    "name": "Skreia",
+    "country": "NO"
+  },
+  {
+    "name": "Skotterud",
+    "country": "NO"
+  },
+  {
+    "name": "Skoro",
+    "country": "NO"
+  },
+  {
+    "name": "Skoppum",
+    "country": "NO"
+  },
+  {
+    "name": "Skogn",
+    "country": "NO"
+  },
+  {
+    "name": "Skoger",
+    "country": "NO"
+  },
+  {
+    "name": "Skodje",
+    "country": "NO"
+  },
+  {
+    "name": "Skjeberg",
+    "country": "NO"
+  },
+  {
+    "name": "Skj\u00e6rhalden",
+    "country": "NO"
+  },
+  {
+    "name": "Skiptvet",
+    "country": "NO"
+  },
+  {
+    "name": "Skien",
+    "country": "NO"
+  },
+  {
+    "name": "Ski",
+    "country": "NO"
+  },
+  {
+    "name": "Skaun",
+    "country": "NO"
+  },
+  {
+    "name": "Skarnes",
+    "country": "NO"
+  },
+  {
+    "name": "Skaland",
+    "country": "NO"
+  },
+  {
+    "name": "Sj\u00f8vegan",
+    "country": "NO"
+  },
+  {
+    "name": "Skj\u00f8nhaug",
+    "country": "NO"
+  },
+  {
+    "name": "Sj\u00f8holt",
+    "country": "NO"
+  },
+  {
+    "name": "Sistranda",
+    "country": "NO"
+  },
+  {
+    "name": "Siljan",
+    "country": "NO"
+  },
+  {
+    "name": "Setermoen",
+    "country": "NO"
+  },
+  {
+    "name": "Sem",
+    "country": "NO"
+  },
+  {
+    "name": "Sem",
+    "country": "NO"
+  },
+  {
+    "name": "Selvik",
+    "country": "NO"
+  },
+  {
+    "name": "Seljord",
+    "country": "NO"
+  },
+  {
+    "name": "Selje",
+    "country": "NO"
+  },
+  {
+    "name": "Sauherad",
+    "country": "NO"
+  },
+  {
+    "name": "Sauda",
+    "country": "NO"
+  },
+  {
+    "name": "Sarpsborg",
+    "country": "NO"
+  },
+  {
+    "name": "Sandvika",
+    "country": "NO"
+  },
+  {
+    "name": "Sandnessj\u00f8en",
+    "country": "NO"
+  },
+  {
+    "name": "Sandnes",
+    "country": "NO"
+  },
+  {
+    "name": "Sandefjord",
+    "country": "NO"
+  },
+  {
+    "name": "Sande",
+    "country": "NO"
+  },
+  {
+    "name": "Sande",
+    "country": "NO"
+  },
+  {
+    "name": "Sandane",
+    "country": "NO"
+  },
+  {
+    "name": "Sand",
+    "country": "NO"
+  },
+  {
+    "name": "Sama",
+    "country": "NO"
+  },
+  {
+    "name": "Saksvik",
+    "country": "NO"
+  },
+  {
+    "name": "Sagv\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "S\u00e6tre",
+    "country": "NO"
+  },
+  {
+    "name": "Rygge",
+    "country": "NO"
+  },
+  {
+    "name": "Ryem",
+    "country": "NO"
+  },
+  {
+    "name": "Rusta",
+    "country": "NO"
+  },
+  {
+    "name": "Rubbestadneset",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8yrvik",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8ykjenes",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8yken",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8yken",
+    "country": "NO"
+  },
+  {
+    "name": "Rotnes",
+    "country": "NO"
+  },
+  {
+    "name": "Rota",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8st",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8st",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8ssvoll",
+    "country": "NO"
+  },
+  {
+    "name": "Rosendal",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8rvik",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8ros",
+    "country": "NO"
+  },
+  {
+    "name": "Rollag",
+    "country": "NO"
+  },
+  {
+    "name": "Rognan",
+    "country": "NO"
+  },
+  {
+    "name": "Rogaland Fylke",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8d",
+    "country": "NO"
+  },
+  {
+    "name": "Roald",
+    "country": "NO"
+  },
+  {
+    "name": "Roa",
+    "country": "NO"
+  },
+  {
+    "name": "Rjukan",
+    "country": "NO"
+  },
+  {
+    "name": "Ris\u00f8r",
+    "country": "NO"
+  },
+  {
+    "name": "Ringsaker",
+    "country": "NO"
+  },
+  {
+    "name": "Ringebu",
+    "country": "NO"
+  },
+  {
+    "name": "Rindal",
+    "country": "NO"
+  },
+  {
+    "name": "Rena",
+    "country": "NO"
+  },
+  {
+    "name": "Reinsvoll",
+    "country": "NO"
+  },
+  {
+    "name": "Rensvik",
+    "country": "NO"
+  },
+  {
+    "name": "Reine",
+    "country": "NO"
+  },
+  {
+    "name": "Raufoss",
+    "country": "NO"
+  },
+  {
+    "name": "Ranemsletta",
+    "country": "NO"
+  },
+  {
+    "name": "Randaberg",
+    "country": "NO"
+  },
+  {
+    "name": "Ramberg",
+    "country": "NO"
+  },
+  {
+    "name": "Rakkestad",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00e5holt",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00e5de",
+    "country": "NO"
+  },
+  {
+    "name": "Prestfoss",
+    "country": "NO"
+  },
+  {
+    "name": "Prestestranda",
+    "country": "NO"
+  },
+  {
+    "name": "Porsgrunn",
+    "country": "NO"
+  },
+  {
+    "name": "\u00d8ystese",
+    "country": "NO"
+  },
+  {
+    "name": "\u00d8yer",
+    "country": "NO"
+  },
+  {
+    "name": "Farnes",
+    "country": "NO"
+  },
+  {
+    "name": "Otta",
+    "country": "NO"
+  },
+  {
+    "name": "\u00d8stfold fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Os\u00f8yro",
+    "country": "NO"
+  },
+  {
+    "name": "Oslo County",
+    "country": "NO"
+  },
+  {
+    "name": "Oslo",
+    "country": "NO"
+  },
+  {
+    "name": "Oskarsborg",
+    "country": "NO"
+  },
+  {
+    "name": "Os",
+    "country": "NO"
+  },
+  {
+    "name": "\u00d8rsta",
+    "country": "NO"
+  },
+  {
+    "name": "\u00d8rnes",
+    "country": "NO"
+  },
+  {
+    "name": "\u00d8rland",
+    "country": "NO"
+  },
+  {
+    "name": "Orkanger",
+    "country": "NO"
+  },
+  {
+    "name": "\u00d8rje",
+    "country": "NO"
+  },
+  {
+    "name": "Oppland fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Oppdal",
+    "country": "NO"
+  },
+  {
+    "name": "Olestad",
+    "country": "NO"
+  },
+  {
+    "name": "\u00d8len",
+    "country": "NO"
+  },
+  {
+    "name": "Odda",
+    "country": "NO"
+  },
+  {
+    "name": "Notodden",
+    "country": "NO"
+  },
+  {
+    "name": "Kingdom of Norway",
+    "country": "NO"
+  },
+  {
+    "name": "Norheimsund",
+    "country": "NO"
+  },
+  {
+    "name": "Noresund",
+    "country": "NO"
+  },
+  {
+    "name": "Nord-Tr\u00f8ndelag Fylke",
+    "country": "NO"
+  },
+  {
+    "name": "N\u00f8rdsteb\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Nordland Fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Nordfjordeid",
+    "country": "NO"
+  },
+  {
+    "name": "Nordby",
+    "country": "NO"
+  },
+  {
+    "name": "Nord-Aurdal",
+    "country": "NO"
+  },
+  {
+    "name": "Nodeland",
+    "country": "NO"
+  },
+  {
+    "name": "Nesodden",
+    "country": "NO"
+  },
+  {
+    "name": "Nesna",
+    "country": "NO"
+  },
+  {
+    "name": "Nesbyen",
+    "country": "NO"
+  },
+  {
+    "name": "Nedstrand",
+    "country": "NO"
+  },
+  {
+    "name": "Nedre Eiker",
+    "country": "NO"
+  },
+  {
+    "name": "Naustdal",
+    "country": "NO"
+  },
+  {
+    "name": "Narvik",
+    "country": "NO"
+  },
+  {
+    "name": "Nannestad",
+    "country": "NO"
+  },
+  {
+    "name": "Namsskogan",
+    "country": "NO"
+  },
+  {
+    "name": "Namsos",
+    "country": "NO"
+  },
+  {
+    "name": "N\u00e6rb\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Mysen",
+    "country": "NO"
+  },
+  {
+    "name": "Myre",
+    "country": "NO"
+  },
+  {
+    "name": "Myra",
+    "country": "NO"
+  },
+  {
+    "name": "Mosterhamn",
+    "country": "NO"
+  },
+  {
+    "name": "Moss",
+    "country": "NO"
+  },
+  {
+    "name": "Mosj\u00f8en",
+    "country": "NO"
+  },
+  {
+    "name": "M\u00f8re og Romsdal fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Moldjord",
+    "country": "NO"
+  },
+  {
+    "name": "Molde",
+    "country": "NO"
+  },
+  {
+    "name": "Molde",
+    "country": "NO"
+  },
+  {
+    "name": "Fyresdal",
+    "country": "NO"
+  },
+  {
+    "name": "Mo i Rana",
+    "country": "NO"
+  },
+  {
+    "name": "Moi",
+    "country": "NO"
+  },
+  {
+    "name": "Moen",
+    "country": "NO"
+  },
+  {
+    "name": "Moelv",
+    "country": "NO"
+  },
+  {
+    "name": "Mo",
+    "country": "NO"
+  },
+  {
+    "name": "Mj\u00f8ndalen",
+    "country": "NO"
+  },
+  {
+    "name": "Midsund",
+    "country": "NO"
+  },
+  {
+    "name": "Mer\u00e5ker",
+    "country": "NO"
+  },
+  {
+    "name": "Melsomvik",
+    "country": "NO"
+  },
+  {
+    "name": "Melhus",
+    "country": "NO"
+  },
+  {
+    "name": "Melbu",
+    "country": "NO"
+  },
+  {
+    "name": "Maura",
+    "country": "NO"
+  },
+  {
+    "name": "Masfjorden",
+    "country": "NO"
+  },
+  {
+    "name": "Manger",
+    "country": "NO"
+  },
+  {
+    "name": "Mandal",
+    "country": "NO"
+  },
+  {
+    "name": "Malvik",
+    "country": "NO"
+  },
+  {
+    "name": "Malvik",
+    "country": "NO"
+  },
+  {
+    "name": "M\u00e5lselv",
+    "country": "NO"
+  },
+  {
+    "name": "M\u00e5l\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Malm",
+    "country": "NO"
+  },
+  {
+    "name": "Lysaker",
+    "country": "NO"
+  },
+  {
+    "name": "Lyngdal",
+    "country": "NO"
+  },
+  {
+    "name": "Lunde",
+    "country": "NO"
+  },
+  {
+    "name": "Lundamo",
+    "country": "NO"
+  },
+  {
+    "name": "L\u00f8ten",
+    "country": "NO"
+  },
+  {
+    "name": "L\u00f8psmarka",
+    "country": "NO"
+  },
+  {
+    "name": "Lonev\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "Fossbergom",
+    "country": "NO"
+  },
+  {
+    "name": "L\u00f8dingen",
+    "country": "NO"
+  },
+  {
+    "name": "L\u00f8ding",
+    "country": "NO"
+  },
+  {
+    "name": "Lind\u00e5s",
+    "country": "NO"
+  },
+  {
+    "name": "Lillestr\u00f8m",
+    "country": "NO"
+  },
+  {
+    "name": "Lillesand",
+    "country": "NO"
+  },
+  {
+    "name": "Lillehammer",
+    "country": "NO"
+  },
+  {
+    "name": "Liknes",
+    "country": "NO"
+  },
+  {
+    "name": "Lier",
+    "country": "NO"
+  },
+  {
+    "name": "Levanger",
+    "country": "NO"
+  },
+  {
+    "name": "Lesja",
+    "country": "NO"
+  },
+  {
+    "name": "Lervik",
+    "country": "NO"
+  },
+  {
+    "name": "Lensvik",
+    "country": "NO"
+  },
+  {
+    "name": "Lena",
+    "country": "NO"
+  },
+  {
+    "name": "Leland",
+    "country": "NO"
+  },
+  {
+    "name": "Leirvik",
+    "country": "NO"
+  },
+  {
+    "name": "Leirsund",
+    "country": "NO"
+  },
+  {
+    "name": "Lauvsnes",
+    "country": "NO"
+  },
+  {
+    "name": "Lauve",
+    "country": "NO"
+  },
+  {
+    "name": "Larvik",
+    "country": "NO"
+  },
+  {
+    "name": "Larsnes",
+    "country": "NO"
+  },
+  {
+    "name": "Larkollen",
+    "country": "NO"
+  },
+  {
+    "name": "Langli",
+    "country": "NO"
+  },
+  {
+    "name": "Langev\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "Langesund",
+    "country": "NO"
+  },
+  {
+    "name": "L\u00e6rdals\u00f8yri",
+    "country": "NO"
+  },
+  {
+    "name": "Kyrks\u00e6ter\u00f8ra",
+    "country": "NO"
+  },
+  {
+    "name": "Kviteseid",
+    "country": "NO"
+  },
+  {
+    "name": "Krokstad\u00f8ra",
+    "country": "NO"
+  },
+  {
+    "name": "Kristiansund",
+    "country": "NO"
+  },
+  {
+    "name": "Kristiansand",
+    "country": "NO"
+  },
+  {
+    "name": "Krager\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Korsmo",
+    "country": "NO"
+  },
+  {
+    "name": "Korgen",
+    "country": "NO"
+  },
+  {
+    "name": "Koppang",
+    "country": "NO"
+  },
+  {
+    "name": "Kopervik",
+    "country": "NO"
+  },
+  {
+    "name": "Konsmo",
+    "country": "NO"
+  },
+  {
+    "name": "Kongsvinger",
+    "country": "NO"
+  },
+  {
+    "name": "Kongsberg",
+    "country": "NO"
+  },
+  {
+    "name": "Kolvereid",
+    "country": "NO"
+  },
+  {
+    "name": "Kolbotn",
+    "country": "NO"
+  },
+  {
+    "name": "Kolav\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "Knarvik",
+    "country": "NO"
+  },
+  {
+    "name": "Knappstad",
+    "country": "NO"
+  },
+  {
+    "name": "Knappskog",
+    "country": "NO"
+  },
+  {
+    "name": "Kl\u00f8fta",
+    "country": "NO"
+  },
+  {
+    "name": "Kleppest\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Kj\u00f8psvik",
+    "country": "NO"
+  },
+  {
+    "name": "Kjevik",
+    "country": "NO"
+  },
+  {
+    "name": "Kirken\u00e6r",
+    "country": "NO"
+  },
+  {
+    "name": "Karlshus",
+    "country": "NO"
+  },
+  {
+    "name": "Kabelv\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "Judaberg",
+    "country": "NO"
+  },
+  {
+    "name": "J\u00f8rpeland",
+    "country": "NO"
+  },
+  {
+    "name": "Jondal",
+    "country": "NO"
+  },
+  {
+    "name": "Jevnaker",
+    "country": "NO"
+  },
+  {
+    "name": "Jessheim",
+    "country": "NO"
+  },
+  {
+    "name": "Jaren",
+    "country": "NO"
+  },
+  {
+    "name": "Isdalst\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Inndyr",
+    "country": "NO"
+  },
+  {
+    "name": "Hyllestad",
+    "country": "NO"
+  },
+  {
+    "name": "Hylkje",
+    "country": "NO"
+  },
+  {
+    "name": "Hvittingfoss",
+    "country": "NO"
+  },
+  {
+    "name": "Hurum",
+    "country": "NO"
+  },
+  {
+    "name": "Hundorp",
+    "country": "NO"
+  },
+  {
+    "name": "H\u00f8knes",
+    "country": "NO"
+  },
+  {
+    "name": "H\u00f8yanger",
+    "country": "NO"
+  },
+  {
+    "name": "Hovden",
+    "country": "NO"
+  },
+  {
+    "name": "Hov",
+    "country": "NO"
+  },
+  {
+    "name": "Horten",
+    "country": "NO"
+  },
+  {
+    "name": "Hordaland Fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Hopen",
+    "country": "NO"
+  },
+  {
+    "name": "H\u00f8nefoss",
+    "country": "NO"
+  },
+  {
+    "name": "Hommelvik",
+    "country": "NO"
+  },
+  {
+    "name": "Holmestrand",
+    "country": "NO"
+  },
+  {
+    "name": "Holmenkollen",
+    "country": "NO"
+  },
+  {
+    "name": "Holm",
+    "country": "NO"
+  },
+  {
+    "name": "Hol",
+    "country": "NO"
+  },
+  {
+    "name": "Hokksund",
+    "country": "NO"
+  },
+  {
+    "name": "Hjelset",
+    "country": "NO"
+  },
+  {
+    "name": "Hjelmeland",
+    "country": "NO"
+  },
+  {
+    "name": "Hjelmeland",
+    "country": "NO"
+  },
+  {
+    "name": "Herre",
+    "country": "NO"
+  },
+  {
+    "name": "Her\u00f8ya",
+    "country": "NO"
+  },
+  {
+    "name": "Hernes",
+    "country": "NO"
+  },
+  {
+    "name": "Hermansverk",
+    "country": "NO"
+  },
+  {
+    "name": "Hemsedal",
+    "country": "NO"
+  },
+  {
+    "name": "Hemnesberget",
+    "country": "NO"
+  },
+  {
+    "name": "Hem",
+    "country": "NO"
+  },
+  {
+    "name": "Heggenes",
+    "country": "NO"
+  },
+  {
+    "name": "Hedmark fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Hauknes",
+    "country": "NO"
+  },
+  {
+    "name": "Haugesund",
+    "country": "NO"
+  },
+  {
+    "name": "Hauge i Dalane",
+    "country": "NO"
+  },
+  {
+    "name": "Hasle",
+    "country": "NO"
+  },
+  {
+    "name": "Harstad",
+    "country": "NO"
+  },
+  {
+    "name": "Hareid",
+    "country": "NO"
+  },
+  {
+    "name": "Hardbakke",
+    "country": "NO"
+  },
+  {
+    "name": "Hansnes",
+    "country": "NO"
+  },
+  {
+    "name": "Hamnvik",
+    "country": "NO"
+  },
+  {
+    "name": "Hamar",
+    "country": "NO"
+  },
+  {
+    "name": "Halden",
+    "country": "NO"
+  },
+  {
+    "name": "Hagavik",
+    "country": "NO"
+  },
+  {
+    "name": "Hadsel",
+    "country": "NO"
+  },
+  {
+    "name": "H\u00e5",
+    "country": "NO"
+  },
+  {
+    "name": "Gvarv",
+    "country": "NO"
+  },
+  {
+    "name": "Gullhaug",
+    "country": "NO"
+  },
+  {
+    "name": "Gryllefjord",
+    "country": "NO"
+  },
+  {
+    "name": "Grua",
+    "country": "NO"
+  },
+  {
+    "name": "Grorud",
+    "country": "NO"
+  },
+  {
+    "name": "Grong",
+    "country": "NO"
+  },
+  {
+    "name": "Gr\u00f8a",
+    "country": "NO"
+  },
+  {
+    "name": "Grimstad",
+    "country": "NO"
+  },
+  {
+    "name": "Gravdal",
+    "country": "NO"
+  },
+  {
+    "name": "Granvin",
+    "country": "NO"
+  },
+  {
+    "name": "Gol",
+    "country": "NO"
+  },
+  {
+    "name": "Gokstad",
+    "country": "NO"
+  },
+  {
+    "name": "Gloppen",
+    "country": "NO"
+  },
+  {
+    "name": "Glomfjord",
+    "country": "NO"
+  },
+  {
+    "name": "Glemmen",
+    "country": "NO"
+  },
+  {
+    "name": "Gladstad",
+    "country": "NO"
+  },
+  {
+    "name": "Justvik",
+    "country": "NO"
+  },
+  {
+    "name": "Gj\u00f8vik",
+    "country": "NO"
+  },
+  {
+    "name": "Gjesdal",
+    "country": "NO"
+  },
+  {
+    "name": "Gjerstad",
+    "country": "NO"
+  },
+  {
+    "name": "Gjerdrum",
+    "country": "NO"
+  },
+  {
+    "name": "Giske",
+    "country": "NO"
+  },
+  {
+    "name": "Gimra",
+    "country": "NO"
+  },
+  {
+    "name": "Geilo",
+    "country": "NO"
+  },
+  {
+    "name": "Gaular",
+    "country": "NO"
+  },
+  {
+    "name": "Gardlibygdi",
+    "country": "NO"
+  },
+  {
+    "name": "Gardermoen",
+    "country": "NO"
+  },
+  {
+    "name": "Garder",
+    "country": "NO"
+  },
+  {
+    "name": "Ganddal",
+    "country": "NO"
+  },
+  {
+    "name": "Frogner",
+    "country": "NO"
+  },
+  {
+    "name": "Frekhaug",
+    "country": "NO"
+  },
+  {
+    "name": "Fredrikstad",
+    "country": "NO"
+  },
+  {
+    "name": "Framnes",
+    "country": "NO"
+  },
+  {
+    "name": "Fossby",
+    "country": "NO"
+  },
+  {
+    "name": "Fosnav\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "F\u00f8rde",
+    "country": "NO"
+  },
+  {
+    "name": "Folldal",
+    "country": "NO"
+  },
+  {
+    "name": "Folder\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Flor\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Flora",
+    "country": "NO"
+  },
+  {
+    "name": "Flesland",
+    "country": "NO"
+  },
+  {
+    "name": "Flekkefjord",
+    "country": "NO"
+  },
+  {
+    "name": "Flateby",
+    "country": "NO"
+  },
+  {
+    "name": "Flat\u00e5ker",
+    "country": "NO"
+  },
+  {
+    "name": "Fl\u00e5",
+    "country": "NO"
+  },
+  {
+    "name": "Fjere",
+    "country": "NO"
+  },
+  {
+    "name": "Fjell",
+    "country": "NO"
+  },
+  {
+    "name": "Fitjar",
+    "country": "NO"
+  },
+  {
+    "name": "Finse",
+    "country": "NO"
+  },
+  {
+    "name": "Finnsnes",
+    "country": "NO"
+  },
+  {
+    "name": "Fillan",
+    "country": "NO"
+  },
+  {
+    "name": "Fevik",
+    "country": "NO"
+  },
+  {
+    "name": "Fetsund",
+    "country": "NO"
+  },
+  {
+    "name": "Fet",
+    "country": "NO"
+  },
+  {
+    "name": "Fedje",
+    "country": "NO"
+  },
+  {
+    "name": "Fauske",
+    "country": "NO"
+  },
+  {
+    "name": "Fauske",
+    "country": "NO"
+  },
+  {
+    "name": "Farsund",
+    "country": "NO"
+  },
+  {
+    "name": "Fagerstrand",
+    "country": "NO"
+  },
+  {
+    "name": "Fagernes",
+    "country": "NO"
+  },
+  {
+    "name": "Fagerlia",
+    "country": "NO"
+  },
+  {
+    "name": "Evjen",
+    "country": "NO"
+  },
+  {
+    "name": "Evje",
+    "country": "NO"
+  },
+  {
+    "name": "Evenskjer",
+    "country": "NO"
+  },
+  {
+    "name": "Evenesmarka",
+    "country": "NO"
+  },
+  {
+    "name": "Evenes",
+    "country": "NO"
+  },
+  {
+    "name": "Etne",
+    "country": "NO"
+  },
+  {
+    "name": "Espeland",
+    "country": "NO"
+  },
+  {
+    "name": "Elverum",
+    "country": "NO"
+  },
+  {
+    "name": "Eivindvik",
+    "country": "NO"
+  },
+  {
+    "name": "Eikelandsosen",
+    "country": "NO"
+  },
+  {
+    "name": "Eike",
+    "country": "NO"
+  },
+  {
+    "name": "Eidsvoll",
+    "country": "NO"
+  },
+  {
+    "name": "Eidsvoll",
+    "country": "NO"
+  },
+  {
+    "name": "Eidsv\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "Eidfjord",
+    "country": "NO"
+  },
+  {
+    "name": "Eide",
+    "country": "NO"
+  },
+  {
+    "name": "Egge",
+    "country": "NO"
+  },
+  {
+    "name": "Egersund",
+    "country": "NO"
+  },
+  {
+    "name": "Eg",
+    "country": "NO"
+  },
+  {
+    "name": "Dr\u00f8bak",
+    "country": "NO"
+  },
+  {
+    "name": "Drammen",
+    "country": "NO"
+  },
+  {
+    "name": "Dovre",
+    "country": "NO"
+  },
+  {
+    "name": "Domb\u00e5s",
+    "country": "NO"
+  },
+  {
+    "name": "Dokka",
+    "country": "NO"
+  },
+  {
+    "name": "Doglo",
+    "country": "NO"
+  },
+  {
+    "name": "Djupdalen",
+    "country": "NO"
+  },
+  {
+    "name": "Dalen",
+    "country": "NO"
+  },
+  {
+    "name": "Dale",
+    "country": "NO"
+  },
+  {
+    "name": "Dale",
+    "country": "NO"
+  },
+  {
+    "name": "Dale",
+    "country": "NO"
+  },
+  {
+    "name": "Dala",
+    "country": "NO"
+  },
+  {
+    "name": "Dal",
+    "country": "NO"
+  },
+  {
+    "name": "Bygland",
+    "country": "NO"
+  },
+  {
+    "name": "Buskerud fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Bryne",
+    "country": "NO"
+  },
+  {
+    "name": "Brumunddal",
+    "country": "NO"
+  },
+  {
+    "name": "Bruflat",
+    "country": "NO"
+  },
+  {
+    "name": "Br\u00f8nn\u00f8ysund",
+    "country": "NO"
+  },
+  {
+    "name": "Br\u00f8nn\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Svortland",
+    "country": "NO"
+  },
+  {
+    "name": "Brekstad",
+    "country": "NO"
+  },
+  {
+    "name": "Brattv\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "Botng\u00e5rd",
+    "country": "NO"
+  },
+  {
+    "name": "Horten",
+    "country": "NO"
+  },
+  {
+    "name": "Borkenes",
+    "country": "NO"
+  },
+  {
+    "name": "Borhaug",
+    "country": "NO"
+  },
+  {
+    "name": "B\u00f8mlo",
+    "country": "NO"
+  },
+  {
+    "name": "Bogen",
+    "country": "NO"
+  },
+  {
+    "name": "Bod\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "B\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Blakstad",
+    "country": "NO"
+  },
+  {
+    "name": "Bjorvik",
+    "country": "NO"
+  },
+  {
+    "name": "Bj\u00f8rkelangen",
+    "country": "NO"
+  },
+  {
+    "name": "Bjerkvik",
+    "country": "NO"
+  },
+  {
+    "name": "Birkeland",
+    "country": "NO"
+  },
+  {
+    "name": "Berk\u00e5k",
+    "country": "NO"
+  },
+  {
+    "name": "Berger",
+    "country": "NO"
+  },
+  {
+    "name": "Bergen",
+    "country": "NO"
+  },
+  {
+    "name": "Bergen",
+    "country": "NO"
+  },
+  {
+    "name": "Bekkjarvik",
+    "country": "NO"
+  },
+  {
+    "name": "Batnfjords\u00f8ra",
+    "country": "NO"
+  },
+  {
+    "name": "Bark\u00e5ker",
+    "country": "NO"
+  },
+  {
+    "name": "Ballangen",
+    "country": "NO"
+  },
+  {
+    "name": "Balestrand",
+    "country": "NO"
+  },
+  {
+    "name": "Bagn",
+    "country": "NO"
+  },
+  {
+    "name": "B\u00e6rum",
+    "country": "NO"
+  },
+  {
+    "name": "Austrheim",
+    "country": "NO"
+  },
+  {
+    "name": "Austevoll",
+    "country": "NO"
+  },
+  {
+    "name": "Aust-Agder fylke",
+    "country": "NO"
+  },
+  {
+    "name": "Aursmoen",
+    "country": "NO"
+  },
+  {
+    "name": "Aure",
+    "country": "NO"
+  },
+  {
+    "name": "Auli",
+    "country": "NO"
+  },
+  {
+    "name": "Aufles",
+    "country": "NO"
+  },
+  {
+    "name": "Ask\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Askim",
+    "country": "NO"
+  },
+  {
+    "name": "Askim",
+    "country": "NO"
+  },
+  {
+    "name": "Asker",
+    "country": "NO"
+  },
+  {
+    "name": "Ask",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5sg\u00e5rdstrand",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5sberg",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5s",
+    "country": "NO"
+  },
+  {
+    "name": "Arstein",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5r\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5ros",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5rnes",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5rnes",
+    "country": "NO"
+  },
+  {
+    "name": "Indre Arna",
+    "country": "NO"
+  },
+  {
+    "name": "Arendal",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5rdalstangen",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5neby",
+    "country": "NO"
+  },
+  {
+    "name": "Andenes",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5ndalsnes",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5mot",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5mli",
+    "country": "NO"
+  },
+  {
+    "name": "Alvdal",
+    "country": "NO"
+  },
+  {
+    "name": "Alstahaug",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5lg\u00e5rd",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5lesund",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5len",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5l",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5krehamn",
+    "country": "NO"
+  },
+  {
+    "name": "Akershus fylke",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5gotnes",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5 i \u00c5fjord",
+    "country": "NO"
+  },
+  {
+    "name": "Vormedal",
+    "country": "NO"
+  },
+  {
+    "name": "Tingvoll",
+    "country": "NO"
+  },
+  {
+    "name": "Ytrehovden",
+    "country": "NO"
+  },
+  {
+    "name": "Hommers\u00e5k",
+    "country": "NO"
+  },
+  {
+    "name": "Str\u00f8msbu",
+    "country": "NO"
+  },
+  {
+    "name": "Vikev\u00e5g",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5r\u00f8ysund",
+    "country": "NO"
+  },
+  {
+    "name": "Hella",
+    "country": "NO"
+  },
+  {
+    "name": "Myre",
+    "country": "NO"
+  },
+  {
+    "name": "Nesoddtangen",
+    "country": "NO"
+  },
+  {
+    "name": "Ask\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "\u00d8rsta",
+    "country": "NO"
+  },
+  {
+    "name": "Ryggebyen",
+    "country": "NO"
+  },
+  {
+    "name": "Vedav\u00e5gen",
+    "country": "NO"
+  },
+  {
+    "name": "Vestnes",
+    "country": "NO"
+  },
+  {
+    "name": "Hammerfest",
+    "country": "NO"
+  },
+  {
+    "name": "Vard\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Porsanger",
+    "country": "NO"
+  },
+  {
+    "name": "Vads\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Troms\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "And\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Harstad",
+    "country": "NO"
+  },
+  {
+    "name": "Narvik",
+    "country": "NO"
+  },
+  {
+    "name": "Vestv\u00e5g\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Bod\u00f8",
+    "country": "NO"
+  },
+  {
+    "name": "Rana",
+    "country": "NO"
+  },
+  {
+    "name": "Namsos",
+    "country": "NO"
+  },
+  {
+    "name": "Kristiansund",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8ros",
+    "country": "NO"
+  },
+  {
+    "name": "\u00c5lesund",
+    "country": "NO"
+  },
+  {
+    "name": "Lillehammer",
+    "country": "NO"
+  },
+  {
+    "name": "Hamar",
+    "country": "NO"
+  },
+  {
+    "name": "Vaksdal",
+    "country": "NO"
+  },
+  {
+    "name": "Gj\u00f8vik",
+    "country": "NO"
+  },
+  {
+    "name": "Hol",
+    "country": "NO"
+  },
+  {
+    "name": "Nore og Uvdal",
+    "country": "NO"
+  },
+  {
+    "name": "Nes",
+    "country": "NO"
+  },
+  {
+    "name": "Vinje",
+    "country": "NO"
+  },
+  {
+    "name": "Oslo",
+    "country": "NO"
+  },
+  {
+    "name": "Notodden",
+    "country": "NO"
+  },
+  {
+    "name": "Suldal",
+    "country": "NO"
+  },
+  {
+    "name": "Drammen",
+    "country": "NO"
+  },
+  {
+    "name": "Kongsberg",
+    "country": "NO"
+  },
+  {
+    "name": "Haugesund",
+    "country": "NO"
+  },
+  {
+    "name": "Karm\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Skien",
+    "country": "NO"
+  },
+  {
+    "name": "Moss",
+    "country": "NO"
+  },
+  {
+    "name": "V\u00e5ler",
+    "country": "NO"
+  },
+  {
+    "name": "Lardal",
+    "country": "NO"
+  },
+  {
+    "name": "Sarpsborg",
+    "country": "NO"
+  },
+  {
+    "name": "T\u00f8nsberg",
+    "country": "NO"
+  },
+  {
+    "name": "Larvik",
+    "country": "NO"
+  },
+  {
+    "name": "Stavanger",
+    "country": "NO"
+  },
+  {
+    "name": "Fredrikstad",
+    "country": "NO"
+  },
+  {
+    "name": "Sandnes",
+    "country": "NO"
+  },
+  {
+    "name": "Porsgrunn",
+    "country": "NO"
+  },
+  {
+    "name": "Halden",
+    "country": "NO"
+  },
+  {
+    "name": "Sandefjord",
+    "country": "NO"
+  },
+  {
+    "name": "Arendal",
+    "country": "NO"
+  },
+  {
+    "name": "Farsund",
+    "country": "NO"
+  },
+  {
+    "name": "Kristiansand",
+    "country": "NO"
+  },
+  {
+    "name": "Fjellfoten",
+    "country": "NO"
+  },
+  {
+    "name": "Neskollen",
+    "country": "NO"
+  },
+  {
+    "name": "Tuen",
+    "country": "NO"
+  },
+  {
+    "name": "Heggelia",
+    "country": "NO"
+  },
+  {
+    "name": "Kinsarvik",
+    "country": "NO"
+  },
+  {
+    "name": "Bjorli",
+    "country": "NO"
+  },
+  {
+    "name": "Sj\u00f8lyststranda",
+    "country": "NO"
+  },
+  {
+    "name": "Meklenborg",
+    "country": "NO"
+  },
+  {
+    "name": "Jarbakken",
+    "country": "NO"
+  },
+  {
+    "name": "Skei",
+    "country": "NO"
+  },
+  {
+    "name": "Ytrebygda",
+    "country": "NO"
+  },
+  {
+    "name": "Sandsli",
+    "country": "NO"
+  },
+  {
+    "name": "Kroken",
+    "country": "NO"
+  },
+  {
+    "name": "Stj\u00f8rdal",
+    "country": "NO"
+  },
+  {
+    "name": "Frosta",
+    "country": "NO"
+  },
+  {
+    "name": "Vik",
+    "country": "NO"
+  },
+  {
+    "name": "Sogndal",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8mskog",
+    "country": "NO"
+  },
+  {
+    "name": "Meieribyen",
+    "country": "NO"
+  },
+  {
+    "name": "Kirkebygda",
+    "country": "NO"
+  },
+  {
+    "name": "Elvestad",
+    "country": "NO"
+  },
+  {
+    "name": "Forsand",
+    "country": "NO"
+  },
+  {
+    "name": "Fjerdingby",
+    "country": "NO"
+  },
+  {
+    "name": "Kirkebygda",
+    "country": "NO"
+  },
+  {
+    "name": "Kjenn",
+    "country": "NO"
+  },
+  {
+    "name": "Teigebyen",
+    "country": "NO"
+  },
+  {
+    "name": "Hurdal",
+    "country": "NO"
+  },
+  {
+    "name": "Flisa",
+    "country": "NO"
+  },
+  {
+    "name": "Bergset",
+    "country": "NO"
+  },
+  {
+    "name": "Engerdal",
+    "country": "NO"
+  },
+  {
+    "name": "Lesja",
+    "country": "NO"
+  },
+  {
+    "name": "Bismo",
+    "country": "NO"
+  },
+  {
+    "name": "Lom",
+    "country": "NO"
+  },
+  {
+    "name": "Ringebu",
+    "country": "NO"
+  },
+  {
+    "name": "Segalstad bru",
+    "country": "NO"
+  },
+  {
+    "name": "Slidre",
+    "country": "NO"
+  },
+  {
+    "name": "Vang",
+    "country": "NO"
+  },
+  {
+    "name": "Vik",
+    "country": "NO"
+  },
+  {
+    "name": "Tr\u00f8im",
+    "country": "NO"
+  },
+  {
+    "name": "Hol",
+    "country": "NO"
+  },
+  {
+    "name": "Lierbyen",
+    "country": "NO"
+  },
+  {
+    "name": "Lampeland",
+    "country": "NO"
+  },
+  {
+    "name": "R\u00f8dberg",
+    "country": "NO"
+  },
+  {
+    "name": "Hof",
+    "country": "NO"
+  },
+  {
+    "name": "Revetal",
+    "country": "NO"
+  },
+  {
+    "name": "Andebu",
+    "country": "NO"
+  },
+  {
+    "name": "Borgheim",
+    "country": "NO"
+  },
+  {
+    "name": "Svarstad",
+    "country": "NO"
+  },
+  {
+    "name": "Sauland",
+    "country": "NO"
+  },
+  {
+    "name": "Blakstad",
+    "country": "NO"
+  },
+  {
+    "name": "Birketveit",
+    "country": "NO"
+  },
+  {
+    "name": "Helland",
+    "country": "NO"
+  },
+  {
+    "name": "Kyrkjebygda",
+    "country": "NO"
+  },
+  {
+    "name": "Kleppe",
+    "country": "NO"
+  },
+  {
+    "name": "Hjelmelandsv\u00e5gen",
+    "country": "NO"
+  },
+  {
+    "name": "Sand",
+    "country": "NO"
+  },
+  {
+    "name": "Ydsteb\u00f8hamn",
+    "country": "NO"
+  },
+  {
+    "name": "Bokn",
+    "country": "NO"
+  },
+  {
+    "name": "Aksdal",
+    "country": "NO"
+  },
+  {
+    "name": "Skogsv\u00e5gen",
+    "country": "NO"
+  },
+  {
+    "name": "Straume",
+    "country": "NO"
+  },
+  {
+    "name": "Aurlandsvangen",
+    "country": "NO"
+  },
+  {
+    "name": "Gaupne",
+    "country": "NO"
+  },
+  {
+    "name": "Askvoll",
+    "country": "NO"
+  },
+  {
+    "name": "Hornindal",
+    "country": "NO"
+  },
+  {
+    "name": "Fisk\u00e5",
+    "country": "NO"
+  },
+  {
+    "name": "Stordal",
+    "country": "NO"
+  },
+  {
+    "name": "Sykkylven",
+    "country": "NO"
+  },
+  {
+    "name": "Valder\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Falkhytta",
+    "country": "NO"
+  },
+  {
+    "name": "Elnesv\u00e5gen",
+    "country": "NO"
+  },
+  {
+    "name": "Bruhagen",
+    "country": "NO"
+  },
+  {
+    "name": "Surnadal",
+    "country": "NO"
+  },
+  {
+    "name": "Liab\u00f8en",
+    "country": "NO"
+  },
+  {
+    "name": "Rissa",
+    "country": "NO"
+  },
+  {
+    "name": "Roan",
+    "country": "NO"
+  },
+  {
+    "name": "Steinsdalen",
+    "country": "NO"
+  },
+  {
+    "name": "Meldal",
+    "country": "NO"
+  },
+  {
+    "name": "St\u00f8ren",
+    "country": "NO"
+  },
+  {
+    "name": "B\u00f8rsa",
+    "country": "NO"
+  },
+  {
+    "name": "Kl\u00e6bu",
+    "country": "NO"
+  },
+  {
+    "name": "Mebonden",
+    "country": "NO"
+  },
+  {
+    "name": "Stugudalen",
+    "country": "NO"
+  },
+  {
+    "name": "Leksvik",
+    "country": "NO"
+  },
+  {
+    "name": "Mosvik",
+    "country": "NO"
+  },
+  {
+    "name": "Namdalseid",
+    "country": "NO"
+  },
+  {
+    "name": "Nordli",
+    "country": "NO"
+  },
+  {
+    "name": "H\u00f8ylandet",
+    "country": "NO"
+  },
+  {
+    "name": "J\u00f8a",
+    "country": "NO"
+  },
+  {
+    "name": "Leka",
+    "country": "NO"
+  },
+  {
+    "name": "Silvalen",
+    "country": "NO"
+  },
+  {
+    "name": "Hattfjelldal",
+    "country": "NO"
+  },
+  {
+    "name": "Solfjellsjyen",
+    "country": "NO"
+  },
+  {
+    "name": "Lur\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Hus\u00f8ya",
+    "country": "NO"
+  },
+  {
+    "name": "V\u00e5gaholmen",
+    "country": "NO"
+  },
+  {
+    "name": "Leinesfjorden",
+    "country": "NO"
+  },
+  {
+    "name": "Oppeide",
+    "country": "NO"
+  },
+  {
+    "name": "Leknes",
+    "country": "NO"
+  },
+  {
+    "name": "Bjark\u00f8y",
+    "country": "NO"
+  },
+  {
+    "name": "Tennevoll",
+    "country": "NO"
+  },
+  {
+    "name": "S\u00f8rreisa",
+    "country": "NO"
+  },
+  {
+    "name": "Br\u00f8stadbotn",
+    "country": "NO"
+  },
+  {
+    "name": "Hatteng",
+    "country": "NO"
+  },
+  {
+    "name": "Breivikbotn",
+    "country": "NO"
+  },
+  {
+    "name": "Tana bru",
+    "country": "NO"
+  },
+  {
+    "name": "Greinveien",
+    "country": "NO"
+  },
+  {
+    "name": "Eik",
+    "country": "NO"
+  }
+]

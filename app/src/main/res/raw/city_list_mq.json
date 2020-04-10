@@ -1,0 +1,286 @@
+[
+  {
+    "name": "Schoelcher",
+    "country": "MQ"
+  },
+  {
+    "name": "Arrondissement de Saint-Pierre",
+    "country": "MQ"
+  },
+  {
+    "name": "Saint-Pierre",
+    "country": "MQ"
+  },
+  {
+    "name": "Saint-Joseph",
+    "country": "MQ"
+  },
+  {
+    "name": "Sainte-Marie",
+    "country": "MQ"
+  },
+  {
+    "name": "Sainte-Luce",
+    "country": "MQ"
+  },
+  {
+    "name": "Rivi\u00e8re Sal\u00e9e",
+    "country": "MQ"
+  },
+  {
+    "name": "Rivi\u00e8re-Pilote",
+    "country": "MQ"
+  },
+  {
+    "name": "Rivi\u00e8re",
+    "country": "MQ"
+  },
+  {
+    "name": "La Gillot",
+    "country": "MQ"
+  },
+  {
+    "name": "Petit Morne",
+    "country": "MQ"
+  },
+  {
+    "name": "Petite Rivi\u00e8re Sal\u00e9e",
+    "country": "MQ"
+  },
+  {
+    "name": "Petit Br\u00e9sil",
+    "country": "MQ"
+  },
+  {
+    "name": "Morne-Vert",
+    "country": "MQ"
+  },
+  {
+    "name": "Martinique",
+    "country": "MQ"
+  },
+  {
+    "name": "Arrondissement du Marin",
+    "country": "MQ"
+  },
+  {
+    "name": "Macouba",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Vauclin",
+    "country": "MQ"
+  },
+  {
+    "name": "Les Trois-\u00celets",
+    "country": "MQ"
+  },
+  {
+    "name": "Les Flamboyants",
+    "country": "MQ"
+  },
+  {
+    "name": "Les Boucaniers",
+    "country": "MQ"
+  },
+  {
+    "name": "Les Anses-d'Arlet",
+    "country": "MQ"
+  },
+  {
+    "name": "Saint-Esprit",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Robert",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Pr\u00eacheur",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Morne-Rouge",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Marin",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Lorrain",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Lamentin",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Fran\u00e7ois",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Coin",
+    "country": "MQ"
+  },
+  {
+    "name": "La Vierge",
+    "country": "MQ"
+  },
+  {
+    "name": "Arrondissement de La Trinit\u00e9",
+    "country": "MQ"
+  },
+  {
+    "name": "La Trinit\u00e9",
+    "country": "MQ"
+  },
+  {
+    "name": "L'Ajoupa-Bouillon",
+    "country": "MQ"
+  },
+  {
+    "name": "La Berry",
+    "country": "MQ"
+  },
+  {
+    "name": "La Batterie",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Gros-Morne",
+    "country": "MQ"
+  },
+  {
+    "name": "Grand'Rivi\u00e8re",
+    "country": "MQ"
+  },
+  {
+    "name": "Four \u00e0 Chaux",
+    "country": "MQ"
+  },
+  {
+    "name": "Arrondissement de Fort-de-France",
+    "country": "MQ"
+  },
+  {
+    "name": "Fort-de-France",
+    "country": "MQ"
+  },
+  {
+    "name": "Fond Panier",
+    "country": "MQ"
+  },
+  {
+    "name": "Faubourg Schoelcher",
+    "country": "MQ"
+  },
+  {
+    "name": "Duhamelin",
+    "country": "MQ"
+  },
+  {
+    "name": "Ducos",
+    "country": "MQ"
+  },
+  {
+    "name": "Clairi\u00e8re",
+    "country": "MQ"
+  },
+  {
+    "name": "Bellefontaine",
+    "country": "MQ"
+  },
+  {
+    "name": "Basse-Pointe",
+    "country": "MQ"
+  },
+  {
+    "name": "Anse Figuiers",
+    "country": "MQ"
+  },
+  {
+    "name": "Martinique",
+    "country": "MQ"
+  },
+  {
+    "name": "Martinique",
+    "country": "MQ"
+  },
+  {
+    "name": "L'Ajoupa-Bouillon",
+    "country": "MQ"
+  },
+  {
+    "name": "Les Anses-d'Arlet",
+    "country": "MQ"
+  },
+  {
+    "name": "Ducos",
+    "country": "MQ"
+  },
+  {
+    "name": "Fort-de-France",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Fran\u00e7ois",
+    "country": "MQ"
+  },
+  {
+    "name": "Grand'Rivi\u00e8re",
+    "country": "MQ"
+  },
+  {
+    "name": "Gros-Morne",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Lamentin",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Lorrain",
+    "country": "MQ"
+  },
+  {
+    "name": "Macouba",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Pr\u00eacheur",
+    "country": "MQ"
+  },
+  {
+    "name": "Rivi\u00e8re-Sal\u00e9e",
+    "country": "MQ"
+  },
+  {
+    "name": "Le Robert",
+    "country": "MQ"
+  },
+  {
+    "name": "Saint-Esprit",
+    "country": "MQ"
+  },
+  {
+    "name": "Saint-Joseph",
+    "country": "MQ"
+  },
+  {
+    "name": "Sainte-Marie",
+    "country": "MQ"
+  },
+  {
+    "name": "Sch\u0153lcher",
+    "country": "MQ"
+  },
+  {
+    "name": "La Trinit\u00e9",
+    "country": "MQ"
+  },
+  {
+    "name": "Bellefontaine",
+    "country": "MQ"
+  }
+]

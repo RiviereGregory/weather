@@ -1,0 +1,970 @@
+[
+  {
+    "name": "Tokusan-ri",
+    "country": "KR"
+  },
+  {
+    "name": "Heunghae",
+    "country": "KR"
+  },
+  {
+    "name": "Reisui",
+    "country": "KR"
+  },
+  {
+    "name": "Yeonil",
+    "country": "KR"
+  },
+  {
+    "name": "Neietsu",
+    "country": "KR"
+  },
+  {
+    "name": "Eisen",
+    "country": "KR"
+  },
+  {
+    "name": "Yongin",
+    "country": "KR"
+  },
+  {
+    "name": "Yeonggwang",
+    "country": "KR"
+  },
+  {
+    "name": "Yeongdong",
+    "country": "KR"
+  },
+  {
+    "name": "Eisen",
+    "country": "KR"
+  },
+  {
+    "name": "Yeongam-guncheong",
+    "country": "KR"
+  },
+  {
+    "name": "Yeoncheon-gun",
+    "country": "KR"
+  },
+  {
+    "name": "Yeoju",
+    "country": "KR"
+  },
+  {
+    "name": "Yesan",
+    "country": "KR"
+  },
+  {
+    "name": "Yecheon",
+    "country": "KR"
+  },
+  {
+    "name": "Yangyang",
+    "country": "KR"
+  },
+  {
+    "name": "Yangsan",
+    "country": "KR"
+  },
+  {
+    "name": "Yangp'y\u014fng",
+    "country": "KR"
+  },
+  {
+    "name": "Yangju",
+    "country": "KR"
+  },
+  {
+    "name": "Yanggu",
+    "country": "KR"
+  },
+  {
+    "name": "Yach\u2019on",
+    "country": "KR"
+  },
+  {
+    "name": "W\u014fnju",
+    "country": "KR"
+  },
+  {
+    "name": "Wanju",
+    "country": "KR"
+  },
+  {
+    "name": "Waegwan",
+    "country": "KR"
+  },
+  {
+    "name": "Unsal-li",
+    "country": "KR"
+  },
+  {
+    "name": "Umulmok",
+    "country": "KR"
+  },
+  {
+    "name": "Ulsan",
+    "country": "KR"
+  },
+  {
+    "name": "Ulsan",
+    "country": "KR"
+  },
+  {
+    "name": "Ulchin",
+    "country": "KR"
+  },
+  {
+    "name": "Uijeongbu-si",
+    "country": "KR"
+  },
+  {
+    "name": "Tangjin",
+    "country": "KR"
+  },
+  {
+    "name": "Taesal-li",
+    "country": "KR"
+  },
+  {
+    "name": "Daejeon",
+    "country": "KR"
+  },
+  {
+    "name": "Daejeon",
+    "country": "KR"
+  },
+  {
+    "name": "Daegu",
+    "country": "KR"
+  },
+  {
+    "name": "Daegu",
+    "country": "KR"
+  },
+  {
+    "name": "Boryeong",
+    "country": "KR"
+  },
+  {
+    "name": "T\u2019aebaek",
+    "country": "KR"
+  },
+  {
+    "name": "Taian",
+    "country": "KR"
+  },
+  {
+    "name": "Suwon",
+    "country": "KR"
+  },
+  {
+    "name": "Suncheon",
+    "country": "KR"
+  },
+  {
+    "name": "Sunchang-chodeunghakgyo",
+    "country": "KR"
+  },
+  {
+    "name": "Republic of Korea",
+    "country": "KR"
+  },
+  {
+    "name": "Seoul",
+    "country": "KR"
+  },
+  {
+    "name": "Seoul",
+    "country": "KR"
+  },
+  {
+    "name": "Seosan",
+    "country": "KR"
+  },
+  {
+    "name": "Jenzan",
+    "country": "KR"
+  },
+  {
+    "name": "Seisan-ri",
+    "country": "KR"
+  },
+  {
+    "name": "Songjeong",
+    "country": "KR"
+  },
+  {
+    "name": "Seonghwan",
+    "country": "KR"
+  },
+  {
+    "name": "Sokcho",
+    "country": "KR"
+  },
+  {
+    "name": "Yongsan",
+    "country": "KR"
+  },
+  {
+    "name": "Sinch\u2019\u014fn-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Sangok",
+    "country": "KR"
+  },
+  {
+    "name": "Sang-ni",
+    "country": "KR"
+  },
+  {
+    "name": "Sangju",
+    "country": "KR"
+  },
+  {
+    "name": "Santyoku",
+    "country": "KR"
+  },
+  {
+    "name": "Shisen",
+    "country": "KR"
+  },
+  {
+    "name": "Pyeongtaek",
+    "country": "KR"
+  },
+  {
+    "name": "Pyeong",
+    "country": "KR"
+  },
+  {
+    "name": "Buyeo",
+    "country": "KR"
+  },
+  {
+    "name": "Busan",
+    "country": "KR"
+  },
+  {
+    "name": "Busan",
+    "country": "KR"
+  },
+  {
+    "name": "Bucheon-si",
+    "country": "KR"
+  },
+  {
+    "name": "Puan",
+    "country": "KR"
+  },
+  {
+    "name": "Boseong",
+    "country": "KR"
+  },
+  {
+    "name": "Beolgyo",
+    "country": "KR"
+  },
+  {
+    "name": "Pohang",
+    "country": "KR"
+  },
+  {
+    "name": "Osan",
+    "country": "KR"
+  },
+  {
+    "name": "Asan",
+    "country": "KR"
+  },
+  {
+    "name": "Okcheon",
+    "country": "KR"
+  },
+  {
+    "name": "Kosong",
+    "country": "KR"
+  },
+  {
+    "name": "Nonsan",
+    "country": "KR"
+  },
+  {
+    "name": "Namyang",
+    "country": "KR"
+  },
+  {
+    "name": "Nangen",
+    "country": "KR"
+  },
+  {
+    "name": "Namp\u2019o-ri",
+    "country": "KR"
+  },
+  {
+    "name": "Namhae",
+    "country": "KR"
+  },
+  {
+    "name": "Naju",
+    "country": "KR"
+  },
+  {
+    "name": "Munsan",
+    "country": "KR"
+  },
+  {
+    "name": "Mungyeong",
+    "country": "KR"
+  },
+  {
+    "name": "Paju",
+    "country": "KR"
+  },
+  {
+    "name": "Muju",
+    "country": "KR"
+  },
+  {
+    "name": "Muan",
+    "country": "KR"
+  },
+  {
+    "name": "Mokpo",
+    "country": "KR"
+  },
+  {
+    "name": "Miryang",
+    "country": "KR"
+  },
+  {
+    "name": "Masan",
+    "country": "KR"
+  },
+  {
+    "name": "Gyeongsangbuk-do",
+    "country": "KR"
+  },
+  {
+    "name": "Gyeongsan-si",
+    "country": "KR"
+  },
+  {
+    "name": "Gyeongju",
+    "country": "KR"
+  },
+  {
+    "name": "Gyeonggi-do",
+    "country": "KR"
+  },
+  {
+    "name": "Kwangyang",
+    "country": "KR"
+  },
+  {
+    "name": "Gwangju",
+    "country": "KR"
+  },
+  {
+    "name": "Gwangju",
+    "country": "KR"
+  },
+  {
+    "name": "Gwangju",
+    "country": "KR"
+  },
+  {
+    "name": "Gwacheon",
+    "country": "KR"
+  },
+  {
+    "name": "Kuwaegwan",
+    "country": "KR"
+  },
+  {
+    "name": "Kurye",
+    "country": "KR"
+  },
+  {
+    "name": "Guri-si",
+    "country": "KR"
+  },
+  {
+    "name": "Kunwi",
+    "country": "KR"
+  },
+  {
+    "name": "Gunsan",
+    "country": "KR"
+  },
+  {
+    "name": "Gunpo",
+    "country": "KR"
+  },
+  {
+    "name": "Kinzan",
+    "country": "KR"
+  },
+  {
+    "name": "Gumi",
+    "country": "KR"
+  },
+  {
+    "name": "Goyang-si",
+    "country": "KR"
+  },
+  {
+    "name": "Goseong",
+    "country": "KR"
+  },
+  {
+    "name": "Kory\u014fng",
+    "country": "KR"
+  },
+  {
+    "name": "Gongju",
+    "country": "KR"
+  },
+  {
+    "name": "Kyosai",
+    "country": "KR"
+  },
+  {
+    "name": "Koyo",
+    "country": "KR"
+  },
+  {
+    "name": "Koesan",
+    "country": "KR"
+  },
+  {
+    "name": "Koch'ang",
+    "country": "KR"
+  },
+  {
+    "name": "Gimpo-si",
+    "country": "KR"
+  },
+  {
+    "name": "Kimje",
+    "country": "KR"
+  },
+  {
+    "name": "Kimhae",
+    "country": "KR"
+  },
+  {
+    "name": "Gimcheon",
+    "country": "KR"
+  },
+  {
+    "name": "Gijang",
+    "country": "KR"
+  },
+  {
+    "name": "Gapyeong",
+    "country": "KR"
+  },
+  {
+    "name": "Gangwon-do",
+    "country": "KR"
+  },
+  {
+    "name": "Gangneung",
+    "country": "KR"
+  },
+  {
+    "name": "Ganghwa-gun",
+    "country": "KR"
+  },
+  {
+    "name": "Iksan",
+    "country": "KR"
+  },
+  {
+    "name": "Ipyang-ni",
+    "country": "KR"
+  },
+  {
+    "name": "Ipseokdong",
+    "country": "KR"
+  },
+  {
+    "name": "Inje",
+    "country": "KR"
+  },
+  {
+    "name": "Incheon",
+    "country": "KR"
+  },
+  {
+    "name": "Incheon",
+    "country": "KR"
+  },
+  {
+    "name": "Imsil",
+    "country": "KR"
+  },
+  {
+    "name": "Icheon-si",
+    "country": "KR"
+  },
+  {
+    "name": "Hwasun",
+    "country": "KR"
+  },
+  {
+    "name": "Hwaseong-si",
+    "country": "KR"
+  },
+  {
+    "name": "Hwapyeongri",
+    "country": "KR"
+  },
+  {
+    "name": "Hwacheon",
+    "country": "KR"
+  },
+  {
+    "name": "H\u016dngj\u014fn",
+    "country": "KR"
+  },
+  {
+    "name": "Kulgwan-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Hongseong",
+    "country": "KR"
+  },
+  {
+    "name": "Hongch\u2019\u014fn",
+    "country": "KR"
+  },
+  {
+    "name": "Hongch\u2019\u014fn",
+    "country": "KR"
+  },
+  {
+    "name": "Hayang",
+    "country": "KR"
+  },
+  {
+    "name": "Hamyang",
+    "country": "KR"
+  },
+  {
+    "name": "Hampyeongsaengtaegongwon",
+    "country": "KR"
+  },
+  {
+    "name": "Haenam",
+    "country": "KR"
+  },
+  {
+    "name": "Hadong-eup Samuso",
+    "country": "KR"
+  },
+  {
+    "name": "Jungpyong",
+    "country": "KR"
+  },
+  {
+    "name": "Chungju",
+    "country": "KR"
+  },
+  {
+    "name": "Chungcheongnam-do",
+    "country": "KR"
+  },
+  {
+    "name": "Chungcheongbuk-do",
+    "country": "KR"
+  },
+  {
+    "name": "Chuncheon",
+    "country": "KR"
+  },
+  {
+    "name": "Chuja-ri",
+    "country": "KR"
+  },
+  {
+    "name": "Jeonju",
+    "country": "KR"
+  },
+  {
+    "name": "Cheongsong gun",
+    "country": "KR"
+  },
+  {
+    "name": "Ch\u2019\u014fngnim",
+    "country": "KR"
+  },
+  {
+    "name": "Cheongju-si",
+    "country": "KR"
+  },
+  {
+    "name": "Cheonan",
+    "country": "KR"
+  },
+  {
+    "name": "Jeollanam-do",
+    "country": "KR"
+  },
+  {
+    "name": "Jeollabuk-do",
+    "country": "KR"
+  },
+  {
+    "name": "Chinju",
+    "country": "KR"
+  },
+  {
+    "name": "Chinhae",
+    "country": "KR"
+  },
+  {
+    "name": "Chinch'\u014fn",
+    "country": "KR"
+  },
+  {
+    "name": "Jinan-gun",
+    "country": "KR"
+  },
+  {
+    "name": "Shitsukoku",
+    "country": "KR"
+  },
+  {
+    "name": "Jeju-do",
+    "country": "KR"
+  },
+  {
+    "name": "Jeju City",
+    "country": "KR"
+  },
+  {
+    "name": "Teisen",
+    "country": "KR"
+  },
+  {
+    "name": "Changwon",
+    "country": "KR"
+  },
+  {
+    "name": "Changsu",
+    "country": "KR"
+  },
+  {
+    "name": "Changp\u2019o",
+    "country": "KR"
+  },
+  {
+    "name": "Janggol",
+    "country": "KR"
+  },
+  {
+    "name": "Jamwon-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Anyang-si",
+    "country": "KR"
+  },
+  {
+    "name": "Anseong",
+    "country": "KR"
+  },
+  {
+    "name": "Ansan-si",
+    "country": "KR"
+  },
+  {
+    "name": "Andong",
+    "country": "KR"
+  },
+  {
+    "name": "Gaigeturi",
+    "country": "KR"
+  },
+  {
+    "name": "Sinhyeon",
+    "country": "KR"
+  },
+  {
+    "name": "Buyeondong",
+    "country": "KR"
+  },
+  {
+    "name": "Kangp\u2019o-ri",
+    "country": "KR"
+  },
+  {
+    "name": "Songch\u2019\u014fni-dong",
+    "country": "KR"
+  },
+  {
+    "name": "S\u014fny\u014fl-li",
+    "country": "KR"
+  },
+  {
+    "name": "Y\u014fnmu",
+    "country": "KR"
+  },
+  {
+    "name": "Unam-ni",
+    "country": "KR"
+  },
+  {
+    "name": "Tangp\u2019y\u014fng",
+    "country": "KR"
+  },
+  {
+    "name": "Tonghae",
+    "country": "KR"
+  },
+  {
+    "name": "Imsil",
+    "country": "KR"
+  },
+  {
+    "name": "S\u014fnbawi",
+    "country": "KR"
+  },
+  {
+    "name": "Pubal",
+    "country": "KR"
+  },
+  {
+    "name": "Seongnam-si",
+    "country": "KR"
+  },
+  {
+    "name": "Hanam",
+    "country": "KR"
+  },
+  {
+    "name": "Hwado",
+    "country": "KR"
+  },
+  {
+    "name": "Namyangju",
+    "country": "KR"
+  },
+  {
+    "name": "Gyeongsangnam-do",
+    "country": "KR"
+  },
+  {
+    "name": "Ungsang",
+    "country": "KR"
+  },
+  {
+    "name": "Wabu",
+    "country": "KR"
+  },
+  {
+    "name": "Naes\u014f",
+    "country": "KR"
+  },
+  {
+    "name": "Hwaw\u014fn",
+    "country": "KR"
+  },
+  {
+    "name": "T\u2019aep\u2019ong-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Kwangmy\u014fng",
+    "country": "KR"
+  },
+  {
+    "name": "K\u014fje",
+    "country": "KR"
+  },
+  {
+    "name": "Seolman",
+    "country": "KR"
+  },
+  {
+    "name": "My\u014fngw\u014fli-ri",
+    "country": "KR"
+  },
+  {
+    "name": "Paem\u014fri",
+    "country": "KR"
+  },
+  {
+    "name": "Ot\u2019ani-ri",
+    "country": "KR"
+  },
+  {
+    "name": "Sinan",
+    "country": "KR"
+  },
+  {
+    "name": "Anbaeteo",
+    "country": "KR"
+  },
+  {
+    "name": "Samjeon-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Namhyang-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Wonteo",
+    "country": "KR"
+  },
+  {
+    "name": "Dongjinwon",
+    "country": "KR"
+  },
+  {
+    "name": "Haejeong",
+    "country": "KR"
+  },
+  {
+    "name": "Sangdeok",
+    "country": "KR"
+  },
+  {
+    "name": "Samga-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Seryui-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Yeongtongi-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Subu-mal",
+    "country": "KR"
+  },
+  {
+    "name": "Hup\u2019y\u014fng",
+    "country": "KR"
+  },
+  {
+    "name": "Oegeomusil",
+    "country": "KR"
+  },
+  {
+    "name": "Panghak-tong",
+    "country": "KR"
+  },
+  {
+    "name": "P\u014fd\u016dlbat",
+    "country": "KR"
+  },
+  {
+    "name": "Hwangmae",
+    "country": "KR"
+  },
+  {
+    "name": "Banpobondong",
+    "country": "KR"
+  },
+  {
+    "name": "P\u2019ungnap-tong",
+    "country": "KR"
+  },
+  {
+    "name": "K\u016dmhosamga-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Kwangh\u016di-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Sup\u2019y\u014fng-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Ganeung i dong",
+    "country": "KR"
+  },
+  {
+    "name": "Goenae",
+    "country": "KR"
+  },
+  {
+    "name": "Misa-ch\u2019on",
+    "country": "KR"
+  },
+  {
+    "name": "Chaen-mal",
+    "country": "KR"
+  },
+  {
+    "name": "W\u014fns\u014fngil-tong",
+    "country": "KR"
+  },
+  {
+    "name": "Angol",
+    "country": "KR"
+  },
+  {
+    "name": "Anteo",
+    "country": "KR"
+  },
+  {
+    "name": "Beodang",
+    "country": "KR"
+  },
+  {
+    "name": "Yongh\u016dng",
+    "country": "KR"
+  },
+  {
+    "name": "Gueongmal",
+    "country": "KR"
+  },
+  {
+    "name": "Chogok",
+    "country": "KR"
+  },
+  {
+    "name": "P\u2019y\u014fngs\u014fng",
+    "country": "KR"
+  },
+  {
+    "name": "Utt\u2019\u014f-gol",
+    "country": "KR"
+  },
+  {
+    "name": "Chungang-dong",
+    "country": "KR"
+  },
+  {
+    "name": "Chidong-gol",
+    "country": "KR"
+  },
+  {
+    "name": "Ugok",
+    "country": "KR"
+  },
+  {
+    "name": "Changnyeong",
+    "country": "KR"
+  },
+  {
+    "name": "Changsal-li",
+    "country": "KR"
+  },
+  {
+    "name": "Jangjolli",
+    "country": "KR"
+  }
+]

@@ -1,0 +1,2222 @@
+[
+  {
+    "name": "Roodepoort",
+    "country": "ZA"
+  },
+  {
+    "name": "Zeerust",
+    "country": "ZA"
+  },
+  {
+    "name": "Zastron",
+    "country": "ZA"
+  },
+  {
+    "name": "Wolmaransstad",
+    "country": "ZA"
+  },
+  {
+    "name": "White River",
+    "country": "ZA"
+  },
+  {
+    "name": "Witbank",
+    "country": "ZA"
+  },
+  {
+    "name": "Winston Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Wingate Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Winburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Willow Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Willowmore",
+    "country": "ZA"
+  },
+  {
+    "name": "Williston",
+    "country": "ZA"
+  },
+  {
+    "name": "Whittlesea",
+    "country": "ZA"
+  },
+  {
+    "name": "Westonaria",
+    "country": "ZA"
+  },
+  {
+    "name": "Western Township",
+    "country": "ZA"
+  },
+  {
+    "name": "West End",
+    "country": "ZA"
+  },
+  {
+    "name": "Westbrook",
+    "country": "ZA"
+  },
+  {
+    "name": "Wesselsbron",
+    "country": "ZA"
+  },
+  {
+    "name": "Wesbank",
+    "country": "ZA"
+  },
+  {
+    "name": "Wemmer",
+    "country": "ZA"
+  },
+  {
+    "name": "Welkom",
+    "country": "ZA"
+  },
+  {
+    "name": "Welkom",
+    "country": "ZA"
+  },
+  {
+    "name": "Welbeloond",
+    "country": "ZA"
+  },
+  {
+    "name": "Waverley",
+    "country": "ZA"
+  },
+  {
+    "name": "Waterkloof",
+    "country": "ZA"
+  },
+  {
+    "name": "Waterfall",
+    "country": "ZA"
+  },
+  {
+    "name": "Warrenton",
+    "country": "ZA"
+  },
+  {
+    "name": "Warmbaths",
+    "country": "ZA"
+  },
+  {
+    "name": "Warden",
+    "country": "ZA"
+  },
+  {
+    "name": "Walmer",
+    "country": "ZA"
+  },
+  {
+    "name": "Vyekraal",
+    "country": "ZA"
+  },
+  {
+    "name": "Vryheid",
+    "country": "ZA"
+  },
+  {
+    "name": "Vryburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Vredefort",
+    "country": "ZA"
+  },
+  {
+    "name": "Vrede",
+    "country": "ZA"
+  },
+  {
+    "name": "Volksrust",
+    "country": "ZA"
+  },
+  {
+    "name": "Virginia",
+    "country": "ZA"
+  },
+  {
+    "name": "Villiers",
+    "country": "ZA"
+  },
+  {
+    "name": "Villa Maria",
+    "country": "ZA"
+  },
+  {
+    "name": "Village of Happiness",
+    "country": "ZA"
+  },
+  {
+    "name": "Viljoenskroon",
+    "country": "ZA"
+  },
+  {
+    "name": "Victoria West",
+    "country": "ZA"
+  },
+  {
+    "name": "Verulam",
+    "country": "ZA"
+  },
+  {
+    "name": "Vereeniging",
+    "country": "ZA"
+  },
+  {
+    "name": "Verdun",
+    "country": "ZA"
+  },
+  {
+    "name": "Ventersdorp",
+    "country": "ZA"
+  },
+  {
+    "name": "Ventersburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Veldenvlei",
+    "country": "ZA"
+  },
+  {
+    "name": "Vanderbijlpark",
+    "country": "ZA"
+  },
+  {
+    "name": "Valhalla",
+    "country": "ZA"
+  },
+  {
+    "name": "Vaalwater",
+    "country": "ZA"
+  },
+  {
+    "name": "Vaalpark",
+    "country": "ZA"
+  },
+  {
+    "name": "Utrecht",
+    "country": "ZA"
+  },
+  {
+    "name": "Upington",
+    "country": "ZA"
+  },
+  {
+    "name": "Uniondale",
+    "country": "ZA"
+  },
+  {
+    "name": "Underberg",
+    "country": "ZA"
+  },
+  {
+    "name": "Umtata",
+    "country": "ZA"
+  },
+  {
+    "name": "Umkomaas",
+    "country": "ZA"
+  },
+  {
+    "name": "Umhlanga",
+    "country": "ZA"
+  },
+  {
+    "name": "Ulundi",
+    "country": "ZA"
+  },
+  {
+    "name": "Uitenhage",
+    "country": "ZA"
+  },
+  {
+    "name": "Tzaneen",
+    "country": "ZA"
+  },
+  {
+    "name": "Trichardt",
+    "country": "ZA"
+  },
+  {
+    "name": "Thulamahashi",
+    "country": "ZA"
+  },
+  {
+    "name": "Three Rivers",
+    "country": "ZA"
+  },
+  {
+    "name": "Thohoyandou",
+    "country": "ZA"
+  },
+  {
+    "name": "The Village",
+    "country": "ZA"
+  },
+  {
+    "name": "Theunissen",
+    "country": "ZA"
+  },
+  {
+    "name": "The Highlands",
+    "country": "ZA"
+  },
+  {
+    "name": "Thabazimbi",
+    "country": "ZA"
+  },
+  {
+    "name": "Thaba Nchu",
+    "country": "ZA"
+  },
+  {
+    "name": "Tembisa",
+    "country": "ZA"
+  },
+  {
+    "name": "Swellendam",
+    "country": "ZA"
+  },
+  {
+    "name": "Sutherland",
+    "country": "ZA"
+  },
+  {
+    "name": "Sunridge Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Sundumbili",
+    "country": "ZA"
+  },
+  {
+    "name": "Sukani",
+    "country": "ZA"
+  },
+  {
+    "name": "Suits Me",
+    "country": "ZA"
+  },
+  {
+    "name": "Stutterheim",
+    "country": "ZA"
+  },
+  {
+    "name": "Stilfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Stilbaai-Oos",
+    "country": "ZA"
+  },
+  {
+    "name": "Still Bay",
+    "country": "ZA"
+  },
+  {
+    "name": "Stanger",
+    "country": "ZA"
+  },
+  {
+    "name": "Standplaas",
+    "country": "ZA"
+  },
+  {
+    "name": "Standerton",
+    "country": "ZA"
+  },
+  {
+    "name": "Springs",
+    "country": "ZA"
+  },
+  {
+    "name": "Soweto",
+    "country": "ZA"
+  },
+  {
+    "name": "Port Elizabeth Airport",
+    "country": "ZA"
+  },
+  {
+    "name": "Republic of South Africa",
+    "country": "ZA"
+  },
+  {
+    "name": "Somerset East",
+    "country": "ZA"
+  },
+  {
+    "name": "Smithfield",
+    "country": "ZA"
+  },
+  {
+    "name": "Siyabuswa",
+    "country": "ZA"
+  },
+  {
+    "name": "Sishen",
+    "country": "ZA"
+  },
+  {
+    "name": "Sinoville",
+    "country": "ZA"
+  },
+  {
+    "name": "Shelly Beach",
+    "country": "ZA"
+  },
+  {
+    "name": "Seshego",
+    "country": "ZA"
+  },
+  {
+    "name": "Senekal",
+    "country": "ZA"
+  },
+  {
+    "name": "Sedgefield",
+    "country": "ZA"
+  },
+  {
+    "name": "Secunda",
+    "country": "ZA"
+  },
+  {
+    "name": "Sea Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Scottburgh",
+    "country": "ZA"
+  },
+  {
+    "name": "Schweizer-Reneke",
+    "country": "ZA"
+  },
+  {
+    "name": "Schapenrust",
+    "country": "ZA"
+  },
+  {
+    "name": "Sasolburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Sardinia Bay",
+    "country": "ZA"
+  },
+  {
+    "name": "Sandton",
+    "country": "ZA"
+  },
+  {
+    "name": "Sabierivier",
+    "country": "ZA"
+  },
+  {
+    "name": "Sabie",
+    "country": "ZA"
+  },
+  {
+    "name": "Rustenburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Rosslyn",
+    "country": "ZA"
+  },
+  {
+    "name": "Rooihuiskraal",
+    "country": "ZA"
+  },
+  {
+    "name": "Ronald\u2019s Vlei",
+    "country": "ZA"
+  },
+  {
+    "name": "Riversdale",
+    "country": "ZA"
+  },
+  {
+    "name": "Ritchie",
+    "country": "ZA"
+  },
+  {
+    "name": "Rietvlei",
+    "country": "ZA"
+  },
+  {
+    "name": "Rietfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Richmond",
+    "country": "ZA"
+  },
+  {
+    "name": "Richards Bay",
+    "country": "ZA"
+  },
+  {
+    "name": "Reunion",
+    "country": "ZA"
+  },
+  {
+    "name": "Reservoir Hills",
+    "country": "ZA"
+  },
+  {
+    "name": "Reitz",
+    "country": "ZA"
+  },
+  {
+    "name": "Rayton",
+    "country": "ZA"
+  },
+  {
+    "name": "Randfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Queenstown",
+    "country": "ZA"
+  },
+  {
+    "name": "Queensdale",
+    "country": "ZA"
+  },
+  {
+    "name": "Queensburgh",
+    "country": "ZA"
+  },
+  {
+    "name": "Protem",
+    "country": "ZA"
+  },
+  {
+    "name": "Protea Ridge",
+    "country": "ZA"
+  },
+  {
+    "name": "Prospect",
+    "country": "ZA"
+  },
+  {
+    "name": "Prince Albert",
+    "country": "ZA"
+  },
+  {
+    "name": "Prieska",
+    "country": "ZA"
+  },
+  {
+    "name": "Pretoria-Wes",
+    "country": "ZA"
+  },
+  {
+    "name": "Pretoria",
+    "country": "ZA"
+  },
+  {
+    "name": "Mokopane",
+    "country": "ZA"
+  },
+  {
+    "name": "Potfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Potchefstroom",
+    "country": "ZA"
+  },
+  {
+    "name": "Port Shepstone",
+    "country": "ZA"
+  },
+  {
+    "name": "Port Saint Johns",
+    "country": "ZA"
+  },
+  {
+    "name": "Port Elizabeth",
+    "country": "ZA"
+  },
+  {
+    "name": "Port Edward",
+    "country": "ZA"
+  },
+  {
+    "name": "Port Alfred",
+    "country": "ZA"
+  },
+  {
+    "name": "Point",
+    "country": "ZA"
+  },
+  {
+    "name": "Plettenberg Bay",
+    "country": "ZA"
+  },
+  {
+    "name": "Piet Retief",
+    "country": "ZA"
+  },
+  {
+    "name": "Polokwane",
+    "country": "ZA"
+  },
+  {
+    "name": "Pietermaritzburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Phuthaditjhaba",
+    "country": "ZA"
+  },
+  {
+    "name": "Phalaborwa",
+    "country": "ZA"
+  },
+  {
+    "name": "Pelham",
+    "country": "ZA"
+  },
+  {
+    "name": "Parys",
+    "country": "ZA"
+  },
+  {
+    "name": "Parkview",
+    "country": "ZA"
+  },
+  {
+    "name": "Parkhurst",
+    "country": "ZA"
+  },
+  {
+    "name": "Panorama",
+    "country": "ZA"
+  },
+  {
+    "name": "Pampierstad",
+    "country": "ZA"
+  },
+  {
+    "name": "Palmietfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Paardekraal",
+    "country": "ZA"
+  },
+  {
+    "name": "Oudtshoorn",
+    "country": "ZA"
+  },
+  {
+    "name": "Orkney",
+    "country": "ZA"
+  },
+  {
+    "name": "Orania",
+    "country": "ZA"
+  },
+  {
+    "name": "Free State",
+    "country": "ZA"
+  },
+  {
+    "name": "Orange Farm",
+    "country": "ZA"
+  },
+  {
+    "name": "Onverwacht",
+    "country": "ZA"
+  },
+  {
+    "name": "Ofcolaco",
+    "country": "ZA"
+  },
+  {
+    "name": "Modimolle",
+    "country": "ZA"
+  },
+  {
+    "name": "Noupoort",
+    "country": "ZA"
+  },
+  {
+    "name": "Nottingham Road",
+    "country": "ZA"
+  },
+  {
+    "name": "Nkowakowa",
+    "country": "ZA"
+  },
+  {
+    "name": "Nigel",
+    "country": "ZA"
+  },
+  {
+    "name": "New Kingsmead",
+    "country": "ZA"
+  },
+  {
+    "name": "New Hanover",
+    "country": "ZA"
+  },
+  {
+    "name": "Newclare",
+    "country": "ZA"
+  },
+  {
+    "name": "Newcastle",
+    "country": "ZA"
+  },
+  {
+    "name": "Nelspruit",
+    "country": "ZA"
+  },
+  {
+    "name": "Province of KwaZulu-Natal",
+    "country": "ZA"
+  },
+  {
+    "name": "Nancefield",
+    "country": "ZA"
+  },
+  {
+    "name": "Naboomspruit",
+    "country": "ZA"
+  },
+  {
+    "name": "Musgrave",
+    "country": "ZA"
+  },
+  {
+    "name": "Muldersdriseloop",
+    "country": "ZA"
+  },
+  {
+    "name": "Muldersdrift",
+    "country": "ZA"
+  },
+  {
+    "name": "Muden",
+    "country": "ZA"
+  },
+  {
+    "name": "Mtubatuba",
+    "country": "ZA"
+  },
+  {
+    "name": "Mpumalanga",
+    "country": "ZA"
+  },
+  {
+    "name": "Mpophomeni",
+    "country": "ZA"
+  },
+  {
+    "name": "Mount Edgecombe",
+    "country": "ZA"
+  },
+  {
+    "name": "Mossel Bay",
+    "country": "ZA"
+  },
+  {
+    "name": "Mortimer",
+    "country": "ZA"
+  },
+  {
+    "name": "Morgan\u2019s Bay",
+    "country": "ZA"
+  },
+  {
+    "name": "Mooirivier",
+    "country": "ZA"
+  },
+  {
+    "name": "Monument Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Mondlo",
+    "country": "ZA"
+  },
+  {
+    "name": "Molteno",
+    "country": "ZA"
+  },
+  {
+    "name": "Mogwase",
+    "country": "ZA"
+  },
+  {
+    "name": "Modderfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Mmabatho",
+    "country": "ZA"
+  },
+  {
+    "name": "Mkuze",
+    "country": "ZA"
+  },
+  {
+    "name": "Middelburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Middelburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Mhlahlane",
+    "country": "ZA"
+  },
+  {
+    "name": "Meyerton",
+    "country": "ZA"
+  },
+  {
+    "name": "Messina",
+    "country": "ZA"
+  },
+  {
+    "name": "Mesa",
+    "country": "ZA"
+  },
+  {
+    "name": "Meadowlands",
+    "country": "ZA"
+  },
+  {
+    "name": "Mbango",
+    "country": "ZA"
+  },
+  {
+    "name": "Mataffin",
+    "country": "ZA"
+  },
+  {
+    "name": "Marseilles",
+    "country": "ZA"
+  },
+  {
+    "name": "Marquard",
+    "country": "ZA"
+  },
+  {
+    "name": "Marowe",
+    "country": "ZA"
+  },
+  {
+    "name": "Margate",
+    "country": "ZA"
+  },
+  {
+    "name": "Marble Hall",
+    "country": "ZA"
+  },
+  {
+    "name": "Mara",
+    "country": "ZA"
+  },
+  {
+    "name": "Manor Gardens",
+    "country": "ZA"
+  },
+  {
+    "name": "Mankoeng",
+    "country": "ZA"
+  },
+  {
+    "name": "Malvern",
+    "country": "ZA"
+  },
+  {
+    "name": "Malvern",
+    "country": "ZA"
+  },
+  {
+    "name": "Mafikeng",
+    "country": "ZA"
+  },
+  {
+    "name": "Mabopane",
+    "country": "ZA"
+  },
+  {
+    "name": "Mabele-a-podi",
+    "country": "ZA"
+  },
+  {
+    "name": "Lyttelton",
+    "country": "ZA"
+  },
+  {
+    "name": "Lynnwood",
+    "country": "ZA"
+  },
+  {
+    "name": "Lyndhurst",
+    "country": "ZA"
+  },
+  {
+    "name": "Lydenburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Louis Trichardt",
+    "country": "ZA"
+  },
+  {
+    "name": "Lorraine",
+    "country": "ZA"
+  },
+  {
+    "name": "Lombardy East",
+    "country": "ZA"
+  },
+  {
+    "name": "Lokaleng",
+    "country": "ZA"
+  },
+  {
+    "name": "Little Falls",
+    "country": "ZA"
+  },
+  {
+    "name": "Lindley",
+    "country": "ZA"
+  },
+  {
+    "name": "Limewell",
+    "country": "ZA"
+  },
+  {
+    "name": "Lime Acres",
+    "country": "ZA"
+  },
+  {
+    "name": "Lichtenburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Leslie",
+    "country": "ZA"
+  },
+  {
+    "name": "Lebowakgomo",
+    "country": "ZA"
+  },
+  {
+    "name": "La Mercy",
+    "country": "ZA"
+  },
+  {
+    "name": "Ladysmith",
+    "country": "ZA"
+  },
+  {
+    "name": "Lady Grey",
+    "country": "ZA"
+  },
+  {
+    "name": "Lady Frere",
+    "country": "ZA"
+  },
+  {
+    "name": "Ladybrand",
+    "country": "ZA"
+  },
+  {
+    "name": "Kutloanong",
+    "country": "ZA"
+  },
+  {
+    "name": "Kuruman",
+    "country": "ZA"
+  },
+  {
+    "name": "Kruisfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Krugersdorp West",
+    "country": "ZA"
+  },
+  {
+    "name": "Krugersdorp",
+    "country": "ZA"
+  },
+  {
+    "name": "Kroonstad",
+    "country": "ZA"
+  },
+  {
+    "name": "Kroondal",
+    "country": "ZA"
+  },
+  {
+    "name": "Krompan",
+    "country": "ZA"
+  },
+  {
+    "name": "Kromhof",
+    "country": "ZA"
+  },
+  {
+    "name": "Kriel",
+    "country": "ZA"
+  },
+  {
+    "name": "Koster",
+    "country": "ZA"
+  },
+  {
+    "name": "Koppies",
+    "country": "ZA"
+  },
+  {
+    "name": "Komatipoort",
+    "country": "ZA"
+  },
+  {
+    "name": "Kokstad",
+    "country": "ZA"
+  },
+  {
+    "name": "Koffiefontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Knysna",
+    "country": "ZA"
+  },
+  {
+    "name": "Kloof",
+    "country": "ZA"
+  },
+  {
+    "name": "Klipdrift",
+    "country": "ZA"
+  },
+  {
+    "name": "Klerksdorp",
+    "country": "ZA"
+  },
+  {
+    "name": "Kirkwood",
+    "country": "ZA"
+  },
+  {
+    "name": "Kinross",
+    "country": "ZA"
+  },
+  {
+    "name": "King William\u2019s Town",
+    "country": "ZA"
+  },
+  {
+    "name": "Kingsmead",
+    "country": "ZA"
+  },
+  {
+    "name": "Kingsborough",
+    "country": "ZA"
+  },
+  {
+    "name": "Kimberley",
+    "country": "ZA"
+  },
+  {
+    "name": "Kew",
+    "country": "ZA"
+  },
+  {
+    "name": "Kempton Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Kathu",
+    "country": "ZA"
+  },
+  {
+    "name": "Kate Hamel",
+    "country": "ZA"
+  },
+  {
+    "name": "Josefsdeel",
+    "country": "ZA"
+  },
+  {
+    "name": "Johannesburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Jeffreys Bay",
+    "country": "ZA"
+  },
+  {
+    "name": "Jan Kempdorp",
+    "country": "ZA"
+  },
+  {
+    "name": "Jagersfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Jacobs",
+    "country": "ZA"
+  },
+  {
+    "name": "Jackson\u2019s Drift",
+    "country": "ZA"
+  },
+  {
+    "name": "Ixopo",
+    "country": "ZA"
+  },
+  {
+    "name": "Isipingo",
+    "country": "ZA"
+  },
+  {
+    "name": "Irene",
+    "country": "ZA"
+  },
+  {
+    "name": "Inanda",
+    "country": "ZA"
+  },
+  {
+    "name": "Ilinge",
+    "country": "ZA"
+  },
+  {
+    "name": "Hutton Heights",
+    "country": "ZA"
+  },
+  {
+    "name": "Huhudi",
+    "country": "ZA"
+  },
+  {
+    "name": "Howick",
+    "country": "ZA"
+  },
+  {
+    "name": "Horton",
+    "country": "ZA"
+  },
+  {
+    "name": "Hoopstad",
+    "country": "ZA"
+  },
+  {
+    "name": "Honeyvale",
+    "country": "ZA"
+  },
+  {
+    "name": "Home Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Hoedspruit",
+    "country": "ZA"
+  },
+  {
+    "name": "Hluhluwe",
+    "country": "ZA"
+  },
+  {
+    "name": "Himeville",
+    "country": "ZA"
+  },
+  {
+    "name": "Hillcrest",
+    "country": "ZA"
+  },
+  {
+    "name": "Highlands",
+    "country": "ZA"
+  },
+  {
+    "name": "Heuningspruit",
+    "country": "ZA"
+  },
+  {
+    "name": "Hennenman",
+    "country": "ZA"
+  },
+  {
+    "name": "Hendrina",
+    "country": "ZA"
+  },
+  {
+    "name": "Heilbron",
+    "country": "ZA"
+  },
+  {
+    "name": "Heidelberg",
+    "country": "ZA"
+  },
+  {
+    "name": "Hattingspruit",
+    "country": "ZA"
+  },
+  {
+    "name": "Harrismith",
+    "country": "ZA"
+  },
+  {
+    "name": "Harding",
+    "country": "ZA"
+  },
+  {
+    "name": "Halfway House",
+    "country": "ZA"
+  },
+  {
+    "name": "Guinesses",
+    "country": "ZA"
+  },
+  {
+    "name": "Greytown",
+    "country": "ZA"
+  },
+  {
+    "name": "Greenwood Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Greenfields",
+    "country": "ZA"
+  },
+  {
+    "name": "Grahamstown",
+    "country": "ZA"
+  },
+  {
+    "name": "Graaff-Reinet",
+    "country": "ZA"
+  },
+  {
+    "name": "Glenhurd",
+    "country": "ZA"
+  },
+  {
+    "name": "Glenharvie",
+    "country": "ZA"
+  },
+  {
+    "name": "Glendean",
+    "country": "ZA"
+  },
+  {
+    "name": "Glencoe",
+    "country": "ZA"
+  },
+  {
+    "name": "Glen Austin",
+    "country": "ZA"
+  },
+  {
+    "name": "Glen Ambrose",
+    "country": "ZA"
+  },
+  {
+    "name": "Giyani",
+    "country": "ZA"
+  },
+  {
+    "name": "Germiston",
+    "country": "ZA"
+  },
+  {
+    "name": "George",
+    "country": "ZA"
+  },
+  {
+    "name": "Generaal de Wet",
+    "country": "ZA"
+  },
+  {
+    "name": "Ga-Rankuwa",
+    "country": "ZA"
+  },
+  {
+    "name": "Ganyesa",
+    "country": "ZA"
+  },
+  {
+    "name": "Ga-Modjadji",
+    "country": "ZA"
+  },
+  {
+    "name": "GAKGAPANE",
+    "country": "ZA"
+  },
+  {
+    "name": "Frankfort",
+    "country": "ZA"
+  },
+  {
+    "name": "Fraaiuitzicht",
+    "country": "ZA"
+  },
+  {
+    "name": "Fouriesburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Fort Beaufort",
+    "country": "ZA"
+  },
+  {
+    "name": "Fochville",
+    "country": "ZA"
+  },
+  {
+    "name": "Ficksburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Faerie Glen",
+    "country": "ZA"
+  },
+  {
+    "name": "Estcourt",
+    "country": "ZA"
+  },
+  {
+    "name": "eSikhawini",
+    "country": "ZA"
+  },
+  {
+    "name": "Eshowe",
+    "country": "ZA"
+  },
+  {
+    "name": "Ermelo",
+    "country": "ZA"
+  },
+  {
+    "name": "Erand",
+    "country": "ZA"
+  },
+  {
+    "name": "Enkelbosch",
+    "country": "ZA"
+  },
+  {
+    "name": "Empangeni",
+    "country": "ZA"
+  },
+  {
+    "name": "eMbalenhle",
+    "country": "ZA"
+  },
+  {
+    "name": "Ellisras",
+    "country": "ZA"
+  },
+  {
+    "name": "Elliot",
+    "country": "ZA"
+  },
+  {
+    "name": "Eldoradopark",
+    "country": "ZA"
+  },
+  {
+    "name": "Elarduspark",
+    "country": "ZA"
+  },
+  {
+    "name": "Ekuvukeni",
+    "country": "ZA"
+  },
+  {
+    "name": "Ebenhaezer",
+    "country": "ZA"
+  },
+  {
+    "name": "East Lynne",
+    "country": "ZA"
+  },
+  {
+    "name": "East London",
+    "country": "ZA"
+  },
+  {
+    "name": "Dwaleni",
+    "country": "ZA"
+  },
+  {
+    "name": "Durban",
+    "country": "ZA"
+  },
+  {
+    "name": "Dundee",
+    "country": "ZA"
+  },
+  {
+    "name": "Duncan Village",
+    "country": "ZA"
+  },
+  {
+    "name": "Duiwelskloof",
+    "country": "ZA"
+  },
+  {
+    "name": "Drieweeksleegte",
+    "country": "ZA"
+  },
+  {
+    "name": "Driefontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Douglas",
+    "country": "ZA"
+  },
+  {
+    "name": "Douglas",
+    "country": "ZA"
+  },
+  {
+    "name": "Dordrecht",
+    "country": "ZA"
+  },
+  {
+    "name": "Diepfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Diasstrand",
+    "country": "ZA"
+  },
+  {
+    "name": "De Rust",
+    "country": "ZA"
+  },
+  {
+    "name": "Deneysville",
+    "country": "ZA"
+  },
+  {
+    "name": "Dendron",
+    "country": "ZA"
+  },
+  {
+    "name": "Delmas",
+    "country": "ZA"
+  },
+  {
+    "name": "Delareyville",
+    "country": "ZA"
+  },
+  {
+    "name": "De Aar",
+    "country": "ZA"
+  },
+  {
+    "name": "Danville",
+    "country": "ZA"
+  },
+  {
+    "name": "Da Nova",
+    "country": "ZA"
+  },
+  {
+    "name": "Danielskuil",
+    "country": "ZA"
+  },
+  {
+    "name": "Danabaai",
+    "country": "ZA"
+  },
+  {
+    "name": "Dalton",
+    "country": "ZA"
+  },
+  {
+    "name": "Curry\u2019s Post",
+    "country": "ZA"
+  },
+  {
+    "name": "Cullinan",
+    "country": "ZA"
+  },
+  {
+    "name": "Creighton",
+    "country": "ZA"
+  },
+  {
+    "name": "Cradock",
+    "country": "ZA"
+  },
+  {
+    "name": "Cornelia",
+    "country": "ZA"
+  },
+  {
+    "name": "Colesberg",
+    "country": "ZA"
+  },
+  {
+    "name": "Colenso",
+    "country": "ZA"
+  },
+  {
+    "name": "Clocolan",
+    "country": "ZA"
+  },
+  {
+    "name": "Clifford",
+    "country": "ZA"
+  },
+  {
+    "name": "Clermont",
+    "country": "ZA"
+  },
+  {
+    "name": "Clarens",
+    "country": "ZA"
+  },
+  {
+    "name": "Christiana",
+    "country": "ZA"
+  },
+  {
+    "name": "Chatsworth",
+    "country": "ZA"
+  },
+  {
+    "name": "Cato Ridge",
+    "country": "ZA"
+  },
+  {
+    "name": "Cato Manor",
+    "country": "ZA"
+  },
+  {
+    "name": "Cathcart",
+    "country": "ZA"
+  },
+  {
+    "name": "Carolina",
+    "country": "ZA"
+  },
+  {
+    "name": "Carnarvon",
+    "country": "ZA"
+  },
+  {
+    "name": "Carletonville",
+    "country": "ZA"
+  },
+  {
+    "name": "Camerondale",
+    "country": "ZA"
+  },
+  {
+    "name": "Calitzdorp",
+    "country": "ZA"
+  },
+  {
+    "name": "Butterworth",
+    "country": "ZA"
+  },
+  {
+    "name": "Burgersdorp",
+    "country": "ZA"
+  },
+  {
+    "name": "Bulembu",
+    "country": "ZA"
+  },
+  {
+    "name": "Brown Stones",
+    "country": "ZA"
+  },
+  {
+    "name": "Bronkhorstspruit",
+    "country": "ZA"
+  },
+  {
+    "name": "Britstown",
+    "country": "ZA"
+  },
+  {
+    "name": "Brits",
+    "country": "ZA"
+  },
+  {
+    "name": "Brink\u2019s Vlakfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Brighton Beach",
+    "country": "ZA"
+  },
+  {
+    "name": "Breyten",
+    "country": "ZA"
+  },
+  {
+    "name": "Brentwood Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Bredasdorp",
+    "country": "ZA"
+  },
+  {
+    "name": "Brandfort",
+    "country": "ZA"
+  },
+  {
+    "name": "Brakpan",
+    "country": "ZA"
+  },
+  {
+    "name": "Botswana",
+    "country": "ZA"
+  },
+  {
+    "name": "Botshabelo",
+    "country": "ZA"
+  },
+  {
+    "name": "Bothaville",
+    "country": "ZA"
+  },
+  {
+    "name": "Boschrand",
+    "country": "ZA"
+  },
+  {
+    "name": "Bosbokrand",
+    "country": "ZA"
+  },
+  {
+    "name": "Bophelong",
+    "country": "ZA"
+  },
+  {
+    "name": "Boksburg",
+    "country": "ZA"
+  },
+  {
+    "name": "Bloemhof",
+    "country": "ZA"
+  },
+  {
+    "name": "Bloemfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Blanco",
+    "country": "ZA"
+  },
+  {
+    "name": "Bhisho",
+    "country": "ZA"
+  },
+  {
+    "name": "Bethlehem",
+    "country": "ZA"
+  },
+  {
+    "name": "Bethal",
+    "country": "ZA"
+  },
+  {
+    "name": "Bergville",
+    "country": "ZA"
+  },
+  {
+    "name": "Berea",
+    "country": "ZA"
+  },
+  {
+    "name": "Benoni",
+    "country": "ZA"
+  },
+  {
+    "name": "Bellair",
+    "country": "ZA"
+  },
+  {
+    "name": "Belfast",
+    "country": "ZA"
+  },
+  {
+    "name": "Bedelia West",
+    "country": "ZA"
+  },
+  {
+    "name": "Bedelia",
+    "country": "ZA"
+  },
+  {
+    "name": "Beaufort West",
+    "country": "ZA"
+  },
+  {
+    "name": "Barkly West",
+    "country": "ZA"
+  },
+  {
+    "name": "Barberton",
+    "country": "ZA"
+  },
+  {
+    "name": "Ballitoville",
+    "country": "ZA"
+  },
+  {
+    "name": "Balfour",
+    "country": "ZA"
+  },
+  {
+    "name": "Aston Bay",
+    "country": "ZA"
+  },
+  {
+    "name": "Ashton",
+    "country": "ZA"
+  },
+  {
+    "name": "Arbor Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Arboretum",
+    "country": "ZA"
+  },
+  {
+    "name": "Amanzimtoti",
+    "country": "ZA"
+  },
+  {
+    "name": "Alton",
+    "country": "ZA"
+  },
+  {
+    "name": "Allanridge",
+    "country": "ZA"
+  },
+  {
+    "name": "Aliwal North",
+    "country": "ZA"
+  },
+  {
+    "name": "Alice",
+    "country": "ZA"
+  },
+  {
+    "name": "Alexandria",
+    "country": "ZA"
+  },
+  {
+    "name": "Albert Falls",
+    "country": "ZA"
+  },
+  {
+    "name": "Agulhas",
+    "country": "ZA"
+  },
+  {
+    "name": "Adelaide",
+    "country": "ZA"
+  },
+  {
+    "name": "Addo",
+    "country": "ZA"
+  },
+  {
+    "name": "Adams College",
+    "country": "ZA"
+  },
+  {
+    "name": "Province of Eastern Cape",
+    "country": "ZA"
+  },
+  {
+    "name": "Gauteng",
+    "country": "ZA"
+  },
+  {
+    "name": "Mpumalanga",
+    "country": "ZA"
+  },
+  {
+    "name": "Province of Northern Cape",
+    "country": "ZA"
+  },
+  {
+    "name": "Limpopo Province",
+    "country": "ZA"
+  },
+  {
+    "name": "Province of North-West",
+    "country": "ZA"
+  },
+  {
+    "name": "Province of the Western Cape",
+    "country": "ZA"
+  },
+  {
+    "name": "Ekangala",
+    "country": "ZA"
+  },
+  {
+    "name": "Sybrandskraal",
+    "country": "ZA"
+  },
+  {
+    "name": "Soutpan",
+    "country": "ZA"
+  },
+  {
+    "name": "Garsfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Eersterus",
+    "country": "ZA"
+  },
+  {
+    "name": "Midrand",
+    "country": "ZA"
+  },
+  {
+    "name": "Centurion",
+    "country": "ZA"
+  },
+  {
+    "name": "Denneboom",
+    "country": "ZA"
+  },
+  {
+    "name": "Yzerfontein",
+    "country": "ZA"
+  },
+  {
+    "name": "Worcester",
+    "country": "ZA"
+  },
+  {
+    "name": "Wolseley",
+    "country": "ZA"
+  },
+  {
+    "name": "Windsor Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Wellington",
+    "country": "ZA"
+  },
+  {
+    "name": "Vredendal",
+    "country": "ZA"
+  },
+  {
+    "name": "Table View",
+    "country": "ZA"
+  },
+  {
+    "name": "Strand",
+    "country": "ZA"
+  },
+  {
+    "name": "Stellenbosch",
+    "country": "ZA"
+  },
+  {
+    "name": "Stellenberg",
+    "country": "ZA"
+  },
+  {
+    "name": "Steenberg",
+    "country": "ZA"
+  },
+  {
+    "name": "Stanford",
+    "country": "ZA"
+  },
+  {
+    "name": "Springbok",
+    "country": "ZA"
+  },
+  {
+    "name": "Sea Point",
+    "country": "ZA"
+  },
+  {
+    "name": "Scottsville",
+    "country": "ZA"
+  },
+  {
+    "name": "Saldanha",
+    "country": "ZA"
+  },
+  {
+    "name": "Rugby",
+    "country": "ZA"
+  },
+  {
+    "name": "Rosebank",
+    "country": "ZA"
+  },
+  {
+    "name": "Roggebaai",
+    "country": "ZA"
+  },
+  {
+    "name": "Robertson",
+    "country": "ZA"
+  },
+  {
+    "name": "Pringle Bay",
+    "country": "ZA"
+  },
+  {
+    "name": "Plumstead",
+    "country": "ZA"
+  },
+  {
+    "name": "Pinelands",
+    "country": "ZA"
+  },
+  {
+    "name": "Paarl",
+    "country": "ZA"
+  },
+  {
+    "name": "Oude Raapkraal",
+    "country": "ZA"
+  },
+  {
+    "name": "Ottery",
+    "country": "ZA"
+  },
+  {
+    "name": "Ocean View",
+    "country": "ZA"
+  },
+  {
+    "name": "Observatory",
+    "country": "ZA"
+  },
+  {
+    "name": "Oakdale",
+    "country": "ZA"
+  },
+  {
+    "name": "Noorder-Paarl",
+    "country": "ZA"
+  },
+  {
+    "name": "Nieuwoudtville",
+    "country": "ZA"
+  },
+  {
+    "name": "Mowbray",
+    "country": "ZA"
+  },
+  {
+    "name": "Mouille Point",
+    "country": "ZA"
+  },
+  {
+    "name": "Monte Vista",
+    "country": "ZA"
+  },
+  {
+    "name": "Montague Gardens",
+    "country": "ZA"
+  },
+  {
+    "name": "McGregor",
+    "country": "ZA"
+  },
+  {
+    "name": "Malmesbury",
+    "country": "ZA"
+  },
+  {
+    "name": "Lansdowne",
+    "country": "ZA"
+  },
+  {
+    "name": "Langebaanweg",
+    "country": "ZA"
+  },
+  {
+    "name": "Langebaan",
+    "country": "ZA"
+  },
+  {
+    "name": "Kortdoorn",
+    "country": "ZA"
+  },
+  {
+    "name": "Klipdale",
+    "country": "ZA"
+  },
+  {
+    "name": "Kleinsee",
+    "country": "ZA"
+  },
+  {
+    "name": "Kenridge",
+    "country": "ZA"
+  },
+  {
+    "name": "Hermanus",
+    "country": "ZA"
+  },
+  {
+    "name": "Helderberg",
+    "country": "ZA"
+  },
+  {
+    "name": "Heathfield",
+    "country": "ZA"
+  },
+  {
+    "name": "Grassy Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Grabouw",
+    "country": "ZA"
+  },
+  {
+    "name": "Graafwater",
+    "country": "ZA"
+  },
+  {
+    "name": "Goodwood",
+    "country": "ZA"
+  },
+  {
+    "name": "Glen Dirk",
+    "country": "ZA"
+  },
+  {
+    "name": "Franschhoek",
+    "country": "ZA"
+  },
+  {
+    "name": "Epping Forest",
+    "country": "ZA"
+  },
+  {
+    "name": "Elsiesrivier",
+    "country": "ZA"
+  },
+  {
+    "name": "Edgemead",
+    "country": "ZA"
+  },
+  {
+    "name": "Drieankerbaai",
+    "country": "ZA"
+  },
+  {
+    "name": "Doordrift",
+    "country": "ZA"
+  },
+  {
+    "name": "Darling",
+    "country": "ZA"
+  },
+  {
+    "name": "Crossroads",
+    "country": "ZA"
+  },
+  {
+    "name": "Constantia",
+    "country": "ZA"
+  },
+  {
+    "name": "Clovelly",
+    "country": "ZA"
+  },
+  {
+    "name": "Cloetesville",
+    "country": "ZA"
+  },
+  {
+    "name": "Clifton",
+    "country": "ZA"
+  },
+  {
+    "name": "Claremont",
+    "country": "ZA"
+  },
+  {
+    "name": "Ceres",
+    "country": "ZA"
+  },
+  {
+    "name": "Cape Town",
+    "country": "ZA"
+  },
+  {
+    "name": "Calvinia",
+    "country": "ZA"
+  },
+  {
+    "name": "Caledon",
+    "country": "ZA"
+  },
+  {
+    "name": "Cafda Village",
+    "country": "ZA"
+  },
+  {
+    "name": "Belhar",
+    "country": "ZA"
+  },
+  {
+    "name": "Banghoek",
+    "country": "ZA"
+  },
+  {
+    "name": "Aurora",
+    "country": "ZA"
+  },
+  {
+    "name": "Atlantis",
+    "country": "ZA"
+  },
+  {
+    "name": "Sunset Beach",
+    "country": "ZA"
+  },
+  {
+    "name": "Somerset West",
+    "country": "ZA"
+  },
+  {
+    "name": "Greenhills",
+    "country": "ZA"
+  },
+  {
+    "name": "De Waterkant",
+    "country": "ZA"
+  },
+  {
+    "name": "Eden Glen",
+    "country": "ZA"
+  },
+  {
+    "name": "Rondebosch",
+    "country": "ZA"
+  },
+  {
+    "name": "Herolds Bay",
+    "country": "ZA"
+  },
+  {
+    "name": "Lanseria",
+    "country": "ZA"
+  },
+  {
+    "name": "Auckland Park",
+    "country": "ZA"
+  },
+  {
+    "name": "Alberton North",
+    "country": "ZA"
+  },
+  {
+    "name": "Randpark",
+    "country": "ZA"
+  },
+  {
+    "name": "Albertskroon",
+    "country": "ZA"
+  },
+  {
+    "name": "Bartlett",
+    "country": "ZA"
+  },
+  {
+    "name": "Linbro Park",
+    "country": "ZA"
+  },
+  {
+    "name": "North Riding",
+    "country": "ZA"
+  },
+  {
+    "name": "Strydompark",
+    "country": "ZA"
+  },
+  {
+    "name": "Cape Gate",
+    "country": "ZA"
+  },
+  {
+    "name": "Moreletapark",
+    "country": "ZA"
+  },
+  {
+    "name": "Heiderand",
+    "country": "ZA"
+  },
+  {
+    "name": "Arcadia",
+    "country": "ZA"
+  },
+  {
+    "name": "Glenmarais",
+    "country": "ZA"
+  },
+  {
+    "name": "Glen Ashley",
+    "country": "ZA"
+  },
+  {
+    "name": "Malanshof",
+    "country": "ZA"
+  },
+  {
+    "name": "Radiokop",
+    "country": "ZA"
+  },
+  {
+    "name": "Melrose Estate",
+    "country": "ZA"
+  },
+  {
+    "name": "Vierlanden",
+    "country": "ZA"
+  }
+]

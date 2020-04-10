@@ -1,0 +1,4438 @@
+[
+  {
+    "name": "Zsell\u00e9rf\u00f6ldek",
+    "country": "HU"
+  },
+  {
+    "name": "Z\u00e1hony",
+    "country": "HU"
+  },
+  {
+    "name": "Zagyvar\u00e9kas",
+    "country": "HU"
+  },
+  {
+    "name": "Weinstocktanya",
+    "country": "HU"
+  },
+  {
+    "name": "Vit\u00e9ztelek",
+    "country": "HU"
+  },
+  {
+    "name": "Vid\u00f3lapos",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e9szt\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Verpel\u00e9t",
+    "country": "HU"
+  },
+  {
+    "name": "Veresf\u00f6ld",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e9ghtanya",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1s\u00e1rosnam\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1raditag",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1mosp\u00e9rcs",
+    "country": "HU"
+  },
+  {
+    "name": "Vaja",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dajtelep",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dajtanya",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dajszeged",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dajsz\u00e1sz",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dajk\u00edgy\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dajfeh\u00e9rt\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Ugaritany\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Ugari Tany\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Tyukodi \u00dajtelep",
+    "country": "HU"
+  },
+  {
+    "name": "Tyukod",
+    "country": "HU"
+  },
+  {
+    "name": "Tuzs\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00farkeve",
+    "country": "HU"
+  },
+  {
+    "name": "Tunyogmatolcs",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f3tkoml\u00f3si Tany\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f3tkoml\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f3thtanya",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f3szeg",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f6r\u00f6kszentmikl\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "Tornyosp\u00e1lca",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f6m\u00f6rk\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Tolcsva",
+    "country": "HU"
+  },
+  {
+    "name": "Tokaj",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszavasv\u00e1ri",
+    "country": "HU"
+  },
+  {
+    "name": "Tisza\u00fajv\u00e1ros",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszaszentimre",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszas\u00fcly",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszaroff",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszap\u00fcsp\u00f6ki",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszan\u00e1na",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszanagyfalu",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszal\u00fac",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszal\u00f6k",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszakeszi",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszak\u00e9cske",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszakar\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszaf\u00fcred",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszaf\u00f6ldv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszaeszl\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszadob",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszadada",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszacsege",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszabura",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszab\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszabezd\u00e9d",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszabercel",
+    "country": "HU"
+  },
+  {
+    "name": "Tibrik",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e9gl\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Tarpa",
+    "country": "HU"
+  },
+  {
+    "name": "Tarna\u00f6rs",
+    "country": "HU"
+  },
+  {
+    "name": "Tarnalelesz",
+    "country": "HU"
+  },
+  {
+    "name": "Tarcal",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1llya",
+    "country": "HU"
+  },
+  {
+    "name": "Taktaszada",
+    "country": "HU"
+  },
+  {
+    "name": "Taktahark\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Szucs\u00e1nyitanya",
+    "country": "HU"
+  },
+  {
+    "name": "Szolnok",
+    "country": "HU"
+  },
+  {
+    "name": "Szoboszlaitanya",
+    "country": "HU"
+  },
+  {
+    "name": "Szlobodatanya",
+    "country": "HU"
+  },
+  {
+    "name": "Szivatty\u00fatelep",
+    "country": "HU"
+  },
+  {
+    "name": "Szirt\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Szirmabeseny\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Szilv\u00e1sv\u00e1rad",
+    "country": "HU"
+  },
+  {
+    "name": "Sziksz\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Szihalom",
+    "country": "HU"
+  },
+  {
+    "name": "Sziget",
+    "country": "HU"
+  },
+  {
+    "name": "Szeszgy\u00e1rd\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Szerencs",
+    "country": "HU"
+  },
+  {
+    "name": "Szentistv\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "Szentes",
+    "country": "HU"
+  },
+  {
+    "name": "Szendr\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Sz\u00e9kkutas",
+    "country": "HU"
+  },
+  {
+    "name": "Szegv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Szeghalom",
+    "country": "HU"
+  },
+  {
+    "name": "Szegf\u0171d\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Szeged",
+    "country": "HU"
+  },
+  {
+    "name": "Szatymaz",
+    "country": "HU"
+  },
+  {
+    "name": "Szarvas",
+    "country": "HU"
+  },
+  {
+    "name": "Szamosszeg",
+    "country": "HU"
+  },
+  {
+    "name": "Szalmar\u00e9",
+    "country": "HU"
+  },
+  {
+    "name": "Szakoly",
+    "country": "HU"
+  },
+  {
+    "name": "Szajol",
+    "country": "HU"
+  },
+  {
+    "name": "Szabolcs-Szatm\u00e1r-Bereg",
+    "country": "HU"
+  },
+  {
+    "name": "Szabadk\u00edgy\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "Sirok",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1toralja\u00fajhely",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1rr\u00e9tudvari",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1rospatak",
+    "country": "HU"
+  },
+  {
+    "name": "Sarkad",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1r\u00e1nd",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1ndorfalva",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1ly",
+    "country": "HU"
+  },
+  {
+    "name": "Saj\u00f3v\u00e1mos",
+    "country": "HU"
+  },
+  {
+    "name": "Saj\u00f3sz\u00f6ged",
+    "country": "HU"
+  },
+  {
+    "name": "Saj\u00f3szentp\u00e9ter",
+    "country": "HU"
+  },
+  {
+    "name": "Saj\u00f3\u00f6r\u00f6s",
+    "country": "HU"
+  },
+  {
+    "name": "Saj\u00f3l\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Saj\u00f3kaza",
+    "country": "HU"
+  },
+  {
+    "name": "Saj\u00f3b\u00e1bony",
+    "country": "HU"
+  },
+  {
+    "name": "Ruzsiczkytanya",
+    "country": "HU"
+  },
+  {
+    "name": "Ruzsatanya",
+    "country": "HU"
+  },
+  {
+    "name": "Rudab\u00e1nya",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00f6szke",
+    "country": "HU"
+  },
+  {
+    "name": "Ricse",
+    "country": "HU"
+  },
+  {
+    "name": "Recsk",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e1k\u00f3czi\u00fajfalu",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e1k\u00f3czifalva",
+    "country": "HU"
+  },
+  {
+    "name": "Rakamaz",
+    "country": "HU"
+  },
+  {
+    "name": "Putnok",
+    "country": "HU"
+  },
+  {
+    "name": "Pusztaf\u00f6ldv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00fcsp\u00f6klad\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Pr\u00fcgy",
+    "country": "HU"
+  },
+  {
+    "name": "Poroszl\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Porcsalma",
+    "country": "HU"
+  },
+  {
+    "name": "Polg\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Pocsaj",
+    "country": "HU"
+  },
+  {
+    "name": "Petneh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e9terv\u00e1s\u00e1ra",
+    "country": "HU"
+  },
+  {
+    "name": "Peregpuszta",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e1troha",
+    "country": "HU"
+  },
+  {
+    "name": "Par\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Pap Elek-tanya",
+    "country": "HU"
+  },
+  {
+    "name": "Pankotaitanya",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d3zd",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d3sz\u0151l\u0151skert",
+    "country": "HU"
+  },
+  {
+    "name": "Ostoros",
+    "country": "HU"
+  },
+  {
+    "name": "Ors\u00f3sz\u00f6g",
+    "country": "HU"
+  },
+  {
+    "name": "Orosh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d3pusztaszer",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d3p\u00e1lyi",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d3nod",
+    "country": "HU"
+  },
+  {
+    "name": "Onga",
+    "country": "HU"
+  },
+  {
+    "name": "Olaszliszka",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d6k\u00f6rit\u00f3f\u00fclp\u00f6s",
+    "country": "HU"
+  },
+  {
+    "name": "Ok\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d3feh\u00e9rt\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d6cs\u00f6d",
+    "country": "HU"
+  },
+  {
+    "name": "Nyulassz\u0151ll\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrvasv\u00e1ri",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrtelek",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrtass",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrpazony",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrmih\u00e1lydi",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrmeggyes",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrm\u00e1rtonfalva",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrmada",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrlugos",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrkar\u00e1sz",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrgyulaj",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edregyh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrcsaholy",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrbogd\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrbog\u00e1t",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrb\u00e9ltek",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edrb\u00e1tor",
+    "country": "HU"
+  },
+  {
+    "name": "Nyir\u00e1ntanya",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edradony",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edracs\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00edr\u00e1br\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Nyerjessz\u0151ll\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00e9kl\u00e1dh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "N\u00e9meti",
+    "country": "HU"
+  },
+  {
+    "name": "Napkor",
+    "country": "HU"
+  },
+  {
+    "name": "Nagysz\u0151ll\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Nagysz\u00e9n\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Nagyr\u00e1b\u00e9",
+    "country": "HU"
+  },
+  {
+    "name": "Nagyk\u00e1ll\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Nagyhal\u00e1sz",
+    "country": "HU"
+  },
+  {
+    "name": "Nagygajla",
+    "country": "HU"
+  },
+  {
+    "name": "Nagyecsed",
+    "country": "HU"
+  },
+  {
+    "name": "Nagydobos",
+    "country": "HU"
+  },
+  {
+    "name": "Nagycserkesz",
+    "country": "HU"
+  },
+  {
+    "name": "N\u00e1dudvar",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00facsony",
+    "country": "HU"
+  },
+  {
+    "name": "Monostorp\u00e1lyi",
+    "country": "HU"
+  },
+  {
+    "name": "Monok",
+    "country": "HU"
+  },
+  {
+    "name": "Mocsolya",
+    "country": "HU"
+  },
+  {
+    "name": "Miskolc",
+    "country": "HU"
+  },
+  {
+    "name": "Mindszent",
+    "country": "HU"
+  },
+  {
+    "name": "Mikitatanya",
+    "country": "HU"
+  },
+  {
+    "name": "Mikep\u00e9rcs",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151zombor",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151t\u00far",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151ssytag",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151k\u00f6vesd",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151kov\u00e1csh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151keresztes",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151hegyes",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151cs\u00e1t",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151ber\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e9rk",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e9rgeszug",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e9hker\u00e9k",
+    "country": "HU"
+  },
+  {
+    "name": "Megyasz\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Medgyesegyh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1traderecske",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1t\u00e9szalka",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1sodik Rozsr\u00e9ti Bokor",
+    "country": "HU"
+  },
+  {
+    "name": "Maroslele",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1riap\u00f3cs",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1riaf\u00fcrd\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Marad\u00e9kd\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1ndok",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1lyi",
+    "country": "HU"
+  },
+  {
+    "name": "Malombirtokoss\u00e1g",
+    "country": "HU"
+  },
+  {
+    "name": "Mak\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Makl\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Magyardombegyh\u00e1zi D\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Magyarb\u00e1nhegyes",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Ludadd\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "L\u00f3r\u00e1ntffykert",
+    "country": "HU"
+  },
+  {
+    "name": "L\u00f6k\u00f6sihat\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "L\u0151k\u00f6sh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Levelek",
+    "country": "HU"
+  },
+  {
+    "name": "L\u00e9tav\u00e9rtes",
+    "country": "HU"
+  },
+  {
+    "name": "L\u00e1szl\u00f3tanya",
+    "country": "HU"
+  },
+  {
+    "name": "Lapist\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Kunszentm\u00e1rton",
+    "country": "HU"
+  },
+  {
+    "name": "Kunmadaras",
+    "country": "HU"
+  },
+  {
+    "name": "Kunlapos",
+    "country": "HU"
+  },
+  {
+    "name": "Kunhegyes",
+    "country": "HU"
+  },
+  {
+    "name": "Kun\u00e1gota",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00f3taj",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00f6r\u00f6starcsa",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00f6r\u00f6slad\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Kony\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Kondoros",
+    "country": "HU"
+  },
+  {
+    "name": "Kompolt",
+    "country": "HU"
+  },
+  {
+    "name": "Kom\u00e1di",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00f6lcsei Kendergy\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Kocsord",
+    "country": "HU"
+  },
+  {
+    "name": "Kiszombor",
+    "country": "HU"
+  },
+  {
+    "name": "Kisv\u00e1rda",
+    "country": "HU"
+  },
+  {
+    "name": "Kis\u00fajsz\u00e1ll\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Kistanya",
+    "country": "HU"
+  },
+  {
+    "name": "Kismez\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Kisl\u00e9ta",
+    "country": "HU"
+  },
+  {
+    "name": "Kisk\u00f6re",
+    "country": "HU"
+  },
+  {
+    "name": "Kevermes",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e9tegyh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Kerecsend",
+    "country": "HU"
+  },
+  {
+    "name": "Kengyel",
+    "country": "HU"
+  },
+  {
+    "name": "Kenderes",
+    "country": "HU"
+  },
+  {
+    "name": "Kemecse",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e9k",
+    "country": "HU"
+  },
+  {
+    "name": "Kazincbarcika",
+    "country": "HU"
+  },
+  {
+    "name": "Kavics-banya",
+    "country": "HU"
+  },
+  {
+    "name": "Kaszaper",
+    "country": "HU"
+  },
+  {
+    "name": "Karcsa",
+    "country": "HU"
+  },
+  {
+    "name": "Karcag",
+    "country": "HU"
+  },
+  {
+    "name": "Kar\u00e1csond",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e1ntorj\u00e1nosi",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e1lv\u00e1ria",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e1lm\u00e1nh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e1ll\u00f3semj\u00e9n",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e1l",
+    "country": "HU"
+  },
+  {
+    "name": "Kaba",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1szszentandr\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1sz-Nagykun-Szolnok",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1szlad\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1szkis\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1szkarajen\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1szj\u00e1k\u00f3halma",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1szd\u00f3zsa",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1szap\u00e1ti",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1szals\u00f3szentgy\u00f6rgy",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1rd\u00e1nh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1noshida",
+    "country": "HU"
+  },
+  {
+    "name": "Jakabtanya",
+    "country": "HU"
+  },
+  {
+    "name": "Izs\u00f3falva",
+    "country": "HU"
+  },
+  {
+    "name": "Iv\u00e1nkapuszta",
+    "country": "HU"
+  },
+  {
+    "name": "Ibr\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Hungary",
+    "country": "HU"
+  },
+  {
+    "name": "Hoszt\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "Hossz\u00fap\u00e1lyi",
+    "country": "HU"
+  },
+  {
+    "name": "Hortob\u00e1gy",
+    "country": "HU"
+  },
+  {
+    "name": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely",
+    "country": "HU"
+  },
+  {
+    "name": "Hod\u00e1sz",
+    "country": "HU"
+  },
+  {
+    "name": "Heves megye",
+    "country": "HU"
+  },
+  {
+    "name": "Heves",
+    "country": "HU"
+  },
+  {
+    "name": "Hern\u00e1dn\u00e9meti",
+    "country": "HU"
+  },
+  {
+    "name": "Hej\u0151b\u00e1ba",
+    "country": "HU"
+  },
+  {
+    "name": "Hejce",
+    "country": "HU"
+  },
+  {
+    "name": "Hars\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Hark\u00e1nyid\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Halmaj",
+    "country": "HU"
+  },
+  {
+    "name": "Hajd\u00faszov\u00e1t",
+    "country": "HU"
+  },
+  {
+    "name": "Hajd\u00faszoboszl\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Hajd\u00fas\u00e1mson",
+    "country": "HU"
+  },
+  {
+    "name": "Hajd\u00fan\u00e1n\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Hajd\u00fahadh\u00e1z",
+    "country": "HU"
+  },
+  {
+    "name": "Hajd\u00fadorog",
+    "country": "HU"
+  },
+  {
+    "name": "Hajd\u00fab\u00f6sz\u00f6rm\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Hajd\u00fa-Bihar",
+    "country": "HU"
+  },
+  {
+    "name": "Hajd\u00fabagos",
+    "country": "HU"
+  },
+  {
+    "name": "Gyulah\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Gyula",
+    "country": "HU"
+  },
+  {
+    "name": "Gyomaendr\u0151d",
+    "country": "HU"
+  },
+  {
+    "name": "Gulyalegel\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "G\u00f6rbeh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "G\u00f6nc",
+    "country": "HU"
+  },
+  {
+    "name": "Gesztely",
+    "country": "HU"
+  },
+  {
+    "name": "Gergelyffinagytanya",
+    "country": "HU"
+  },
+  {
+    "name": "G\u00e9g\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Garadna",
+    "country": "HU"
+  },
+  {
+    "name": "G\u00e1doros",
+    "country": "HU"
+  },
+  {
+    "name": "F\u00fczesgyarmat",
+    "country": "HU"
+  },
+  {
+    "name": "F\u00fczesabony",
+    "country": "HU"
+  },
+  {
+    "name": "F\u00f6ldes",
+    "country": "HU"
+  },
+  {
+    "name": "F\u00f6lde\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "F\u00e9nyeslitke",
+    "country": "HU"
+  },
+  {
+    "name": "Fels\u0151zsolca",
+    "country": "HU"
+  },
+  {
+    "name": "Fels\u0151t\u00e1rk\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Fels\u0151b\u00e1nya",
+    "country": "HU"
+  },
+  {
+    "name": "Feh\u00e9rgyarmat",
+    "country": "HU"
+  },
+  {
+    "name": "Fegyvernek",
+    "country": "HU"
+  },
+  {
+    "name": "Farkaslyuk",
+    "country": "HU"
+  },
+  {
+    "name": "Farkashegyi Sz\u0151l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "F\u00e1bi\u00e1nsebesty\u00e9n",
+    "country": "HU"
+  },
+  {
+    "name": "Erd\u0151telek",
+    "country": "HU"
+  },
+  {
+    "name": "Encsencs",
+    "country": "HU"
+  },
+  {
+    "name": "Encs",
+    "country": "HU"
+  },
+  {
+    "name": "Em\u0151d",
+    "country": "HU"
+  },
+  {
+    "name": "Elek",
+    "country": "HU"
+  },
+  {
+    "name": "Egyek",
+    "country": "HU"
+  },
+  {
+    "name": "Egerszal\u00f3k",
+    "country": "HU"
+  },
+  {
+    "name": "Eger",
+    "country": "HU"
+  },
+  {
+    "name": "Edel\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Ebes",
+    "country": "HU"
+  },
+  {
+    "name": "Domoszl\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Domonicstanya",
+    "country": "HU"
+  },
+  {
+    "name": "Dombr\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Dombiratos",
+    "country": "HU"
+  },
+  {
+    "name": "Dombegyh\u00e1z",
+    "country": "HU"
+  },
+  {
+    "name": "Domb\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Domasz\u00e9k",
+    "country": "HU"
+  },
+  {
+    "name": "D\u00f6ge",
+    "country": "HU"
+  },
+  {
+    "name": "Doboz",
+    "country": "HU"
+  },
+  {
+    "name": "D\u00e9vav\u00e1nya",
+    "country": "HU"
+  },
+  {
+    "name": "Deszk",
+    "country": "HU"
+  },
+  {
+    "name": "Derzsicsere",
+    "country": "HU"
+  },
+  {
+    "name": "Derecske",
+    "country": "HU"
+  },
+  {
+    "name": "Demecser",
+    "country": "HU"
+  },
+  {
+    "name": "Debrecen",
+    "country": "HU"
+  },
+  {
+    "name": "Csorv\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Csontoskert",
+    "country": "HU"
+  },
+  {
+    "name": "Csongr\u00e1d megye",
+    "country": "HU"
+  },
+  {
+    "name": "Csongr\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Cs\u00f6km\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Csik\u00f3slapostanya",
+    "country": "HU"
+  },
+  {
+    "name": "Cserkesz\u0151l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Csenger",
+    "country": "HU"
+  },
+  {
+    "name": "Cseber\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "Csanytelek",
+    "country": "HU"
+  },
+  {
+    "name": "Csan\u00e1dpalota",
+    "country": "HU"
+  },
+  {
+    "name": "Csan\u00e1dap\u00e1ca",
+    "country": "HU"
+  },
+  {
+    "name": "Cig\u00e1nd",
+    "country": "HU"
+  },
+  {
+    "name": "Cibakh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Buj",
+    "country": "HU"
+  },
+  {
+    "name": "Bucsa",
+    "country": "HU"
+  },
+  {
+    "name": "Borsodn\u00e1dasd",
+    "country": "HU"
+  },
+  {
+    "name": "Borsod-Abauj Zemplen county",
+    "country": "HU"
+  },
+  {
+    "name": "Borb\u00e9lytanya",
+    "country": "HU"
+  },
+  {
+    "name": "Boldva",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00f6k\u00f6ny",
+    "country": "HU"
+  },
+  {
+    "name": "Bog\u00e1cs",
+    "country": "HU"
+  },
+  {
+    "name": "Bodahegyes",
+    "country": "HU"
+  },
+  {
+    "name": "B\u0151cs",
+    "country": "HU"
+  },
+  {
+    "name": "Biharnagybajom",
+    "country": "HU"
+  },
+  {
+    "name": "Biharkeresztesi Tany\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Biharkeresztes",
+    "country": "HU"
+  },
+  {
+    "name": "Besenysz\u00f6g",
+    "country": "HU"
+  },
+  {
+    "name": "Beseny\u0151telek",
+    "country": "HU"
+  },
+  {
+    "name": "Beretty\u00f3\u00fajfalu",
+    "country": "HU"
+  },
+  {
+    "name": "Bellegel\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e9lap\u00e1tfalva",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e9k\u00e9sszentandr\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e9k\u00e9ss\u00e1mson",
+    "country": "HU"
+  },
+  {
+    "name": "Bekes County",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e9k\u00e9scsaba",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e9k\u00e9s",
+    "country": "HU"
+  },
+  {
+    "name": "Bekecs",
+    "country": "HU"
+  },
+  {
+    "name": "Baytanya",
+    "country": "HU"
+  },
+  {
+    "name": "Battonya",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1thoritanya",
+    "country": "HU"
+  },
+  {
+    "name": "Bata",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1r\u00e1nd",
+    "country": "HU"
+  },
+  {
+    "name": "Balmaz\u00fajv\u00e1ros",
+    "country": "HU"
+  },
+  {
+    "name": "Balk\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Bal\u00e1stya",
+    "country": "HU"
+  },
+  {
+    "name": "Baktal\u00f3r\u00e1nth\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Baks",
+    "country": "HU"
+  },
+  {
+    "name": "Bagam\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "Aszal\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Arn\u00f3t",
+    "country": "HU"
+  },
+  {
+    "name": "Arl\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Aranyosap\u00e1ti",
+    "country": "HU"
+  },
+  {
+    "name": "Arany\u00e1g",
+    "country": "HU"
+  },
+  {
+    "name": "Ap\u00e1tfalva",
+    "country": "HU"
+  },
+  {
+    "name": "Apagy",
+    "country": "HU"
+  },
+  {
+    "name": "Andr\u00e1stanya",
+    "country": "HU"
+  },
+  {
+    "name": "Andornakt\u00e1lya",
+    "country": "HU"
+  },
+  {
+    "name": "Anarcs",
+    "country": "HU"
+  },
+  {
+    "name": "Als\u00f3zsolca",
+    "country": "HU"
+  },
+  {
+    "name": "Als\u00f3v\u00e1ros",
+    "country": "HU"
+  },
+  {
+    "name": "Als\u00f3r\u00e9t",
+    "country": "HU"
+  },
+  {
+    "name": "Alatty\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "Ajak",
+    "country": "HU"
+  },
+  {
+    "name": "Abony",
+    "country": "HU"
+  },
+  {
+    "name": "Aba\u00fajsz\u00e1nt\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Abas\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Ab\u00e1dszal\u00f3k",
+    "country": "HU"
+  },
+  {
+    "name": "Zsomb\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Zs\u00e1mbok",
+    "country": "HU"
+  },
+  {
+    "name": "Zs\u00e1mb\u00e9k",
+    "country": "HU"
+  },
+  {
+    "name": "Zomba",
+    "country": "HU"
+  },
+  {
+    "name": "Z\u00f6ldmalom",
+    "country": "HU"
+  },
+  {
+    "name": "Zirc",
+    "country": "HU"
+  },
+  {
+    "name": "Z\u00e1nka",
+    "country": "HU"
+  },
+  {
+    "name": "Z\u00e1moly",
+    "country": "HU"
+  },
+  {
+    "name": "Zam\u00e1rdi",
+    "country": "HU"
+  },
+  {
+    "name": "Zalav\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Zalaszentgr\u00f3t",
+    "country": "HU"
+  },
+  {
+    "name": "Zalas\u00e1rszeg",
+    "country": "HU"
+  },
+  {
+    "name": "Zala megye",
+    "country": "HU"
+  },
+  {
+    "name": "Zalal\u00f6v\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Zalakom\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Zalakarosi Puszta",
+    "country": "HU"
+  },
+  {
+    "name": "Zalaegerszeg",
+    "country": "HU"
+  },
+  {
+    "name": "Z\u00e1k\u00e1nysz\u00e9k",
+    "country": "HU"
+  },
+  {
+    "name": "Zajk",
+    "country": "HU"
+  },
+  {
+    "name": "Zagyvasz\u00e1nt\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Webertanya",
+    "country": "HU"
+  },
+  {
+    "name": "Vonyarcvashegy",
+    "country": "HU"
+  },
+  {
+    "name": "Visegr\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Vir\u00e1ghegy",
+    "country": "HU"
+  },
+  {
+    "name": "Violatag",
+    "country": "HU"
+  },
+  {
+    "name": "Vill\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Villa",
+    "country": "HU"
+  },
+  {
+    "name": "Veszpr\u00e9m megye",
+    "country": "HU"
+  },
+  {
+    "name": "Veszpr\u00e9m",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e9rtessz\u0151l\u0151s",
+    "country": "HU"
+  },
+  {
+    "name": "Ver\u0151ce",
+    "country": "HU"
+  },
+  {
+    "name": "Veresegyh\u00e1z",
+    "country": "HU"
+  },
+  {
+    "name": "Verdungos",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e9p",
+    "country": "HU"
+  },
+  {
+    "name": "Velence",
+    "country": "HU"
+  },
+  {
+    "name": "Vecs\u00e9s",
+    "country": "HU"
+  },
+  {
+    "name": "Vasv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Vas\u00fati \u00dajlaktanya",
+    "country": "HU"
+  },
+  {
+    "name": "Vas megye",
+    "country": "HU"
+  },
+  {
+    "name": "Vask\u00fat",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1rpalota",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1rosr\u00e9tid\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1rosf\u00f6ld",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1rkonyitanya",
+    "country": "HU"
+  },
+  {
+    "name": "Varj\u00fad\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1mosgy\u00f6rk",
+    "country": "HU"
+  },
+  {
+    "name": "Valk\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1l",
+    "country": "HU"
+  },
+  {
+    "name": "Vajszl\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Vajdamajor",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1cszentl\u00e1szl\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "V\u00e1c",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dasztat\u00f3major",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dcr\u00f6m",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dark\u00fat",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dari",
+    "country": "HU"
+  },
+  {
+    "name": "Uradalmi Sz\u0151ll\u0151telep",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dcll\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dcll\u00e9s",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dajtelep",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dajszilv\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dajhegy",
+    "country": "HU"
+  },
+  {
+    "name": "\u00dajharty\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "Ty\u00fakosd\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00fcz\u00e9rlaktanya",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00fcrje",
+    "country": "HU"
+  },
+  {
+    "name": "Turbina",
+    "country": "HU"
+  },
+  {
+    "name": "Tura",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00falatarna",
+    "country": "HU"
+  },
+  {
+    "name": "Trombit\u00e1smalom",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f3thtanya",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f6rtel",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f6r\u00f6kb\u00e1lint",
+    "country": "HU"
+  },
+  {
+    "name": "Torb\u00e1gyi Tany\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Tompa",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f6lt\u00e9stava",
+    "country": "HU"
+  },
+  {
+    "name": "Tolna megye",
+    "country": "HU"
+  },
+  {
+    "name": "Tolna",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f6k\u00f6l",
+    "country": "HU"
+  },
+  {
+    "name": "Tokod",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00f3alm\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Tizenh\u00e1romv\u00e1ros",
+    "country": "HU"
+  },
+  {
+    "name": "Tisztvisel\u0151telep",
+    "country": "HU"
+  },
+  {
+    "name": "Tihany",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e9t",
+    "country": "HU"
+  },
+  {
+    "name": "Tengelic",
+    "country": "HU"
+  },
+  {
+    "name": "Temet\u0151d\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Telki",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1zl\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Tatab\u00e1nya",
+    "country": "HU"
+  },
+  {
+    "name": "Tata",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1t",
+    "country": "HU"
+  },
+  {
+    "name": "Tasz\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Tass",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1rnok",
+    "country": "HU"
+  },
+  {
+    "name": "Tarj\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "Tardos",
+    "country": "HU"
+  },
+  {
+    "name": "Tar",
+    "country": "HU"
+  },
+  {
+    "name": "Tapolca",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1pl\u00e1nszentkereszt",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1pi\u00f3sz\u0151l\u0151s",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1pi\u00f3szentm\u00e1rton",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1pi\u00f3szele",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1pi\u00f3szecs\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00fclys\u00e1p",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1pi\u00f3s\u00e1g",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1pi\u00f3gy\u00f6rgye",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1pi\u00f3bicske",
+    "country": "HU"
+  },
+  {
+    "name": "Tam\u00e1si",
+    "country": "HU"
+  },
+  {
+    "name": "Taksony",
+    "country": "HU"
+  },
+  {
+    "name": "Tahit\u00f3tfalu",
+    "country": "HU"
+  },
+  {
+    "name": "Tagoszt\u00e1ly",
+    "country": "HU"
+  },
+  {
+    "name": "T\u00e1borfalva",
+    "country": "HU"
+  },
+  {
+    "name": "Tab",
+    "country": "HU"
+  },
+  {
+    "name": "Szurdokp\u00fcsp\u00f6ki",
+    "country": "HU"
+  },
+  {
+    "name": "Szuhahuta",
+    "country": "HU"
+  },
+  {
+    "name": "Szom\u00f3d",
+    "country": "HU"
+  },
+  {
+    "name": "Szombathely",
+    "country": "HU"
+  },
+  {
+    "name": "Szolnokihegy",
+    "country": "HU"
+  },
+  {
+    "name": "Sz\u0151dliget",
+    "country": "HU"
+  },
+  {
+    "name": "Sz\u0151d",
+    "country": "HU"
+  },
+  {
+    "name": "Szob",
+    "country": "HU"
+  },
+  {
+    "name": "Szigetv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Sziget\u00fajfalu",
+    "country": "HU"
+  },
+  {
+    "name": "Szigetszentmikl\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "Szigethalom",
+    "country": "HU"
+  },
+  {
+    "name": "Szigetcs\u00e9p",
+    "country": "HU"
+  },
+  {
+    "name": "Sziget",
+    "country": "HU"
+  },
+  {
+    "name": "Szentm\u00e1rtonk\u00e1ta",
+    "country": "HU"
+  },
+  {
+    "name": "Szentl\u0151rinck\u00e1ta",
+    "country": "HU"
+  },
+  {
+    "name": "Szentl\u0151rinc",
+    "country": "HU"
+  },
+  {
+    "name": "Szentkir\u00e1lyszabadja",
+    "country": "HU"
+  },
+  {
+    "name": "Szentkir\u00e1ly",
+    "country": "HU"
+  },
+  {
+    "name": "Szentj\u00e1nosk\u00fati D\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Szentgotth\u00e1rd",
+    "country": "HU"
+  },
+  {
+    "name": "Szentg\u00e1lpuszta",
+    "country": "HU"
+  },
+  {
+    "name": "Szentendre",
+    "country": "HU"
+  },
+  {
+    "name": "Szeksz\u00e1rd",
+    "country": "HU"
+  },
+  {
+    "name": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Sz\u00e9kelytelep",
+    "country": "HU"
+  },
+  {
+    "name": "Szedres",
+    "country": "HU"
+  },
+  {
+    "name": "Sz\u00e9cs\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Sz\u00e1zhalombatta",
+    "country": "HU"
+  },
+  {
+    "name": "Sz\u00e1szv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Sz\u00e1rliget",
+    "country": "HU"
+  },
+  {
+    "name": "Szany",
+    "country": "HU"
+  },
+  {
+    "name": "Szank",
+    "country": "HU"
+  },
+  {
+    "name": "Szalkszentm\u00e1rton",
+    "country": "HU"
+  },
+  {
+    "name": "Szada",
+    "country": "HU"
+  },
+  {
+    "name": "Szabadsz\u00e1ll\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Szabadbatty\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00fctt\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00fcmeg",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00fck\u00f6sd",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00f3sk\u00fat",
+    "country": "HU"
+  },
+  {
+    "name": "Sopron",
+    "country": "HU"
+  },
+  {
+    "name": "Soponya",
+    "country": "HU"
+  },
+  {
+    "name": "Somosk\u0151\u00fajfalu",
+    "country": "HU"
+  },
+  {
+    "name": "Somogyv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Somogy megye",
+    "country": "HU"
+  },
+  {
+    "name": "Solym\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Soltvadkert",
+    "country": "HU"
+  },
+  {
+    "name": "Solt",
+    "country": "HU"
+  },
+  {
+    "name": "Si\u00f3fok",
+    "country": "HU"
+  },
+  {
+    "name": "Simontornya",
+    "country": "HU"
+  },
+  {
+    "name": "Sikl\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "Sereg\u00e9lyes",
+    "country": "HU"
+  },
+  {
+    "name": "Selyemgy\u00e1rtelep",
+    "country": "HU"
+  },
+  {
+    "name": "Sellye",
+    "country": "HU"
+  },
+  {
+    "name": "Sejce",
+    "country": "HU"
+  },
+  {
+    "name": "Segesd",
+    "country": "HU"
+  },
+  {
+    "name": "Scherctanya",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1sd",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1rv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1rszentmih\u00e1ly",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1rosd",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1rmell\u00e9k",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1rkereszt\u00far",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1ris\u00e1p",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1rbog\u00e1rd",
+    "country": "HU"
+  },
+  {
+    "name": "S\u00e1ndortanya",
+    "country": "HU"
+  },
+  {
+    "name": "Salg\u00f3tarj\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "Ruzsa",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00f3zsaszentm\u00e1rton",
+    "country": "HU"
+  },
+  {
+    "name": "R\u0151tiv\u00f6lgy",
+    "country": "HU"
+  },
+  {
+    "name": "Romh\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Rim\u00f3c",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e9vf\u00fcl\u00f6p",
+    "country": "HU"
+  },
+  {
+    "name": "Revetekd\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e9ts\u00e1g",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e9pcelaki Tanya",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e9pcelak",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e9deymajor",
+    "country": "HU"
+  },
+  {
+    "name": "Rajka",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e1ckeve",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e1ckereszt\u00far",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e1calm\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Rabkert\u00e9szet",
+    "country": "HU"
+  },
+  {
+    "name": "R\u00e1bapatona",
+    "country": "HU"
+  },
+  {
+    "name": "Pusztav\u00e1m",
+    "country": "HU"
+  },
+  {
+    "name": "Pusztaszer",
+    "country": "HU"
+  },
+  {
+    "name": "Pusztaszabolcs",
+    "country": "HU"
+  },
+  {
+    "name": "Pusztagyim\u00f3t Fels\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Priglitanya",
+    "country": "HU"
+  },
+  {
+    "name": "Pom\u00e1z",
+    "country": "HU"
+  },
+  {
+    "name": "Polg\u00e1rdi",
+    "country": "HU"
+  },
+  {
+    "name": "Pog\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Pityerd\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Pincehely",
+    "country": "HU"
+  },
+  {
+    "name": "Pilisv\u00f6r\u00f6sv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Pilisszentkereszt",
+    "country": "HU"
+  },
+  {
+    "name": "Pilisszentiv\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "Pilissz\u00e1nt\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Pilismar\u00f3t",
+    "country": "HU"
+  },
+  {
+    "name": "Piliscs\u00e9v",
+    "country": "HU"
+  },
+  {
+    "name": "Piliscsaba",
+    "country": "HU"
+  },
+  {
+    "name": "Pilisborosjen\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Pilis",
+    "country": "HU"
+  },
+  {
+    "name": "Pet\u0151fib\u00e1nya",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e9tf\u00fcrd\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Petesmalom",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e9teri",
+    "country": "HU"
+  },
+  {
+    "name": "Pest megye",
+    "country": "HU"
+  },
+  {
+    "name": "Pesti\u00fati K\u00fcltelek",
+    "country": "HU"
+  },
+  {
+    "name": "Pest",
+    "country": "HU"
+  },
+  {
+    "name": "Per\u0151csitanya",
+    "country": "HU"
+  },
+  {
+    "name": "Perk\u00e1ta",
+    "country": "HU"
+  },
+  {
+    "name": "Perb\u00e1l",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "Pell\u00e9rd",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e9csv\u00e1rad",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e9cs",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e9cel",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e1zm\u00e1nd",
+    "country": "HU"
+  },
+  {
+    "name": "Patyih\u00e1z",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e1ty",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e1sztor\u00fati D\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e1szt\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Par\u00e1dsasv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Pappuszta",
+    "country": "HU"
+  },
+  {
+    "name": "Paphegy",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e1pa",
+    "country": "HU"
+  },
+  {
+    "name": "Pannonhalma",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e1nd",
+    "country": "HU"
+  },
+  {
+    "name": "Palot\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e1lmonostora",
+    "country": "HU"
+  },
+  {
+    "name": "Paks",
+    "country": "HU"
+  },
+  {
+    "name": "P\u00e1kozd",
+    "country": "HU"
+  },
+  {
+    "name": "Pacsa",
+    "country": "HU"
+  },
+  {
+    "name": "Ozora",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d6ttev\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "\u0150si",
+    "country": "HU"
+  },
+  {
+    "name": "Oroszl\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d6rk\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "\u0150riszentp\u00e9ter",
+    "country": "HU"
+  },
+  {
+    "name": "Orgov\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d6reghegy",
+    "country": "HU"
+  },
+  {
+    "name": "\u0150rbotty\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "Oncsatelep",
+    "country": "HU"
+  },
+  {
+    "name": "Oncsatelep",
+    "country": "HU"
+  },
+  {
+    "name": "\u0150cs\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "\u00d3csa",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00fal",
+    "country": "HU"
+  },
+  {
+    "name": "Nyerges\u00fajfalu",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00e1rl\u0151rinc",
+    "country": "HU"
+  },
+  {
+    "name": "Ny\u00e1regyh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "N\u00f3gr\u00e1d megye",
+    "country": "HU"
+  },
+  {
+    "name": "Neszm\u00e9ly",
+    "country": "HU"
+  },
+  {
+    "name": "N\u00e9metk\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "Nemesv\u00e1mos",
+    "country": "HU"
+  },
+  {
+    "name": "Nemesn\u00e1dudvar",
+    "country": "HU"
+  },
+  {
+    "name": "N\u00e9medisz\u0151l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Nasz\u00e1ly",
+    "country": "HU"
+  },
+  {
+    "name": "N\u00e1ndorliget",
+    "country": "HU"
+  },
+  {
+    "name": "duna\u00fajv\u00e1ros",
+    "country": "HU"
+  },
+  {
+    "name": "Nagytarcsa",
+    "country": "HU"
+  },
+  {
+    "name": "Nagyr\u00e9de",
+    "country": "HU"
+  },
+  {
+    "name": "Nagyoroszi",
+    "country": "HU"
+  },
+  {
+    "name": "Nagymaros",
+    "country": "HU"
+  },
+  {
+    "name": "Nagym\u00e1nyok",
+    "country": "HU"
+  },
+  {
+    "name": "Nagykov\u00e1csi",
+    "country": "HU"
+  },
+  {
+    "name": "Nagyk\u0151r\u00f6s",
+    "country": "HU"
+  },
+  {
+    "name": "Nagyk\u00e1ta",
+    "country": "HU"
+  },
+  {
+    "name": "Nagykanizsa",
+    "country": "HU"
+  },
+  {
+    "name": "Nagyigm\u00e1nd",
+    "country": "HU"
+  },
+  {
+    "name": "Nagydorog",
+    "country": "HU"
+  },
+  {
+    "name": "Nagycenk",
+    "country": "HU"
+  },
+  {
+    "name": "Nagybaracska",
+    "country": "HU"
+  },
+  {
+    "name": "Nagybajom",
+    "country": "HU"
+  },
+  {
+    "name": "Nagyat\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "N\u00e1dormajor",
+    "country": "HU"
+  },
+  {
+    "name": "Murakereszt\u00far",
+    "country": "HU"
+  },
+  {
+    "name": "Murahid",
+    "country": "HU"
+  },
+  {
+    "name": "Mosonszentj\u00e1nosi Tany\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Mosonmagyar\u00f3v\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00f3rahalom",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00f3r",
+    "country": "HU"
+  },
+  {
+    "name": "Monor",
+    "country": "HU"
+  },
+  {
+    "name": "Moh\u00e1cs",
+    "country": "HU"
+  },
+  {
+    "name": "Mogyor\u00f3d",
+    "country": "HU"
+  },
+  {
+    "name": "Mocsa",
+    "country": "HU"
+  },
+  {
+    "name": "Miketelep",
+    "country": "HU"
+  },
+  {
+    "name": "Mih\u00e1lyi",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151szilas",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151ssytanya",
+    "country": "HU"
+  },
+  {
+    "name": "Mez\u0151falva",
+    "country": "HU"
+  },
+  {
+    "name": "Mende",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e9lyk\u00fat",
+    "country": "HU"
+  },
+  {
+    "name": "Mecsekn\u00e1dasd",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1travereb\u00e9ly",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1traterenye",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1tranov\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Martonv\u00e1s\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Margitmajor",
+    "country": "HU"
+  },
+  {
+    "name": "Marczpuszta",
+    "country": "HU"
+  },
+  {
+    "name": "Marceltanya",
+    "country": "HU"
+  },
+  {
+    "name": "Marcali",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Magyarlak",
+    "country": "HU"
+  },
+  {
+    "name": "M\u00e1gocs",
+    "country": "HU"
+  },
+  {
+    "name": "Magl\u00f3d",
+    "country": "HU"
+  },
+  {
+    "name": "Madocsa",
+    "country": "HU"
+  },
+  {
+    "name": "Madaras",
+    "country": "HU"
+  },
+  {
+    "name": "Lovasber\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "L\u0151rinci",
+    "country": "HU"
+  },
+  {
+    "name": "Lit\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "Letenye",
+    "country": "HU"
+  },
+  {
+    "name": "Leps\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Lenti",
+    "country": "HU"
+  },
+  {
+    "name": "Lengyelt\u00f3ti",
+    "country": "HU"
+  },
+  {
+    "name": "L\u00e9b\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Le\u00e1nyfalu",
+    "country": "HU"
+  },
+  {
+    "name": "L\u00e1nycs\u00f3k",
+    "country": "HU"
+  },
+  {
+    "name": "Lakitelek",
+    "country": "HU"
+  },
+  {
+    "name": "Lajosmizse",
+    "country": "HU"
+  },
+  {
+    "name": "Lajoskom\u00e1rom",
+    "country": "HU"
+  },
+  {
+    "name": "L\u00e1bod",
+    "country": "HU"
+  },
+  {
+    "name": "L\u00e1batlan",
+    "country": "HU"
+  },
+  {
+    "name": "Kutyahegy",
+    "country": "HU"
+  },
+  {
+    "name": "Kunszentmikl\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "Kunfeh\u00e9rt\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00f6zpontimajor",
+    "country": "HU"
+  },
+  {
+    "name": "Koz\u00e1rmisleny",
+    "country": "HU"
+  },
+  {
+    "name": "K\u0151szeg",
+    "country": "HU"
+  },
+  {
+    "name": "Kosd",
+    "country": "HU"
+  },
+  {
+    "name": "Kos\u00e1rhegy",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00f6rnye",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00f6rmend",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00f3ny",
+    "country": "HU"
+  },
+  {
+    "name": "Koml\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Kom\u00e1rom-Esztergom",
+    "country": "HU"
+  },
+  {
+    "name": "Kom\u00e1rom",
+    "country": "HU"
+  },
+  {
+    "name": "Kokashegy",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00f3ka",
+    "country": "HU"
+  },
+  {
+    "name": "Kocs\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "Kocs",
+    "country": "HU"
+  },
+  {
+    "name": "K\u0151b\u00e1nya",
+    "country": "HU"
+  },
+  {
+    "name": "Kistelek",
+    "country": "HU"
+  },
+  {
+    "name": "Kissz\u00e1ll\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Kisl\u00e1ng",
+    "country": "HU"
+  },
+  {
+    "name": "Kiskunmajsa",
+    "country": "HU"
+  },
+  {
+    "name": "Kiskunlach\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Kiskunhalas",
+    "country": "HU"
+  },
+  {
+    "name": "Kiskunf\u00e9legyh\u00e1zi Tany\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Kiskunf\u00e9legyh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Kisk\u0151r\u00f6s",
+    "country": "HU"
+  },
+  {
+    "name": "Kisf\u00e1i",
+    "country": "HU"
+  },
+  {
+    "name": "Kiscs\u0151szi Tanya",
+    "country": "HU"
+  },
+  {
+    "name": "Kiscs\u0151sz",
+    "country": "HU"
+  },
+  {
+    "name": "Kisb\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "Kincsesb\u00e1nya",
+    "country": "HU"
+  },
+  {
+    "name": "Kimle",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e9thely",
+    "country": "HU"
+  },
+  {
+    "name": "Keszt\u00f6lc",
+    "country": "HU"
+  },
+  {
+    "name": "Keszthely",
+    "country": "HU"
+  },
+  {
+    "name": "Kistarcsa",
+    "country": "HU"
+  },
+  {
+    "name": "Kerekegyh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Kelebia",
+    "country": "HU"
+  },
+  {
+    "name": "Kecskem\u00e9t",
+    "country": "HU"
+  },
+  {
+    "name": "Kecsk\u00e9d",
+    "country": "HU"
+  },
+  {
+    "name": "Kecel",
+    "country": "HU"
+  },
+  {
+    "name": "Kaz\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Kavicsb\u00e1nya",
+    "country": "HU"
+  },
+  {
+    "name": "Katym\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Kartal",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e1rolyakna",
+    "country": "HU"
+  },
+  {
+    "name": "Karancslapujt\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Karancskeszi",
+    "country": "HU"
+  },
+  {
+    "name": "Kar\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Kapuv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Kaposv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Kaposm\u00e9r\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e1poln\u00e1sny\u00e9k",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e1lv\u00e1ria D\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "K\u00e1loz",
+    "country": "HU"
+  },
+  {
+    "name": "Kalocsa",
+    "country": "HU"
+  },
+  {
+    "name": "Kakucs",
+    "country": "HU"
+  },
+  {
+    "name": "Kadark\u00fat",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00f3zsefpuszta",
+    "country": "HU"
+  },
+  {
+    "name": "Jobb\u00e1gyi",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1szszentl\u00e1szl\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1szber\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Jansentanya",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1nossomorja",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1nosh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1noshalma",
+    "country": "HU"
+  },
+  {
+    "name": "F\u00fcl\u00f6pjakab",
+    "country": "HU"
+  },
+  {
+    "name": "J\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Izs\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Izguntanya",
+    "country": "HU"
+  },
+  {
+    "name": "Iv\u00e1ncsa",
+    "country": "HU"
+  },
+  {
+    "name": "Isaszeg",
+    "country": "HU"
+  },
+  {
+    "name": "Iregszemcse",
+    "country": "HU"
+  },
+  {
+    "name": "In\u00e1rcs",
+    "country": "HU"
+  },
+  {
+    "name": "Iklad",
+    "country": "HU"
+  },
+  {
+    "name": "Hossz\u00fahet\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Hossz\u00fah\u00e1t",
+    "country": "HU"
+  },
+  {
+    "name": "Hort",
+    "country": "HU"
+  },
+  {
+    "name": "H\u0151gy\u00e9sz",
+    "country": "HU"
+  },
+  {
+    "name": "Hidas",
+    "country": "HU"
+  },
+  {
+    "name": "H\u00e9v\u00edzgy\u00f6rk",
+    "country": "HU"
+  },
+  {
+    "name": "H\u00e9v\u00edz",
+    "country": "HU"
+  },
+  {
+    "name": "Hern\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Herend",
+    "country": "HU"
+  },
+  {
+    "name": "Her\u00e9d",
+    "country": "HU"
+  },
+  {
+    "name": "Hercegsz\u00e1nt\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Helv\u00e9cia",
+    "country": "HU"
+  },
+  {
+    "name": "Hegy",
+    "country": "HU"
+  },
+  {
+    "name": "Hatvan",
+    "country": "HU"
+  },
+  {
+    "name": "Harta",
+    "country": "HU"
+  },
+  {
+    "name": "Hark\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Hangy\u00e1sm\u00e1l",
+    "country": "HU"
+  },
+  {
+    "name": "Hamvasb\u00e1nya",
+    "country": "HU"
+  },
+  {
+    "name": "Hal\u00e1sztelek",
+    "country": "HU"
+  },
+  {
+    "name": "Hal\u00e1szi",
+    "country": "HU"
+  },
+  {
+    "name": "Halast\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Haj\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "Hajm\u00e1sk\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u0151r\u00fajbar\u00e1t",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u0151rszemere",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u0151r-Moson-Sopron megye",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u0151r",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u00f6nk",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u00f6ngy\u00f6starj\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u00f6ngy\u00f6ssolymos",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u00f6ngy\u00f6spata",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u00f6ngy\u00f6shal\u00e1sz",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u00f6ngy\u00f6s",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u00f6mr\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Gyenesdi\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u00e1l",
+    "country": "HU"
+  },
+  {
+    "name": "Gomba",
+    "country": "HU"
+  },
+  {
+    "name": "G\u00f6d\u00f6ll\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "G\u00f6d",
+    "country": "HU"
+  },
+  {
+    "name": "Gindeletanya",
+    "country": "HU"
+  },
+  {
+    "name": "Gencsap\u00e1ti",
+    "country": "HU"
+  },
+  {
+    "name": "G\u00e1t\u00e9r",
+    "country": "HU"
+  },
+  {
+    "name": "G\u00e1rdony",
+    "country": "HU"
+  },
+  {
+    "name": "Gara",
+    "country": "HU"
+  },
+  {
+    "name": "Galgam\u00e1csa",
+    "country": "HU"
+  },
+  {
+    "name": "Galgah\u00e9v\u00edz",
+    "country": "HU"
+  },
+  {
+    "name": "F\u00fcl\u00f6psz\u00e1ll\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Franktanya",
+    "country": "HU"
+  },
+  {
+    "name": "F\u00f3t",
+    "country": "HU"
+  },
+  {
+    "name": "Forr\u00f3puszta",
+    "country": "HU"
+  },
+  {
+    "name": "Forr\u00e1sk\u00fat",
+    "country": "HU"
+  },
+  {
+    "name": "Fony\u00f3d",
+    "country": "HU"
+  },
+  {
+    "name": "Flinkmalom",
+    "country": "HU"
+  },
+  {
+    "name": "Fert\u0151szentmikl\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "Fert\u0151r\u00e1kos",
+    "country": "HU"
+  },
+  {
+    "name": "Fert\u0151d",
+    "country": "HU"
+  },
+  {
+    "name": "Fels\u0151telep",
+    "country": "HU"
+  },
+  {
+    "name": "Fels\u0151tag",
+    "country": "HU"
+  },
+  {
+    "name": "Fels\u0151szentiv\u00e1n",
+    "country": "HU"
+  },
+  {
+    "name": "Fels\u0151pakony",
+    "country": "HU"
+  },
+  {
+    "name": "Fels\u0151kol\u00f3nia",
+    "country": "HU"
+  },
+  {
+    "name": "Fels\u0151halom",
+    "country": "HU"
+  },
+  {
+    "name": "Fels\u0151b\u00e1nyatelep",
+    "country": "HU"
+  },
+  {
+    "name": "Fej\u00e9r megye",
+    "country": "HU"
+  },
+  {
+    "name": "Feh\u00e9rv\u00e1rcsurg\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Farmos",
+    "country": "HU"
+  },
+  {
+    "name": "Farkasm\u00e1ly",
+    "country": "HU"
+  },
+  {
+    "name": "Far\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "Fadd",
+    "country": "HU"
+  },
+  {
+    "name": "Etyek",
+    "country": "HU"
+  },
+  {
+    "name": "Esztergom",
+    "country": "HU"
+  },
+  {
+    "name": "\u00c9rsekvadkert",
+    "country": "HU"
+  },
+  {
+    "name": "\u00c9rsekcsan\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "\u00c9rd-Parkv\u00e1ros",
+    "country": "HU"
+  },
+  {
+    "name": "Erd\u0151kertes",
+    "country": "HU"
+  },
+  {
+    "name": "\u00c9rd",
+    "country": "HU"
+  },
+  {
+    "name": "Ercsi",
+    "country": "HU"
+  },
+  {
+    "name": "Enying",
+    "country": "HU"
+  },
+  {
+    "name": "El\u0151sz\u00e1ll\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Ecser",
+    "country": "HU"
+  },
+  {
+    "name": "Ecs\u00e9d",
+    "country": "HU"
+  },
+  {
+    "name": "Dusnok",
+    "country": "HU"
+  },
+  {
+    "name": "Dunavecse",
+    "country": "HU"
+  },
+  {
+    "name": "Dunavars\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Duna\u00fajv\u00e1ros",
+    "country": "HU"
+  },
+  {
+    "name": "Dunaszentgy\u00f6rgy",
+    "country": "HU"
+  },
+  {
+    "name": "Dunaszekcs\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Dunapataj",
+    "country": "HU"
+  },
+  {
+    "name": "Dunakeszi",
+    "country": "HU"
+  },
+  {
+    "name": "Dunaharaszti R\u00e9v",
+    "country": "HU"
+  },
+  {
+    "name": "Dunaharaszti",
+    "country": "HU"
+  },
+  {
+    "name": "Dunaf\u00f6ldv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Dunabogd\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Dunaalm\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Dugdelpuszta",
+    "country": "HU"
+  },
+  {
+    "name": "Dorog",
+    "country": "HU"
+  },
+  {
+    "name": "D\u00f6ms\u00f6d",
+    "country": "HU"
+  },
+  {
+    "name": "Domony",
+    "country": "HU"
+  },
+  {
+    "name": "Domb\u00f3v\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Dombh\u00e1td\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Dognyai Tanya",
+    "country": "HU"
+  },
+  {
+    "name": "D\u00f6br\u00f6k\u00f6z",
+    "country": "HU"
+  },
+  {
+    "name": "Di\u00f3sjen\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Di\u00f3sd",
+    "country": "HU"
+  },
+  {
+    "name": "Devecser",
+    "country": "HU"
+  },
+  {
+    "name": "D\u00e9legyh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "D\u00e9g",
+    "country": "HU"
+  },
+  {
+    "name": "Decs",
+    "country": "HU"
+  },
+  {
+    "name": "D\u00e1vod",
+    "country": "HU"
+  },
+  {
+    "name": "D\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "D\u00e1nszentmikl\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "Dabas",
+    "country": "HU"
+  },
+  {
+    "name": "Csurg\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Csuk\u00e1sitany\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Csorna",
+    "country": "HU"
+  },
+  {
+    "name": "Csopak",
+    "country": "HU"
+  },
+  {
+    "name": "Cs\u00f6m\u00f6r",
+    "country": "HU"
+  },
+  {
+    "name": "Csolnok",
+    "country": "HU"
+  },
+  {
+    "name": "Csob\u00e1nka",
+    "country": "HU"
+  },
+  {
+    "name": "Cset\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Cserszegtomaj",
+    "country": "HU"
+  },
+  {
+    "name": "Cserh\u00e1tpuszta",
+    "country": "HU"
+  },
+  {
+    "name": "Cserepes",
+    "country": "HU"
+  },
+  {
+    "name": "Csepreg",
+    "country": "HU"
+  },
+  {
+    "name": "Cseng\u0151d",
+    "country": "HU"
+  },
+  {
+    "name": "Csengele",
+    "country": "HU"
+  },
+  {
+    "name": "Csem\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Cs\u00e1voly",
+    "country": "HU"
+  },
+  {
+    "name": "Cs\u00e1sz\u00e1rt\u00f6lt\u00e9s",
+    "country": "HU"
+  },
+  {
+    "name": "Cs\u00e1sz\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Cs\u00e1rda",
+    "country": "HU"
+  },
+  {
+    "name": "Cs\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Cs\u00e1kv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Csabrendek",
+    "country": "HU"
+  },
+  {
+    "name": "Celld\u00f6m\u00f6lk",
+    "country": "HU"
+  },
+  {
+    "name": "Cegl\u00e9dbercel",
+    "country": "HU"
+  },
+  {
+    "name": "Cegl\u00e9d",
+    "country": "HU"
+  },
+  {
+    "name": "Cece",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00fckk\u00f6sd",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00fck",
+    "country": "HU"
+  },
+  {
+    "name": "Buj\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Bugyi",
+    "country": "HU"
+  },
+  {
+    "name": "Bugac",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest",
+    "country": "HU"
+  },
+  {
+    "name": "Buda\u00f6rs",
+    "country": "HU"
+  },
+  {
+    "name": "Budakeszi",
+    "country": "HU"
+  },
+  {
+    "name": "Budakal\u00e1sz",
+    "country": "HU"
+  },
+  {
+    "name": "Asz\u00f3d",
+    "country": "HU"
+  },
+  {
+    "name": "Bothmerpuszta",
+    "country": "HU"
+  },
+  {
+    "name": "B\u0151s\u00e1rk\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Bord\u00e1ny",
+    "country": "HU"
+  },
+  {
+    "name": "Borb\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "Bonyh\u00e1d",
+    "country": "HU"
+  },
+  {
+    "name": "B\u0151ny",
+    "country": "HU"
+  },
+  {
+    "name": "Bolyok",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00f3ly",
+    "country": "HU"
+  },
+  {
+    "name": "Bolg\u00e1rtelep",
+    "country": "HU"
+  },
+  {
+    "name": "Boldog",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00f6lcske",
+    "country": "HU"
+  },
+  {
+    "name": "Bokod",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00f6h\u00f6nye",
+    "country": "HU"
+  },
+  {
+    "name": "Bogyiszl\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Bodak\u00fat",
+    "country": "HU"
+  },
+  {
+    "name": "Bodajk",
+    "country": "HU"
+  },
+  {
+    "name": "Bicske",
+    "country": "HU"
+  },
+  {
+    "name": "Biatorb\u00e1gy",
+    "country": "HU"
+  },
+  {
+    "name": "Berzence",
+    "country": "HU"
+  },
+  {
+    "name": "Berhida",
+    "country": "HU"
+  },
+  {
+    "name": "Beremend",
+    "country": "HU"
+  },
+  {
+    "name": "Bercel",
+    "country": "HU"
+  },
+  {
+    "name": "Bels\u0151 \u00daj Sor",
+    "country": "HU"
+  },
+  {
+    "name": "Beled",
+    "country": "HU"
+  },
+  {
+    "name": "Becsehely",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1tya",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1tonyterenye",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1tasz\u00e9k",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1ta",
+    "country": "HU"
+  },
+  {
+    "name": "Barcs",
+    "country": "HU"
+  },
+  {
+    "name": "Baranya county",
+    "country": "HU"
+  },
+  {
+    "name": "Baracska",
+    "country": "HU"
+  },
+  {
+    "name": "Baracs",
+    "country": "HU"
+  },
+  {
+    "name": "Ball\u00f3sz\u00f6g",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonsz\u00e1rsz\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonszabadi",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonlelle",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonkenese",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonf\u0171zf\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonf\u00fcred",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonf\u00f6ldv\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonfenyves",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonbogl\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonber\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Balatonalm\u00e1di",
+    "country": "HU"
+  },
+  {
+    "name": "Balassagyarmat",
+    "country": "HU"
+  },
+  {
+    "name": "Bal\u00e1czaid\u0171l\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Bakonyszentl\u00e1szl\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Bakonycsernye",
+    "country": "HU"
+  },
+  {
+    "name": "Bajna",
+    "country": "HU"
+  },
+  {
+    "name": "Baja",
+    "country": "HU"
+  },
+  {
+    "name": "Baj",
+    "country": "HU"
+  },
+  {
+    "name": "Bag",
+    "country": "HU"
+  },
+  {
+    "name": "Badacsonytomaj",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1cs-Kiskun county",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1csbors\u00f3d",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1csbokod",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1csalm\u00e1s",
+    "country": "HU"
+  },
+  {
+    "name": "B\u00e1bolna",
+    "country": "HU"
+  },
+  {
+    "name": "Bab\u00f3csa",
+    "country": "HU"
+  },
+  {
+    "name": "\u00c1sv\u00e1nyr\u00e1r\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "\u00c1sotthalom",
+    "country": "HU"
+  },
+  {
+    "name": "Aranyhegy",
+    "country": "HU"
+  },
+  {
+    "name": "Apostagi Tany\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Apostag",
+    "country": "HU"
+  },
+  {
+    "name": "Apc",
+    "country": "HU"
+  },
+  {
+    "name": "Angyalisziget",
+    "country": "HU"
+  },
+  {
+    "name": "Als\u00f3n\u00e9medi",
+    "country": "HU"
+  },
+  {
+    "name": "Als\u00f3k\u00f6rtv\u00e9lyes",
+    "country": "HU"
+  },
+  {
+    "name": "Als\u00f3galla",
+    "country": "HU"
+  },
+  {
+    "name": "Als\u00f3dolina",
+    "country": "HU"
+  },
+  {
+    "name": "Alm\u00e1sf\u00fczit\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Albertirsa",
+    "country": "HU"
+  },
+  {
+    "name": "Alap",
+    "country": "HU"
+  },
+  {
+    "name": "Akaszt\u00f3",
+    "country": "HU"
+  },
+  {
+    "name": "Ajkai Tany\u00e1k",
+    "country": "HU"
+  },
+  {
+    "name": "Ajka",
+    "country": "HU"
+  },
+  {
+    "name": "Agyagb\u00e1nya",
+    "country": "HU"
+  },
+  {
+    "name": "\u00c1gfalva",
+    "country": "HU"
+  },
+  {
+    "name": "\u00c1gasegyh\u00e1za",
+    "country": "HU"
+  },
+  {
+    "name": "Adony",
+    "country": "HU"
+  },
+  {
+    "name": "\u00c1d\u00e1nd",
+    "country": "HU"
+  },
+  {
+    "name": "Ad\u00e1cs",
+    "country": "HU"
+  },
+  {
+    "name": "Acsa",
+    "country": "HU"
+  },
+  {
+    "name": "\u00c1cs",
+    "country": "HU"
+  },
+  {
+    "name": "Abda",
+    "country": "HU"
+  },
+  {
+    "name": "Aba",
+    "country": "HU"
+  },
+  {
+    "name": "Tiszaalp\u00e1r",
+    "country": "HU"
+  },
+  {
+    "name": "Gy\u0151r-Szabadhegy",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XII. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XI. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest IX. keruelet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest VIII. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest VII. keruelet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest VI. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XIV. keruelet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XIII. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest IV. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XV. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XVI. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest X. keruelet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XIX. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XVIII. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XXIII. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XXII. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XXI. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XX. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest XVII. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest III. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest II. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Budapest I. ker\u00fclet",
+    "country": "HU"
+  },
+  {
+    "name": "Algy\u0151",
+    "country": "HU"
+  },
+  {
+    "name": "Szelev\u00e9ny",
+    "country": "HU"
+  },
+  {
+    "name": "Kismaros",
+    "country": "HU"
+  },
+  {
+    "name": "H\u00e9halom",
+    "country": "HU"
+  },
+  {
+    "name": "Mosonszentmikl\u00f3s",
+    "country": "HU"
+  },
+  {
+    "name": "Kerepes",
+    "country": "HU"
+  },
+  {
+    "name": "Kuruc-domb",
+    "country": "HU"
+  }
+]

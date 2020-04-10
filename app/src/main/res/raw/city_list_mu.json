@@ -1,0 +1,534 @@
+[
+  {
+    "name": "Verdun",
+    "country": "MU"
+  },
+  {
+    "name": "Vacoas",
+    "country": "MU"
+  },
+  {
+    "name": "Trou d\u2019Eau Douce",
+    "country": "MU"
+  },
+  {
+    "name": "Trou aux Biches",
+    "country": "MU"
+  },
+  {
+    "name": "Triolet",
+    "country": "MU"
+  },
+  {
+    "name": "The Vale",
+    "country": "MU"
+  },
+  {
+    "name": "Terre Rouge",
+    "country": "MU"
+  },
+  {
+    "name": "Tamarin",
+    "country": "MU"
+  },
+  {
+    "name": "Surinam",
+    "country": "MU"
+  },
+  {
+    "name": "Souillac",
+    "country": "MU"
+  },
+  {
+    "name": "Sebastopol",
+    "country": "MU"
+  },
+  {
+    "name": "Savanne District",
+    "country": "MU"
+  },
+  {
+    "name": "Saint Pierre",
+    "country": "MU"
+  },
+  {
+    "name": "Saint Julien",
+    "country": "MU"
+  },
+  {
+    "name": "Saint Hubert",
+    "country": "MU"
+  },
+  {
+    "name": "Sainte Croix",
+    "country": "MU"
+  },
+  {
+    "name": "Saint Aubin",
+    "country": "MU"
+  },
+  {
+    "name": "Morcellement Saint Andr\u00e9",
+    "country": "MU"
+  },
+  {
+    "name": "Rose Belle",
+    "country": "MU"
+  },
+  {
+    "name": "Roche Terre",
+    "country": "MU"
+  },
+  {
+    "name": "Roches Noire",
+    "country": "MU"
+  },
+  {
+    "name": "Grande Rivi\u00e8re Noire",
+    "country": "MU"
+  },
+  {
+    "name": "Rivi\u00e8re du Rempart District",
+    "country": "MU"
+  },
+  {
+    "name": "Rivi\u00e8re du Rempart",
+    "country": "MU"
+  },
+  {
+    "name": "Rivi\u00e8re du Poste",
+    "country": "MU"
+  },
+  {
+    "name": "Rivi\u00e8re des Anguilles",
+    "country": "MU"
+  },
+  {
+    "name": "Queen Victoria",
+    "country": "MU"
+  },
+  {
+    "name": "Quatre Soeurs",
+    "country": "MU"
+  },
+  {
+    "name": "Quatre Bornes",
+    "country": "MU"
+  },
+  {
+    "name": "Quartier Militaire",
+    "country": "MU"
+  },
+  {
+    "name": "Providence",
+    "country": "MU"
+  },
+  {
+    "name": "Poste de Flacq",
+    "country": "MU"
+  },
+  {
+    "name": "Port Louis District",
+    "country": "MU"
+  },
+  {
+    "name": "Port Louis",
+    "country": "MU"
+  },
+  {
+    "name": "Pont Blanc",
+    "country": "MU"
+  },
+  {
+    "name": "Plaines Wilhems District",
+    "country": "MU"
+  },
+  {
+    "name": "Plaine Magnien",
+    "country": "MU"
+  },
+  {
+    "name": "Plaine des Papayes",
+    "country": "MU"
+  },
+  {
+    "name": "Petit Raffray",
+    "country": "MU"
+  },
+  {
+    "name": "Petite Rivi\u00e8re",
+    "country": "MU"
+  },
+  {
+    "name": "Petite Case Noyale",
+    "country": "MU"
+  },
+  {
+    "name": "Pamplemousses District",
+    "country": "MU"
+  },
+  {
+    "name": "Pamplemousses",
+    "country": "MU"
+  },
+  {
+    "name": "Pailles",
+    "country": "MU"
+  },
+  {
+    "name": "Olivia",
+    "country": "MU"
+  },
+  {
+    "name": "Nouvelle France",
+    "country": "MU"
+  },
+  {
+    "name": "Notre Dame",
+    "country": "MU"
+  },
+  {
+    "name": "New Grove",
+    "country": "MU"
+  },
+  {
+    "name": "Piton",
+    "country": "MU"
+  },
+  {
+    "name": "Montagne Blanche",
+    "country": "MU"
+  },
+  {
+    "name": "Mon Loisir",
+    "country": "MU"
+  },
+  {
+    "name": "Moka District",
+    "country": "MU"
+  },
+  {
+    "name": "Moka",
+    "country": "MU"
+  },
+  {
+    "name": "Midlands",
+    "country": "MU"
+  },
+  {
+    "name": "Melrose",
+    "country": "MU"
+  },
+  {
+    "name": "Republic of Mauritius",
+    "country": "MU"
+  },
+  {
+    "name": "Mare Tabac",
+    "country": "MU"
+  },
+  {
+    "name": "Mare d\u2019Albert",
+    "country": "MU"
+  },
+  {
+    "name": "Mah\u00e9bourg",
+    "country": "MU"
+  },
+  {
+    "name": "Long Mountain",
+    "country": "MU"
+  },
+  {
+    "name": "L\u2019Escalier",
+    "country": "MU"
+  },
+  {
+    "name": "Lalmatie",
+    "country": "MU"
+  },
+  {
+    "name": "Dagoti\u00e8re",
+    "country": "MU"
+  },
+  {
+    "name": "Henrietta",
+    "country": "MU"
+  },
+  {
+    "name": "Grand Sable",
+    "country": "MU"
+  },
+  {
+    "name": "Grand Port District",
+    "country": "MU"
+  },
+  {
+    "name": "Grande Rivi\u00e8re Sud Est",
+    "country": "MU"
+  },
+  {
+    "name": "Grand Gaube",
+    "country": "MU"
+  },
+  {
+    "name": "Grand Baie",
+    "country": "MU"
+  },
+  {
+    "name": "Grand Bois",
+    "country": "MU"
+  },
+  {
+    "name": "Goodlands",
+    "country": "MU"
+  },
+  {
+    "name": "Fond du Sac",
+    "country": "MU"
+  },
+  {
+    "name": "Flic en Flac",
+    "country": "MU"
+  },
+  {
+    "name": "Flacq District",
+    "country": "MU"
+  },
+  {
+    "name": "Esp\u00e9rance Tr\u00e9buchet",
+    "country": "MU"
+  },
+  {
+    "name": "Curepipe",
+    "country": "MU"
+  },
+  {
+    "name": "Cr\u00e8ve Coeur",
+    "country": "MU"
+  },
+  {
+    "name": "Cl\u00e9mencia",
+    "country": "MU"
+  },
+  {
+    "name": "Chemin Grenier",
+    "country": "MU"
+  },
+  {
+    "name": "Chamouny",
+    "country": "MU"
+  },
+  {
+    "name": "Centre de Flacq",
+    "country": "MU"
+  },
+  {
+    "name": "Cascavelle",
+    "country": "MU"
+  },
+  {
+    "name": "Cap Malheureux",
+    "country": "MU"
+  },
+  {
+    "name": "Camp Thorel",
+    "country": "MU"
+  },
+  {
+    "name": "Camp Diable",
+    "country": "MU"
+  },
+  {
+    "name": "Camp de Masque",
+    "country": "MU"
+  },
+  {
+    "name": "Bris\u00e9e Verdi\u00e8re",
+    "country": "MU"
+  },
+  {
+    "name": "Bon Accueil",
+    "country": "MU"
+  },
+  {
+    "name": "Bois des Amourettes",
+    "country": "MU"
+  },
+  {
+    "name": "Black River District",
+    "country": "MU"
+  },
+  {
+    "name": "Bell Village",
+    "country": "MU"
+  },
+  {
+    "name": "Belle Vue Maurel",
+    "country": "MU"
+  },
+  {
+    "name": "Belle Rose",
+    "country": "MU"
+  },
+  {
+    "name": "Grand Bel Air",
+    "country": "MU"
+  },
+  {
+    "name": "Bel Air Rivi\u00e8re S\u00e8che",
+    "country": "MU"
+  },
+  {
+    "name": "Beau Vallon",
+    "country": "MU"
+  },
+  {
+    "name": "Beau Bassin-Rose Hill",
+    "country": "MU"
+  },
+  {
+    "name": "Bambous",
+    "country": "MU"
+  },
+  {
+    "name": "Albion",
+    "country": "MU"
+  },
+  {
+    "name": "Abercrombie",
+    "country": "MU"
+  },
+  {
+    "name": "Laventure",
+    "country": "MU"
+  },
+  {
+    "name": "Baie du Cap",
+    "country": "MU"
+  },
+  {
+    "name": "Cluny",
+    "country": "MU"
+  },
+  {
+    "name": "Cottage",
+    "country": "MU"
+  },
+  {
+    "name": "Pointe aux Piments",
+    "country": "MU"
+  },
+  {
+    "name": "Congomah",
+    "country": "MU"
+  },
+  {
+    "name": "D\u2019Epinay",
+    "country": "MU"
+  },
+  {
+    "name": "Amaury",
+    "country": "MU"
+  },
+  {
+    "name": "Plaines des Roches",
+    "country": "MU"
+  },
+  {
+    "name": "Mare La Chaux",
+    "country": "MU"
+  },
+  {
+    "name": "Belle Mare",
+    "country": "MU"
+  },
+  {
+    "name": "Quatre Cocos",
+    "country": "MU"
+  },
+  {
+    "name": "Camp Ithier",
+    "country": "MU"
+  },
+  {
+    "name": "Ecroignard",
+    "country": "MU"
+  },
+  {
+    "name": "Bambous Virieux",
+    "country": "MU"
+  },
+  {
+    "name": "Union Park",
+    "country": "MU"
+  },
+  {
+    "name": "La Flora",
+    "country": "MU"
+  },
+  {
+    "name": "Ebene",
+    "country": "MU"
+  },
+  {
+    "name": "Gros Cailloux",
+    "country": "MU"
+  },
+  {
+    "name": "Mapou",
+    "country": "MU"
+  },
+  {
+    "name": "Esp\u00e9rance",
+    "country": "MU"
+  },
+  {
+    "name": "Dubreuil",
+    "country": "MU"
+  },
+  {
+    "name": "Bain des Dames",
+    "country": "MU"
+  },
+  {
+    "name": "Vall\u00e9e Pitot",
+    "country": "MU"
+  },
+  {
+    "name": "Plaine Verte",
+    "country": "MU"
+  },
+  {
+    "name": "Le Hochet",
+    "country": "MU"
+  },
+  {
+    "name": "Calebasses",
+    "country": "MU"
+  },
+  {
+    "name": "Arsenal",
+    "country": "MU"
+  },
+  {
+    "name": "Vall\u00e9e des Pr\u00eatres",
+    "country": "MU"
+  },
+  {
+    "name": "Carreau Lalo",
+    "country": "MU"
+  },
+  {
+    "name": "Port Mathurin",
+    "country": "MU"
+  },
+  {
+    "name": "Rodrigues",
+    "country": "MU"
+  },
+  {
+    "name": "Plaine Corail",
+    "country": "MU"
+  }
+]

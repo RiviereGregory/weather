@@ -1,0 +1,674 @@
+[
+  {
+    "name": "T\u1ec9nh Ngh\u1ec7 An",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Ninh B\u00ecnh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Ninh Thu\u1eadn",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Tr\u00e0 Vinh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Tuy\u00ean Quang",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh V\u0129nh Long",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Y\u00ean B\u00e1i",
+    "country": "VN"
+  },
+  {
+    "name": "Yen Vinh",
+    "country": "VN"
+  },
+  {
+    "name": "Yen Bai",
+    "country": "VN"
+  },
+  {
+    "name": "X\u00f3m Y\u00e2n L\u1ea1c H\u00e2u",
+    "country": "VN"
+  },
+  {
+    "name": "X\u00f3m Pho",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh L\u00e0o Cai",
+    "country": "VN"
+  },
+  {
+    "name": "Vung Tau",
+    "country": "VN"
+  },
+  {
+    "name": "Vinh Yen",
+    "country": "VN"
+  },
+  {
+    "name": "Vinh Long",
+    "country": "VN"
+  },
+  {
+    "name": "Vinh",
+    "country": "VN"
+  },
+  {
+    "name": "Viet Tri",
+    "country": "VN"
+  },
+  {
+    "name": "Socialist Republic of Vietnam",
+    "country": "VN"
+  },
+  {
+    "name": "Uong Bi",
+    "country": "VN"
+  },
+  {
+    "name": "Tuy Hoa",
+    "country": "VN"
+  },
+  {
+    "name": "Tuyen Quang",
+    "country": "VN"
+  },
+  {
+    "name": "Tra Vinh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Ti\u1ec1n Giang",
+    "country": "VN"
+  },
+  {
+    "name": "Thu Dau Mot",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Th\u1eeba Thi\u00ean-Hu\u1ebf",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Kon Tum",
+    "country": "VN"
+  },
+  {
+    "name": "Th\u00f4ng T\u00e2y H\u1ed9i",
+    "country": "VN"
+  },
+  {
+    "name": "Th\u00f4n \u00d0i\u1ec1n H\u1ea1",
+    "country": "VN"
+  },
+  {
+    "name": "Th\u00f4n Chi\u1ebft Bi Ha",
+    "country": "VN"
+  },
+  {
+    "name": "Huyen Thanh Son",
+    "country": "VN"
+  },
+  {
+    "name": "Thanh pho Ho Chi Minh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Thanh H\u00f3a",
+    "country": "VN"
+  },
+  {
+    "name": "Thanh Hoa",
+    "country": "VN"
+  },
+  {
+    "name": "Thai Nguyen",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Th\u00e1i B\u00ecnh",
+    "country": "VN"
+  },
+  {
+    "name": "Thai Binh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh T\u00e2y Ninh",
+    "country": "VN"
+  },
+  {
+    "name": "Tay Ninh",
+    "country": "VN"
+  },
+  {
+    "name": "Tan An",
+    "country": "VN"
+  },
+  {
+    "name": "Tam Ky",
+    "country": "VN"
+  },
+  {
+    "name": "Son Tay",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh S\u01a1n La",
+    "country": "VN"
+  },
+  {
+    "name": "Huyen Son Duong",
+    "country": "VN"
+  },
+  {
+    "name": "Son La",
+    "country": "VN"
+  },
+  {
+    "name": "Song Cau",
+    "country": "VN"
+  },
+  {
+    "name": "Soc Trang",
+    "country": "VN"
+  },
+  {
+    "name": "Sa Pa",
+    "country": "VN"
+  },
+  {
+    "name": "Sa Dec",
+    "country": "VN"
+  },
+  {
+    "name": "Rach Gia",
+    "country": "VN"
+  },
+  {
+    "name": "Quy Nhon",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+    "country": "VN"
+  },
+  {
+    "name": "Qu\u1ea3ng Tr\u1ecb",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Qu\u1ea3ng Ninh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+    "country": "VN"
+  },
+  {
+    "name": "Quang Ngai",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
+    "country": "VN"
+  },
+  {
+    "name": "Pleiku",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Ph\u00fa Y\u00ean",
+    "country": "VN"
+  },
+  {
+    "name": "Thi xa Phu Tho",
+    "country": "VN"
+  },
+  {
+    "name": "Duong GJong",
+    "country": "VN"
+  },
+  {
+    "name": "Phu Ly",
+    "country": "VN"
+  },
+  {
+    "name": "Phu Khuong",
+    "country": "VN"
+  },
+  {
+    "name": "Phu H\u01b0u",
+    "country": "VN"
+  },
+  {
+    "name": "Phong Tho",
+    "country": "VN"
+  },
+  {
+    "name": "Phan Thiet",
+    "country": "VN"
+  },
+  {
+    "name": "Phan Rang-Thap Cham",
+    "country": "VN"
+  },
+  {
+    "name": "Ninh Binh",
+    "country": "VN"
+  },
+  {
+    "name": "Nha Trang",
+    "country": "VN"
+  },
+  {
+    "name": "Ng\u00f4 Ch\u00e2u",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh H\u00f2a B\u00ecnh",
+    "country": "VN"
+  },
+  {
+    "name": "Nam Dinh",
+    "country": "VN"
+  },
+  {
+    "name": "My Tho",
+    "country": "VN"
+  },
+  {
+    "name": "Long Xuyen",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Long An",
+    "country": "VN"
+  },
+  {
+    "name": "L\u1ed9c Ninh",
+    "country": "VN"
+  },
+  {
+    "name": "Lao Cai",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+    "country": "VN"
+  },
+  {
+    "name": "Lang Son",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh L\u00e2m \u00d0\u1ed3ng",
+    "country": "VN"
+  },
+  {
+    "name": "Lagi",
+    "country": "VN"
+  },
+  {
+    "name": "Kon Tum",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Ki\u1ebfn Giang",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+    "country": "VN"
+  },
+  {
+    "name": "Hung Yen",
+    "country": "VN"
+  },
+  {
+    "name": "Hue",
+    "country": "VN"
+  },
+  {
+    "name": "Ha Long",
+    "country": "VN"
+  },
+  {
+    "name": "Hoi An",
+    "country": "VN"
+  },
+  {
+    "name": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh H\u00e0 T\u0129nh",
+    "country": "VN"
+  },
+  {
+    "name": "Hoa Binh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh H\u00e0 T\u00e2y",
+    "country": "VN"
+  },
+  {
+    "name": "H\u1eadu D\u01b0\u01a1ng",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh H\u00e0 Giang",
+    "country": "VN"
+  },
+  {
+    "name": "Ha Tinh",
+    "country": "VN"
+  },
+  {
+    "name": "Ha Tien",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Gia Lai",
+    "country": "VN"
+  },
+  {
+    "name": "Th\u1ee7 \u00d0\u00f4 H\u00e0 N\u1ed9i",
+    "country": "VN"
+  },
+  {
+    "name": "Ha Noi",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh C\u1ea7n Th\u01a1",
+    "country": "VN"
+  },
+  {
+    "name": "Th\u00e0nh Ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+    "country": "VN"
+  },
+  {
+    "name": "Haiphong",
+    "country": "VN"
+  },
+  {
+    "name": "Hai Ha",
+    "country": "VN"
+  },
+  {
+    "name": "Hai Duong",
+    "country": "VN"
+  },
+  {
+    "name": "Ha Giang",
+    "country": "VN"
+  },
+  {
+    "name": "Ha Dong",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+    "country": "VN"
+  },
+  {
+    "name": "Dong Xoai",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh \u00d0\u1ed3ng Th\u00e1p",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh \u00d0\u1ed3ng Nai",
+    "country": "VN"
+  },
+  {
+    "name": "Dong Hoi",
+    "country": "VN"
+  },
+  {
+    "name": "Dong Ha",
+    "country": "VN"
+  },
+  {
+    "name": "Huyen Doan Hung",
+    "country": "VN"
+  },
+  {
+    "name": "Dien Bien Phu",
+    "country": "VN"
+  },
+  {
+    "name": "Turan",
+    "country": "VN"
+  },
+  {
+    "name": "Da Lat",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh \u00d0\u1eafc L\u1eafk",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
+    "country": "VN"
+  },
+  {
+    "name": "Cu Chi",
+    "country": "VN"
+  },
+  {
+    "name": "Con Son",
+    "country": "VN"
+  },
+  {
+    "name": "Chau Doc",
+    "country": "VN"
+  },
+  {
+    "name": "Cao Lanh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Cao B\u1eb1ng",
+    "country": "VN"
+  },
+  {
+    "name": "Cao Bang",
+    "country": "VN"
+  },
+  {
+    "name": "Can Tho",
+    "country": "VN"
+  },
+  {
+    "name": "Can Gio",
+    "country": "VN"
+  },
+  {
+    "name": "Can Duoc",
+    "country": "VN"
+  },
+  {
+    "name": "Cam Ranh",
+    "country": "VN"
+  },
+  {
+    "name": "Cam Pha Mines",
+    "country": "VN"
+  },
+  {
+    "name": "Ca Mau",
+    "country": "VN"
+  },
+  {
+    "name": "Buon Ma Thuot",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh B\u00ecnh \u00d0\u1ecbnh",
+    "country": "VN"
+  },
+  {
+    "name": "Bim Son",
+    "country": "VN"
+  },
+  {
+    "name": "Bien Hoa",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh B\u1ebfn Tre",
+    "country": "VN"
+  },
+  {
+    "name": "Ben Tre",
+    "country": "VN"
+  },
+  {
+    "name": "Bac Ninh",
+    "country": "VN"
+  },
+  {
+    "name": "Thanh pho Bac Lieu",
+    "country": "VN"
+  },
+  {
+    "name": "Bac Giang",
+    "country": "VN"
+  },
+  {
+    "name": "Bac Kan",
+    "country": "VN"
+  },
+  {
+    "name": "\u1ea4p V\u1ea1n T\u1ef1 T\u00e2y",
+    "country": "VN"
+  },
+  {
+    "name": "\u1ea4p Ba",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh An Giang",
+    "country": "VN"
+  },
+  {
+    "name": "B\u1ebfn \u00d0\u00ecnh",
+    "country": "VN"
+  },
+  {
+    "name": "Huy\u1ec7n \u00d0i\u1ec7n Bi\u00ean",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh B\u1eafc Ninh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh B\u1eafc Giang",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh \u00d0\u00e0 N\u1eb5ng",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Qu\u1ea3ng Nam",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh Nam \u00d0\u1ecbnh",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh H\u00e0 Nam",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh B\u1eafc K\u1ea1n",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh B\u1ea1c Li\u00eau",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh C\u00e0 Mau",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh H\u01b0ng Y\u00ean",
+    "country": "VN"
+  },
+  {
+    "name": "T\u1ec9nh V\u0129nh Ph\u00fac",
+    "country": "VN"
+  },
+  {
+    "name": "Uyen Hung",
+    "country": "VN"
+  },
+  {
+    "name": "Huyen Yen Lap",
+    "country": "VN"
+  },
+  {
+    "name": "Huyen Thanh Hoa",
+    "country": "VN"
+  },
+  {
+    "name": "Huyen Song Thao",
+    "country": "VN"
+  },
+  {
+    "name": "Huyen Tam Thanh",
+    "country": "VN"
+  },
+  {
+    "name": "Huyen Phong Chau",
+    "country": "VN"
+  },
+  {
+    "name": "Huyen Ba Vi",
+    "country": "VN"
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Yallahs",
+    "country": "JM"
+  },
+  {
+    "name": "Williamsfield",
+    "country": "JM"
+  },
+  {
+    "name": "Whitehall",
+    "country": "JM"
+  },
+  {
+    "name": "Westmoreland",
+    "country": "JM"
+  },
+  {
+    "name": "Wakefield",
+    "country": "JM"
+  },
+  {
+    "name": "Up Park Camp",
+    "country": "JM"
+  },
+  {
+    "name": "Ulster Spring",
+    "country": "JM"
+  },
+  {
+    "name": "Trinity Ville",
+    "country": "JM"
+  },
+  {
+    "name": "Trelawny",
+    "country": "JM"
+  },
+  {
+    "name": "Thatch Pen",
+    "country": "JM"
+  },
+  {
+    "name": "Stony Hill",
+    "country": "JM"
+  },
+  {
+    "name": "Stony Hill",
+    "country": "JM"
+  },
+  {
+    "name": "Spanish Town",
+    "country": "JM"
+  },
+  {
+    "name": "Southfield",
+    "country": "JM"
+  },
+  {
+    "name": "Siloah",
+    "country": "JM"
+  },
+  {
+    "name": "Seaforth",
+    "country": "JM"
+  },
+  {
+    "name": "Savanna-la-Mar",
+    "country": "JM"
+  },
+  {
+    "name": "Santa Maria",
+    "country": "JM"
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "JM"
+  },
+  {
+    "name": "Sandy Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Sandy Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Saint Thomas",
+    "country": "JM"
+  },
+  {
+    "name": "Saint Mary",
+    "country": "JM"
+  },
+  {
+    "name": "Saint James",
+    "country": "JM"
+  },
+  {
+    "name": "Saint Elizabeth",
+    "country": "JM"
+  },
+  {
+    "name": "Saint Catherine",
+    "country": "JM"
+  },
+  {
+    "name": "Saint Ann\u2019s Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Parish of Saint Ann",
+    "country": "JM"
+  },
+  {
+    "name": "Saint Andrew",
+    "country": "JM"
+  },
+  {
+    "name": "Runaway Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Rocky Point",
+    "country": "JM"
+  },
+  {
+    "name": "Riversdale",
+    "country": "JM"
+  },
+  {
+    "name": "Richmond",
+    "country": "JM"
+  },
+  {
+    "name": "Rest Pen",
+    "country": "JM"
+  },
+  {
+    "name": "Rectory",
+    "country": "JM"
+  },
+  {
+    "name": "Race Course",
+    "country": "JM"
+  },
+  {
+    "name": "Porus",
+    "country": "JM"
+  },
+  {
+    "name": "Port Royal",
+    "country": "JM"
+  },
+  {
+    "name": "Portmore",
+    "country": "JM"
+  },
+  {
+    "name": "Port Maria",
+    "country": "JM"
+  },
+  {
+    "name": "Portland",
+    "country": "JM"
+  },
+  {
+    "name": "Port Antonio",
+    "country": "JM"
+  },
+  {
+    "name": "Point Hill",
+    "country": "JM"
+  },
+  {
+    "name": "Plum Corner",
+    "country": "JM"
+  },
+  {
+    "name": "Phoenix Park",
+    "country": "JM"
+  },
+  {
+    "name": "Petersfield",
+    "country": "JM"
+  },
+  {
+    "name": "Passage Fort",
+    "country": "JM"
+  },
+  {
+    "name": "Papine",
+    "country": "JM"
+  },
+  {
+    "name": "Oracabessa",
+    "country": "JM"
+  },
+  {
+    "name": "Old Lee Gate",
+    "country": "JM"
+  },
+  {
+    "name": "Old Harbour Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Old Harbour",
+    "country": "JM"
+  },
+  {
+    "name": "Ocho Rios",
+    "country": "JM"
+  },
+  {
+    "name": "New Kingston",
+    "country": "JM"
+  },
+  {
+    "name": "Negril",
+    "country": "JM"
+  },
+  {
+    "name": "Nain",
+    "country": "JM"
+  },
+  {
+    "name": "Mount Nebo",
+    "country": "JM"
+  },
+  {
+    "name": "Morant Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Moore Town",
+    "country": "JM"
+  },
+  {
+    "name": "Montego Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Moneague",
+    "country": "JM"
+  },
+  {
+    "name": "Mona Heights",
+    "country": "JM"
+  },
+  {
+    "name": "Minho",
+    "country": "JM"
+  },
+  {
+    "name": "May Pen",
+    "country": "JM"
+  },
+  {
+    "name": "Mavis Bank",
+    "country": "JM"
+  },
+  {
+    "name": "Matildas Corner",
+    "country": "JM"
+  },
+  {
+    "name": "Maroon Town",
+    "country": "JM"
+  },
+  {
+    "name": "Mannings Town",
+    "country": "JM"
+  },
+  {
+    "name": "Mandeville",
+    "country": "JM"
+  },
+  {
+    "name": "Manchioneal",
+    "country": "JM"
+  },
+  {
+    "name": "Manchester",
+    "country": "JM"
+  },
+  {
+    "name": "Malvern",
+    "country": "JM"
+  },
+  {
+    "name": "Maggotty",
+    "country": "JM"
+  },
+  {
+    "name": "Lucea",
+    "country": "JM"
+  },
+  {
+    "name": "Lluidas Vale",
+    "country": "JM"
+  },
+  {
+    "name": "Little London",
+    "country": "JM"
+  },
+  {
+    "name": "Lionel Town",
+    "country": "JM"
+  },
+  {
+    "name": "Linstead",
+    "country": "JM"
+  },
+  {
+    "name": "Liguanea",
+    "country": "JM"
+  },
+  {
+    "name": "Liberty Valley",
+    "country": "JM"
+  },
+  {
+    "name": "Lacovia",
+    "country": "JM"
+  },
+  {
+    "name": "Kingston",
+    "country": "JM"
+  },
+  {
+    "name": "Kencot",
+    "country": "JM"
+  },
+  {
+    "name": "Kellits",
+    "country": "JM"
+  },
+  {
+    "name": "Jamaica",
+    "country": "JM"
+  },
+  {
+    "name": "Islington",
+    "country": "JM"
+  },
+  {
+    "name": "Hopewell",
+    "country": "JM"
+  },
+  {
+    "name": "Hope Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Hayes",
+    "country": "JM"
+  },
+  {
+    "name": "Harbour View",
+    "country": "JM"
+  },
+  {
+    "name": "Parish of Hanover",
+    "country": "JM"
+  },
+  {
+    "name": "Half Way Tree",
+    "country": "JM"
+  },
+  {
+    "name": "Gregory Park",
+    "country": "JM"
+  },
+  {
+    "name": "Gordon Town",
+    "country": "JM"
+  },
+  {
+    "name": "Golden Grove",
+    "country": "JM"
+  },
+  {
+    "name": "Gayle",
+    "country": "JM"
+  },
+  {
+    "name": "Four Paths",
+    "country": "JM"
+  },
+  {
+    "name": "Falmouth",
+    "country": "JM"
+  },
+  {
+    "name": "Ewarton",
+    "country": "JM"
+  },
+  {
+    "name": "Easington",
+    "country": "JM"
+  },
+  {
+    "name": "Duncans",
+    "country": "JM"
+  },
+  {
+    "name": "Dumblane",
+    "country": "JM"
+  },
+  {
+    "name": "Discovery Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Darliston",
+    "country": "JM"
+  },
+  {
+    "name": "Dalvey",
+    "country": "JM"
+  },
+  {
+    "name": "Constant Spring",
+    "country": "JM"
+  },
+  {
+    "name": "Comfort Village",
+    "country": "JM"
+  },
+  {
+    "name": "Coleyville",
+    "country": "JM"
+  },
+  {
+    "name": "Clarks Town",
+    "country": "JM"
+  },
+  {
+    "name": "Clarendon Park",
+    "country": "JM"
+  },
+  {
+    "name": "Clarendon",
+    "country": "JM"
+  },
+  {
+    "name": "Chatham",
+    "country": "JM"
+  },
+  {
+    "name": "Chapelton",
+    "country": "JM"
+  },
+  {
+    "name": "Central Village",
+    "country": "JM"
+  },
+  {
+    "name": "Cascade",
+    "country": "JM"
+  },
+  {
+    "name": "Cambridge",
+    "country": "JM"
+  },
+  {
+    "name": "Bull Savanna",
+    "country": "JM"
+  },
+  {
+    "name": "Bull Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Buff Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Bryans Pen",
+    "country": "JM"
+  },
+  {
+    "name": "Bog Walk",
+    "country": "JM"
+  },
+  {
+    "name": "Bluefields",
+    "country": "JM"
+  },
+  {
+    "name": "Black River",
+    "country": "JM"
+  },
+  {
+    "name": "Bethlehem",
+    "country": "JM"
+  },
+  {
+    "name": "Bethel Town",
+    "country": "JM"
+  },
+  {
+    "name": "Beacon Hill",
+    "country": "JM"
+  },
+  {
+    "name": "Bath",
+    "country": "JM"
+  },
+  {
+    "name": "Bamboo",
+    "country": "JM"
+  },
+  {
+    "name": "Balaclava",
+    "country": "JM"
+  },
+  {
+    "name": "August Town",
+    "country": "JM"
+  },
+  {
+    "name": "Annotto Bay",
+    "country": "JM"
+  },
+  {
+    "name": "Anchovy",
+    "country": "JM"
+  },
+  {
+    "name": "Alligator Pond",
+    "country": "JM"
+  },
+  {
+    "name": "Alexandria",
+    "country": "JM"
+  },
+  {
+    "name": "Albert Town",
+    "country": "JM"
+  },
+  {
+    "name": "Albert Arms",
+    "country": "JM"
+  },
+  {
+    "name": "Glengoffe",
+    "country": "JM"
+  },
+  {
+    "name": "Limit",
+    "country": "JM"
+  }
+]

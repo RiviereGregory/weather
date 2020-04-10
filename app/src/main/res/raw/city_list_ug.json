@@ -1,0 +1,750 @@
+[
+  {
+    "name": "Zombo",
+    "country": "UG"
+  },
+  {
+    "name": "Yumbe",
+    "country": "UG"
+  },
+  {
+    "name": "Wobulenzi",
+    "country": "UG"
+  },
+  {
+    "name": "Wakiso",
+    "country": "UG"
+  },
+  {
+    "name": "Republic of Uganda",
+    "country": "UG"
+  },
+  {
+    "name": "Tororo",
+    "country": "UG"
+  },
+  {
+    "name": "Masaka District",
+    "country": "UG"
+  },
+  {
+    "name": "Soroti",
+    "country": "UG"
+  },
+  {
+    "name": "Sironko",
+    "country": "UG"
+  },
+  {
+    "name": "Serere",
+    "country": "UG"
+  },
+  {
+    "name": "Sembabule",
+    "country": "UG"
+  },
+  {
+    "name": "Rukungiri",
+    "country": "UG"
+  },
+  {
+    "name": "Rukoki",
+    "country": "UG"
+  },
+  {
+    "name": "Rubirizi",
+    "country": "UG"
+  },
+  {
+    "name": "Rakai",
+    "country": "UG"
+  },
+  {
+    "name": "Pallisa",
+    "country": "UG"
+  },
+  {
+    "name": "Paidha",
+    "country": "UG"
+  },
+  {
+    "name": "Pader Palwo",
+    "country": "UG"
+  },
+  {
+    "name": "Opiyai",
+    "country": "UG"
+  },
+  {
+    "name": "Nyalutembe",
+    "country": "UG"
+  },
+  {
+    "name": "Nyalubanga",
+    "country": "UG"
+  },
+  {
+    "name": "Ntungamo",
+    "country": "UG"
+  },
+  {
+    "name": "Ntungamo",
+    "country": "UG"
+  },
+  {
+    "name": "Ntoroko",
+    "country": "UG"
+  },
+  {
+    "name": "Njeru",
+    "country": "UG"
+  },
+  {
+    "name": "Ngora",
+    "country": "UG"
+  },
+  {
+    "name": "Nebbi",
+    "country": "UG"
+  },
+  {
+    "name": "Namutumba",
+    "country": "UG"
+  },
+  {
+    "name": "Namirembe",
+    "country": "UG"
+  },
+  {
+    "name": "Namasuba",
+    "country": "UG"
+  },
+  {
+    "name": "Nakasongola",
+    "country": "UG"
+  },
+  {
+    "name": "Nakaseke",
+    "country": "UG"
+  },
+  {
+    "name": "Nadiket",
+    "country": "UG"
+  },
+  {
+    "name": "Mukono",
+    "country": "UG"
+  },
+  {
+    "name": "Muhororo",
+    "country": "UG"
+  },
+  {
+    "name": "Mubende",
+    "country": "UG"
+  },
+  {
+    "name": "Mpigi",
+    "country": "UG"
+  },
+  {
+    "name": "Moyo",
+    "country": "UG"
+  },
+  {
+    "name": "Moroto",
+    "country": "UG"
+  },
+  {
+    "name": "Mityana",
+    "country": "UG"
+  },
+  {
+    "name": "Mitoma",
+    "country": "UG"
+  },
+  {
+    "name": "Mbarara",
+    "country": "UG"
+  },
+  {
+    "name": "Mbale",
+    "country": "UG"
+  },
+  {
+    "name": "Mayuge",
+    "country": "UG"
+  },
+  {
+    "name": "Masindi Port",
+    "country": "UG"
+  },
+  {
+    "name": "Masindi",
+    "country": "UG"
+  },
+  {
+    "name": "Masaka",
+    "country": "UG"
+  },
+  {
+    "name": "Maracha",
+    "country": "UG"
+  },
+  {
+    "name": "Lyantonde",
+    "country": "UG"
+  },
+  {
+    "name": "Lwengo",
+    "country": "UG"
+  },
+  {
+    "name": "Luwero",
+    "country": "UG"
+  },
+  {
+    "name": "Lugazi",
+    "country": "UG"
+  },
+  {
+    "name": "Lokiporangatome",
+    "country": "UG"
+  },
+  {
+    "name": "Lira",
+    "country": "UG"
+  },
+  {
+    "name": "Kyotera",
+    "country": "UG"
+  },
+  {
+    "name": "Kyenjojo",
+    "country": "UG"
+  },
+  {
+    "name": "Kyegegwa",
+    "country": "UG"
+  },
+  {
+    "name": "Kumi",
+    "country": "UG"
+  },
+  {
+    "name": "Kotido",
+    "country": "UG"
+  },
+  {
+    "name": "Koboko",
+    "country": "UG"
+  },
+  {
+    "name": "Kitgum",
+    "country": "UG"
+  },
+  {
+    "name": "Kisoro",
+    "country": "UG"
+  },
+  {
+    "name": "Kiryandongo",
+    "country": "UG"
+  },
+  {
+    "name": "Kireka",
+    "country": "UG"
+  },
+  {
+    "name": "Kiraboha",
+    "country": "UG"
+  },
+  {
+    "name": "Kilembe",
+    "country": "UG"
+  },
+  {
+    "name": "Kigorobya",
+    "country": "UG"
+  },
+  {
+    "name": "Kibuku",
+    "country": "UG"
+  },
+  {
+    "name": "Kiboga",
+    "country": "UG"
+  },
+  {
+    "name": "Kibingo",
+    "country": "UG"
+  },
+  {
+    "name": "Kibale",
+    "country": "UG"
+  },
+  {
+    "name": "Kayunga",
+    "country": "UG"
+  },
+  {
+    "name": "Katakwi",
+    "country": "UG"
+  },
+  {
+    "name": "Kasese",
+    "country": "UG"
+  },
+  {
+    "name": "Kapchorwa",
+    "country": "UG"
+  },
+  {
+    "name": "Kanungu",
+    "country": "UG"
+  },
+  {
+    "name": "Kanoni",
+    "country": "UG"
+  },
+  {
+    "name": "Kamwenge",
+    "country": "UG"
+  },
+  {
+    "name": "Kamuli",
+    "country": "UG"
+  },
+  {
+    "name": "Kampala",
+    "country": "UG"
+  },
+  {
+    "name": "Kalungu",
+    "country": "UG"
+  },
+  {
+    "name": "Kaliro",
+    "country": "UG"
+  },
+  {
+    "name": "Kalangala",
+    "country": "UG"
+  },
+  {
+    "name": "Kajansi",
+    "country": "UG"
+  },
+  {
+    "name": "Kagadi",
+    "country": "UG"
+  },
+  {
+    "name": "Kaberamaido",
+    "country": "UG"
+  },
+  {
+    "name": "Kabale",
+    "country": "UG"
+  },
+  {
+    "name": "Kaabong",
+    "country": "UG"
+  },
+  {
+    "name": "Jinja",
+    "country": "UG"
+  },
+  {
+    "name": "Iganga",
+    "country": "UG"
+  },
+  {
+    "name": "Hoima",
+    "country": "UG"
+  },
+  {
+    "name": "Gulu",
+    "country": "UG"
+  },
+  {
+    "name": "Gombe",
+    "country": "UG"
+  },
+  {
+    "name": "Fort Portal",
+    "country": "UG"
+  },
+  {
+    "name": "Entebbe",
+    "country": "UG"
+  },
+  {
+    "name": "Dokolo",
+    "country": "UG"
+  },
+  {
+    "name": "Mpigi District",
+    "country": "UG"
+  },
+  {
+    "name": "Byakabanda",
+    "country": "UG"
+  },
+  {
+    "name": "Bwizibwera",
+    "country": "UG"
+  },
+  {
+    "name": "Bweyogerere",
+    "country": "UG"
+  },
+  {
+    "name": "Buyende",
+    "country": "UG"
+  },
+  {
+    "name": "Buwenge",
+    "country": "UG"
+  },
+  {
+    "name": "Butaleja",
+    "country": "UG"
+  },
+  {
+    "name": "Busia",
+    "country": "UG"
+  },
+  {
+    "name": "Bushenyi",
+    "country": "UG"
+  },
+  {
+    "name": "Busembatia",
+    "country": "UG"
+  },
+  {
+    "name": "Bundibugyo",
+    "country": "UG"
+  },
+  {
+    "name": "Bulisa",
+    "country": "UG"
+  },
+  {
+    "name": "Bulambuli",
+    "country": "UG"
+  },
+  {
+    "name": "Bukwa",
+    "country": "UG"
+  },
+  {
+    "name": "Bukomansimbi",
+    "country": "UG"
+  },
+  {
+    "name": "Bukiberu",
+    "country": "UG"
+  },
+  {
+    "name": "Bukedea",
+    "country": "UG"
+  },
+  {
+    "name": "Buikwe",
+    "country": "UG"
+  },
+  {
+    "name": "Bugiri",
+    "country": "UG"
+  },
+  {
+    "name": "Bugembe",
+    "country": "UG"
+  },
+  {
+    "name": "Bududa",
+    "country": "UG"
+  },
+  {
+    "name": "Budaka",
+    "country": "UG"
+  },
+  {
+    "name": "Binyin",
+    "country": "UG"
+  },
+  {
+    "name": "Balabala",
+    "country": "UG"
+  },
+  {
+    "name": "Arua",
+    "country": "UG"
+  },
+  {
+    "name": "Apac",
+    "country": "UG"
+  },
+  {
+    "name": "Amuria",
+    "country": "UG"
+  },
+  {
+    "name": "Amudat",
+    "country": "UG"
+  },
+  {
+    "name": "Amolatar",
+    "country": "UG"
+  },
+  {
+    "name": "Alebtong",
+    "country": "UG"
+  },
+  {
+    "name": "Adok",
+    "country": "UG"
+  },
+  {
+    "name": "Adjumani",
+    "country": "UG"
+  },
+  {
+    "name": "Abim",
+    "country": "UG"
+  },
+  {
+    "name": "Arua District",
+    "country": "UG"
+  },
+  {
+    "name": "Bundibugyo District",
+    "country": "UG"
+  },
+  {
+    "name": "Gulu District",
+    "country": "UG"
+  },
+  {
+    "name": "Hoima District",
+    "country": "UG"
+  },
+  {
+    "name": "Iganga District",
+    "country": "UG"
+  },
+  {
+    "name": "Jinja District",
+    "country": "UG"
+  },
+  {
+    "name": "Kabale District",
+    "country": "UG"
+  },
+  {
+    "name": "Kabarole District",
+    "country": "UG"
+  },
+  {
+    "name": "Kampala District",
+    "country": "UG"
+  },
+  {
+    "name": "Kasese District",
+    "country": "UG"
+  },
+  {
+    "name": "Kitgum District",
+    "country": "UG"
+  },
+  {
+    "name": "Kotido District",
+    "country": "UG"
+  },
+  {
+    "name": "Lira District",
+    "country": "UG"
+  },
+  {
+    "name": "Luwero District",
+    "country": "UG"
+  },
+  {
+    "name": "Masindi District",
+    "country": "UG"
+  },
+  {
+    "name": "Mbale District",
+    "country": "UG"
+  },
+  {
+    "name": "Mbarara District",
+    "country": "UG"
+  },
+  {
+    "name": "Moroto District",
+    "country": "UG"
+  },
+  {
+    "name": "Moyo District",
+    "country": "UG"
+  },
+  {
+    "name": "Mubende District",
+    "country": "UG"
+  },
+  {
+    "name": "Mukono District",
+    "country": "UG"
+  },
+  {
+    "name": "Nebbi District",
+    "country": "UG"
+  },
+  {
+    "name": "Ntungamo District",
+    "country": "UG"
+  },
+  {
+    "name": "Pallisa District",
+    "country": "UG"
+  },
+  {
+    "name": "Soroti District",
+    "country": "UG"
+  },
+  {
+    "name": "Tororo District",
+    "country": "UG"
+  },
+  {
+    "name": "Adjumani District",
+    "country": "UG"
+  },
+  {
+    "name": "Bugiri District",
+    "country": "UG"
+  },
+  {
+    "name": "Busia District",
+    "country": "UG"
+  },
+  {
+    "name": "Kamwenge District",
+    "country": "UG"
+  },
+  {
+    "name": "Kanungu District",
+    "country": "UG"
+  },
+  {
+    "name": "Kayunga District",
+    "country": "UG"
+  },
+  {
+    "name": "Kyenjojo District",
+    "country": "UG"
+  },
+  {
+    "name": "Wakiso District",
+    "country": "UG"
+  },
+  {
+    "name": "Yumbe District",
+    "country": "UG"
+  },
+  {
+    "name": "Nakapiripirit",
+    "country": "UG"
+  },
+  {
+    "name": "Pader",
+    "country": "UG"
+  },
+  {
+    "name": "Margherita",
+    "country": "UG"
+  },
+  {
+    "name": "Nwoya",
+    "country": "UG"
+  },
+  {
+    "name": "Paraka",
+    "country": "UG"
+  },
+  {
+    "name": "Mityana District",
+    "country": "UG"
+  },
+  {
+    "name": "Nakaseke District",
+    "country": "UG"
+  },
+  {
+    "name": "Isingiro",
+    "country": "UG"
+  },
+  {
+    "name": "Manafwa",
+    "country": "UG"
+  },
+  {
+    "name": "Oyam",
+    "country": "UG"
+  },
+  {
+    "name": "Amuru",
+    "country": "UG"
+  },
+  {
+    "name": "Napak District",
+    "country": "UG"
+  },
+  {
+    "name": "Zombo District",
+    "country": "UG"
+  },
+  {
+    "name": "Buikwe District",
+    "country": "UG"
+  },
+  {
+    "name": "Namayingo",
+    "country": "UG"
+  },
+  {
+    "name": "Kitamilo",
+    "country": "UG"
+  },
+  {
+    "name": "Kyankwanzi",
+    "country": "UG"
+  },
+  {
+    "name": "Kole",
+    "country": "UG"
+  },
+  {
+    "name": "Otuke",
+    "country": "UG"
+  },
+  {
+    "name": "Napak",
+    "country": "UG"
+  },
+  {
+    "name": "Luuka Town",
+    "country": "UG"
+  },
+  {
+    "name": "Palingi",
+    "country": "UG"
+  },
+  {
+    "name": "Bungatira",
+    "country": "UG"
+  }
+]

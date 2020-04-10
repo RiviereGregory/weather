@@ -1,0 +1,598 @@
+[
+  {
+    "name": "Abastumani",
+    "country": "GE"
+  },
+  {
+    "name": "Zugdidis Munitsip\u2019alit\u2019et\u2019i",
+    "country": "GE"
+  },
+  {
+    "name": "Zugdidi",
+    "country": "GE"
+  },
+  {
+    "name": "Zhinvali",
+    "country": "GE"
+  },
+  {
+    "name": "Zest\u2019aponi",
+    "country": "GE"
+  },
+  {
+    "name": "Zeda Bashi",
+    "country": "GE"
+  },
+  {
+    "name": "Zahesi",
+    "country": "GE"
+  },
+  {
+    "name": "Volodarskoye",
+    "country": "GE"
+  },
+  {
+    "name": "Vani",
+    "country": "GE"
+  },
+  {
+    "name": "Vale",
+    "country": "GE"
+  },
+  {
+    "name": "Urek\u2019i",
+    "country": "GE"
+  },
+  {
+    "name": "Ts\u2019nori",
+    "country": "GE"
+  },
+  {
+    "name": "Tsqnet\u2019i",
+    "country": "GE"
+  },
+  {
+    "name": "Ts\u2019khinvali",
+    "country": "GE"
+  },
+  {
+    "name": "Ts\u2019inandali",
+    "country": "GE"
+  },
+  {
+    "name": "Ts\u2019alk\u2019a",
+    "country": "GE"
+  },
+  {
+    "name": "Ts\u2019alenjikha",
+    "country": "GE"
+  },
+  {
+    "name": "Ts\u2019aghveri",
+    "country": "GE"
+  },
+  {
+    "name": "Tqvarch'eli",
+    "country": "GE"
+  },
+  {
+    "name": "T\u2019q\u2019ibuli",
+    "country": "GE"
+  },
+  {
+    "name": "Tofaloglebi",
+    "country": "GE"
+  },
+  {
+    "name": "Tianeti",
+    "country": "GE"
+  },
+  {
+    "name": "Tetri Ts\u2019q\u2019aro",
+    "country": "GE"
+  },
+  {
+    "name": "Telavi",
+    "country": "GE"
+  },
+  {
+    "name": "K'alak'i T'bilisi",
+    "country": "GE"
+  },
+  {
+    "name": "Tbilisi",
+    "country": "GE"
+  },
+  {
+    "name": "Surami",
+    "country": "GE"
+  },
+  {
+    "name": "Sokhumi",
+    "country": "GE"
+  },
+  {
+    "name": "Sighnaghi",
+    "country": "GE"
+  },
+  {
+    "name": "Shorap\u2019ani",
+    "country": "GE"
+  },
+  {
+    "name": "Shaumiani",
+    "country": "GE"
+  },
+  {
+    "name": "Senak\u2019i",
+    "country": "GE"
+  },
+  {
+    "name": "Samtredia",
+    "country": "GE"
+  },
+  {
+    "name": "Sagarejo",
+    "country": "GE"
+  },
+  {
+    "name": "Saburtalo",
+    "country": "GE"
+  },
+  {
+    "name": "Rustavi",
+    "country": "GE"
+  },
+  {
+    "name": "Q\u2019vareli",
+    "country": "GE"
+  },
+  {
+    "name": "Pskhu",
+    "country": "GE"
+  },
+  {
+    "name": "P\u2019ot\u2019i",
+    "country": "GE"
+  },
+  {
+    "name": "Patara-Shiraki",
+    "country": "GE"
+  },
+  {
+    "name": "Pasanauri",
+    "country": "GE"
+  },
+  {
+    "name": "Oni",
+    "country": "GE"
+  },
+  {
+    "name": "Ochkhamuri",
+    "country": "GE"
+  },
+  {
+    "name": "Och\u2019amch\u2019ire",
+    "country": "GE"
+  },
+  {
+    "name": "Ninotsminda",
+    "country": "GE"
+  },
+  {
+    "name": "Mtskheta",
+    "country": "GE"
+  },
+  {
+    "name": "Vanati",
+    "country": "GE"
+  },
+  {
+    "name": "Mest\u2019ia",
+    "country": "GE"
+  },
+  {
+    "name": "Mart\u2019vili",
+    "country": "GE"
+  },
+  {
+    "name": "Marneuli",
+    "country": "GE"
+  },
+  {
+    "name": "Manglisi",
+    "country": "GE"
+  },
+  {
+    "name": "Makhinjauri",
+    "country": "GE"
+  },
+  {
+    "name": "Likhni",
+    "country": "GE"
+  },
+  {
+    "name": "Lidzava",
+    "country": "GE"
+  },
+  {
+    "name": "Leselidze",
+    "country": "GE"
+  },
+  {
+    "name": "Lent\u2019ekhi",
+    "country": "GE"
+  },
+  {
+    "name": "Lech\u2019k\u2019op\u2019i",
+    "country": "GE"
+  },
+  {
+    "name": "Lagodekhi",
+    "country": "GE"
+  },
+  {
+    "name": "Kveda Chkhorots\u2019q\u2019u",
+    "country": "GE"
+  },
+  {
+    "name": "Kutaisi",
+    "country": "GE"
+  },
+  {
+    "name": "K\u2019ulashi",
+    "country": "GE"
+  },
+  {
+    "name": "Kobuleti",
+    "country": "GE"
+  },
+  {
+    "name": "Khoni",
+    "country": "GE"
+  },
+  {
+    "name": "Khobi",
+    "country": "GE"
+  },
+  {
+    "name": "Khashuris Raioni",
+    "country": "GE"
+  },
+  {
+    "name": "Khashuri",
+    "country": "GE"
+  },
+  {
+    "name": "St\u2019epants\u2019minda",
+    "country": "GE"
+  },
+  {
+    "name": "K\u2019asp\u2019i",
+    "country": "GE"
+  },
+  {
+    "name": "Java",
+    "country": "GE"
+  },
+  {
+    "name": "Gurjaani",
+    "country": "GE"
+  },
+  {
+    "name": "Gumista",
+    "country": "GE"
+  },
+  {
+    "name": "Gudauta",
+    "country": "GE"
+  },
+  {
+    "name": "Gori",
+    "country": "GE"
+  },
+  {
+    "name": "Georgia",
+    "country": "GE"
+  },
+  {
+    "name": "Gardabani",
+    "country": "GE"
+  },
+  {
+    "name": "Gantiadi",
+    "country": "GE"
+  },
+  {
+    "name": "Gali",
+    "country": "GE"
+  },
+  {
+    "name": "Gagra",
+    "country": "GE"
+  },
+  {
+    "name": "Jvari",
+    "country": "GE"
+  },
+  {
+    "name": "Jigrasheni",
+    "country": "GE"
+  },
+  {
+    "name": "Jvara",
+    "country": "GE"
+  },
+  {
+    "name": "Diok\u2019nisi",
+    "country": "GE"
+  },
+  {
+    "name": "Didi Lilo",
+    "country": "GE"
+  },
+  {
+    "name": "Didi Gorijvari",
+    "country": "GE"
+  },
+  {
+    "name": "Chigripsh",
+    "country": "GE"
+  },
+  {
+    "name": "Cherkezikhu",
+    "country": "GE"
+  },
+  {
+    "name": "Bzipi",
+    "country": "GE"
+  },
+  {
+    "name": "Borjomi",
+    "country": "GE"
+  },
+  {
+    "name": "Bolnisi",
+    "country": "GE"
+  },
+  {
+    "name": "Blaburkhva",
+    "country": "GE"
+  },
+  {
+    "name": "Bich\u2019vinta",
+    "country": "GE"
+  },
+  {
+    "name": "Beghleti",
+    "country": "GE"
+  },
+  {
+    "name": "Batumi",
+    "country": "GE"
+  },
+  {
+    "name": "Bombora",
+    "country": "GE"
+  },
+  {
+    "name": "Bak\u2019uriani",
+    "country": "GE"
+  },
+  {
+    "name": "Bagdadi",
+    "country": "GE"
+  },
+  {
+    "name": "Asp\u2019indza",
+    "country": "GE"
+  },
+  {
+    "name": "Ambrolauri",
+    "country": "GE"
+  },
+  {
+    "name": "Alpiiskoe",
+    "country": "GE"
+  },
+  {
+    "name": "Akhmet\u2019a",
+    "country": "GE"
+  },
+  {
+    "name": "Akhaltsikhe",
+    "country": "GE"
+  },
+  {
+    "name": "Akhalk\u2019alak\u2019i",
+    "country": "GE"
+  },
+  {
+    "name": "Akhali-Gagra",
+    "country": "GE"
+  },
+  {
+    "name": "Stantsiya Novyy Afon",
+    "country": "GE"
+  },
+  {
+    "name": "Akhalgori",
+    "country": "GE"
+  },
+  {
+    "name": "Akhaldaba",
+    "country": "GE"
+  },
+  {
+    "name": "Ajaria",
+    "country": "GE"
+  },
+  {
+    "name": "Agara",
+    "country": "GE"
+  },
+  {
+    "name": "Adigeni",
+    "country": "GE"
+  },
+  {
+    "name": "Abzhaq\u2019va",
+    "country": "GE"
+  },
+  {
+    "name": "Abasha",
+    "country": "GE"
+  },
+  {
+    "name": "Bzypiskhevi",
+    "country": "GE"
+  },
+  {
+    "name": "Bzybta Tretyy Kilometr",
+    "country": "GE"
+  },
+  {
+    "name": "Dzikhcha",
+    "country": "GE"
+  },
+  {
+    "name": "Gagrap\u2019sta",
+    "country": "GE"
+  },
+  {
+    "name": "Ipnari",
+    "country": "GE"
+  },
+  {
+    "name": "Ts\u2019vk\u2019vara",
+    "country": "GE"
+  },
+  {
+    "name": "Adzghapsha",
+    "country": "GE"
+  },
+  {
+    "name": "Nizhneye Armyanskoye Ushchel\u2019ye",
+    "country": "GE"
+  },
+  {
+    "name": "Adzigezhi",
+    "country": "GE"
+  },
+  {
+    "name": "Otradnoe",
+    "country": "GE"
+  },
+  {
+    "name": "Ts\u2019q\u2019alt\u2019ubo",
+    "country": "GE"
+  },
+  {
+    "name": "Naruja",
+    "country": "GE"
+  },
+  {
+    "name": "Bak\u2019urianis Andezit\u2019i",
+    "country": "GE"
+  },
+  {
+    "name": "Tkhubun",
+    "country": "GE"
+  },
+  {
+    "name": "Kvemo Iashtkhva",
+    "country": "GE"
+  },
+  {
+    "name": "Kvemo Kartli",
+    "country": "GE"
+  },
+  {
+    "name": "Kakheti",
+    "country": "GE"
+  },
+  {
+    "name": "Imereti",
+    "country": "GE"
+  },
+  {
+    "name": "Shida Kartli",
+    "country": "GE"
+  },
+  {
+    "name": "Mtskheta-Mtianeti",
+    "country": "GE"
+  },
+  {
+    "name": "Samegrelo-Zemo Svanetis Mkhare",
+    "country": "GE"
+  },
+  {
+    "name": "Lilo",
+    "country": "GE"
+  },
+  {
+    "name": "Abaakhuda",
+    "country": "GE"
+  },
+  {
+    "name": "Akui",
+    "country": "GE"
+  },
+  {
+    "name": "Ritsa",
+    "country": "GE"
+  },
+  {
+    "name": "-",
+    "country": "GE"
+  },
+  {
+    "name": "Ptitsefabrika",
+    "country": "GE"
+  },
+  {
+    "name": "Zemo Khevi",
+    "country": "GE"
+  },
+  {
+    "name": "Gruzinskoye Ushchel\u2019ye",
+    "country": "GE"
+  },
+  {
+    "name": "Orekhovo",
+    "country": "GE"
+  },
+  {
+    "name": "Meria",
+    "country": "GE"
+  },
+  {
+    "name": "Abkhazia",
+    "country": "GE"
+  },
+  {
+    "name": "Tskhinvali",
+    "country": "GE"
+  },
+  {
+    "name": "Marneuli",
+    "country": "GE"
+  },
+  {
+    "name": "Gurjaani",
+    "country": "GE"
+  },
+  {
+    "name": "Telavi",
+    "country": "GE"
+  },
+  {
+    "name": "Tsalka",
+    "country": "GE"
+  },
+  {
+    "name": "Kharagauli",
+    "country": "GE"
+  }
+]

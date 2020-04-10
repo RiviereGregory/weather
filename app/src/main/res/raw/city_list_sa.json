@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Yanbu",
+    "country": "SA"
+  },
+  {
+    "name": "Umluj",
+    "country": "SA"
+  },
+  {
+    "name": "Umm as S\u0101hik",
+    "country": "SA"
+  },
+  {
+    "name": "Turaif",
+    "country": "SA"
+  },
+  {
+    "name": "Turabah",
+    "country": "SA"
+  },
+  {
+    "name": "At T\u016bb\u012b",
+    "country": "SA"
+  },
+  {
+    "name": "T\u0101r\u016bt",
+    "country": "SA"
+  },
+  {
+    "name": "Tan\u016bmah",
+    "country": "SA"
+  },
+  {
+    "name": "Tamrah",
+    "country": "SA"
+  },
+  {
+    "name": "Min\u0163aqat Tab\u016bk",
+    "country": "SA"
+  },
+  {
+    "name": "Tabuk",
+    "country": "SA"
+  },
+  {
+    "name": "\u0162ubarjal",
+    "country": "SA"
+  },
+  {
+    "name": "Tab\u0101lah",
+    "country": "SA"
+  },
+  {
+    "name": "\u015eumaymah",
+    "country": "SA"
+  },
+  {
+    "name": "Sul\u0163\u0101nah",
+    "country": "SA"
+  },
+  {
+    "name": "Sufan",
+    "country": "SA"
+  },
+  {
+    "name": "S\u012bd\u012b \u1e28amzah",
+    "country": "SA"
+  },
+  {
+    "name": "Sayh\u0101t",
+    "country": "SA"
+  },
+  {
+    "name": "Kingdom of Saudi Arabia",
+    "country": "SA"
+  },
+  {
+    "name": "\u015e\u0101mitah",
+    "country": "SA"
+  },
+  {
+    "name": "Sakakah",
+    "country": "SA"
+  },
+  {
+    "name": "\u015eafw\u00e1",
+    "country": "SA"
+  },
+  {
+    "name": "\u015eaby\u0101",
+    "country": "SA"
+  },
+  {
+    "name": "Ras Tanura",
+    "country": "SA"
+  },
+  {
+    "name": "Ra\u1e29\u012bmah",
+    "country": "SA"
+  },
+  {
+    "name": "Rafha",
+    "country": "SA"
+  },
+  {
+    "name": "R\u0101bigh",
+    "country": "SA"
+  },
+  {
+    "name": "Q\u0101r\u0101",
+    "country": "SA"
+  },
+  {
+    "name": "Qal\u2018at B\u012bshah",
+    "country": "SA"
+  },
+  {
+    "name": "Nimr\u0101n",
+    "country": "SA"
+  },
+  {
+    "name": "Najr\u0101n",
+    "country": "SA"
+  },
+  {
+    "name": "Naghb\u012b",
+    "country": "SA"
+  },
+  {
+    "name": "Mulayjah",
+    "country": "SA"
+  },
+  {
+    "name": "Misl\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Masjid Ibn Rash\u012bd",
+    "country": "SA"
+  },
+  {
+    "name": "Mas\u0101\u1e29il\u012b",
+    "country": "SA"
+  },
+  {
+    "name": "Mar\u0101t",
+    "country": "SA"
+  },
+  {
+    "name": "Makkah Province",
+    "country": "SA"
+  },
+  {
+    "name": "Mecca",
+    "country": "SA"
+  },
+  {
+    "name": "Mad\u012bnat Yanbu\u2018 a\u015f \u015ein\u0101\u2018\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Khamis Mushait",
+    "country": "SA"
+  },
+  {
+    "name": "Julayjilah",
+    "country": "SA"
+  },
+  {
+    "name": "Jizan Region",
+    "country": "SA"
+  },
+  {
+    "name": "Jizan",
+    "country": "SA"
+  },
+  {
+    "name": "Jeddah",
+    "country": "SA"
+  },
+  {
+    "name": "\u1e28ajlah",
+    "country": "SA"
+  },
+  {
+    "name": "Hai\u2019l Region",
+    "country": "SA"
+  },
+  {
+    "name": "Ha'il",
+    "country": "SA"
+  },
+  {
+    "name": "Hafar Al-Batin",
+    "country": "SA"
+  },
+  {
+    "name": "Faras\u0101n",
+    "country": "SA"
+  },
+  {
+    "name": "Duba",
+    "country": "SA"
+  },
+  {
+    "name": "Buraydah",
+    "country": "SA"
+  },
+  {
+    "name": "Abqaiq",
+    "country": "SA"
+  },
+  {
+    "name": "Birzayn",
+    "country": "SA"
+  },
+  {
+    "name": "Banb\u0101n",
+    "country": "SA"
+  },
+  {
+    "name": "Badr \u1e28unayn",
+    "country": "SA"
+  },
+  {
+    "name": "Az Zulf\u012b",
+    "country": "SA"
+  },
+  {
+    "name": "Dhahran",
+    "country": "SA"
+  },
+  {
+    "name": "A\u0163 \u0162araf",
+    "country": "SA"
+  },
+  {
+    "name": "Ta\u2019if",
+    "country": "SA"
+  },
+  {
+    "name": "As Sulayyil",
+    "country": "SA"
+  },
+  {
+    "name": "As Sulaym\u0101n\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "S\u0101jir",
+    "country": "SA"
+  },
+  {
+    "name": "As Saff\u0101n\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Min\u0163aqat \u2018As\u012br",
+    "country": "SA"
+  },
+  {
+    "name": "Ash Shurayf",
+    "country": "SA"
+  },
+  {
+    "name": "Ash Shubram\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Min\u0163aqah ash Sharq\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Ar Ruqayyiqah",
+    "country": "SA"
+  },
+  {
+    "name": "Riyadh",
+    "country": "SA"
+  },
+  {
+    "name": "Min\u0163aqat ar Riy\u0101\u1e11",
+    "country": "SA"
+  },
+  {
+    "name": "Ar Rass",
+    "country": "SA"
+  },
+  {
+    "name": "Arar",
+    "country": "SA"
+  },
+  {
+    "name": "An Nim\u0101\u015f",
+    "country": "SA"
+  },
+  {
+    "name": "Qurayyat",
+    "country": "SA"
+  },
+  {
+    "name": "Al Wajh",
+    "country": "SA"
+  },
+  {
+    "name": "Al Qurayn",
+    "country": "SA"
+  },
+  {
+    "name": "Qaisumah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Qa\u0163\u012bf",
+    "country": "SA"
+  },
+  {
+    "name": "Al-Qassim Province",
+    "country": "SA"
+  },
+  {
+    "name": "Al Quraynah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Q\u0101rah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Mu\u0163ayrif\u012b",
+    "country": "SA"
+  },
+  {
+    "name": "Al Munayzilah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Mubarraz",
+    "country": "SA"
+  },
+  {
+    "name": "Al Mindak",
+    "country": "SA"
+  },
+  {
+    "name": "Al Mikhl\u0101f",
+    "country": "SA"
+  },
+  {
+    "name": "Al Markaz",
+    "country": "SA"
+  },
+  {
+    "name": "Medina",
+    "country": "SA"
+  },
+  {
+    "name": "Al Mad\u012bnah al Munawwarah",
+    "country": "SA"
+  },
+  {
+    "name": "Khobar",
+    "country": "SA"
+  },
+  {
+    "name": "Al Kharj",
+    "country": "SA"
+  },
+  {
+    "name": "Al Khafj\u012b",
+    "country": "SA"
+  },
+  {
+    "name": "Al Jum\u016bm",
+    "country": "SA"
+  },
+  {
+    "name": "Al Jubayl",
+    "country": "SA"
+  },
+  {
+    "name": "Al Jubayl",
+    "country": "SA"
+  },
+  {
+    "name": "Al Jawf",
+    "country": "SA"
+  },
+  {
+    "name": "Al Jar\u0101d\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Jafr",
+    "country": "SA"
+  },
+  {
+    "name": "Al Huf\u016bf",
+    "country": "SA"
+  },
+  {
+    "name": "Min\u0163aqat al \u1e28ud\u016bd ash Sham\u0101l\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Gha\u0163gha\u0163",
+    "country": "SA"
+  },
+  {
+    "name": "Al Bukayr\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Ba\u0163\u0163\u0101l\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Bu\u015fur",
+    "country": "SA"
+  },
+  {
+    "name": "Al Bahah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Ar\u0163\u0101w\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Al \u2018Aq\u012bq",
+    "country": "SA"
+  },
+  {
+    "name": "Al Awj\u0101m",
+    "country": "SA"
+  },
+  {
+    "name": "Afif",
+    "country": "SA"
+  },
+  {
+    "name": "Ad Dilam",
+    "country": "SA"
+  },
+  {
+    "name": "Ad Daw\u0101dim\u012b",
+    "country": "SA"
+  },
+  {
+    "name": "Ad Darb",
+    "country": "SA"
+  },
+  {
+    "name": "Dammam",
+    "country": "SA"
+  },
+  {
+    "name": "Ab\u016b \u2018Ar\u012bsh",
+    "country": "SA"
+  },
+  {
+    "name": "Abha",
+    "country": "SA"
+  },
+  {
+    "name": "Ab\u0101 as Su\u2018\u016bd",
+    "country": "SA"
+  },
+  {
+    "name": "Ash Shu\u2018aybah",
+    "country": "SA"
+  },
+  {
+    "name": "\u1e28ajrat al Khinbish",
+    "country": "SA"
+  },
+  {
+    "name": "\u2018U\u015fayfir\u0101t",
+    "country": "SA"
+  },
+  {
+    "name": "Al F\u0101\u1e11il\u012b",
+    "country": "SA"
+  },
+  {
+    "name": "\u015euwayr",
+    "country": "SA"
+  },
+  {
+    "name": "Sid\u012bs",
+    "country": "SA"
+  },
+  {
+    "name": "Khushayb\u012b al \u1e28a\u1e11ar",
+    "country": "SA"
+  },
+  {
+    "name": "Tumayr",
+    "country": "SA"
+  },
+  {
+    "name": "Al Fuwayliq",
+    "country": "SA"
+  },
+  {
+    "name": "Al Maj\u0101ridah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Fay\u015fal\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "As Sahb\u0101\u2019",
+    "country": "SA"
+  },
+  {
+    "name": "Al \u2018Aw\u0101j\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "Ra\u1e11w\u0101n",
+    "country": "SA"
+  },
+  {
+    "name": "Al Muwayh",
+    "country": "SA"
+  },
+  {
+    "name": "Al Had\u0101",
+    "country": "SA"
+  },
+  {
+    "name": "Mizhirah",
+    "country": "SA"
+  },
+  {
+    "name": "Al Mudawwarah",
+    "country": "SA"
+  },
+  {
+    "name": "Al \u0100b\u0101r",
+    "country": "SA"
+  },
+  {
+    "name": "Al Quday\u1e29",
+    "country": "SA"
+  },
+  {
+    "name": "Al Kh\u0101lid\u012byah",
+    "country": "SA"
+  },
+  {
+    "name": "shokhaib\u064d",
+    "country": "SA"
+  },
+  {
+    "name": "Sharurah",
+    "country": "SA"
+  }
+]

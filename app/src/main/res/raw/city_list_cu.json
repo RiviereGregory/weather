@@ -1,0 +1,686 @@
+[
+  {
+    "name": "Zaza del Medio",
+    "country": "CU"
+  },
+  {
+    "name": "Yara",
+    "country": "CU"
+  },
+  {
+    "name": "Yaguajay",
+    "country": "CU"
+  },
+  {
+    "name": "Vista del R\u00edo",
+    "country": "CU"
+  },
+  {
+    "name": "Vi\u00f1ales",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia de Villa Clara",
+    "country": "CU"
+  },
+  {
+    "name": "Vertientes",
+    "country": "CU"
+  },
+  {
+    "name": "Venezuela",
+    "country": "CU"
+  },
+  {
+    "name": "Venegas",
+    "country": "CU"
+  },
+  {
+    "name": "Varadero",
+    "country": "CU"
+  },
+  {
+    "name": "Uni\u00f3n de Reyes",
+    "country": "CU"
+  },
+  {
+    "name": "Trinidad",
+    "country": "CU"
+  },
+  {
+    "name": "Tejar la Palma",
+    "country": "CU"
+  },
+  {
+    "name": "Siguanea",
+    "country": "CU"
+  },
+  {
+    "name": "Sibanic\u00fa",
+    "country": "CU"
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "CU"
+  },
+  {
+    "name": "Santiago de las Vegas",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia de Santiago de Cuba",
+    "country": "CU"
+  },
+  {
+    "name": "Santiago de Cuba",
+    "country": "CU"
+  },
+  {
+    "name": "Santa Juana",
+    "country": "CU"
+  },
+  {
+    "name": "Santa Cruz del Sur",
+    "country": "CU"
+  },
+  {
+    "name": "Santa Cruz del Norte",
+    "country": "CU"
+  },
+  {
+    "name": "Santa Clara",
+    "country": "CU"
+  },
+  {
+    "name": "Santa Clara",
+    "country": "CU"
+  },
+  {
+    "name": "San Nicol\u00e1s de Bari",
+    "country": "CU"
+  },
+  {
+    "name": "San Luis",
+    "country": "CU"
+  },
+  {
+    "name": "San Luis",
+    "country": "CU"
+  },
+  {
+    "name": "San Lino",
+    "country": "CU"
+  },
+  {
+    "name": "San Juli\u00e1n",
+    "country": "CU"
+  },
+  {
+    "name": "San Jos\u00e9 de las Lajas",
+    "country": "CU"
+  },
+  {
+    "name": "San Jos\u00e9",
+    "country": "CU"
+  },
+  {
+    "name": "San Diego de Los Ba\u00f1os",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia de Sancti Sp\u00edritus",
+    "country": "CU"
+  },
+  {
+    "name": "Sancti Sp\u00edritus",
+    "country": "CU"
+  },
+  {
+    "name": "San Cristobal",
+    "country": "CU"
+  },
+  {
+    "name": "San Antonio de los Ba\u00f1os",
+    "country": "CU"
+  },
+  {
+    "name": "Sagua la Grande",
+    "country": "CU"
+  },
+  {
+    "name": "Sagua de T\u00e1namo",
+    "country": "CU"
+  },
+  {
+    "name": "Rodas",
+    "country": "CU"
+  },
+  {
+    "name": "R\u00edo Guayabal de Yateras",
+    "country": "CU"
+  },
+  {
+    "name": "R\u00edo Cauto",
+    "country": "CU"
+  },
+  {
+    "name": "Residencial Porta",
+    "country": "CU"
+  },
+  {
+    "name": "Remedios",
+    "country": "CU"
+  },
+  {
+    "name": "Ranchuelo",
+    "country": "CU"
+  },
+  {
+    "name": "Rancho Veloz",
+    "country": "CU"
+  },
+  {
+    "name": "Rancho Pekita",
+    "country": "CU"
+  },
+  {
+    "name": "Quivic\u00e1n",
+    "country": "CU"
+  },
+  {
+    "name": "Quemado de G\u00fcines",
+    "country": "CU"
+  },
+  {
+    "name": "Puerto Padre",
+    "country": "CU"
+  },
+  {
+    "name": "Primero de Enero",
+    "country": "CU"
+  },
+  {
+    "name": "Platanal",
+    "country": "CU"
+  },
+  {
+    "name": "Placetas",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia de Pinar del R\u00edo",
+    "country": "CU"
+  },
+  {
+    "name": "Pinar del R\u00edo",
+    "country": "CU"
+  },
+  {
+    "name": "Perico",
+    "country": "CU"
+  },
+  {
+    "name": "Pedro Betancourt",
+    "country": "CU"
+  },
+  {
+    "name": "Palmira",
+    "country": "CU"
+  },
+  {
+    "name": "Palma Soriano",
+    "country": "CU"
+  },
+  {
+    "name": "Padr\u00f3n",
+    "country": "CU"
+  },
+  {
+    "name": "Nuevitas",
+    "country": "CU"
+  },
+  {
+    "name": "Nueva Gerona",
+    "country": "CU"
+  },
+  {
+    "name": "Niquero",
+    "country": "CU"
+  },
+  {
+    "name": "Mor\u00f3n",
+    "country": "CU"
+  },
+  {
+    "name": "Moa",
+    "country": "CU"
+  },
+  {
+    "name": "Minas",
+    "country": "CU"
+  },
+  {
+    "name": "Municipio de Melena del Sur",
+    "country": "CU"
+  },
+  {
+    "name": "Melena del Sur",
+    "country": "CU"
+  },
+  {
+    "name": "Media Luna",
+    "country": "CU"
+  },
+  {
+    "name": "Media Luna",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia de Matanzas",
+    "country": "CU"
+  },
+  {
+    "name": "Matanzas",
+    "country": "CU"
+  },
+  {
+    "name": "Mart\u00ed",
+    "country": "CU"
+  },
+  {
+    "name": "Mariel",
+    "country": "CU"
+  },
+  {
+    "name": "Manzanillo",
+    "country": "CU"
+  },
+  {
+    "name": "Mantua",
+    "country": "CU"
+  },
+  {
+    "name": "Manicaragua",
+    "country": "CU"
+  },
+  {
+    "name": "Manguito",
+    "country": "CU"
+  },
+  {
+    "name": "Manat\u00ed",
+    "country": "CU"
+  },
+  {
+    "name": "Madruga",
+    "country": "CU"
+  },
+  {
+    "name": "Los Palacios",
+    "country": "CU"
+  },
+  {
+    "name": "Los Arabos",
+    "country": "CU"
+  },
+  {
+    "name": "Los \u00c1ngeles",
+    "country": "CU"
+  },
+  {
+    "name": "Las Tunas",
+    "country": "CU"
+  },
+  {
+    "name": "Las Tunas",
+    "country": "CU"
+  },
+  {
+    "name": "Las Minas",
+    "country": "CU"
+  },
+  {
+    "name": "La Salud",
+    "country": "CU"
+  },
+  {
+    "name": "La Playa",
+    "country": "CU"
+  },
+  {
+    "name": "La Luisa",
+    "country": "CU"
+  },
+  {
+    "name": "Havana",
+    "country": "CU"
+  },
+  {
+    "name": "Jovellanos",
+    "country": "CU"
+  },
+  {
+    "name": "Jobabo",
+    "country": "CU"
+  },
+  {
+    "name": "Jiguan\u00ed",
+    "country": "CU"
+  },
+  {
+    "name": "Jatibonico",
+    "country": "CU"
+  },
+  {
+    "name": "Jaruco",
+    "country": "CU"
+  },
+  {
+    "name": "Jamaica",
+    "country": "CU"
+  },
+  {
+    "name": "Jag\u00fcey Grande",
+    "country": "CU"
+  },
+  {
+    "name": "Municipio Especial Isla de la Juventud",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia de Holgu\u00edn",
+    "country": "CU"
+  },
+  {
+    "name": "Holgu\u00edn",
+    "country": "CU"
+  },
+  {
+    "name": "Guisa",
+    "country": "CU"
+  },
+  {
+    "name": "G\u00fcira de Melena",
+    "country": "CU"
+  },
+  {
+    "name": "G\u00fcines",
+    "country": "CU"
+  },
+  {
+    "name": "Guara",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia de Guant\u00e1namo",
+    "country": "CU"
+  },
+  {
+    "name": "Guant\u00e1namo",
+    "country": "CU"
+  },
+  {
+    "name": "Guane",
+    "country": "CU"
+  },
+  {
+    "name": "Guanajay",
+    "country": "CU"
+  },
+  {
+    "name": "Gu\u00e1imaro",
+    "country": "CU"
+  },
+  {
+    "name": "Ma\u00f1alich",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia Granma",
+    "country": "CU"
+  },
+  {
+    "name": "Gibara",
+    "country": "CU"
+  },
+  {
+    "name": "Fomento",
+    "country": "CU"
+  },
+  {
+    "name": "Florida",
+    "country": "CU"
+  },
+  {
+    "name": "Esperanza",
+    "country": "CU"
+  },
+  {
+    "name": "Esmeralda",
+    "country": "CU"
+  },
+  {
+    "name": "Encrucijada",
+    "country": "CU"
+  },
+  {
+    "name": "El Cobre",
+    "country": "CU"
+  },
+  {
+    "name": "El Caney",
+    "country": "CU"
+  },
+  {
+    "name": "Cumanayagua",
+    "country": "CU"
+  },
+  {
+    "name": "Cueto",
+    "country": "CU"
+  },
+  {
+    "name": "Cuentas Claras",
+    "country": "CU"
+  },
+  {
+    "name": "Republic of Cuba",
+    "country": "CU"
+  },
+  {
+    "name": "Cruces",
+    "country": "CU"
+  },
+  {
+    "name": "Corralillo",
+    "country": "CU"
+  },
+  {
+    "name": "Contramaestre",
+    "country": "CU"
+  },
+  {
+    "name": "Consolaci\u00f3n del Sur",
+    "country": "CU"
+  },
+  {
+    "name": "Condado",
+    "country": "CU"
+  },
+  {
+    "name": "Col\u00f3n",
+    "country": "CU"
+  },
+  {
+    "name": "Colombia",
+    "country": "CU"
+  },
+  {
+    "name": "La Habana",
+    "country": "CU"
+  },
+  {
+    "name": "Cifuentes",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia de Cienfuegos",
+    "country": "CU"
+  },
+  {
+    "name": "Cienfuegos",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia de Ciego de \u00c1vila",
+    "country": "CU"
+  },
+  {
+    "name": "Ciego de \u00c1vila",
+    "country": "CU"
+  },
+  {
+    "name": "Chambas",
+    "country": "CU"
+  },
+  {
+    "name": "C\u00e1rdenas",
+    "country": "CU"
+  },
+  {
+    "name": "Candelaria",
+    "country": "CU"
+  },
+  {
+    "name": "Campechuela",
+    "country": "CU"
+  },
+  {
+    "name": "Camajuan\u00ed",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia de Camag\u00fcey",
+    "country": "CU"
+  },
+  {
+    "name": "Camag\u00fcey",
+    "country": "CU"
+  },
+  {
+    "name": "Calimete",
+    "country": "CU"
+  },
+  {
+    "name": "Calabazar de Sagua",
+    "country": "CU"
+  },
+  {
+    "name": "Caibari\u00e9n",
+    "country": "CU"
+  },
+  {
+    "name": "Caba\u00f1as",
+    "country": "CU"
+  },
+  {
+    "name": "Cabaigu\u00e1n",
+    "country": "CU"
+  },
+  {
+    "name": "Buenavista",
+    "country": "CU"
+  },
+  {
+    "name": "Bolondr\u00f3n",
+    "country": "CU"
+  },
+  {
+    "name": "Bejucal",
+    "country": "CU"
+  },
+  {
+    "name": "Bayamo",
+    "country": "CU"
+  },
+  {
+    "name": "Bauta",
+    "country": "CU"
+  },
+  {
+    "name": "Bataban\u00f3",
+    "country": "CU"
+  },
+  {
+    "name": "Baragu\u00e1",
+    "country": "CU"
+  },
+  {
+    "name": "Baracoa",
+    "country": "CU"
+  },
+  {
+    "name": "Banes",
+    "country": "CU"
+  },
+  {
+    "name": "Bah\u00eda Honda",
+    "country": "CU"
+  },
+  {
+    "name": "Artemisa",
+    "country": "CU"
+  },
+  {
+    "name": "Alqu\u00edzar",
+    "country": "CU"
+  },
+  {
+    "name": "Almanza",
+    "country": "CU"
+  },
+  {
+    "name": "Alamar",
+    "country": "CU"
+  },
+  {
+    "name": "Alacranes",
+    "country": "CU"
+  },
+  {
+    "name": "Aguada de Pasajeros",
+    "country": "CU"
+  },
+  {
+    "name": "Abreus",
+    "country": "CU"
+  },
+  {
+    "name": "Centro Habana",
+    "country": "CU"
+  },
+  {
+    "name": "Rolo Monterrey",
+    "country": "CU"
+  },
+  {
+    "name": "Baguanos",
+    "country": "CU"
+  },
+  {
+    "name": "El Pr\u00f3ximo",
+    "country": "CU"
+  },
+  {
+    "name": "Playa de Aguadores",
+    "country": "CU"
+  },
+  {
+    "name": "Artemisa",
+    "country": "CU"
+  },
+  {
+    "name": "Provincia Mayabeque",
+    "country": "CU"
+  }
+]

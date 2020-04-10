@@ -1,0 +1,618 @@
+[
+  {
+    "name": "Zaragoza",
+    "country": "SV"
+  },
+  {
+    "name": "Zacatecoluca",
+    "country": "SV"
+  },
+  {
+    "name": "Victoria",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de Usulut\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Usulut\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Tonacatepeque",
+    "country": "SV"
+  },
+  {
+    "name": "Texistepeque",
+    "country": "SV"
+  },
+  {
+    "name": "Tepecoyo",
+    "country": "SV"
+  },
+  {
+    "name": "Teosinte",
+    "country": "SV"
+  },
+  {
+    "name": "Tenancingo",
+    "country": "SV"
+  },
+  {
+    "name": "Tecoluca",
+    "country": "SV"
+  },
+  {
+    "name": "Tamanique",
+    "country": "SV"
+  },
+  {
+    "name": "Tacuba",
+    "country": "SV"
+  },
+  {
+    "name": "Suchitoto",
+    "country": "SV"
+  },
+  {
+    "name": "Soyapango",
+    "country": "SV"
+  },
+  {
+    "name": "Sonzacate",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de Sonsonate",
+    "country": "SV"
+  },
+  {
+    "name": "Sonsonate",
+    "country": "SV"
+  },
+  {
+    "name": "Sociedad",
+    "country": "SV"
+  },
+  {
+    "name": "Sitio Las Palomas",
+    "country": "SV"
+  },
+  {
+    "name": "Sitio de Los Nejapa",
+    "country": "SV"
+  },
+  {
+    "name": "Sesori",
+    "country": "SV"
+  },
+  {
+    "name": "Sensuntepeque",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de San Vicente",
+    "country": "SV"
+  },
+  {
+    "name": "San Vicente",
+    "country": "SV"
+  },
+  {
+    "name": "Santo Tom\u00e1s",
+    "country": "SV"
+  },
+  {
+    "name": "Santiago Texacuangos",
+    "country": "SV"
+  },
+  {
+    "name": "Santiago Nonualco",
+    "country": "SV"
+  },
+  {
+    "name": "Santiago de Mar\u00eda",
+    "country": "SV"
+  },
+  {
+    "name": "Santa Rosa de Lima",
+    "country": "SV"
+  },
+  {
+    "name": "Santa Elena",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de Santa Ana",
+    "country": "SV"
+  },
+  {
+    "name": "Santa Ana",
+    "country": "SV"
+  },
+  {
+    "name": "San Sebasti\u00e1n Salitrillo",
+    "country": "SV"
+  },
+  {
+    "name": "San Sebasti\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de San Salvador",
+    "country": "SV"
+  },
+  {
+    "name": "San Salvador",
+    "country": "SV"
+  },
+  {
+    "name": "San Rafael Oriente",
+    "country": "SV"
+  },
+  {
+    "name": "San Rafael Obrajuelo",
+    "country": "SV"
+  },
+  {
+    "name": "San Pedro Nonualco",
+    "country": "SV"
+  },
+  {
+    "name": "San Pedro Masahuat",
+    "country": "SV"
+  },
+  {
+    "name": "San Pablo Tacachico",
+    "country": "SV"
+  },
+  {
+    "name": "San Miguel",
+    "country": "SV"
+  },
+  {
+    "name": "San Miguel de Mercedes",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de San Miguel",
+    "country": "SV"
+  },
+  {
+    "name": "San Miguel",
+    "country": "SV"
+  },
+  {
+    "name": "San Mart\u00edn",
+    "country": "SV"
+  },
+  {
+    "name": "San Marcos",
+    "country": "SV"
+  },
+  {
+    "name": "San Luis Talpa",
+    "country": "SV"
+  },
+  {
+    "name": "San Juan Talpa",
+    "country": "SV"
+  },
+  {
+    "name": "San Juan Opico",
+    "country": "SV"
+  },
+  {
+    "name": "San Juan Nonualco",
+    "country": "SV"
+  },
+  {
+    "name": "San Isidro",
+    "country": "SV"
+  },
+  {
+    "name": "San Francisco Men\u00e9ndez",
+    "country": "SV"
+  },
+  {
+    "name": "San Francisco Amatepe",
+    "country": "SV"
+  },
+  {
+    "name": "San Francisco",
+    "country": "SV"
+  },
+  {
+    "name": "San Antonio Tras El Cerro",
+    "country": "SV"
+  },
+  {
+    "name": "San Antonio del Monte",
+    "country": "SV"
+  },
+  {
+    "name": "San Andr\u00e9s",
+    "country": "SV"
+  },
+  {
+    "name": "San Alejo",
+    "country": "SV"
+  },
+  {
+    "name": "San Agust\u00edn",
+    "country": "SV"
+  },
+  {
+    "name": "Rosario de Mora",
+    "country": "SV"
+  },
+  {
+    "name": "Quezaltepeque",
+    "country": "SV"
+  },
+  {
+    "name": "Puerto El Triunfo",
+    "country": "SV"
+  },
+  {
+    "name": "Pasaquina",
+    "country": "SV"
+  },
+  {
+    "name": "Panchimalco",
+    "country": "SV"
+  },
+  {
+    "name": "Ozatl\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Olocuilta",
+    "country": "SV"
+  },
+  {
+    "name": "Nuevo Cuscatl\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Santa Tecla",
+    "country": "SV"
+  },
+  {
+    "name": "Nueva Guadalupe",
+    "country": "SV"
+  },
+  {
+    "name": "Nueva Esparta",
+    "country": "SV"
+  },
+  {
+    "name": "Nueva Concepci\u00f3n",
+    "country": "SV"
+  },
+  {
+    "name": "Nahuizalco",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de Moraz\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Moncagua",
+    "country": "SV"
+  },
+  {
+    "name": "Molineros",
+    "country": "SV"
+  },
+  {
+    "name": "Metap\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Mejicanos",
+    "country": "SV"
+  },
+  {
+    "name": "Masahuat",
+    "country": "SV"
+  },
+  {
+    "name": "Lolotique",
+    "country": "SV"
+  },
+  {
+    "name": "Llano de La Virgen",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de La Uni\u00f3n",
+    "country": "SV"
+  },
+  {
+    "name": "La Uni\u00f3n",
+    "country": "SV"
+  },
+  {
+    "name": "La Shila",
+    "country": "SV"
+  },
+  {
+    "name": "Las Flores",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de La Paz",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de La Libertad",
+    "country": "SV"
+  },
+  {
+    "name": "La Libertad",
+    "country": "SV"
+  },
+  {
+    "name": "Jujutla",
+    "country": "SV"
+  },
+  {
+    "name": "Jucuar\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Jucuapa",
+    "country": "SV"
+  },
+  {
+    "name": "Juay\u00faa",
+    "country": "SV"
+  },
+  {
+    "name": "Jocoro",
+    "country": "SV"
+  },
+  {
+    "name": "Jiquilisco",
+    "country": "SV"
+  },
+  {
+    "name": "Jayaque",
+    "country": "SV"
+  },
+  {
+    "name": "Izalco",
+    "country": "SV"
+  },
+  {
+    "name": "Intipuc\u00e1",
+    "country": "SV"
+  },
+  {
+    "name": "Ilopango",
+    "country": "SV"
+  },
+  {
+    "name": "Ilobasco",
+    "country": "SV"
+  },
+  {
+    "name": "Guazapa",
+    "country": "SV"
+  },
+  {
+    "name": "Guaymango",
+    "country": "SV"
+  },
+  {
+    "name": "Guatajiagua",
+    "country": "SV"
+  },
+  {
+    "name": "Espino Abajo",
+    "country": "SV"
+  },
+  {
+    "name": "El Triunfo",
+    "country": "SV"
+  },
+  {
+    "name": "El Tr\u00e1nsito",
+    "country": "SV"
+  },
+  {
+    "name": "El Tempisque",
+    "country": "SV"
+  },
+  {
+    "name": "Republic of El Salvador",
+    "country": "SV"
+  },
+  {
+    "name": "El Rosario",
+    "country": "SV"
+  },
+  {
+    "name": "El Progreso",
+    "country": "SV"
+  },
+  {
+    "name": "El Porvenir",
+    "country": "SV"
+  },
+  {
+    "name": "El Paisnal",
+    "country": "SV"
+  },
+  {
+    "name": "El Congo",
+    "country": "SV"
+  },
+  {
+    "name": "Delgado",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de Cuscatl\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Cuscatancingo",
+    "country": "SV"
+  },
+  {
+    "name": "Corinto",
+    "country": "SV"
+  },
+  {
+    "name": "Conchagua",
+    "country": "SV"
+  },
+  {
+    "name": "Concepci\u00f3n de Ataco",
+    "country": "SV"
+  },
+  {
+    "name": "Concepci\u00f3n Batres",
+    "country": "SV"
+  },
+  {
+    "name": "Comalapa",
+    "country": "SV"
+  },
+  {
+    "name": "Cojutepeque",
+    "country": "SV"
+  },
+  {
+    "name": "Coatepeque",
+    "country": "SV"
+  },
+  {
+    "name": "Ciudad Barrios",
+    "country": "SV"
+  },
+  {
+    "name": "Ciudad Arce",
+    "country": "SV"
+  },
+  {
+    "name": "Chirilagua",
+    "country": "SV"
+  },
+  {
+    "name": "Chinameca",
+    "country": "SV"
+  },
+  {
+    "name": "Chapeltique",
+    "country": "SV"
+  },
+  {
+    "name": "Chalchuapa",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de Chalatenango",
+    "country": "SV"
+  },
+  {
+    "name": "Chalatenango",
+    "country": "SV"
+  },
+  {
+    "name": "Cara Sucia",
+    "country": "SV"
+  },
+  {
+    "name": "Candelaria de La Frontera",
+    "country": "SV"
+  },
+  {
+    "name": "Caluco",
+    "country": "SV"
+  },
+  {
+    "name": "Cacaopera",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de Caba\u00f1as",
+    "country": "SV"
+  },
+  {
+    "name": "Boquer\u00f3n",
+    "country": "SV"
+  },
+  {
+    "name": "Berl\u00edn",
+    "country": "SV"
+  },
+  {
+    "name": "Barrios",
+    "country": "SV"
+  },
+  {
+    "name": "Ayutuxtepeque",
+    "country": "SV"
+  },
+  {
+    "name": "Atiquizaya",
+    "country": "SV"
+  },
+  {
+    "name": "Ateos",
+    "country": "SV"
+  },
+  {
+    "name": "Astoria",
+    "country": "SV"
+  },
+  {
+    "name": "Armenia",
+    "country": "SV"
+  },
+  {
+    "name": "Apopa",
+    "country": "SV"
+  },
+  {
+    "name": "Apastepeque",
+    "country": "SV"
+  },
+  {
+    "name": "Apaneca",
+    "country": "SV"
+  },
+  {
+    "name": "Antiguo Cuscatl\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Anamor\u00f3s",
+    "country": "SV"
+  },
+  {
+    "name": "Departamento de Ahuachap\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Ahuachap\u00e1n",
+    "country": "SV"
+  },
+  {
+    "name": "Aguilares",
+    "country": "SV"
+  },
+  {
+    "name": "Acajutla",
+    "country": "SV"
+  },
+  {
+    "name": "Hacienda Tierra Blanca",
+    "country": "SV"
+  }
+]

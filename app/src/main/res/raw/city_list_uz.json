@@ -1,0 +1,790 @@
+[
+  {
+    "name": "Karakalpakstan",
+    "country": "UZ"
+  },
+  {
+    "name": "Nukus",
+    "country": "UZ"
+  },
+  {
+    "name": "Muynoq",
+    "country": "UZ"
+  },
+  {
+    "name": "Qanlikol",
+    "country": "UZ"
+  },
+  {
+    "name": "Khujayli",
+    "country": "UZ"
+  },
+  {
+    "name": "Kegeyli Shahar",
+    "country": "UZ"
+  },
+  {
+    "name": "Qozonketkan",
+    "country": "UZ"
+  },
+  {
+    "name": "Oltinkol",
+    "country": "UZ"
+  },
+  {
+    "name": "Oqmangit",
+    "country": "UZ"
+  },
+  {
+    "name": "Nukus Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Qongirot Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Xojayli Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Chimboy Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Moynoq Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Shumanay Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Surxondaryo Viloyati",
+    "country": "UZ"
+  },
+  {
+    "name": "Samarqand Viloyati",
+    "country": "UZ"
+  },
+  {
+    "name": "Qashqadaryo Province",
+    "country": "UZ"
+  },
+  {
+    "name": "Bukhara Province",
+    "country": "UZ"
+  },
+  {
+    "name": "Zomin",
+    "country": "UZ"
+  },
+  {
+    "name": "Nishon Tumani",
+    "country": "UZ"
+  },
+  {
+    "name": "Urgut",
+    "country": "UZ"
+  },
+  {
+    "name": "Muglon Shahar",
+    "country": "UZ"
+  },
+  {
+    "name": "Tirmiz",
+    "country": "UZ"
+  },
+  {
+    "name": "Shorchi",
+    "country": "UZ"
+  },
+  {
+    "name": "Shahrisabz",
+    "country": "UZ"
+  },
+  {
+    "name": "Shohimardon",
+    "country": "UZ"
+  },
+  {
+    "name": "Samarqand",
+    "country": "UZ"
+  },
+  {
+    "name": "Romiton",
+    "country": "UZ"
+  },
+  {
+    "name": "Qarshi",
+    "country": "UZ"
+  },
+  {
+    "name": "Muborak",
+    "country": "UZ"
+  },
+  {
+    "name": "Yangi Mirishkor",
+    "country": "UZ"
+  },
+  {
+    "name": "Matrid",
+    "country": "UZ"
+  },
+  {
+    "name": "Kum-Rabad",
+    "country": "UZ"
+  },
+  {
+    "name": "Kitob",
+    "country": "UZ"
+  },
+  {
+    "name": "Kattaqorgon",
+    "country": "UZ"
+  },
+  {
+    "name": "Koson",
+    "country": "UZ"
+  },
+  {
+    "name": "Qorovulbozor",
+    "country": "UZ"
+  },
+  {
+    "name": "Karakul",
+    "country": "UZ"
+  },
+  {
+    "name": "Kogon",
+    "country": "UZ"
+  },
+  {
+    "name": "Ishtixon",
+    "country": "UZ"
+  },
+  {
+    "name": "Guzor",
+    "country": "UZ"
+  },
+  {
+    "name": "Galaosiyo",
+    "country": "UZ"
+  },
+  {
+    "name": "Juma",
+    "country": "UZ"
+  },
+  {
+    "name": "Jomboy",
+    "country": "UZ"
+  },
+  {
+    "name": "Denov",
+    "country": "UZ"
+  },
+  {
+    "name": "Daxbet",
+    "country": "UZ"
+  },
+  {
+    "name": "Chiroqchi",
+    "country": "UZ"
+  },
+  {
+    "name": "Chiljuvut",
+    "country": "UZ"
+  },
+  {
+    "name": "Chelak",
+    "country": "UZ"
+  },
+  {
+    "name": "Charxin",
+    "country": "UZ"
+  },
+  {
+    "name": "Bulungur",
+    "country": "UZ"
+  },
+  {
+    "name": "Buxoro",
+    "country": "UZ"
+  },
+  {
+    "name": "Beshkent",
+    "country": "UZ"
+  },
+  {
+    "name": "Boysun",
+    "country": "UZ"
+  },
+  {
+    "name": "Olot",
+    "country": "UZ"
+  },
+  {
+    "name": "Oqtosh",
+    "country": "UZ"
+  },
+  {
+    "name": "Qorovulbozor Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Qorashina",
+    "country": "UZ"
+  },
+  {
+    "name": "Shahrisabz Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Koson Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Kitob Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Muborak Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Beshkent Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Guzor Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Qamashi Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Chiroqchi Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Yakkabog Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Yangi-Nishon Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Guliston",
+    "country": "UZ"
+  },
+  {
+    "name": "Bakhoristan",
+    "country": "UZ"
+  },
+  {
+    "name": "Toshkent Viloyati",
+    "country": "UZ"
+  },
+  {
+    "name": "Toshkent Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Sirdaryo Viloyati",
+    "country": "UZ"
+  },
+  {
+    "name": "Navoiy Province",
+    "country": "UZ"
+  },
+  {
+    "name": "Namangan Province",
+    "country": "UZ"
+  },
+  {
+    "name": "Xorazm Viloyati",
+    "country": "UZ"
+  },
+  {
+    "name": "Jizzakh Province",
+    "country": "UZ"
+  },
+  {
+    "name": "Fergana",
+    "country": "UZ"
+  },
+  {
+    "name": "Andijan",
+    "country": "UZ"
+  },
+  {
+    "name": "Zafar",
+    "country": "UZ"
+  },
+  {
+    "name": "Yaypan",
+    "country": "UZ"
+  },
+  {
+    "name": "Yangiyul",
+    "country": "UZ"
+  },
+  {
+    "name": "Yangiyer",
+    "country": "UZ"
+  },
+  {
+    "name": "Yangirabot",
+    "country": "UZ"
+  },
+  {
+    "name": "Yangiqorgon",
+    "country": "UZ"
+  },
+  {
+    "name": "Yangiobod",
+    "country": "UZ"
+  },
+  {
+    "name": "Wobkent",
+    "country": "UZ"
+  },
+  {
+    "name": "Republic of Uzbekistan",
+    "country": "UZ"
+  },
+  {
+    "name": "Uychi",
+    "country": "UZ"
+  },
+  {
+    "name": "Urtaowul",
+    "country": "UZ"
+  },
+  {
+    "name": "Urganch",
+    "country": "UZ"
+  },
+  {
+    "name": "Dashtobod",
+    "country": "UZ"
+  },
+  {
+    "name": "Uchqurghon Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Tuytepa",
+    "country": "UZ"
+  },
+  {
+    "name": "Turagurghon",
+    "country": "UZ"
+  },
+  {
+    "name": "Toshloq",
+    "country": "UZ"
+  },
+  {
+    "name": "Tashkent",
+    "country": "UZ"
+  },
+  {
+    "name": "Toshbuloq",
+    "country": "UZ"
+  },
+  {
+    "name": "Tomdibuloq",
+    "country": "UZ"
+  },
+  {
+    "name": "Taxtakopir",
+    "country": "UZ"
+  },
+  {
+    "name": "Sultan-Ayaya",
+    "country": "UZ"
+  },
+  {
+    "name": "Sirdaryo",
+    "country": "UZ"
+  },
+  {
+    "name": "Showot",
+    "country": "UZ"
+  },
+  {
+    "name": "Shofirkon",
+    "country": "UZ"
+  },
+  {
+    "name": "Salor",
+    "country": "UZ"
+  },
+  {
+    "name": "Qushkupir",
+    "country": "UZ"
+  },
+  {
+    "name": "Qoqon",
+    "country": "UZ"
+  },
+  {
+    "name": "Piskent",
+    "country": "UZ"
+  },
+  {
+    "name": "Payshanba",
+    "country": "UZ"
+  },
+  {
+    "name": "Parkent",
+    "country": "UZ"
+  },
+  {
+    "name": "Pop",
+    "country": "UZ"
+  },
+  {
+    "name": "Paxtakor",
+    "country": "UZ"
+  },
+  {
+    "name": "Olmaliq",
+    "country": "UZ"
+  },
+  {
+    "name": "Ohangaron",
+    "country": "UZ"
+  },
+  {
+    "name": "Nurota",
+    "country": "UZ"
+  },
+  {
+    "name": "Novyy Turtkul",
+    "country": "UZ"
+  },
+  {
+    "name": "Navoiy",
+    "country": "UZ"
+  },
+  {
+    "name": "Namangan",
+    "country": "UZ"
+  },
+  {
+    "name": "Mayli-Tepe",
+    "country": "UZ"
+  },
+  {
+    "name": "Marhamat",
+    "country": "UZ"
+  },
+  {
+    "name": "Margilon",
+    "country": "UZ"
+  },
+  {
+    "name": "Manghit",
+    "country": "UZ"
+  },
+  {
+    "name": "Malikrabot",
+    "country": "UZ"
+  },
+  {
+    "name": "Asaka",
+    "country": "UZ"
+  },
+  {
+    "name": "Qiziltepa",
+    "country": "UZ"
+  },
+  {
+    "name": "Quvasoy",
+    "country": "UZ"
+  },
+  {
+    "name": "Kutarma",
+    "country": "UZ"
+  },
+  {
+    "name": "Qurghontepa",
+    "country": "UZ"
+  },
+  {
+    "name": "Krasnogorsk",
+    "country": "UZ"
+  },
+  {
+    "name": "Komsomolskiy",
+    "country": "UZ"
+  },
+  {
+    "name": "Kirgili",
+    "country": "UZ"
+  },
+  {
+    "name": "Qibray",
+    "country": "UZ"
+  },
+  {
+    "name": "Khujaobod",
+    "country": "UZ"
+  },
+  {
+    "name": "Khiwa",
+    "country": "UZ"
+  },
+  {
+    "name": "Khanavat",
+    "country": "UZ"
+  },
+  {
+    "name": "Khonobod",
+    "country": "UZ"
+  },
+  {
+    "name": "Hamza",
+    "country": "UZ"
+  },
+  {
+    "name": "Haqqulobod",
+    "country": "UZ"
+  },
+  {
+    "name": "Kosonsoy",
+    "country": "UZ"
+  },
+  {
+    "name": "Qoraozak",
+    "country": "UZ"
+  },
+  {
+    "name": "Konimex",
+    "country": "UZ"
+  },
+  {
+    "name": "Jizzax",
+    "country": "UZ"
+  },
+  {
+    "name": "Iskandar",
+    "country": "UZ"
+  },
+  {
+    "name": "Hazorasp",
+    "country": "UZ"
+  },
+  {
+    "name": "Gurlan",
+    "country": "UZ"
+  },
+  {
+    "name": "Guliston",
+    "country": "UZ"
+  },
+  {
+    "name": "Ghijduwon",
+    "country": "UZ"
+  },
+  {
+    "name": "Gazli",
+    "country": "UZ"
+  },
+  {
+    "name": "Gazalkent",
+    "country": "UZ"
+  },
+  {
+    "name": "Gagarin",
+    "country": "UZ"
+  },
+  {
+    "name": "Fargona",
+    "country": "UZ"
+  },
+  {
+    "name": "Amir Timur",
+    "country": "UZ"
+  },
+  {
+    "name": "Dustlik",
+    "country": "UZ"
+  },
+  {
+    "name": "Chust Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Chirchiq",
+    "country": "UZ"
+  },
+  {
+    "name": "Chinoz",
+    "country": "UZ"
+  },
+  {
+    "name": "Chinaz",
+    "country": "UZ"
+  },
+  {
+    "name": "Kyzyldzhar",
+    "country": "UZ"
+  },
+  {
+    "name": "Chekshura",
+    "country": "UZ"
+  },
+  {
+    "name": "Sergeli",
+    "country": "UZ"
+  },
+  {
+    "name": "Chortoq",
+    "country": "UZ"
+  },
+  {
+    "name": "Byrkguzar",
+    "country": "UZ"
+  },
+  {
+    "name": "Buka",
+    "country": "UZ"
+  },
+  {
+    "name": "Beshrabot",
+    "country": "UZ"
+  },
+  {
+    "name": "Beshariq",
+    "country": "UZ"
+  },
+  {
+    "name": "Beruniy",
+    "country": "UZ"
+  },
+  {
+    "name": "Bektemir",
+    "country": "UZ"
+  },
+  {
+    "name": "Bekobod",
+    "country": "UZ"
+  },
+  {
+    "name": "Angren",
+    "country": "UZ"
+  },
+  {
+    "name": "Andijon",
+    "country": "UZ"
+  },
+  {
+    "name": "Andijon",
+    "country": "UZ"
+  },
+  {
+    "name": "Omontoy",
+    "country": "UZ"
+  },
+  {
+    "name": "Alyamly",
+    "country": "UZ"
+  },
+  {
+    "name": "Oltiariq",
+    "country": "UZ"
+  },
+  {
+    "name": "Aktepa",
+    "country": "UZ"
+  },
+  {
+    "name": "Quva",
+    "country": "UZ"
+  },
+  {
+    "name": "Koshkurgan",
+    "country": "UZ"
+  },
+  {
+    "name": "Beruniy Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Tortkol Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Boston Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Mangit Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Navoiy Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Zarafshon Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Uchquduq Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Karmana Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Qiziltepa Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Nurota Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Yangiy\u016dl Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Namangan Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Kosonsoy Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Chortoq Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Haqqulobod Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Pop Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Turagurghon Shahri",
+    "country": "UZ"
+  },
+  {
+    "name": "Elxon",
+    "country": "UZ"
+  },
+  {
+    "name": "Uzumzor",
+    "country": "UZ"
+  }
+]

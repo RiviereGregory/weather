@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Yunyo",
+    "country": "GH"
+  },
+  {
+    "name": "Yendi",
+    "country": "GH"
+  },
+  {
+    "name": "Winneba",
+    "country": "GH"
+  },
+  {
+    "name": "Western Region",
+    "country": "GH"
+  },
+  {
+    "name": "Wankyi",
+    "country": "GH"
+  },
+  {
+    "name": "Wa",
+    "country": "GH"
+  },
+  {
+    "name": "Volta Region",
+    "country": "GH"
+  },
+  {
+    "name": "Upper West Region",
+    "country": "GH"
+  },
+  {
+    "name": "Upper East Region",
+    "country": "GH"
+  },
+  {
+    "name": "Maudaso",
+    "country": "GH"
+  },
+  {
+    "name": "Tumu",
+    "country": "GH"
+  },
+  {
+    "name": "Teshi Old Town",
+    "country": "GH"
+  },
+  {
+    "name": "Tema",
+    "country": "GH"
+  },
+  {
+    "name": "Techiman",
+    "country": "GH"
+  },
+  {
+    "name": "Tarkwa",
+    "country": "GH"
+  },
+  {
+    "name": "Tamale",
+    "country": "GH"
+  },
+  {
+    "name": "Tano-Kwayem",
+    "country": "GH"
+  },
+  {
+    "name": "Takoradi",
+    "country": "GH"
+  },
+  {
+    "name": "Tafo",
+    "country": "GH"
+  },
+  {
+    "name": "Swedru",
+    "country": "GH"
+  },
+  {
+    "name": "Sunyani",
+    "country": "GH"
+  },
+  {
+    "name": "Suhum",
+    "country": "GH"
+  },
+  {
+    "name": "Shama Junction",
+    "country": "GH"
+  },
+  {
+    "name": "Sekondi-Takoradi",
+    "country": "GH"
+  },
+  {
+    "name": "Savelugu",
+    "country": "GH"
+  },
+  {
+    "name": "Saltpond",
+    "country": "GH"
+  },
+  {
+    "name": "Salaga",
+    "country": "GH"
+  },
+  {
+    "name": "Sakumona",
+    "country": "GH"
+  },
+  {
+    "name": "Osu Castle",
+    "country": "GH"
+  },
+  {
+    "name": "Prestea",
+    "country": "GH"
+  },
+  {
+    "name": "Kasoa",
+    "country": "GH"
+  },
+  {
+    "name": "Odumase",
+    "country": "GH"
+  },
+  {
+    "name": "Akim Oda",
+    "country": "GH"
+  },
+  {
+    "name": "Obuase",
+    "country": "GH"
+  },
+  {
+    "name": "Nungua",
+    "country": "GH"
+  },
+  {
+    "name": "Nsawam",
+    "country": "GH"
+  },
+  {
+    "name": "Northern Region",
+    "country": "GH"
+  },
+  {
+    "name": "Nkawkaw",
+    "country": "GH"
+  },
+  {
+    "name": "Nawari",
+    "country": "GH"
+  },
+  {
+    "name": "Navrongo",
+    "country": "GH"
+  },
+  {
+    "name": "Mumford",
+    "country": "GH"
+  },
+  {
+    "name": "Muete",
+    "country": "GH"
+  },
+  {
+    "name": "Mpraeso",
+    "country": "GH"
+  },
+  {
+    "name": "Mampong",
+    "country": "GH"
+  },
+  {
+    "name": "Medina Estates",
+    "country": "GH"
+  },
+  {
+    "name": "Langa",
+    "country": "GH"
+  },
+  {
+    "name": "Kwesimintsim",
+    "country": "GH"
+  },
+  {
+    "name": "Kumasi",
+    "country": "GH"
+  },
+  {
+    "name": "Kpandu",
+    "country": "GH"
+  },
+  {
+    "name": "Kpandae",
+    "country": "GH"
+  },
+  {
+    "name": "Konongo",
+    "country": "GH"
+  },
+  {
+    "name": "Koforidua",
+    "country": "GH"
+  },
+  {
+    "name": "Kintampo",
+    "country": "GH"
+  },
+  {
+    "name": "Kibi",
+    "country": "GH"
+  },
+  {
+    "name": "Kete Krachi",
+    "country": "GH"
+  },
+  {
+    "name": "Keta",
+    "country": "GH"
+  },
+  {
+    "name": "Kalesesi",
+    "country": "GH"
+  },
+  {
+    "name": "Kablima",
+    "country": "GH"
+  },
+  {
+    "name": "Hohoe",
+    "country": "GH"
+  },
+  {
+    "name": "Ho",
+    "country": "GH"
+  },
+  {
+    "name": "Republic of Ghana",
+    "country": "GH"
+  },
+  {
+    "name": "Gbawe",
+    "country": "GH"
+  },
+  {
+    "name": "Foso",
+    "country": "GH"
+  },
+  {
+    "name": "Elmina",
+    "country": "GH"
+  },
+  {
+    "name": "Ejura",
+    "country": "GH"
+  },
+  {
+    "name": "Eastern Region",
+    "country": "GH"
+  },
+  {
+    "name": "Dunkwa",
+    "country": "GH"
+  },
+  {
+    "name": "Duayaw-Nkwanta",
+    "country": "GH"
+  },
+  {
+    "name": "Dome",
+    "country": "GH"
+  },
+  {
+    "name": "Dodoyiri",
+    "country": "GH"
+  },
+  {
+    "name": "Chum",
+    "country": "GH"
+  },
+  {
+    "name": "Central Region",
+    "country": "GH"
+  },
+  {
+    "name": "Cape Coast",
+    "country": "GH"
+  },
+  {
+    "name": "Buokurom",
+    "country": "GH"
+  },
+  {
+    "name": "Brong-Ahafo Region",
+    "country": "GH"
+  },
+  {
+    "name": "Bolgatanga",
+    "country": "GH"
+  },
+  {
+    "name": "Bibiani",
+    "country": "GH"
+  },
+  {
+    "name": "Berekum",
+    "country": "GH"
+  },
+  {
+    "name": "Bekwai",
+    "country": "GH"
+  },
+  {
+    "name": "Begoro",
+    "country": "GH"
+  },
+  {
+    "name": "Bechem",
+    "country": "GH"
+  },
+  {
+    "name": "Bawku",
+    "country": "GH"
+  },
+  {
+    "name": "Axim",
+    "country": "GH"
+  },
+  {
+    "name": "Avelete",
+    "country": "GH"
+  },
+  {
+    "name": "Ashanti Region",
+    "country": "GH"
+  },
+  {
+    "name": "Asamankese",
+    "country": "GH"
+  },
+  {
+    "name": "Apam",
+    "country": "GH"
+  },
+  {
+    "name": "Anloga",
+    "country": "GH"
+  },
+  {
+    "name": "Akwechi",
+    "country": "GH"
+  },
+  {
+    "name": "Akwatia",
+    "country": "GH"
+  },
+  {
+    "name": "Akropong",
+    "country": "GH"
+  },
+  {
+    "name": "Akim Swedru",
+    "country": "GH"
+  },
+  {
+    "name": "Agogo",
+    "country": "GH"
+  },
+  {
+    "name": "Adibo",
+    "country": "GH"
+  },
+  {
+    "name": "Atsiaman",
+    "country": "GH"
+  },
+  {
+    "name": "Accra",
+    "country": "GH"
+  },
+  {
+    "name": "Aburi",
+    "country": "GH"
+  },
+  {
+    "name": "Aboso",
+    "country": "GH"
+  }
+]

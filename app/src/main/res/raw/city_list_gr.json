@@ -1,0 +1,5294 @@
+[
+  {
+    "name": "Zonian\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Zar\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Z\u00e1rkos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Zak\u00fdnthou",
+    "country": "GR"
+  },
+  {
+    "name": "Zakynthos",
+    "country": "GR"
+  },
+  {
+    "name": "Zach\u00e1ro",
+    "country": "GR"
+  },
+  {
+    "name": "Zagor\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "G\u00fdtheio",
+    "country": "GR"
+  },
+  {
+    "name": "Yimn\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "Gi\u00e1nnouli",
+    "country": "GR"
+  },
+  {
+    "name": "G\u00e9rgeri",
+    "country": "GR"
+  },
+  {
+    "name": "Ger\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "G\u00e9fyra",
+    "country": "GR"
+  },
+  {
+    "name": "Xyl\u00f3kastro",
+    "country": "GR"
+  },
+  {
+    "name": "Vront\u00e1dos",
+    "country": "GR"
+  },
+  {
+    "name": "Vravrona",
+    "country": "GR"
+  },
+  {
+    "name": "Vrachna\u00edika",
+    "country": "GR"
+  },
+  {
+    "name": "Vrakh\u00e1ti",
+    "country": "GR"
+  },
+  {
+    "name": "Vouliagm\u00e9ni",
+    "country": "GR"
+  },
+  {
+    "name": "Vo\u00fala",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00f3nitsa",
+    "country": "GR"
+  },
+  {
+    "name": "Volos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Voiot\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Vlach\u00f3poulo",
+    "country": "GR"
+  },
+  {
+    "name": "Vlachi\u00f3tis",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00fdronas",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00edlia",
+    "country": "GR"
+  },
+  {
+    "name": "Verdiko\u00fassa",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00e9lo",
+    "country": "GR"
+  },
+  {
+    "name": "Velest\u00edno",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00e1gia",
+    "country": "GR"
+  },
+  {
+    "name": "Vath\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Vath\u00fd",
+    "country": "GR"
+  },
+  {
+    "name": "Vath\u00fd",
+    "country": "GR"
+  },
+  {
+    "name": "Vasilik\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "Vasilik\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Varv\u00e1saina",
+    "country": "GR"
+  },
+  {
+    "name": "Vartholomi\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Varn\u00e1vas",
+    "country": "GR"
+  },
+  {
+    "name": "Varei\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00e1rda",
+    "country": "GR"
+  },
+  {
+    "name": "Vamvako\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "Valsam\u00e1ta",
+    "country": "GR"
+  },
+  {
+    "name": "Tsikalari\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Tsar\u00edtsani",
+    "country": "GR"
+  },
+  {
+    "name": "Tr\u00edpoli",
+    "country": "GR"
+  },
+  {
+    "name": "Triovas\u00e1los",
+    "country": "GR"
+  },
+  {
+    "name": "Tr\u00edkeri",
+    "country": "GR"
+  },
+  {
+    "name": "Trikala",
+    "country": "GR"
+  },
+  {
+    "name": "Tr\u00edkala",
+    "country": "GR"
+  },
+  {
+    "name": "Ialys\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Tragan\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "Trag\u00e1na",
+    "country": "GR"
+  },
+  {
+    "name": "Tol\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "T\u00fdrnavos",
+    "country": "GR"
+  },
+  {
+    "name": "T\u00ednos",
+    "country": "GR"
+  },
+  {
+    "name": "Tymp\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "T\u00edlisos",
+    "country": "GR"
+  },
+  {
+    "name": "Thrapsan\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "Thour\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Th\u00edvai",
+    "country": "GR"
+  },
+  {
+    "name": "Fir\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Thymian\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Thesprotik\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Thesprot\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Thespi\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Th\u00e9rmo",
+    "country": "GR"
+  },
+  {
+    "name": "Th\u00e9rissos",
+    "country": "GR"
+  },
+  {
+    "name": "Terpsith\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "T\u00e9meni",
+    "country": "GR"
+  },
+  {
+    "name": "Tan\u00e1gra",
+    "country": "GR"
+  },
+  {
+    "name": "Strov\u00edki",
+    "country": "GR"
+  },
+  {
+    "name": "Str\u00e1tos",
+    "country": "GR"
+  },
+  {
+    "name": "Ste\u00edri",
+    "country": "GR"
+  },
+  {
+    "name": "St\u00fdpsi",
+    "country": "GR"
+  },
+  {
+    "name": "Styl\u00edda",
+    "country": "GR"
+  },
+  {
+    "name": "Stefanov\u00edkeio",
+    "country": "GR"
+  },
+  {
+    "name": "St\u00e1nos",
+    "country": "GR"
+  },
+  {
+    "name": "Stam\u00e1ta",
+    "country": "GR"
+  },
+  {
+    "name": "Stal\u00eds",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e1ssi",
+    "country": "GR"
+  },
+  {
+    "name": "Sp\u00e9tses",
+    "country": "GR"
+  },
+  {
+    "name": "Sperch\u00f3geia",
+    "country": "GR"
+  },
+  {
+    "name": "Sperchei\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "Sp\u00e1ta",
+    "country": "GR"
+  },
+  {
+    "name": "Sp\u00e1rti",
+    "country": "GR"
+  },
+  {
+    "name": "So\u00farpi",
+    "country": "GR"
+  },
+  {
+    "name": "So\u00farmena",
+    "country": "GR"
+  },
+  {
+    "name": "So\u00fada",
+    "country": "GR"
+  },
+  {
+    "name": "Sofik\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "Sk\u00f3pelos",
+    "country": "GR"
+  },
+  {
+    "name": "Sk\u00f3pelos",
+    "country": "GR"
+  },
+  {
+    "name": "Sk\u00fdros",
+    "country": "GR"
+  },
+  {
+    "name": "Ski\u00e1thos",
+    "country": "GR"
+  },
+  {
+    "name": "Sch\u00edsma Elo\u00fandas",
+    "country": "GR"
+  },
+  {
+    "name": "Schimat\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Skepast\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Sk\u00e1la Oropo\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "Skal\u00e1nion",
+    "country": "GR"
+  },
+  {
+    "name": "Sk\u00e1la",
+    "country": "GR"
+  },
+  {
+    "name": "Sitia",
+    "country": "GR"
+  },
+  {
+    "name": "Synoikism\u00f3s Chavar\u00edou",
+    "country": "GR"
+  },
+  {
+    "name": "S\u00fdmi",
+    "country": "GR"
+  },
+  {
+    "name": "Sylivaini\u00f3tika",
+    "country": "GR"
+  },
+  {
+    "name": "Syko\u00fario",
+    "country": "GR"
+  },
+  {
+    "name": "Siky\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "S\u00edkinos",
+    "country": "GR"
+  },
+  {
+    "name": "Syki\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "S\u00e9rifos",
+    "country": "GR"
+  },
+  {
+    "name": "Sel\u00ednia",
+    "country": "GR"
+  },
+  {
+    "name": "Selian\u00edtika",
+    "country": "GR"
+  },
+  {
+    "name": "Sav\u00e1lia",
+    "country": "GR"
+  },
+  {
+    "name": "Sard\u00ednia",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s S\u00e1mou",
+    "country": "GR"
+  },
+  {
+    "name": "Samos",
+    "country": "GR"
+  },
+  {
+    "name": "S\u00e1mi",
+    "country": "GR"
+  },
+  {
+    "name": "Salam\u00edna",
+    "country": "GR"
+  },
+  {
+    "name": "Roy\u00edtika",
+    "country": "GR"
+  },
+  {
+    "name": "Rovi\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Rodot\u00f3pi",
+    "country": "GR"
+  },
+  {
+    "name": "Riz\u00f3mylos",
+    "country": "GR"
+  },
+  {
+    "name": "R\u00edzoma",
+    "country": "GR"
+  },
+  {
+    "name": "R\u00edo",
+    "country": "GR"
+  },
+  {
+    "name": "Rethymno",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Reth\u00fdmnis",
+    "country": "GR"
+  },
+  {
+    "name": "Raf\u00edna",
+    "country": "GR"
+  },
+  {
+    "name": "Ptele\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Psychik\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Psachn\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Prok\u00f3pi",
+    "country": "GR"
+  },
+  {
+    "name": "Prof\u00edtis Il\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Prev\u00e9zis",
+    "country": "GR"
+  },
+  {
+    "name": "Pr\u00e9veza",
+    "country": "GR"
+  },
+  {
+    "name": "Pr\u00e1manta",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00f3rto Ch\u00e9li",
+    "country": "GR"
+  },
+  {
+    "name": "Portari\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00f3ros",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00f3ros",
+    "country": "GR"
+  },
+  {
+    "name": "Politik\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Polichn\u00edtos",
+    "country": "GR"
+  },
+  {
+    "name": "Plom\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Plig\u00f3nion",
+    "country": "GR"
+  },
+  {
+    "name": "Plat\u00fdkampos",
+    "country": "GR"
+  },
+  {
+    "name": "Platari\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Pl\u00e1tanos Kaliv\u00edon",
+    "country": "GR"
+  },
+  {
+    "name": "Pl\u00e1tanos",
+    "country": "GR"
+  },
+  {
+    "name": "Pl\u00e1tanos",
+    "country": "GR"
+  },
+  {
+    "name": "Platai\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Pl\u00e1nos",
+    "country": "GR"
+  },
+  {
+    "name": "Pig\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Pith\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Pythag\u00f3reio",
+    "country": "GR"
+  },
+  {
+    "name": "Pyrg\u00edon",
+    "country": "GR"
+  },
+  {
+    "name": "Pyrget\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Pyrget\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00fdrgos",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00fdrgos",
+    "country": "GR"
+  },
+  {
+    "name": "Piraeus",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00fdlos",
+    "country": "GR"
+  },
+  {
+    "name": "Pyl\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00fdli",
+    "country": "GR"
+  },
+  {
+    "name": "Pik\u00e9rmi",
+    "country": "GR"
+  },
+  {
+    "name": "Petro\u00fapolis",
+    "country": "GR"
+  },
+  {
+    "name": "Mago\u00fala",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e9tra",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e9ta",
+    "country": "GR"
+  },
+  {
+    "name": "Periyi\u00e1li",
+    "country": "GR"
+  },
+  {
+    "name": "Periv\u00f3li",
+    "country": "GR"
+  },
+  {
+    "name": "Periv\u00f3lia",
+    "country": "GR"
+  },
+  {
+    "name": "Perist\u00e9ri",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e9rdika",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e9rama",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e9rama",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e9rama",
+    "country": "GR"
+  },
+  {
+    "name": "Perach\u00f3ra",
+    "country": "GR"
+  },
+  {
+    "name": "Pel\u00f3pi",
+    "country": "GR"
+  },
+  {
+    "name": "Pelasg\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Pedin\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e1tra",
+    "country": "GR"
+  },
+  {
+    "name": "Patit\u00edrion",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e1sion",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e1rtira",
+    "country": "GR"
+  },
+  {
+    "name": "Parth\u00e9ni",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e1ros",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e1rga",
+    "country": "GR"
+  },
+  {
+    "name": "Parav\u00f3la",
+    "country": "GR"
+  },
+  {
+    "name": "Pro\u00e1stio",
+    "country": "GR"
+  },
+  {
+    "name": "Parap\u00f3tamos",
+    "country": "GR"
+  },
+  {
+    "name": "Paramythi\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Paral\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Papp\u00e1dos",
+    "country": "GR"
+  },
+  {
+    "name": "Pappad\u00e1tes",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e1normos",
+    "country": "GR"
+  },
+  {
+    "name": "Panait\u00f3lion",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e1mfila",
+    "country": "GR"
+  },
+  {
+    "name": "Pall\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "Palam\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e1lairos",
+    "country": "GR"
+  },
+  {
+    "name": "Palai\u00f3pyrgos",
+    "country": "GR"
+  },
+  {
+    "name": "Palai\u00f3 F\u00e1liro",
+    "country": "GR"
+  },
+  {
+    "name": "Palaiomon\u00e1stiro",
+    "country": "GR"
+  },
+  {
+    "name": "Palai\u00f3kipos",
+    "country": "GR"
+  },
+  {
+    "name": "Palai\u00f3chora",
+    "country": "GR"
+  },
+  {
+    "name": "Palekastro",
+    "country": "GR"
+  },
+  {
+    "name": "Palai\u00e1 F\u00f3kaia",
+    "country": "GR"
+  },
+  {
+    "name": "Palai\u00e1 Ep\u00eddavros",
+    "country": "GR"
+  },
+  {
+    "name": "Paian\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Ox\u00edlithos",
+    "country": "GR"
+  },
+  {
+    "name": "Ovri\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Orop\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Orchomen\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Oreo\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Omvriak\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Omorfoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Oino\u00fasses",
+    "country": "GR"
+  },
+  {
+    "name": "Oin\u00f3fyta",
+    "country": "GR"
+  },
+  {
+    "name": "Pap\u00e1gou",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00edkaia",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00edkaia",
+    "country": "GR"
+  },
+  {
+    "name": "Neroko\u00faros",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9on Monast\u00edrion",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9on Karlov\u00e1sion",
+    "country": "GR"
+  },
+  {
+    "name": "Neochor\u00f3poulo",
+    "country": "GR"
+  },
+  {
+    "name": "Oichal\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Neoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Neoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Neoch\u00f3rion",
+    "country": "GR"
+  },
+  {
+    "name": "Neoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9nita",
+    "country": "GR"
+  },
+  {
+    "name": "Nem\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a T\u00edrins",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a St\u00edra",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Sm\u00edrni",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Sm\u00fdrni",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Sel\u00e9fkeia",
+    "country": "GR"
+  },
+  {
+    "name": "Ne\u00e1poli",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a P\u00e9ramos",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Pal\u00e1tia",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Manol\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a M\u00e1kri",
+    "country": "GR"
+  },
+  {
+    "name": "\u00cdlion",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a K\u00edos",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Ion\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Filad\u00e9lfeia",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Erythra\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Art\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Anchi\u00e1los",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e1xos",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e1fplio",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e1fpaktos",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e1ousa",
+    "country": "GR"
+  },
+  {
+    "name": "Mouzour\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Mouz\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "Mouzaki",
+    "country": "GR"
+  },
+  {
+    "name": "Mourni\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Mo\u00falki",
+    "country": "GR"
+  },
+  {
+    "name": "Moskh\u00e1ton",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00f3ria",
+    "country": "GR"
+  },
+  {
+    "name": "Morfovo\u00fani",
+    "country": "GR"
+  },
+  {
+    "name": "Mon\u00f3lithos",
+    "country": "GR"
+  },
+  {
+    "name": "Monastir\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00f3los",
+    "country": "GR"
+  },
+  {
+    "name": "Mol\u00e1oi",
+    "country": "GR"
+  },
+  {
+    "name": "Mokh\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Mo\u00edres",
+    "country": "GR"
+  },
+  {
+    "name": "Mitr\u00f3poli",
+    "country": "GR"
+  },
+  {
+    "name": "Mytilinio\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Mytilene",
+    "country": "GR"
+  },
+  {
+    "name": "Mytikas",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00edthymna",
+    "country": "GR"
+  },
+  {
+    "name": "Mit\u00e1ta",
+    "country": "GR"
+  },
+  {
+    "name": "Myrs\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00fdrina",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00edlos",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00fdloi",
+    "country": "GR"
+  },
+  {
+    "name": "Mil\u00e9sion",
+    "country": "GR"
+  },
+  {
+    "name": "Mikrom\u00e1ni",
+    "country": "GR"
+  },
+  {
+    "name": "Mykonos",
+    "country": "GR"
+  },
+  {
+    "name": "Meg\u00edsti",
+    "country": "GR"
+  },
+  {
+    "name": "Metsovo",
+    "country": "GR"
+  },
+  {
+    "name": "Meth\u00f3ni",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00e9thana",
+    "country": "GR"
+  },
+  {
+    "name": "Metam\u00f3rfosi Troiz\u00ednos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Messin\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Mess\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "Mesol\u00f3ngi",
+    "country": "GR"
+  },
+  {
+    "name": "Mesari\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Mertika\u00edika",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Tri\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "Men\u00eddi",
+    "country": "GR"
+  },
+  {
+    "name": "Mel\u00edvoia",
+    "country": "GR"
+  },
+  {
+    "name": "Mel\u00edssia",
+    "country": "GR"
+  },
+  {
+    "name": "Meligal\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00e9gara",
+    "country": "GR"
+  },
+  {
+    "name": "Megal\u00f3poli",
+    "country": "GR"
+  },
+  {
+    "name": "Meg\u00e1lo Chori\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Megaloch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Meg\u00e1li Kh\u00f3ra",
+    "country": "GR"
+  },
+  {
+    "name": "Meg\u00e1la Kal\u00fdvia",
+    "country": "GR"
+  },
+  {
+    "name": "Mavromm\u00e1ti",
+    "country": "GR"
+  },
+  {
+    "name": "Mart\u00ednon",
+    "country": "GR"
+  },
+  {
+    "name": "Marm\u00e1rion",
+    "country": "GR"
+  },
+  {
+    "name": "Mark\u00f3poulo Oropo\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "Mark\u00f3poulo",
+    "country": "GR"
+  },
+  {
+    "name": "Marath\u00f3nas",
+    "country": "GR"
+  },
+  {
+    "name": "Marath\u00f3kampos",
+    "country": "GR"
+  },
+  {
+    "name": "Manol\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "Mandr\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00e1ndra",
+    "country": "GR"
+  },
+  {
+    "name": "Manto\u00fadi",
+    "country": "GR"
+  },
+  {
+    "name": "Mantam\u00e1dos",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00e1lia",
+    "country": "GR"
+  },
+  {
+    "name": "Males\u00edna",
+    "country": "GR"
+  },
+  {
+    "name": "Makr\u00edsia",
+    "country": "GR"
+  },
+  {
+    "name": "Makrin\u00edtsa",
+    "country": "GR"
+  },
+  {
+    "name": "Makrych\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Makrych\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Makrak\u00f3mi",
+    "country": "GR"
+  },
+  {
+    "name": "Mago\u00fala",
+    "country": "GR"
+  },
+  {
+    "name": "Mago\u00fala",
+    "country": "GR"
+  },
+  {
+    "name": "Mago\u00fala",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Magnis\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Loutr\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "Loutr\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Lo\u00faros",
+    "country": "GR"
+  },
+  {
+    "name": "Louk\u00edsia",
+    "country": "GR"
+  },
+  {
+    "name": "Lixo\u00fari",
+    "country": "GR"
+  },
+  {
+    "name": "Livan\u00e1tes",
+    "country": "GR"
+  },
+  {
+    "name": "Liv\u00e1dia",
+    "country": "GR"
+  },
+  {
+    "name": "Lithaki\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Leipso\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00edmni",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00edmnes",
+    "country": "GR"
+  },
+  {
+    "name": "Lim\u00edn Kherson\u00edsou",
+    "country": "GR"
+  },
+  {
+    "name": "Lyk\u00f3vrysi",
+    "country": "GR"
+  },
+  {
+    "name": "Ligouri\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "Lefk\u00edmmi",
+    "country": "GR"
+  },
+  {
+    "name": "Lefk\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "Lefkada",
+    "country": "GR"
+  },
+  {
+    "name": "Livadei\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Lesbos",
+    "country": "GR"
+  },
+  {
+    "name": "Lepeno\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "Leon\u00eddio",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e9khaio",
+    "country": "GR"
+  },
+  {
+    "name": "Lechain\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e1vrio",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Lasith\u00edou",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Lar\u00edsis",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e1risa",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e1rimna",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e1pas",
+    "country": "GR"
+  },
+  {
+    "name": "Lagk\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "Lam\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Lamb\u00edrion",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e1las",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Lakon\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Lakk\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Krous\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "Kroke\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Taxi\u00e1rches",
+    "country": "GR"
+  },
+  {
+    "name": "Krits\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Kryon\u00e9ri",
+    "country": "GR"
+  },
+  {
+    "name": "Kr\u00edkellos",
+    "country": "GR"
+  },
+  {
+    "name": "Kr\u00e9stena",
+    "country": "GR"
+  },
+  {
+    "name": "Kran\u00eddi",
+    "country": "GR"
+  },
+  {
+    "name": "Krani\u00e1 Elass\u00f3nas",
+    "country": "GR"
+  },
+  {
+    "name": "Kouvar\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Koutseli\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Kouro\u00fapi",
+    "country": "GR"
+  },
+  {
+    "name": "Kostakio\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Kos",
+    "country": "GR"
+  },
+  {
+    "name": "Korop\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Kor\u00f3ni",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00f3rinthos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Korinth\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Domvra\u00edna",
+    "country": "GR"
+  },
+  {
+    "name": "Komp\u00f3ti",
+    "country": "GR"
+  },
+  {
+    "name": "Kolymp\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Kokk\u00f3nion",
+    "country": "GR"
+  },
+  {
+    "name": "Kokk\u00edni Ch\u00e1ni",
+    "country": "GR"
+  },
+  {
+    "name": "Kokk\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Koil\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00fdthnos",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00fdthira",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00edssamos",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00edrra",
+    "country": "GR"
+  },
+  {
+    "name": "Kyri\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "Kyr\u00e1s Vr\u00fdsi",
+    "country": "GR"
+  },
+  {
+    "name": "Kips\u00e9li",
+    "country": "GR"
+  },
+  {
+    "name": "Kiprian\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Kypariss\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Kin\u00e9ta",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00edmolos",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00fdmi",
+    "country": "GR"
+  },
+  {
+    "name": "Kyll\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Kykl\u00e1don",
+    "country": "GR"
+  },
+  {
+    "name": "Kifisi\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Ki\u00e1to",
+    "country": "GR"
+  },
+  {
+    "name": "Ch\u00f3ra",
+    "country": "GR"
+  },
+  {
+    "name": "Ch\u00f3ra",
+    "country": "GR"
+  },
+  {
+    "name": "Cholarg\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Chios",
+    "country": "GR"
+  },
+  {
+    "name": "Chios",
+    "country": "GR"
+  },
+  {
+    "name": "Khiliom\u00f3dhi",
+    "country": "GR"
+  },
+  {
+    "name": "Ch\u00e1vari",
+    "country": "GR"
+  },
+  {
+    "name": "Chaniotis",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Chani\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Chani\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Khalko\u00fatsion",
+    "country": "GR"
+  },
+  {
+    "name": "Chalk\u00edda",
+    "country": "GR"
+  },
+  {
+    "name": "Chalki\u00e1des",
+    "country": "GR"
+  },
+  {
+    "name": "Ch\u00e1lki",
+    "country": "GR"
+  },
+  {
+    "name": "Ch\u00e1lki",
+    "country": "GR"
+  },
+  {
+    "name": "Chalandr\u00edtsa",
+    "country": "GR"
+  },
+  {
+    "name": "Khal\u00e1ndrion",
+    "country": "GR"
+  },
+  {
+    "name": "Cha\u00efd\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Kerats\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "Kerat\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "Kerasoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e9falos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Kefallin\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "Kav\u00e1sila",
+    "country": "GR"
+  },
+  {
+    "name": "Katsik\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Vlas\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Kato\u00fana",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Tithor\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to So\u00falion",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Pat\u00edsia",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Mazar\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Lekh\u00f3nia",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Chori\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Glyk\u00f3vrysi",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to \u00c1ssos",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to As\u00edtai",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Acha\u1e2fa",
+    "country": "GR"
+  },
+  {
+    "name": "Katast\u00e1rion",
+    "country": "GR"
+  },
+  {
+    "name": "Kat\u00e1kali",
+    "country": "GR"
+  },
+  {
+    "name": "Kastr\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "Kast\u00e9lli",
+    "country": "GR"
+  },
+  {
+    "name": "Kast\u00e9lla",
+    "country": "GR"
+  },
+  {
+    "name": "Kastani\u00f3tissa",
+    "country": "GR"
+  },
+  {
+    "name": "Karpoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Karpen\u00edsi",
+    "country": "GR"
+  },
+  {
+    "name": "Karpathos",
+    "country": "GR"
+  },
+  {
+    "name": "Karp\u00e1sion",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1rystos",
+    "country": "GR"
+  },
+  {
+    "name": "Kary\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Kar\u00e9s Apokorr\u00f3nou",
+    "country": "GR"
+  },
+  {
+    "name": "Karditsomago\u00fala",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Kardh\u00edtsas",
+    "country": "GR"
+  },
+  {
+    "name": "Kard\u00edtsa",
+    "country": "GR"
+  },
+  {
+    "name": "Kardam\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Kard\u00e1maina",
+    "country": "GR"
+  },
+  {
+    "name": "Kar\u00e1toula",
+    "country": "GR"
+  },
+  {
+    "name": "Kapar\u00e9llion",
+    "country": "GR"
+  },
+  {
+    "name": "Kapandr\u00edti",
+    "country": "GR"
+  },
+  {
+    "name": "Kand\u00edla",
+    "country": "GR"
+  },
+  {
+    "name": "Kanal\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "Kan\u00e1lia",
+    "country": "GR"
+  },
+  {
+    "name": "Kam\u00e9na Vo\u00farla",
+    "country": "GR"
+  },
+  {
+    "name": "Kamp\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Kam\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Kam\u00e1rion",
+    "country": "GR"
+  },
+  {
+    "name": "Kam\u00e1rai",
+    "country": "GR"
+  },
+  {
+    "name": "Kallon\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Kall\u00edthiro",
+    "country": "GR"
+  },
+  {
+    "name": "Kallith\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "Kallif\u00f3ni",
+    "country": "GR"
+  },
+  {
+    "name": "Kal\u00fdvia Thoriko\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "Kaliv\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Kal\u00fdves",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1lymnos",
+    "country": "GR"
+  },
+  {
+    "name": "Kal\u00e1vryta",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1lamos",
+    "country": "GR"
+  },
+  {
+    "name": "Kalami\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Kalamp\u00e1ka",
+    "country": "GR"
+  },
+  {
+    "name": "Kalamata",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1limos",
+    "country": "GR"
+  },
+  {
+    "name": "Kaisarian\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Kaino\u00faryion",
+    "country": "GR"
+  },
+  {
+    "name": "Kaino\u00faryion",
+    "country": "GR"
+  },
+  {
+    "name": "Micsi",
+    "country": "GR"
+  },
+  {
+    "name": "Ith\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "It\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "It\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "Istia\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Isthm\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Yst\u00e9rnia",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Irakle\u00edou",
+    "country": "GR"
+  },
+  {
+    "name": "Ir\u00e1kleio",
+    "country": "GR"
+  },
+  {
+    "name": "Ir\u00e1kleion",
+    "country": "GR"
+  },
+  {
+    "name": "Ippoforv\u00edon",
+    "country": "GR"
+  },
+  {
+    "name": "\u00cdos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Ioann\u00ednon",
+    "country": "GR"
+  },
+  {
+    "name": "Io\u00e1nnina",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Ile\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Igoumen\u00edtsa",
+    "country": "GR"
+  },
+  {
+    "name": "Ier\u00e1petra",
+    "country": "GR"
+  },
+  {
+    "name": "Ydro\u00fassa",
+    "country": "GR"
+  },
+  {
+    "name": "\u00dddra",
+    "country": "GR"
+  },
+  {
+    "name": "Griz\u00e1no",
+    "country": "GR"
+  },
+  {
+    "name": "Grammen\u00edtsa",
+    "country": "GR"
+  },
+  {
+    "name": "Grammatiko\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "Grammatik\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Gra Liyi\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Graik\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Graikoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Go\u00faves",
+    "country": "GR"
+  },
+  {
+    "name": "Go\u00farnes",
+    "country": "GR"
+  },
+  {
+    "name": "Gouri\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Go\u00famero",
+    "country": "GR"
+  },
+  {
+    "name": "G\u00f3nnoi",
+    "country": "GR"
+  },
+  {
+    "name": "G\u00f3mfoi",
+    "country": "GR"
+  },
+  {
+    "name": "Glyf\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "G\u00e1zi",
+    "country": "GR"
+  },
+  {
+    "name": "Gavalo\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "Gasto\u00fani",
+    "country": "GR"
+  },
+  {
+    "name": "Gargali\u00e1noi",
+    "country": "GR"
+  },
+  {
+    "name": "Gal\u00e1tsi",
+    "country": "GR"
+  },
+  {
+    "name": "Galat\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Galat\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Galat\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Ga\u00eft\u00e1nion",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Fthi\u00f3tidos",
+    "country": "GR"
+  },
+  {
+    "name": "Fry",
+    "country": "GR"
+  },
+  {
+    "name": "Fol\u00e9gandros",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Fok\u00eddos",
+    "country": "GR"
+  },
+  {
+    "name": "Fyte\u00edes",
+    "country": "GR"
+  },
+  {
+    "name": "Fil\u00f3tion",
+    "country": "GR"
+  },
+  {
+    "name": "F\u00edlla",
+    "country": "GR"
+  },
+  {
+    "name": "Filippi\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "Filiatr\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Fili\u00e1tes",
+    "country": "GR"
+  },
+  {
+    "name": "Fyl\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "F\u00edki",
+    "country": "GR"
+  },
+  {
+    "name": "F\u00e1rsala",
+    "country": "GR"
+  },
+  {
+    "name": "F\u00e1ros",
+    "country": "GR"
+  },
+  {
+    "name": "Mago\u00fala",
+    "country": "GR"
+  },
+  {
+    "name": "F\u00e1lanna",
+    "country": "GR"
+  },
+  {
+    "name": "Exam\u00edlia",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Evvo\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Evrytan\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Ermo\u00fapolis",
+    "country": "GR"
+  },
+  {
+    "name": "Ermi\u00f3ni",
+    "country": "GR"
+  },
+  {
+    "name": "Erythr\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Er\u00e9tria",
+    "country": "GR"
+  },
+  {
+    "name": "Eres\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Epit\u00e1lio",
+    "country": "GR"
+  },
+  {
+    "name": "Ano Arhanes",
+    "country": "GR"
+  },
+  {
+    "name": "Enipi\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Empore\u00edo",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c9mponas",
+    "country": "GR"
+  },
+  {
+    "name": "Ellinik\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Elefs\u00edna",
+    "country": "GR"
+  },
+  {
+    "name": "Eleo\u00fasa",
+    "country": "GR"
+  },
+  {
+    "name": "El\u00e1teia",
+    "country": "GR"
+  },
+  {
+    "name": "Elass\u00f3na",
+    "country": "GR"
+  },
+  {
+    "name": "Ek\u00e1li",
+    "country": "GR"
+  },
+  {
+    "name": "Voulgar\u00e9li",
+    "country": "GR"
+  },
+  {
+    "name": "Dr\u00e9panon",
+    "country": "GR"
+  },
+  {
+    "name": "Dhr\u00e1fi",
+    "country": "GR"
+  },
+  {
+    "name": "Domok\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Dod\u00f3ni",
+    "country": "GR"
+  },
+  {
+    "name": "Dodecanese",
+    "country": "GR"
+  },
+  {
+    "name": "D\u00edstomo",
+    "country": "GR"
+  },
+  {
+    "name": "Dimits\u00e1na",
+    "country": "GR"
+  },
+  {
+    "name": "Desk\u00e1ti",
+    "country": "GR"
+  },
+  {
+    "name": "Dherv\u00e9ni",
+    "country": "GR"
+  },
+  {
+    "name": "Delphi",
+    "country": "GR"
+  },
+  {
+    "name": "Dar\u00e1tsos",
+    "country": "GR"
+  },
+  {
+    "name": "Bendev\u00eds",
+    "country": "GR"
+  },
+  {
+    "name": "Rod\u00f3poli",
+    "country": "GR"
+  },
+  {
+    "name": "B\u00e1fra",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Ge\u00f3rgios",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1yios Vas\u00edlios",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1yios Thom\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios St\u00e9fanos",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Spyr\u00eddon",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1yios Seraf\u00edm",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1yios Nik\u00f3laos",
+    "country": "GR"
+  },
+  {
+    "name": "Arko\u00fadi",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Nik\u00f3laos",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1yios Konstand\u00ednos",
+    "country": "GR"
+  },
+  {
+    "name": "Agios Kirykos",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Io\u00e1nnis",
+    "country": "GR"
+  },
+  {
+    "name": "Agios Dimitrios",
+    "country": "GR"
+  },
+  {
+    "name": "Agios Dimitrios",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1yios Athan\u00e1sios",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Andr\u00e9as",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gioi D\u00e9ka",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Varv\u00e1ra",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Varv\u00e1ra",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Tri\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "Agi\u00e1sos",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Paraskev\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Paraskev\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Ay\u00eda Mar\u00edna",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Mar\u00edna",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Mar\u00edna",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Gal\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "Agi\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Attik\u00eds",
+    "country": "GR"
+  },
+  {
+    "name": "Atsip\u00f3poulo",
+    "country": "GR"
+  },
+  {
+    "name": "Athens",
+    "country": "GR"
+  },
+  {
+    "name": "Ath\u00edkia",
+    "country": "GR"
+  },
+  {
+    "name": "Atal\u00e1nti",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1stros",
+    "country": "GR"
+  },
+  {
+    "name": "Astyp\u00e1laia",
+    "country": "GR"
+  },
+  {
+    "name": "Astak\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1ssos",
+    "country": "GR"
+  },
+  {
+    "name": "Aspr\u00f3pyrgos",
+    "country": "GR"
+  },
+  {
+    "name": "Asop\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Asop\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "As\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "As\u00edmion",
+    "country": "GR"
+  },
+  {
+    "name": "Argyro\u00fapoli",
+    "country": "GR"
+  },
+  {
+    "name": "Argyropo\u00fali",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s \u00c1rtas",
+    "country": "GR"
+  },
+  {
+    "name": "Artesian\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1rta",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1rma",
+    "country": "GR"
+  },
+  {
+    "name": "Archontoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Archa\u00eda Olymp\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Arkha\u00eda K\u00f3rinthos",
+    "country": "GR"
+  },
+  {
+    "name": "Ark\u00e1sa",
+    "country": "GR"
+  },
+  {
+    "name": "Arkaloch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Arkad\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1ris",
+    "country": "GR"
+  },
+  {
+    "name": "Aria",
+    "country": "GR"
+  },
+  {
+    "name": "Argost\u00f3lion",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1rgos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Argol\u00eddos",
+    "country": "GR"
+  },
+  {
+    "name": "Argalast\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Arfar\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1raxos",
+    "country": "GR"
+  },
+  {
+    "name": "Ar\u00e1chova",
+    "country": "GR"
+  },
+  {
+    "name": "Apollon\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Anth\u00edli",
+    "country": "GR"
+  },
+  {
+    "name": "An\u00f3geia",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1no S\u00fdros",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1no Mer\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1no Li\u00f3sia",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1no Lekh\u00f3nia",
+    "country": "GR"
+  },
+  {
+    "name": "Kopan\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1no Kastr\u00edtsi",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1no Kalent\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "Anoixi",
+    "country": "GR"
+  },
+  {
+    "name": "Megaloch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Agk\u00eddia",
+    "country": "GR"
+  },
+  {
+    "name": "Angel\u00f3kastro",
+    "country": "GR"
+  },
+  {
+    "name": "An\u00e9za",
+    "country": "GR"
+  },
+  {
+    "name": "Andros",
+    "country": "GR"
+  },
+  {
+    "name": "Andrav\u00edda",
+    "country": "GR"
+  },
+  {
+    "name": "Ant\u00edparos",
+    "country": "GR"
+  },
+  {
+    "name": "Antim\u00e1cheia",
+    "country": "GR"
+  },
+  {
+    "name": "An\u00e1vra",
+    "country": "GR"
+  },
+  {
+    "name": "An\u00e1vra",
+    "country": "GR"
+  },
+  {
+    "name": "An\u00e1vyssos",
+    "country": "GR"
+  },
+  {
+    "name": "Anatol\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Paral\u00eda Mil\u00e1tou",
+    "country": "GR"
+  },
+  {
+    "name": "An\u00e1fi",
+    "country": "GR"
+  },
+  {
+    "name": "Amorg\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1mfissa",
+    "country": "GR"
+  },
+  {
+    "name": "Amfiloch\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Amf\u00edkleia",
+    "country": "GR"
+  },
+  {
+    "name": "Ampel\u00f3na",
+    "country": "GR"
+  },
+  {
+    "name": "Ambel\u00f3kipoi",
+    "country": "GR"
+  },
+  {
+    "name": "Ampel\u00e1kia",
+    "country": "GR"
+  },
+  {
+    "name": "Maro\u00fasi",
+    "country": "GR"
+  },
+  {
+    "name": "Am\u00e1rynthos",
+    "country": "GR"
+  },
+  {
+    "name": "Amali\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "Almyr\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1lli Meri\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Aliv\u00e9ri",
+    "country": "GR"
+  },
+  {
+    "name": "Al\u00edartos",
+    "country": "GR"
+  },
+  {
+    "name": "Alfeio\u00fasa",
+    "country": "GR"
+  },
+  {
+    "name": "Akr\u00e1ta",
+    "country": "GR"
+  },
+  {
+    "name": "Akraifn\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Acharn\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Acha\u1e2fas",
+    "country": "GR"
+  },
+  {
+    "name": "A\u00edyira",
+    "country": "GR"
+  },
+  {
+    "name": "A\u00edgio",
+    "country": "GR"
+  },
+  {
+    "name": "Aegina",
+    "country": "GR"
+  },
+  {
+    "name": "Aitolik\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Aitol\u00edas kai Akarnan\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Aig\u00e1leo",
+    "country": "GR"
+  },
+  {
+    "name": "Ai\u00e1nteio",
+    "country": "GR"
+  },
+  {
+    "name": "Agr\u00ednio",
+    "country": "GR"
+  },
+  {
+    "name": "Agri\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Agnanter\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Afr\u00e1tion",
+    "country": "GR"
+  },
+  {
+    "name": "Ad\u00e1mas",
+    "country": "GR"
+  },
+  {
+    "name": "Hellenic Republic",
+    "country": "GR"
+  },
+  {
+    "name": "R\u00f3dos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Pirai\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Alikarnass\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Kremast\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Af\u00e1ntou",
+    "country": "GR"
+  },
+  {
+    "name": "Arch\u00e1ngelos",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00edndos",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e1rdos",
+    "country": "GR"
+  },
+  {
+    "name": "Potok\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "Zip\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Lal\u00f3dentra",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9os Orop\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Nomarch\u00eda Anatolik\u00eds Attik\u00eds",
+    "country": "GR"
+  },
+  {
+    "name": "Nomarch\u00eda Dytik\u00eds Attik\u00eds",
+    "country": "GR"
+  },
+  {
+    "name": "Nomarch\u00eda Ath\u00ednas",
+    "country": "GR"
+  },
+  {
+    "name": "Zyg\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Akrol\u00edmni",
+    "country": "GR"
+  },
+  {
+    "name": "Giannits\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Gerakaro\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "Yeorgoul\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Geniss\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "G\u00e9fyra",
+    "country": "GR"
+  },
+  {
+    "name": "Xirop\u00f3tamos",
+    "country": "GR"
+  },
+  {
+    "name": "Xin\u00f3 Ner\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Xil\u00f3polis",
+    "country": "GR"
+  },
+  {
+    "name": "Xylagan\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s X\u00e1nthis",
+    "country": "GR"
+  },
+  {
+    "name": "X\u00e1nthi",
+    "country": "GR"
+  },
+  {
+    "name": "Vronto\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00f3lakas",
+    "country": "GR"
+  },
+  {
+    "name": "Verg\u00edna",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00e9rgi",
+    "country": "GR"
+  },
+  {
+    "name": "V\u00e9roia",
+    "country": "GR"
+  },
+  {
+    "name": "Velvent\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Vath\u00fdlakkos",
+    "country": "GR"
+  },
+  {
+    "name": "Vasilik\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Vamvak\u00f3fyto",
+    "country": "GR"
+  },
+  {
+    "name": "Valtot\u00f3pi",
+    "country": "GR"
+  },
+  {
+    "name": "Valter\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Tsot\u00edli",
+    "country": "GR"
+  },
+  {
+    "name": "Ts\u00e1koi",
+    "country": "GR"
+  },
+  {
+    "name": "Tr\u00edlofos",
+    "country": "GR"
+  },
+  {
+    "name": "Tr\u00edkala",
+    "country": "GR"
+  },
+  {
+    "name": "Tycher\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Thessalon\u00edkis",
+    "country": "GR"
+  },
+  {
+    "name": "Thessalon\u00edki",
+    "country": "GR"
+  },
+  {
+    "name": "Th\u00e9rmi",
+    "country": "GR"
+  },
+  {
+    "name": "Th\u00e1sos",
+    "country": "GR"
+  },
+  {
+    "name": "Terpn\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Taxi\u00e1rchis",
+    "country": "GR"
+  },
+  {
+    "name": "Svor\u00f3nos",
+    "country": "GR"
+  },
+  {
+    "name": "Strymonik\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Strat\u00f3nion",
+    "country": "GR"
+  },
+  {
+    "name": "Stavro\u00fapoli",
+    "country": "GR"
+  },
+  {
+    "name": "Stavr\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Sourot\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Soufl\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Sos\u00e1ndra",
+    "country": "GR"
+  },
+  {
+    "name": "Soch\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Sko\u00fatari",
+    "country": "GR"
+  },
+  {
+    "name": "Skoto\u00fassa",
+    "country": "GR"
+  },
+  {
+    "name": "Sk\u00fddra",
+    "country": "GR"
+  },
+  {
+    "name": "Leptokary\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Sitagro\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Sisam\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "S\u00edndos",
+    "country": "GR"
+  },
+  {
+    "name": "Syki\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Syki\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Sidir\u00f3kastro",
+    "country": "GR"
+  },
+  {
+    "name": "Si\u00e1tista",
+    "country": "GR"
+  },
+  {
+    "name": "Sfend\u00e1mi",
+    "country": "GR"
+  },
+  {
+    "name": "Sevastian\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "S\u00e9rvia",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Serr\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "S\u00e9rres",
+    "country": "GR"
+  },
+  {
+    "name": "S\u00e9lero",
+    "country": "GR"
+  },
+  {
+    "name": "S\u00e1rti",
+    "country": "GR"
+  },
+  {
+    "name": "S\u00e1pes",
+    "country": "GR"
+  },
+  {
+    "name": "Samothr\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "Rod\u00f3poli",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Rod\u00f3pis",
+    "country": "GR"
+  },
+  {
+    "name": "Riz\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Riz\u00f3mata",
+    "country": "GR"
+  },
+  {
+    "name": "R\u00edzia",
+    "country": "GR"
+  },
+  {
+    "name": "Riz\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Rit\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e9fka",
+    "country": "GR"
+  },
+  {
+    "name": "Ptolema\u1e2fda",
+    "country": "GR"
+  },
+  {
+    "name": "Fteli\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Psychik\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Provat\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Pr\u00f3ti",
+    "country": "GR"
+  },
+  {
+    "name": "Prosots\u00e1ni",
+    "country": "GR"
+  },
+  {
+    "name": "Pr\u00f3machoi",
+    "country": "GR"
+  },
+  {
+    "name": "Pr\u00f3choma",
+    "country": "GR"
+  },
+  {
+    "name": "Prof\u00edtis Il\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Potami\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Portari\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Pol\u00fdgyros",
+    "country": "GR"
+  },
+  {
+    "name": "Pol\u00edkhronon",
+    "country": "GR"
+  },
+  {
+    "name": "Pol\u00edchni",
+    "country": "GR"
+  },
+  {
+    "name": "Pol\u00fdkastro",
+    "country": "GR"
+  },
+  {
+    "name": "Polyk\u00e1rpi",
+    "country": "GR"
+  },
+  {
+    "name": "Plagi\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Plat\u00fd",
+    "country": "GR"
+  },
+  {
+    "name": "Platan\u00f3revma",
+    "country": "GR"
+  },
+  {
+    "name": "Pig\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Chal\u00e1stra",
+    "country": "GR"
+  },
+  {
+    "name": "Pyla\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Pier\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Petro\u00fassa",
+    "country": "GR"
+  },
+  {
+    "name": "Petroch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Petran\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Petein\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Perister\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Per\u00edstasi",
+    "country": "GR"
+  },
+  {
+    "name": "Pera\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e9plos",
+    "country": "GR"
+  },
+  {
+    "name": "Pent\u00e1poli",
+    "country": "GR"
+  },
+  {
+    "name": "Pentapl\u00e1tano",
+    "country": "GR"
+  },
+  {
+    "name": "Pent\u00e1lofos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s P\u00e9llis",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e9lla",
+    "country": "GR"
+  },
+  {
+    "name": "Pedin\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Patr\u00edda",
+    "country": "GR"
+  },
+  {
+    "name": "Paran\u00e9sti",
+    "country": "GR"
+  },
+  {
+    "name": "Paral\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Pappagi\u00e1nnis",
+    "country": "GR"
+  },
+  {
+    "name": "Pan\u00f3rama",
+    "country": "GR"
+  },
+  {
+    "name": "Ax\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Palaiok\u00f3mi",
+    "country": "GR"
+  },
+  {
+    "name": "Palaioch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Pala\u00edfyto",
+    "country": "GR"
+  },
+  {
+    "name": "P\u00e1chni",
+    "country": "GR"
+  },
+  {
+    "name": "Ouranoupolis",
+    "country": "GR"
+  },
+  {
+    "name": "Orm\u00fdlia",
+    "country": "GR"
+  },
+  {
+    "name": "Oresti\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "Orai\u00f3kastro",
+    "country": "GR"
+  },
+  {
+    "name": "Nis\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Nik\u00f3kleia",
+    "country": "GR"
+  },
+  {
+    "name": "Nik\u00edsiani",
+    "country": "GR"
+  },
+  {
+    "name": "Nigr\u00edta",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9os Skop\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9os Myl\u00f3topos",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9os Marmar\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9o So\u00fali",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9o R\u00fdsi",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9o Petr\u00edtsi",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9o Agion\u00e9ri",
+    "country": "GR"
+  },
+  {
+    "name": "Neochoro\u00fada",
+    "country": "GR"
+  },
+  {
+    "name": "Neoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Neoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9oi Epiv\u00e1tes",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Z\u00edchni",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a V\u00fdssa",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Tr\u00edglia",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a S\u00e1nta",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Pote\u00eddaia",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Pl\u00e1gia",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a P\u00e9ramos",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a P\u00e9lla",
+    "country": "GR"
+  },
+  {
+    "name": "\u00d3lynthos",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Michani\u00f3na",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Mesimvr\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a M\u00e1lgara",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Magnis\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Kr\u00f3mi",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Karv\u00e1li",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Kary\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Kallikr\u00e1teia",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Irakl\u00edtsa",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Ir\u00e1kleia",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a F\u00f3kaia",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a \u00c9fesos",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Apollon\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e1ousa",
+    "country": "GR"
+  },
+  {
+    "name": "Mousth\u00e9ni",
+    "country": "GR"
+  },
+  {
+    "name": "Mikr\u00f3polis",
+    "country": "GR"
+  },
+  {
+    "name": "Mikr\u00f3 Monast\u00edri",
+    "country": "GR"
+  },
+  {
+    "name": "Mikr\u00f3kampos",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00fdki",
+    "country": "GR"
+  },
+  {
+    "name": "Mesopotam\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Mesim\u00e9ri",
+    "country": "GR"
+  },
+  {
+    "name": "Menem\u00e9ni",
+    "country": "GR"
+  },
+  {
+    "name": "Mel\u00edti",
+    "country": "GR"
+  },
+  {
+    "name": "Melissoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Mel\u00edki",
+    "country": "GR"
+  },
+  {
+    "name": "Meg\u00e1los Pr\u00ednos",
+    "country": "GR"
+  },
+  {
+    "name": "Meg\u00e1li Panag\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Mavrovo\u00fani",
+    "country": "GR"
+  },
+  {
+    "name": "Mar\u00edna",
+    "country": "GR"
+  },
+  {
+    "name": "Mani\u00e1koi",
+    "country": "GR"
+  },
+  {
+    "name": "M\u00e1ndalo",
+    "country": "GR"
+  },
+  {
+    "name": "D\u00edon",
+    "country": "GR"
+  },
+  {
+    "name": "Makroch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Makr\u00fdgialos",
+    "country": "GR"
+  },
+  {
+    "name": "Loutr\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00f3fos",
+    "country": "GR"
+  },
+  {
+    "name": "Liv\u00e1di",
+    "country": "GR"
+  },
+  {
+    "name": "Livader\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Livad\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "Lit\u00f3choro",
+    "country": "GR"
+  },
+  {
+    "name": "Lit\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Limen\u00e1ria",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00fdkeio",
+    "country": "GR"
+  },
+  {
+    "name": "Lianov\u00e9rgi",
+    "country": "GR"
+  },
+  {
+    "name": "Lagyn\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e1vara",
+    "country": "GR"
+  },
+  {
+    "name": "Lagkad\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e1kkoma",
+    "country": "GR"
+  },
+  {
+    "name": "Lag\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Kr\u00f3kos",
+    "country": "GR"
+  },
+  {
+    "name": "Krithi\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Krist\u00f3ni",
+    "country": "GR"
+  },
+  {
+    "name": "Kr\u00fda Vr\u00fdsi",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Koz\u00e1nis",
+    "country": "GR"
+  },
+  {
+    "name": "Koz\u00e1ni",
+    "country": "GR"
+  },
+  {
+    "name": "Koulo\u00fara",
+    "country": "GR"
+  },
+  {
+    "name": "Kouf\u00e1lia",
+    "country": "GR"
+  },
+  {
+    "name": "Korm\u00edsta",
+    "country": "GR"
+  },
+  {
+    "name": "Koris\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Korin\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Koryf\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Kopan\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00f3nitsa",
+    "country": "GR"
+  },
+  {
+    "name": "Kontari\u00f3tissa",
+    "country": "GR"
+  },
+  {
+    "name": "Komotin\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Komnin\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Kolchik\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "Kolindr\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Kokkin\u00f3choma",
+    "country": "GR"
+  },
+  {
+    "name": "Ko\u00edmisi",
+    "country": "GR"
+  },
+  {
+    "name": "Ko\u00edla",
+    "country": "GR"
+  },
+  {
+    "name": "Kle\u00edtos",
+    "country": "GR"
+  },
+  {
+    "name": "Kleid\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00edtros",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00fdria",
+    "country": "GR"
+  },
+  {
+    "name": "Kypr\u00ednos",
+    "country": "GR"
+  },
+  {
+    "name": "Kimm\u00e9ria",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00fdmina",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Kilk\u00eds",
+    "country": "GR"
+  },
+  {
+    "name": "Kilk\u00eds",
+    "country": "GR"
+  },
+  {
+    "name": "Chryso\u00fapolis",
+    "country": "GR"
+  },
+  {
+    "name": "Chrys\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Chrysoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Chrysoch\u00f3rafa",
+    "country": "GR"
+  },
+  {
+    "name": "Chorti\u00e1tis",
+    "country": "GR"
+  },
+  {
+    "name": "Chorist\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Charop\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Chalkid\u00f3na",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Chalkidik\u00eds",
+    "country": "GR"
+  },
+  {
+    "name": "Kerk\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "Keramot\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Kefal\u00f3vryso",
+    "country": "GR"
+  },
+  {
+    "name": "Kav\u00fdli",
+    "country": "GR"
+  },
+  {
+    "name": "Kavall\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Kav\u00e1las",
+    "country": "GR"
+  },
+  {
+    "name": "Kav\u00e1la",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Schol\u00e1ri",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Nevrok\u00f3pi",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Mili\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Loutr\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Lipoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Kam\u00edla",
+    "country": "GR"
+  },
+  {
+    "name": "Kater\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Kastori\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Kastoria",
+    "country": "GR"
+  },
+  {
+    "name": "Kastano\u00fassa",
+    "country": "GR"
+  },
+  {
+    "name": "Kastani\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Karper\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Kar\u00edtsa",
+    "country": "GR"
+  },
+  {
+    "name": "Kary\u00f3tissa",
+    "country": "GR"
+  },
+  {
+    "name": "Karyes",
+    "country": "GR"
+  },
+  {
+    "name": "Kardi\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Kamp\u00e1nis",
+    "country": "GR"
+  },
+  {
+    "name": "Kamari\u00f3tissa",
+    "country": "GR"
+  },
+  {
+    "name": "Kal\u00f3s Agr\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Kaloch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Kallith\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "Kallith\u00e9a",
+    "country": "GR"
+  },
+  {
+    "name": "Kall\u00edfytos",
+    "country": "GR"
+  },
+  {
+    "name": "Kal\u00ed Vr\u00fdsi",
+    "country": "GR"
+  },
+  {
+    "name": "Kal\u00fdves Polyg\u00fdrou",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Spyr\u00eddon",
+    "country": "GR"
+  },
+  {
+    "name": "Kal\u00fdvia",
+    "country": "GR"
+  },
+  {
+    "name": "Pr\u00ednos",
+    "country": "GR"
+  },
+  {
+    "name": "Kal\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Kalamp\u00e1ki",
+    "country": "GR"
+  },
+  {
+    "name": "Kalamari\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "L\u00e9chovo",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Imath\u00edas",
+    "country": "GR"
+  },
+  {
+    "name": "Ieriss\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "\u00cdasmos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Greven\u00f3n",
+    "country": "GR"
+  },
+  {
+    "name": "Greven\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Goum\u00e9nissa",
+    "country": "GR"
+  },
+  {
+    "name": "G\u00e1zoros",
+    "country": "GR"
+  },
+  {
+    "name": "Gallik\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Gal\u00e1tista",
+    "country": "GR"
+  },
+  {
+    "name": "Galatin\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Galat\u00e1des",
+    "country": "GR"
+  },
+  {
+    "name": "Fotol\u00edvos",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Flogit\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Flor\u00ednis",
+    "country": "GR"
+  },
+  {
+    "name": "Fl\u00f3rina",
+    "country": "GR"
+  },
+  {
+    "name": "Fil\u00f3tas",
+    "country": "GR"
+  },
+  {
+    "name": "Fill\u00fdra",
+    "country": "GR"
+  },
+  {
+    "name": "F\u00edliro",
+    "country": "GR"
+  },
+  {
+    "name": "F\u00e9res",
+    "country": "GR"
+  },
+  {
+    "name": "Exoch\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Exapl\u00e1tanos",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s \u00c9vrou",
+    "country": "GR"
+  },
+  {
+    "name": "Evrop\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c9vosmos",
+    "country": "GR"
+  },
+  {
+    "name": "Efkarp\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Er\u00e1tyra",
+    "country": "GR"
+  },
+  {
+    "name": "Episkop\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Epanom\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Emmanou\u00edl Papp\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "Emp\u00f3rio",
+    "country": "GR"
+  },
+  {
+    "name": "Elefthero\u00fapolis",
+    "country": "GR"
+  },
+  {
+    "name": "Elefth\u00e9rio - Kordeli\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Elaioch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Ech\u00ednos",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c9dessa",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Dr\u00e1mas",
+    "country": "GR"
+  },
+  {
+    "name": "Dr\u00e1ma",
+    "country": "GR"
+  },
+  {
+    "name": "Dros\u00e1to",
+    "country": "GR"
+  },
+  {
+    "name": "Drym\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Didym\u00f3teicho",
+    "country": "GR"
+  },
+  {
+    "name": "Diavat\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Diavat\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "D\u00e1to",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Ge\u00f3rgios",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Vas\u00edleios",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios P\u00e9tros",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Nik\u00f3laos",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios M\u00e1mas",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Louk\u00e1s",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Athan\u00e1sios",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Athan\u00e1sios",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Tri\u00e1da",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00edasma",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Paraskev\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Axio\u00fapoli",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1vato",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1thyra",
+    "country": "GR"
+  },
+  {
+    "name": "Asvestoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1ssiros",
+    "country": "GR"
+  },
+  {
+    "name": "Asprov\u00e1lta",
+    "country": "GR"
+  },
+  {
+    "name": "Ask\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Ars\u00e9nio",
+    "country": "GR"
+  },
+  {
+    "name": "Arrian\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1rnissa",
+    "country": "GR"
+  },
+  {
+    "name": "Arna\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Armenokh\u00f3rion",
+    "country": "GR"
+  },
+  {
+    "name": "Ar\u00edsvi",
+    "country": "GR"
+  },
+  {
+    "name": "Arida\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Argos Orestiko",
+    "country": "GR"
+  },
+  {
+    "name": "Araviss\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1ratos",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1psalos",
+    "country": "GR"
+  },
+  {
+    "name": "Apal\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1no Por\u00f3\u00efa",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1no K\u00f3mi",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gkistro",
+    "country": "GR"
+  },
+  {
+    "name": "Angeloch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Agkathi\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Anatolik\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Anar\u00e1chi",
+    "country": "GR"
+  },
+  {
+    "name": "Ammoch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "Amisian\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Ampeloch\u00f3ri",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1mpeloi",
+    "country": "GR"
+  },
+  {
+    "name": "Ampele\u00edes",
+    "country": "GR"
+  },
+  {
+    "name": "Alistr\u00e1ti",
+    "country": "GR"
+  },
+  {
+    "name": "Alexandroupoli",
+    "country": "GR"
+  },
+  {
+    "name": "Alex\u00e1ndreia",
+    "country": "GR"
+  },
+  {
+    "name": "Akrin\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "Aig\u00ednio",
+    "country": "GR"
+  },
+  {
+    "name": "Aian\u00ed",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1fytos",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1dendro",
+    "country": "GR"
+  },
+  {
+    "name": "Eirino\u00fapoli",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios P\u00e1vlos",
+    "country": "GR"
+  },
+  {
+    "name": "Triandr\u00eda",
+    "country": "GR"
+  },
+  {
+    "name": "Mel\u00edssi",
+    "country": "GR"
+  },
+  {
+    "name": "Vir\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Strati\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Sinar\u00e1des",
+    "country": "GR"
+  },
+  {
+    "name": "Potam\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Kontok\u00e1li",
+    "country": "GR"
+  },
+  {
+    "name": "Kynopi\u00e1stes",
+    "country": "GR"
+  },
+  {
+    "name": "Nom\u00f3s Kerk\u00fdras",
+    "country": "GR"
+  },
+  {
+    "name": "Corfu",
+    "country": "GR"
+  },
+  {
+    "name": "K\u00e1to Koraki\u00e1na",
+    "country": "GR"
+  },
+  {
+    "name": "Kassiopi",
+    "country": "GR"
+  },
+  {
+    "name": "Kan\u00e1li",
+    "country": "GR"
+  },
+  {
+    "name": "Gasto\u00fari",
+    "country": "GR"
+  },
+  {
+    "name": "Ben\u00edtses",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios R\u00f3kkos",
+    "country": "GR"
+  },
+  {
+    "name": "\u00c1gios Mattha\u00edos",
+    "country": "GR"
+  },
+  {
+    "name": "Ag\u00eda Eleo\u00fasa",
+    "country": "GR"
+  },
+  {
+    "name": "Alepo\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "Villa Ritz",
+    "country": "GR"
+  },
+  {
+    "name": "Vrilissia",
+    "country": "GR"
+  },
+  {
+    "name": "Faliraki",
+    "country": "GR"
+  },
+  {
+    "name": "Young Inn",
+    "country": "GR"
+  },
+  {
+    "name": "Archipolis",
+    "country": "GR"
+  },
+  {
+    "name": "Alimos",
+    "country": "GR"
+  },
+  {
+    "name": "Agios Prokopios",
+    "country": "GR"
+  },
+  {
+    "name": "Pot\u00f3s",
+    "country": "GR"
+  },
+  {
+    "name": "Attica",
+    "country": "GR"
+  },
+  {
+    "name": "Agios Georgis",
+    "country": "GR"
+  },
+  {
+    "name": "Pefkochori",
+    "country": "GR"
+  },
+  {
+    "name": "Nidri",
+    "country": "GR"
+  },
+  {
+    "name": "Mesolongi",
+    "country": "GR"
+  },
+  {
+    "name": "Central Greece",
+    "country": "GR"
+  },
+  {
+    "name": "Central Macedonia",
+    "country": "GR"
+  },
+  {
+    "name": "Crete",
+    "country": "GR"
+  },
+  {
+    "name": "Eastern Macedonia and Thrace",
+    "country": "GR"
+  },
+  {
+    "name": "Epirus",
+    "country": "GR"
+  },
+  {
+    "name": "Ionian Islands",
+    "country": "GR"
+  },
+  {
+    "name": "North Aegean",
+    "country": "GR"
+  },
+  {
+    "name": "Peloponnese",
+    "country": "GR"
+  },
+  {
+    "name": "South Aegean",
+    "country": "GR"
+  },
+  {
+    "name": "Thessaly",
+    "country": "GR"
+  },
+  {
+    "name": "Western Greece",
+    "country": "GR"
+  },
+  {
+    "name": "Western Macedonia",
+    "country": "GR"
+  },
+  {
+    "name": "N\u00e9a Kr\u00edni",
+    "country": "GR"
+  },
+  {
+    "name": "Alyki",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Artas",
+    "country": "GR"
+  },
+  {
+    "name": "Aggelik\u00e1",
+    "country": "GR"
+  },
+  {
+    "name": "Tagko\u00fa",
+    "country": "GR"
+  },
+  {
+    "name": "Agrilia",
+    "country": "GR"
+  },
+  {
+    "name": "Kefalonia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Io\u00e1nnina",
+    "country": "GR"
+  },
+  {
+    "name": "Marousi",
+    "country": "GR"
+  },
+  {
+    "name": "Metaxourgio",
+    "country": "GR"
+  },
+  {
+    "name": "Ymittos",
+    "country": "GR"
+  },
+  {
+    "name": "Makry-Gialos",
+    "country": "GR"
+  },
+  {
+    "name": "Kambos",
+    "country": "GR"
+  },
+  {
+    "name": "Fanari",
+    "country": "GR"
+  },
+  {
+    "name": "Ymittos Athens",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Nea Smyrni",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Pavlos Melas",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Agios Dimitrios",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Tripoli",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Aigialeia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kalavryta",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos West Achaea",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Corinth",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Nemea",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Neapoli-Sykies",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Filadelfeia-Chalkidona",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Milos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Serifos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Sifnos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Pallini",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Rafina-Pikermi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Patras",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Andravida-Kyllini",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kifisia",
+    "country": "GR"
+  },
+  {
+    "name": "Chersonisos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Naxos and Lesser Cyclades",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Paros",
+    "country": "GR"
+  },
+  {
+    "name": "Kastelorizo",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Aktio-Vonitsa",
+    "country": "GR"
+  },
+  {
+    "name": "Kythira",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Acharnes",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Missolonghi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Nafpaktia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Poros",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Dafni-Ymittos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Ilida (Dimos Ilidas)",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Florina",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Sparti",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Dodoni",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Zitsa",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Igoumenitsa",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Chalcis",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Karpenisi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Lamia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Preveza",
+    "country": "GR"
+  },
+  {
+    "name": "Delphi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Molos-Agios Konstantinos",
+    "country": "GR"
+  },
+  {
+    "name": "Ikaria",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Samos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Apokoronas",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Lesbos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Lemnos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Rethymno",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Trifylia",
+    "country": "GR"
+  },
+  {
+    "name": "Chania",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kozani",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Salaminas",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Hydra",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Marousi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Spata-Artemida",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Pylaia-Chortiatis",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Piraeus",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Didymoteicho",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Alexandroupoli",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Nea Ionia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Rhodes",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Peristeri",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kileler",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Larissa",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Almyros",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Oraiokastro",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Galatsi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos North Kynouria",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Megalopoli",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Epidaurus",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Nafplio",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Vrilissia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Fyli",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Nikaia-Agios Ioannis Rentis",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Minoa Pediada",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Astypalaia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kalymnos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Leros",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Chios",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Komotini",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Agia Paraskevi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Andros",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Santorini",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Ios",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Xanthi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Papagou-Cholargos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Penteli",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Thessaloniki",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Chalandri",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Trikala",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Agrinio",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Dio-Olympos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Katerini",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Pella",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kefalonia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Lefkada",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Zakynthos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Corfu",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Eordaia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Deskati",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Orestida",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Visaltia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Irakleia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Serres",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Sintiki",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Aristotelis",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Athens",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Zografos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Nestos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kallithea",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Naousa",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Elefsina",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Mandra-Eidyllia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Megara",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Glyfada",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Pyrgos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Metamorfosi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Drama",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Volos",
+    "country": "GR"
+  },
+  {
+    "name": "Thasos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kavala",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Orestiada",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Eretria",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Istiaia-Aidipsos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Karystos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Thebes",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Livadeia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Orchomenos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Edessa",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Tanagra",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Volvi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Delta",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Thermaikos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kordelio-Evosmos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Ilio",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Heraklion",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Dionysos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kropia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Lavreotiki",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Petroupoli",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Syros-Ermoupoli",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Tinos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Ierapetra",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Veroia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Mykonos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Amorgos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Skiathos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kalampaka",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Vari-Voula-Vouliagmeni",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Markopoulo Mesogaias",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Siteia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Alimos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kea",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kythnos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Karpathos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kasos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kalamaria",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Palaio Faliro",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Aspropyrgos",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Polygyros",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Keratsini-Drapetsona",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kastoria",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kilkis",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Paionia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Kalamata",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Aigaleo",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Perama",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Skyros",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Grevena",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Loutraki-Agioi Theodoroi",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Xylokastro-Evrostina",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Argos-Mykines",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Elliniko-Argyroupoli",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Karditsa",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Ampelokipoi-Menemeni",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Oichalia",
+    "country": "GR"
+  },
+  {
+    "name": "Dimos Pylos-Nestoras",
+    "country": "GR"
+  },
+  {
+    "name": "Vagi\u00e9s",
+    "country": "GR"
+  },
+  {
+    "name": "Asklipie\u00edo",
+    "country": "GR"
+  },
+  {
+    "name": "G\u00e9rakas",
+    "country": "GR"
+  },
+  {
+    "name": "Meg\u00e1lo Chori\u00f3",
+    "country": "GR"
+  },
+  {
+    "name": "Kolonaki",
+    "country": "GR"
+  }
+]

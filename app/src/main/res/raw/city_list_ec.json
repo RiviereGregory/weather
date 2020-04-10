@@ -1,0 +1,766 @@
+[
+  {
+    "name": "Zarumaurcu",
+    "country": "EC"
+  },
+  {
+    "name": "Zaruma",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Zamora-Chinchipe",
+    "country": "EC"
+  },
+  {
+    "name": "Zamora",
+    "country": "EC"
+  },
+  {
+    "name": "Z\u00e1mbiza",
+    "country": "EC"
+  },
+  {
+    "name": "Yantzaza",
+    "country": "EC"
+  },
+  {
+    "name": "Yanacocha",
+    "country": "EC"
+  },
+  {
+    "name": "Yaguachi Nuevo",
+    "country": "EC"
+  },
+  {
+    "name": "Vinces",
+    "country": "EC"
+  },
+  {
+    "name": "Vilcabamba",
+    "country": "EC"
+  },
+  {
+    "name": "Ventanas",
+    "country": "EC"
+  },
+  {
+    "name": "Velasco Ibarra",
+    "country": "EC"
+  },
+  {
+    "name": "Valdez",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia del Tungurahua",
+    "country": "EC"
+  },
+  {
+    "name": "Tunguipamba",
+    "country": "EC"
+  },
+  {
+    "name": "Tulc\u00e1n",
+    "country": "EC"
+  },
+  {
+    "name": "Tosagua",
+    "country": "EC"
+  },
+  {
+    "name": "Toni Loma",
+    "country": "EC"
+  },
+  {
+    "name": "Teniente Hugo Ortiz",
+    "country": "EC"
+  },
+  {
+    "name": "Tena",
+    "country": "EC"
+  },
+  {
+    "name": "Tarqui",
+    "country": "EC"
+  },
+  {
+    "name": "Tabacundo",
+    "country": "EC"
+  },
+  {
+    "name": "Suc\u00faa",
+    "country": "EC"
+  },
+  {
+    "name": "Sucre",
+    "country": "EC"
+  },
+  {
+    "name": "Shushufindi",
+    "country": "EC"
+  },
+  {
+    "name": "Seymour",
+    "country": "EC"
+  },
+  {
+    "name": "Saraguro",
+    "country": "EC"
+  },
+  {
+    "name": "Saquisil\u00ed",
+    "country": "EC"
+  },
+  {
+    "name": "Santo Domingo de los Colorados",
+    "country": "EC"
+  },
+  {
+    "name": "Santa Rosa",
+    "country": "EC"
+  },
+  {
+    "name": "Santa Luc\u00eda",
+    "country": "EC"
+  },
+  {
+    "name": "Santa Fe",
+    "country": "EC"
+  },
+  {
+    "name": "Cant\u00f3n Santa Elena",
+    "country": "EC"
+  },
+  {
+    "name": "Santa Elena",
+    "country": "EC"
+  },
+  {
+    "name": "Santa Ana",
+    "country": "EC"
+  },
+  {
+    "name": "San Pedro de la Bendita",
+    "country": "EC"
+  },
+  {
+    "name": "San Pablo de Kantesiya",
+    "country": "EC"
+  },
+  {
+    "name": "San Miguel de Salcedo",
+    "country": "EC"
+  },
+  {
+    "name": "San Miguel",
+    "country": "EC"
+  },
+  {
+    "name": "San Lorenzo de Esmeraldas",
+    "country": "EC"
+  },
+  {
+    "name": "San Isidro",
+    "country": "EC"
+  },
+  {
+    "name": "Sangolqu\u00ed",
+    "country": "EC"
+  },
+  {
+    "name": "San Gabriel",
+    "country": "EC"
+  },
+  {
+    "name": "San Cristobal",
+    "country": "EC"
+  },
+  {
+    "name": "San Antonio",
+    "country": "EC"
+  },
+  {
+    "name": "Samborond\u00f3n",
+    "country": "EC"
+  },
+  {
+    "name": "Salinas",
+    "country": "EC"
+  },
+  {
+    "name": "Sade",
+    "country": "EC"
+  },
+  {
+    "name": "Rosa Zarate",
+    "country": "EC"
+  },
+  {
+    "name": "Rocafuerte",
+    "country": "EC"
+  },
+  {
+    "name": "Riobamba",
+    "country": "EC"
+  },
+  {
+    "name": "Quito",
+    "country": "EC"
+  },
+  {
+    "name": "Quimshi",
+    "country": "EC"
+  },
+  {
+    "name": "Quevedo",
+    "country": "EC"
+  },
+  {
+    "name": "Puyo",
+    "country": "EC"
+  },
+  {
+    "name": "Pujil\u00ed",
+    "country": "EC"
+  },
+  {
+    "name": "Puerto Villamil",
+    "country": "EC"
+  },
+  {
+    "name": "Puerto Pito",
+    "country": "EC"
+  },
+  {
+    "name": "Puerto Francisco de Orellana",
+    "country": "EC"
+  },
+  {
+    "name": "Puerto Bol\u00edvar",
+    "country": "EC"
+  },
+  {
+    "name": "Puerto Baquerizo Moreno",
+    "country": "EC"
+  },
+  {
+    "name": "Puerto Ayora",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda La Propicia",
+    "country": "EC"
+  },
+  {
+    "name": "Portoviejo",
+    "country": "EC"
+  },
+  {
+    "name": "Portovelo",
+    "country": "EC"
+  },
+  {
+    "name": "Pomasqui",
+    "country": "EC"
+  },
+  {
+    "name": "Playas",
+    "country": "EC"
+  },
+  {
+    "name": "Pi\u00f1as",
+    "country": "EC"
+  },
+  {
+    "name": "Pimampiro",
+    "country": "EC"
+  },
+  {
+    "name": "P\u00edllaro Nuevo",
+    "country": "EC"
+  },
+  {
+    "name": "P\u00edllaro",
+    "country": "EC"
+  },
+  {
+    "name": "Piedra del Medio",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Pichincha",
+    "country": "EC"
+  },
+  {
+    "name": "Pelileo",
+    "country": "EC"
+  },
+  {
+    "name": "Pedro Carbo",
+    "country": "EC"
+  },
+  {
+    "name": "Pedernales",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia del Pastaza",
+    "country": "EC"
+  },
+  {
+    "name": "Pasaje",
+    "country": "EC"
+  },
+  {
+    "name": "Palora",
+    "country": "EC"
+  },
+  {
+    "name": "Palestina",
+    "country": "EC"
+  },
+  {
+    "name": "Palenque",
+    "country": "EC"
+  },
+  {
+    "name": "Paj\u00e1n",
+    "country": "EC"
+  },
+  {
+    "name": "Otavalo",
+    "country": "EC"
+  },
+  {
+    "name": "Opar",
+    "country": "EC"
+  },
+  {
+    "name": "Naranjito",
+    "country": "EC"
+  },
+  {
+    "name": "Naranjal",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Napo",
+    "country": "EC"
+  },
+  {
+    "name": "Musmus",
+    "country": "EC"
+  },
+  {
+    "name": "Muisne",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Morona-Santiago",
+    "country": "EC"
+  },
+  {
+    "name": "Montecristi",
+    "country": "EC"
+  },
+  {
+    "name": "Montalvo",
+    "country": "EC"
+  },
+  {
+    "name": "Miraflores",
+    "country": "EC"
+  },
+  {
+    "name": "Manta",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Manab\u00ed",
+    "country": "EC"
+  },
+  {
+    "name": "Machala",
+    "country": "EC"
+  },
+  {
+    "name": "Machachi",
+    "country": "EC"
+  },
+  {
+    "name": "Macas",
+    "country": "EC"
+  },
+  {
+    "name": "Macar\u00e1",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Los R\u00edos",
+    "country": "EC"
+  },
+  {
+    "name": "Lomas de Sargentillo",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Loja",
+    "country": "EC"
+  },
+  {
+    "name": "Loja",
+    "country": "EC"
+  },
+  {
+    "name": "Lecher\u00f3n Yarg\u00edn",
+    "country": "EC"
+  },
+  {
+    "name": "La Victoria",
+    "country": "EC"
+  },
+  {
+    "name": "La Uruguaya",
+    "country": "EC"
+  },
+  {
+    "name": "La Troncal",
+    "country": "EC"
+  },
+  {
+    "name": "Latacunga",
+    "country": "EC"
+  },
+  {
+    "name": "La Man\u00e1",
+    "country": "EC"
+  },
+  {
+    "name": "La Libertad",
+    "country": "EC"
+  },
+  {
+    "name": "Nueva Loja",
+    "country": "EC"
+  },
+  {
+    "name": "La Concordia",
+    "country": "EC"
+  },
+  {
+    "name": "Jun\u00edn",
+    "country": "EC"
+  },
+  {
+    "name": "Juivi",
+    "country": "EC"
+  },
+  {
+    "name": "Jipijapa",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Imbabura",
+    "country": "EC"
+  },
+  {
+    "name": "Ibarra",
+    "country": "EC"
+  },
+  {
+    "name": "Huaquillas",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda Zuleta",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda Villac\u00eds",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda Targuarcocha",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda Santa Rosa",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda San Carlos",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda Rumipamba",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda Punyatsil",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda Norton",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda Milagro",
+    "country": "EC"
+  },
+  {
+    "name": "Hacienda de J\u00e1uregui",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia del Guayas",
+    "country": "EC"
+  },
+  {
+    "name": "Guayaquil",
+    "country": "EC"
+  },
+  {
+    "name": "Guaranda",
+    "country": "EC"
+  },
+  {
+    "name": "Guano",
+    "country": "EC"
+  },
+  {
+    "name": "Gualaquiza",
+    "country": "EC"
+  },
+  {
+    "name": "Gualaceo",
+    "country": "EC"
+  },
+  {
+    "name": "Guabo",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Gal\u00e1pagos",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Esmeraldas",
+    "country": "EC"
+  },
+  {
+    "name": "El Triunfo",
+    "country": "EC"
+  },
+  {
+    "name": "El Rosal",
+    "country": "EC"
+  },
+  {
+    "name": "El Progreso",
+    "country": "EC"
+  },
+  {
+    "name": "Eloy Alfaro",
+    "country": "EC"
+  },
+  {
+    "name": "Eloy Alfaro",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de El Oro",
+    "country": "EC"
+  },
+  {
+    "name": "El Carmen",
+    "country": "EC"
+  },
+  {
+    "name": "El Arroyo",
+    "country": "EC"
+  },
+  {
+    "name": "El \u00c1ngel",
+    "country": "EC"
+  },
+  {
+    "name": "Republic of Ecuador",
+    "country": "EC"
+  },
+  {
+    "name": "Echeand\u00eda",
+    "country": "EC"
+  },
+  {
+    "name": "Del Salitre",
+    "country": "EC"
+  },
+  {
+    "name": "Cumbay\u00e1",
+    "country": "EC"
+  },
+  {
+    "name": "Cuenca",
+    "country": "EC"
+  },
+  {
+    "name": "Cuchuc\u00fan",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Cotopaxi",
+    "country": "EC"
+  },
+  {
+    "name": "Cotacachi",
+    "country": "EC"
+  },
+  {
+    "name": "Coronel Marcelino Maridue\u00f1a",
+    "country": "EC"
+  },
+  {
+    "name": "Colimes",
+    "country": "EC"
+  },
+  {
+    "name": "Chone",
+    "country": "EC"
+  },
+  {
+    "name": "Chinchipe",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia del Chimborazo",
+    "country": "EC"
+  },
+  {
+    "name": "Celica",
+    "country": "EC"
+  },
+  {
+    "name": "Cayambe",
+    "country": "EC"
+  },
+  {
+    "name": "Catarama",
+    "country": "EC"
+  },
+  {
+    "name": "Catamayo",
+    "country": "EC"
+  },
+  {
+    "name": "Catacocha",
+    "country": "EC"
+  },
+  {
+    "name": "Cariamanga",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia del Carchi",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia del Ca\u00f1ar",
+    "country": "EC"
+  },
+  {
+    "name": "Ca\u00f1ar",
+    "country": "EC"
+  },
+  {
+    "name": "Calceta",
+    "country": "EC"
+  },
+  {
+    "name": "San Jacinto de Buena Fe",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Bol\u00edvar",
+    "country": "EC"
+  },
+  {
+    "name": "Boca Suno",
+    "country": "EC"
+  },
+  {
+    "name": "Ba\u00f1os",
+    "country": "EC"
+  },
+  {
+    "name": "Balzar",
+    "country": "EC"
+  },
+  {
+    "name": "Bal\u00e1o",
+    "country": "EC"
+  },
+  {
+    "name": "Bah\u00eda de Car\u00e1quez",
+    "country": "EC"
+  },
+  {
+    "name": "Babahoyo",
+    "country": "EC"
+  },
+  {
+    "name": "Baba",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia del Azuay",
+    "country": "EC"
+  },
+  {
+    "name": "Azogues",
+    "country": "EC"
+  },
+  {
+    "name": "Atuntaqui",
+    "country": "EC"
+  },
+  {
+    "name": "Arenillas",
+    "country": "EC"
+  },
+  {
+    "name": "Archidona",
+    "country": "EC"
+  },
+  {
+    "name": "Ambato",
+    "country": "EC"
+  },
+  {
+    "name": "Alfredo Baquerizo Moreno",
+    "country": "EC"
+  },
+  {
+    "name": "Alaus\u00ed",
+    "country": "EC"
+  },
+  {
+    "name": "San Jacinto",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Sucumb\u00edos",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Francisco de Orellana",
+    "country": "EC"
+  },
+  {
+    "name": "Provincia de Santa Elena",
+    "country": "EC"
+  },
+  {
+    "name": "Mariscal Sucre",
+    "country": "EC"
+  }
+]

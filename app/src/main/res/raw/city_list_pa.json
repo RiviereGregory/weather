@@ -1,0 +1,978 @@
+[
+  {
+    "name": "Yaviza",
+    "country": "PA"
+  },
+  {
+    "name": "Volc\u00e1n",
+    "country": "PA"
+  },
+  {
+    "name": "Vista Hermosa",
+    "country": "PA"
+  },
+  {
+    "name": "Vista Alegre",
+    "country": "PA"
+  },
+  {
+    "name": "Villa Rosario",
+    "country": "PA"
+  },
+  {
+    "name": "Villa Carmen",
+    "country": "PA"
+  },
+  {
+    "name": "Veranillo",
+    "country": "PA"
+  },
+  {
+    "name": "Provincia de Veraguas",
+    "country": "PA"
+  },
+  {
+    "name": "Veracruz",
+    "country": "PA"
+  },
+  {
+    "name": "Ustupo",
+    "country": "PA"
+  },
+  {
+    "name": "Tubual\u00e1",
+    "country": "PA"
+  },
+  {
+    "name": "Tonos\u00ed",
+    "country": "PA"
+  },
+  {
+    "name": "Tocumen",
+    "country": "PA"
+  },
+  {
+    "name": "Tijeras",
+    "country": "PA"
+  },
+  {
+    "name": "Sortova",
+    "country": "PA"
+  },
+  {
+    "name": "Son\u00e1",
+    "country": "PA"
+  },
+  {
+    "name": "Siogu\u00ed Arriba",
+    "country": "PA"
+  },
+  {
+    "name": "Siogu\u00ed Abajo",
+    "country": "PA"
+  },
+  {
+    "name": "San Vicente de Bique",
+    "country": "PA"
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "PA"
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "PA"
+  },
+  {
+    "name": "Santiago de Veraguas",
+    "country": "PA"
+  },
+  {
+    "name": "Santa Rita",
+    "country": "PA"
+  },
+  {
+    "name": "Santa Marta",
+    "country": "PA"
+  },
+  {
+    "name": "Santa Mar\u00eda",
+    "country": "PA"
+  },
+  {
+    "name": "Santa F\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Santa Clara",
+    "country": "PA"
+  },
+  {
+    "name": "San Miguelito",
+    "country": "PA"
+  },
+  {
+    "name": "San Ignacio de Tupile",
+    "country": "PA"
+  },
+  {
+    "name": "San Francisco",
+    "country": "PA"
+  },
+  {
+    "name": "San F\u00e9lix",
+    "country": "PA"
+  },
+  {
+    "name": "Guna Yala",
+    "country": "PA"
+  },
+  {
+    "name": "San Andr\u00e9s",
+    "country": "PA"
+  },
+  {
+    "name": "Sabanitas",
+    "country": "PA"
+  },
+  {
+    "name": "R\u00edo Sereno",
+    "country": "PA"
+  },
+  {
+    "name": "R\u00edo Rita",
+    "country": "PA"
+  },
+  {
+    "name": "R\u00edo N\u00famero Uno",
+    "country": "PA"
+  },
+  {
+    "name": "R\u00edo Hato",
+    "country": "PA"
+  },
+  {
+    "name": "R\u00edo Grande",
+    "country": "PA"
+  },
+  {
+    "name": "Gat\u00fan",
+    "country": "PA"
+  },
+  {
+    "name": "R\u00edo Duque",
+    "country": "PA"
+  },
+  {
+    "name": "R\u00edo de Jes\u00fas",
+    "country": "PA"
+  },
+  {
+    "name": "R\u00edo Alejandro",
+    "country": "PA"
+  },
+  {
+    "name": "Quebrada Canoa",
+    "country": "PA"
+  },
+  {
+    "name": "Quebrada Bonita Adentro",
+    "country": "PA"
+  },
+  {
+    "name": "Punta de Burica",
+    "country": "PA"
+  },
+  {
+    "name": "Puerto Pil\u00f3n",
+    "country": "PA"
+  },
+  {
+    "name": "Puerto Obald\u00eda",
+    "country": "PA"
+  },
+  {
+    "name": "Puerto Escondido",
+    "country": "PA"
+  },
+  {
+    "name": "Puerto Caimito",
+    "country": "PA"
+  },
+  {
+    "name": "Puerto Armuelles",
+    "country": "PA"
+  },
+  {
+    "name": "Pueblo Viejo",
+    "country": "PA"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "country": "PA"
+  },
+  {
+    "name": "Progreso",
+    "country": "PA"
+  },
+  {
+    "name": "Potrero Grande",
+    "country": "PA"
+  },
+  {
+    "name": "Potrerillos Arriba",
+    "country": "PA"
+  },
+  {
+    "name": "Potrerillos Abajo",
+    "country": "PA"
+  },
+  {
+    "name": "Portobelo",
+    "country": "PA"
+  },
+  {
+    "name": "Pocr\u00ed",
+    "country": "PA"
+  },
+  {
+    "name": "Plaza de Cais\u00e1n",
+    "country": "PA"
+  },
+  {
+    "name": "Play\u00f3n Chico",
+    "country": "PA"
+  },
+  {
+    "name": "Pes\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Penonom\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Pedregal",
+    "country": "PA"
+  },
+  {
+    "name": "Pedas\u00ed",
+    "country": "PA"
+  },
+  {
+    "name": "Paso Blanco",
+    "country": "PA"
+  },
+  {
+    "name": "Parita",
+    "country": "PA"
+  },
+  {
+    "name": "Para\u00edso",
+    "country": "PA"
+  },
+  {
+    "name": "Republic of Panama",
+    "country": "PA"
+  },
+  {
+    "name": "Provincia de Panam\u00e1",
+    "country": "PA"
+  },
+  {
+    "name": "Panam\u00e1",
+    "country": "PA"
+  },
+  {
+    "name": "Palmira Arriba",
+    "country": "PA"
+  },
+  {
+    "name": "Palmira",
+    "country": "PA"
+  },
+  {
+    "name": "Palmas Bellas",
+    "country": "PA"
+  },
+  {
+    "name": "Pacora",
+    "country": "PA"
+  },
+  {
+    "name": "Ol\u00e1",
+    "country": "PA"
+  },
+  {
+    "name": "Oc\u00fa",
+    "country": "PA"
+  },
+  {
+    "name": "Ocho Pasos",
+    "country": "PA"
+  },
+  {
+    "name": "Nuevo Vig\u00eda",
+    "country": "PA"
+  },
+  {
+    "name": "Nuevo San Juan",
+    "country": "PA"
+  },
+  {
+    "name": "Nuevo Emperador",
+    "country": "PA"
+  },
+  {
+    "name": "Nuevo Arraij\u00e1n",
+    "country": "PA"
+  },
+  {
+    "name": "Nueva Gorgona",
+    "country": "PA"
+  },
+  {
+    "name": "Nat\u00e1",
+    "country": "PA"
+  },
+  {
+    "name": "Nargan\u00e1",
+    "country": "PA"
+  },
+  {
+    "name": "Mulatupo",
+    "country": "PA"
+  },
+  {
+    "name": "Montijo",
+    "country": "PA"
+  },
+  {
+    "name": "Monte Lirio",
+    "country": "PA"
+  },
+  {
+    "name": "Metet\u00ed",
+    "country": "PA"
+  },
+  {
+    "name": "Mata del Nance",
+    "country": "PA"
+  },
+  {
+    "name": "Mar\u00eda Chiquita",
+    "country": "PA"
+  },
+  {
+    "name": "Las Margaritas",
+    "country": "PA"
+  },
+  {
+    "name": "Majagual-Gold Hill",
+    "country": "PA"
+  },
+  {
+    "name": "Macaracas",
+    "country": "PA"
+  },
+  {
+    "name": "Provincia de Los Santos",
+    "country": "PA"
+  },
+  {
+    "name": "Los Santos",
+    "country": "PA"
+  },
+  {
+    "name": "Los Naranjos",
+    "country": "PA"
+  },
+  {
+    "name": "Los Lotes",
+    "country": "PA"
+  },
+  {
+    "name": "Los Guayabitos",
+    "country": "PA"
+  },
+  {
+    "name": "Los Boquerones",
+    "country": "PA"
+  },
+  {
+    "name": "Los Anastacios",
+    "country": "PA"
+  },
+  {
+    "name": "Los Algarrobos",
+    "country": "PA"
+  },
+  {
+    "name": "Los Algarrobos",
+    "country": "PA"
+  },
+  {
+    "name": "Loma Bonita",
+    "country": "PA"
+  },
+  {
+    "name": "Llano Mar\u00edn",
+    "country": "PA"
+  },
+  {
+    "name": "Llano Largo",
+    "country": "PA"
+  },
+  {
+    "name": "Llano de Piedra",
+    "country": "PA"
+  },
+  {
+    "name": "Llano Bonito",
+    "country": "PA"
+  },
+  {
+    "name": "L\u00eddice",
+    "country": "PA"
+  },
+  {
+    "name": "La Victoria",
+    "country": "PA"
+  },
+  {
+    "name": "La Tiza",
+    "country": "PA"
+  },
+  {
+    "name": "Las Tablas",
+    "country": "PA"
+  },
+  {
+    "name": "Las Palmas",
+    "country": "PA"
+  },
+  {
+    "name": "Las Minas",
+    "country": "PA"
+  },
+  {
+    "name": "Las Lomas",
+    "country": "PA"
+  },
+  {
+    "name": "Las Lomas",
+    "country": "PA"
+  },
+  {
+    "name": "Las Escobas",
+    "country": "PA"
+  },
+  {
+    "name": "Las Cumbres",
+    "country": "PA"
+  },
+  {
+    "name": "Las Colinas",
+    "country": "PA"
+  },
+  {
+    "name": "La Raya de Santa Mar\u00eda",
+    "country": "PA"
+  },
+  {
+    "name": "La Pintada",
+    "country": "PA"
+  },
+  {
+    "name": "La Pe\u00f1a",
+    "country": "PA"
+  },
+  {
+    "name": "La Palma",
+    "country": "PA"
+  },
+  {
+    "name": "La Palma",
+    "country": "PA"
+  },
+  {
+    "name": "La Mitra",
+    "country": "PA"
+  },
+  {
+    "name": "La Mesa",
+    "country": "PA"
+  },
+  {
+    "name": "La Mesa",
+    "country": "PA"
+  },
+  {
+    "name": "La Mata",
+    "country": "PA"
+  },
+  {
+    "name": "La Loma",
+    "country": "PA"
+  },
+  {
+    "name": "La Isleta",
+    "country": "PA"
+  },
+  {
+    "name": "La Herradura",
+    "country": "PA"
+  },
+  {
+    "name": "La Florecita",
+    "country": "PA"
+  },
+  {
+    "name": "La Espigadilla",
+    "country": "PA"
+  },
+  {
+    "name": "La Esperanza",
+    "country": "PA"
+  },
+  {
+    "name": "La Concepci\u00f3n",
+    "country": "PA"
+  },
+  {
+    "name": "La Colorada",
+    "country": "PA"
+  },
+  {
+    "name": "La Chorrera",
+    "country": "PA"
+  },
+  {
+    "name": "La Cabima",
+    "country": "PA"
+  },
+  {
+    "name": "La Boca",
+    "country": "PA"
+  },
+  {
+    "name": "La Barqueta",
+    "country": "PA"
+  },
+  {
+    "name": "Juan D\u00edaz",
+    "country": "PA"
+  },
+  {
+    "name": "Jaqu\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Provincia de Herrera",
+    "country": "PA"
+  },
+  {
+    "name": "Guarumal",
+    "country": "PA"
+  },
+  {
+    "name": "Guarar\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Gualaca",
+    "country": "PA"
+  },
+  {
+    "name": "Guadalupe",
+    "country": "PA"
+  },
+  {
+    "name": "Guabito",
+    "country": "PA"
+  },
+  {
+    "name": "G\u00f3mez",
+    "country": "PA"
+  },
+  {
+    "name": "Garachin\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Gamboa",
+    "country": "PA"
+  },
+  {
+    "name": "Fuerte Kobbe",
+    "country": "PA"
+  },
+  {
+    "name": "Finca Cuarenta y Dos",
+    "country": "PA"
+  },
+  {
+    "name": "Finca Corredor",
+    "country": "PA"
+  },
+  {
+    "name": "Finca Blanco",
+    "country": "PA"
+  },
+  {
+    "name": "Escobal",
+    "country": "PA"
+  },
+  {
+    "name": "El Roble",
+    "country": "PA"
+  },
+  {
+    "name": "El Rinc\u00f3n",
+    "country": "PA"
+  },
+  {
+    "name": "Quinte\u00f1o",
+    "country": "PA"
+  },
+  {
+    "name": "El Progreso",
+    "country": "PA"
+  },
+  {
+    "name": "El Porvenir",
+    "country": "PA"
+  },
+  {
+    "name": "El Giral",
+    "country": "PA"
+  },
+  {
+    "name": "El Espino de Santa Rosa",
+    "country": "PA"
+  },
+  {
+    "name": "El Espino",
+    "country": "PA"
+  },
+  {
+    "name": "Entradero",
+    "country": "PA"
+  },
+  {
+    "name": "El Ejido",
+    "country": "PA"
+  },
+  {
+    "name": "El Cristo",
+    "country": "PA"
+  },
+  {
+    "name": "El Cortezo",
+    "country": "PA"
+  },
+  {
+    "name": "El Cop\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "El Coco",
+    "country": "PA"
+  },
+  {
+    "name": "El Coco",
+    "country": "PA"
+  },
+  {
+    "name": "El Coco",
+    "country": "PA"
+  },
+  {
+    "name": "El Ca\u00f1o",
+    "country": "PA"
+  },
+  {
+    "name": "Dolega District",
+    "country": "PA"
+  },
+  {
+    "name": "Dival\u00e1",
+    "country": "PA"
+  },
+  {
+    "name": "David",
+    "country": "PA"
+  },
+  {
+    "name": "Provincia del Dari\u00e9n",
+    "country": "PA"
+  },
+  {
+    "name": "Kusap\u00edn",
+    "country": "PA"
+  },
+  {
+    "name": "Curundu Heights",
+    "country": "PA"
+  },
+  {
+    "name": "Curund\u00fa",
+    "country": "PA"
+  },
+  {
+    "name": "Corozal",
+    "country": "PA"
+  },
+  {
+    "name": "Provincia de Col\u00f3n",
+    "country": "PA"
+  },
+  {
+    "name": "Col\u00f3n",
+    "country": "PA"
+  },
+  {
+    "name": "Coco Solo",
+    "country": "PA"
+  },
+  {
+    "name": "Provincia de Cocl\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Cocl\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Churuquita Grande",
+    "country": "PA"
+  },
+  {
+    "name": "Churuquita Chiquita",
+    "country": "PA"
+  },
+  {
+    "name": "Chitr\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Chiriqu\u00ed Grande",
+    "country": "PA"
+  },
+  {
+    "name": "Provincia de Chiriqu\u00ed",
+    "country": "PA"
+  },
+  {
+    "name": "Chiriqu\u00ed",
+    "country": "PA"
+  },
+  {
+    "name": "Chiquilleo",
+    "country": "PA"
+  },
+  {
+    "name": "Chilibrillo N\u00famero Dos",
+    "country": "PA"
+  },
+  {
+    "name": "Chilibre",
+    "country": "PA"
+  },
+  {
+    "name": "Chigor\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Chepo",
+    "country": "PA"
+  },
+  {
+    "name": "Changuinola",
+    "country": "PA"
+  },
+  {
+    "name": "Chame",
+    "country": "PA"
+  },
+  {
+    "name": "Cerro Viento",
+    "country": "PA"
+  },
+  {
+    "name": "Cerro Punta",
+    "country": "PA"
+  },
+  {
+    "name": "Cerro Cama",
+    "country": "PA"
+  },
+  {
+    "name": "Cerro Azul",
+    "country": "PA"
+  },
+  {
+    "name": "Cerme\u00f1o",
+    "country": "PA"
+  },
+  {
+    "name": "Cativ\u00e1",
+    "country": "PA"
+  },
+  {
+    "name": "Cart\u00ed Sugdup",
+    "country": "PA"
+  },
+  {
+    "name": "Capira",
+    "country": "PA"
+  },
+  {
+    "name": "Capellan\u00eda",
+    "country": "PA"
+  },
+  {
+    "name": "Ca\u00f1ita",
+    "country": "PA"
+  },
+  {
+    "name": "Ca\u00f1azas",
+    "country": "PA"
+  },
+  {
+    "name": "Calzada Larga",
+    "country": "PA"
+  },
+  {
+    "name": "Caimitillo",
+    "country": "PA"
+  },
+  {
+    "name": "Cabra N\u00famero Uno",
+    "country": "PA"
+  },
+  {
+    "name": "Bugaba",
+    "country": "PA"
+  },
+  {
+    "name": "Buena Vista",
+    "country": "PA"
+  },
+  {
+    "name": "Boquete",
+    "country": "PA"
+  },
+  {
+    "name": "Boquer\u00f3n",
+    "country": "PA"
+  },
+  {
+    "name": "Provincia de Bocas del Toro",
+    "country": "PA"
+  },
+  {
+    "name": "Bocas del Toro",
+    "country": "PA"
+  },
+  {
+    "name": "Boca de Parita",
+    "country": "PA"
+  },
+  {
+    "name": "Bella Vista",
+    "country": "PA"
+  },
+  {
+    "name": "Bella Vista",
+    "country": "PA"
+  },
+  {
+    "name": "Bejuco",
+    "country": "PA"
+  },
+  {
+    "name": "Isla Bastimentos",
+    "country": "PA"
+  },
+  {
+    "name": "Barrio San Jos\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Barranco",
+    "country": "PA"
+  },
+  {
+    "name": "B\u00e1gala",
+    "country": "PA"
+  },
+  {
+    "name": "Atalaya",
+    "country": "PA"
+  },
+  {
+    "name": "Aserr\u00edo de Garich\u00e9",
+    "country": "PA"
+  },
+  {
+    "name": "Arraij\u00e1n",
+    "country": "PA"
+  },
+  {
+    "name": "Ant\u00f3n",
+    "country": "PA"
+  },
+  {
+    "name": "Anc\u00f3n",
+    "country": "PA"
+  },
+  {
+    "name": "Alto Montilla",
+    "country": "PA"
+  },
+  {
+    "name": "Alto del Espino",
+    "country": "PA"
+  },
+  {
+    "name": "Alto de La Estancia",
+    "country": "PA"
+  },
+  {
+    "name": "Alto Boquete",
+    "country": "PA"
+  },
+  {
+    "name": "Almirante",
+    "country": "PA"
+  },
+  {
+    "name": "Alcalde D\u00edaz",
+    "country": "PA"
+  },
+  {
+    "name": "Alanje",
+    "country": "PA"
+  },
+  {
+    "name": "Ailigand\u00ed",
+    "country": "PA"
+  },
+  {
+    "name": "Aguadulce",
+    "country": "PA"
+  },
+  {
+    "name": "Agua Buena",
+    "country": "PA"
+  },
+  {
+    "name": "Achutupo",
+    "country": "PA"
+  },
+  {
+    "name": "Santa Rita Arriba",
+    "country": "PA"
+  }
+]

@@ -1,0 +1,1766 @@
+[
+  {
+    "name": "Arthur\u2019s Pass",
+    "country": "NZ"
+  },
+  {
+    "name": "Wyndham",
+    "country": "NZ"
+  },
+  {
+    "name": "Woodlands",
+    "country": "NZ"
+  },
+  {
+    "name": "Woodhill",
+    "country": "NZ"
+  },
+  {
+    "name": "Woodend",
+    "country": "NZ"
+  },
+  {
+    "name": "Wiritoa",
+    "country": "NZ"
+  },
+  {
+    "name": "Whitianga",
+    "country": "NZ"
+  },
+  {
+    "name": "Whenuapai",
+    "country": "NZ"
+  },
+  {
+    "name": "Whangarei",
+    "country": "NZ"
+  },
+  {
+    "name": "Whangamata",
+    "country": "NZ"
+  },
+  {
+    "name": "Whakatane District",
+    "country": "NZ"
+  },
+  {
+    "name": "Westland District",
+    "country": "NZ"
+  },
+  {
+    "name": "Western Springs",
+    "country": "NZ"
+  },
+  {
+    "name": "Wellsford",
+    "country": "NZ"
+  },
+  {
+    "name": "Wellington",
+    "country": "NZ"
+  },
+  {
+    "name": "Wellington",
+    "country": "NZ"
+  },
+  {
+    "name": "Waverley",
+    "country": "NZ"
+  },
+  {
+    "name": "Warrington",
+    "country": "NZ"
+  },
+  {
+    "name": "Warkworth",
+    "country": "NZ"
+  },
+  {
+    "name": "Wanganui",
+    "country": "NZ"
+  },
+  {
+    "name": "Manawatu-Wanganui",
+    "country": "NZ"
+  },
+  {
+    "name": "Walton",
+    "country": "NZ"
+  },
+  {
+    "name": "Wakefield",
+    "country": "NZ"
+  },
+  {
+    "name": "Waiuku",
+    "country": "NZ"
+  },
+  {
+    "name": "Waitomo Caves",
+    "country": "NZ"
+  },
+  {
+    "name": "Waitoa",
+    "country": "NZ"
+  },
+  {
+    "name": "Waitati",
+    "country": "NZ"
+  },
+  {
+    "name": "Waitaki",
+    "country": "NZ"
+  },
+  {
+    "name": "Waitakere",
+    "country": "NZ"
+  },
+  {
+    "name": "Wairoa District",
+    "country": "NZ"
+  },
+  {
+    "name": "Waipu",
+    "country": "NZ"
+  },
+  {
+    "name": "Waipapa",
+    "country": "NZ"
+  },
+  {
+    "name": "Waiouru",
+    "country": "NZ"
+  },
+  {
+    "name": "Waimauku",
+    "country": "NZ"
+  },
+  {
+    "name": "Waimatuku",
+    "country": "NZ"
+  },
+  {
+    "name": "Waimate North",
+    "country": "NZ"
+  },
+  {
+    "name": "Waimate District",
+    "country": "NZ"
+  },
+  {
+    "name": "Waimarama",
+    "country": "NZ"
+  },
+  {
+    "name": "Waimana",
+    "country": "NZ"
+  },
+  {
+    "name": "Waikuku",
+    "country": "NZ"
+  },
+  {
+    "name": "Waikato",
+    "country": "NZ"
+  },
+  {
+    "name": "Waikanae",
+    "country": "NZ"
+  },
+  {
+    "name": "Waikaia",
+    "country": "NZ"
+  },
+  {
+    "name": "Waihi Beach",
+    "country": "NZ"
+  },
+  {
+    "name": "Waiatarua",
+    "country": "NZ"
+  },
+  {
+    "name": "Waiareka Junction",
+    "country": "NZ"
+  },
+  {
+    "name": "Waharoa",
+    "country": "NZ"
+  },
+  {
+    "name": "Wadestown",
+    "country": "NZ"
+  },
+  {
+    "name": "Urenui",
+    "country": "NZ"
+  },
+  {
+    "name": "Tutukaka",
+    "country": "NZ"
+  },
+  {
+    "name": "Turangi",
+    "country": "NZ"
+  },
+  {
+    "name": "Tuatapere",
+    "country": "NZ"
+  },
+  {
+    "name": "Tuakau",
+    "country": "NZ"
+  },
+  {
+    "name": "Tuai",
+    "country": "NZ"
+  },
+  {
+    "name": "Tolaga Bay",
+    "country": "NZ"
+  },
+  {
+    "name": "Tokoroa",
+    "country": "NZ"
+  },
+  {
+    "name": "Tokomaru",
+    "country": "NZ"
+  },
+  {
+    "name": "Titirangi North",
+    "country": "NZ"
+  },
+  {
+    "name": "Tirau",
+    "country": "NZ"
+  },
+  {
+    "name": "Tinwald",
+    "country": "NZ"
+  },
+  {
+    "name": "Timaru",
+    "country": "NZ"
+  },
+  {
+    "name": "Timaru District",
+    "country": "NZ"
+  },
+  {
+    "name": "Thames-Coromandel District",
+    "country": "NZ"
+  },
+  {
+    "name": "Terrace End",
+    "country": "NZ"
+  },
+  {
+    "name": "Te Kauwhata",
+    "country": "NZ"
+  },
+  {
+    "name": "Te Anau",
+    "country": "NZ"
+  },
+  {
+    "name": "Taupo",
+    "country": "NZ"
+  },
+  {
+    "name": "Taupiri",
+    "country": "NZ"
+  },
+  {
+    "name": "Tasman",
+    "country": "NZ"
+  },
+  {
+    "name": "Taranaki",
+    "country": "NZ"
+  },
+  {
+    "name": "Tapawera",
+    "country": "NZ"
+  },
+  {
+    "name": "Tangiteroria",
+    "country": "NZ"
+  },
+  {
+    "name": "Takapau",
+    "country": "NZ"
+  },
+  {
+    "name": "Takanini",
+    "country": "NZ"
+  },
+  {
+    "name": "Takaka",
+    "country": "NZ"
+  },
+  {
+    "name": "Tairua",
+    "country": "NZ"
+  },
+  {
+    "name": "Taipa",
+    "country": "NZ"
+  },
+  {
+    "name": "Springston",
+    "country": "NZ"
+  },
+  {
+    "name": "Southland",
+    "country": "NZ"
+  },
+  {
+    "name": "Southbridge",
+    "country": "NZ"
+  },
+  {
+    "name": "Bay of Plenty",
+    "country": "NZ"
+  },
+  {
+    "name": "Silverstream",
+    "country": "NZ"
+  },
+  {
+    "name": "Silverdale",
+    "country": "NZ"
+  },
+  {
+    "name": "Sentry Hill",
+    "country": "NZ"
+  },
+  {
+    "name": "Sefton",
+    "country": "NZ"
+  },
+  {
+    "name": "Sanson",
+    "country": "NZ"
+  },
+  {
+    "name": "Ruawai",
+    "country": "NZ"
+  },
+  {
+    "name": "Ruatoki North",
+    "country": "NZ"
+  },
+  {
+    "name": "Ruatahuna",
+    "country": "NZ"
+  },
+  {
+    "name": "Rotokawa",
+    "country": "NZ"
+  },
+  {
+    "name": "Rongotea",
+    "country": "NZ"
+  },
+  {
+    "name": "Rolleston",
+    "country": "NZ"
+  },
+  {
+    "name": "Riwaka",
+    "country": "NZ"
+  },
+  {
+    "name": "Riversdale",
+    "country": "NZ"
+  },
+  {
+    "name": "Richmond",
+    "country": "NZ"
+  },
+  {
+    "name": "Reporoa",
+    "country": "NZ"
+  },
+  {
+    "name": "Renwick",
+    "country": "NZ"
+  },
+  {
+    "name": "Raumati South",
+    "country": "NZ"
+  },
+  {
+    "name": "Raumati Beach",
+    "country": "NZ"
+  },
+  {
+    "name": "Ranfurly",
+    "country": "NZ"
+  },
+  {
+    "name": "Rakaia",
+    "country": "NZ"
+  },
+  {
+    "name": "Raglan",
+    "country": "NZ"
+  },
+  {
+    "name": "Pukerua Bay",
+    "country": "NZ"
+  },
+  {
+    "name": "Pukekohe East",
+    "country": "NZ"
+  },
+  {
+    "name": "Pukeatua",
+    "country": "NZ"
+  },
+  {
+    "name": "Motueka",
+    "country": "NZ"
+  },
+  {
+    "name": "Poroporo",
+    "country": "NZ"
+  },
+  {
+    "name": "Porirua",
+    "country": "NZ"
+  },
+  {
+    "name": "Ponsonby",
+    "country": "NZ"
+  },
+  {
+    "name": "Pongaroa",
+    "country": "NZ"
+  },
+  {
+    "name": "Pongakawa",
+    "country": "NZ"
+  },
+  {
+    "name": "Pollok",
+    "country": "NZ"
+  },
+  {
+    "name": "Pokeno",
+    "country": "NZ"
+  },
+  {
+    "name": "Plimmerton",
+    "country": "NZ"
+  },
+  {
+    "name": "Pleasant Point",
+    "country": "NZ"
+  },
+  {
+    "name": "Pirongia",
+    "country": "NZ"
+  },
+  {
+    "name": "Piopio",
+    "country": "NZ"
+  },
+  {
+    "name": "Penrose",
+    "country": "NZ"
+  },
+  {
+    "name": "Wanaka",
+    "country": "NZ"
+  },
+  {
+    "name": "Patutahi",
+    "country": "NZ"
+  },
+  {
+    "name": "Paremata",
+    "country": "NZ"
+  },
+  {
+    "name": "Paraparaumu Beach",
+    "country": "NZ"
+  },
+  {
+    "name": "Paraparaumu",
+    "country": "NZ"
+  },
+  {
+    "name": "Parakai",
+    "country": "NZ"
+  },
+  {
+    "name": "Papamoa",
+    "country": "NZ"
+  },
+  {
+    "name": "Palmerston North",
+    "country": "NZ"
+  },
+  {
+    "name": "Paihia",
+    "country": "NZ"
+  },
+  {
+    "name": "Paengaroa",
+    "country": "NZ"
+  },
+  {
+    "name": "Oxford",
+    "country": "NZ"
+  },
+  {
+    "name": "Owaka",
+    "country": "NZ"
+  },
+  {
+    "name": "Otorohanga District",
+    "country": "NZ"
+  },
+  {
+    "name": "Otorohanga",
+    "country": "NZ"
+  },
+  {
+    "name": "Otautau",
+    "country": "NZ"
+  },
+  {
+    "name": "Otara",
+    "country": "NZ"
+  },
+  {
+    "name": "Otane",
+    "country": "NZ"
+  },
+  {
+    "name": "Opua",
+    "country": "NZ"
+  },
+  {
+    "name": "Opotiki District",
+    "country": "NZ"
+  },
+  {
+    "name": "Oparau",
+    "country": "NZ"
+  },
+  {
+    "name": "Opaheke",
+    "country": "NZ"
+  },
+  {
+    "name": "Onekawa",
+    "country": "NZ"
+  },
+  {
+    "name": "Omakau",
+    "country": "NZ"
+  },
+  {
+    "name": "Okato",
+    "country": "NZ"
+  },
+  {
+    "name": "Okaihau",
+    "country": "NZ"
+  },
+  {
+    "name": "Ohaupo",
+    "country": "NZ"
+  },
+  {
+    "name": "Ohakea",
+    "country": "NZ"
+  },
+  {
+    "name": "Oakura",
+    "country": "NZ"
+  },
+  {
+    "name": "Nuhaka",
+    "country": "NZ"
+  },
+  {
+    "name": "North Shore",
+    "country": "NZ"
+  },
+  {
+    "name": "Northland",
+    "country": "NZ"
+  },
+  {
+    "name": "Ngunguru",
+    "country": "NZ"
+  },
+  {
+    "name": "Ngauranga",
+    "country": "NZ"
+  },
+  {
+    "name": "Ngatea",
+    "country": "NZ"
+  },
+  {
+    "name": "Ngaio",
+    "country": "NZ"
+  },
+  {
+    "name": "Ngahere",
+    "country": "NZ"
+  },
+  {
+    "name": "New Zealand",
+    "country": "NZ"
+  },
+  {
+    "name": "New Plymouth",
+    "country": "NZ"
+  },
+  {
+    "name": "New Plymouth District",
+    "country": "NZ"
+  },
+  {
+    "name": "Nelson",
+    "country": "NZ"
+  },
+  {
+    "name": "National Park",
+    "country": "NZ"
+  },
+  {
+    "name": "Napier",
+    "country": "NZ"
+  },
+  {
+    "name": "Murupara",
+    "country": "NZ"
+  },
+  {
+    "name": "Muriwai Beach",
+    "country": "NZ"
+  },
+  {
+    "name": "Murchison",
+    "country": "NZ"
+  },
+  {
+    "name": "Momona",
+    "country": "NZ"
+  },
+  {
+    "name": "Mokau",
+    "country": "NZ"
+  },
+  {
+    "name": "Moerewa",
+    "country": "NZ"
+  },
+  {
+    "name": "Moeraki",
+    "country": "NZ"
+  },
+  {
+    "name": "Millers Flat",
+    "country": "NZ"
+  },
+  {
+    "name": "Methven",
+    "country": "NZ"
+  },
+  {
+    "name": "Maungaturoto",
+    "country": "NZ"
+  },
+  {
+    "name": "Maungatapere",
+    "country": "NZ"
+  },
+  {
+    "name": "Matawhero",
+    "country": "NZ"
+  },
+  {
+    "name": "Matata",
+    "country": "NZ"
+  },
+  {
+    "name": "Masterton District",
+    "country": "NZ"
+  },
+  {
+    "name": "Marshland",
+    "country": "NZ"
+  },
+  {
+    "name": "Marlborough",
+    "country": "NZ"
+  },
+  {
+    "name": "Mapua",
+    "country": "NZ"
+  },
+  {
+    "name": "Manutuke",
+    "country": "NZ"
+  },
+  {
+    "name": "Manukau City",
+    "country": "NZ"
+  },
+  {
+    "name": "Mangere",
+    "country": "NZ"
+  },
+  {
+    "name": "Mangaweka",
+    "country": "NZ"
+  },
+  {
+    "name": "Mangatainoka",
+    "country": "NZ"
+  },
+  {
+    "name": "Mangaroa",
+    "country": "NZ"
+  },
+  {
+    "name": "Manakau",
+    "country": "NZ"
+  },
+  {
+    "name": "Manaia",
+    "country": "NZ"
+  },
+  {
+    "name": "Mamaku",
+    "country": "NZ"
+  },
+  {
+    "name": "Maketu",
+    "country": "NZ"
+  },
+  {
+    "name": "Makarau",
+    "country": "NZ"
+  },
+  {
+    "name": "Lumsden",
+    "country": "NZ"
+  },
+  {
+    "name": "Lower Shotover",
+    "country": "NZ"
+  },
+  {
+    "name": "Lower Hutt",
+    "country": "NZ"
+  },
+  {
+    "name": "Loburn",
+    "country": "NZ"
+  },
+  {
+    "name": "Little River",
+    "country": "NZ"
+  },
+  {
+    "name": "Lincoln",
+    "country": "NZ"
+  },
+  {
+    "name": "Leeston",
+    "country": "NZ"
+  },
+  {
+    "name": "Leamington",
+    "country": "NZ"
+  },
+  {
+    "name": "Lake Coleridge",
+    "country": "NZ"
+  },
+  {
+    "name": "Kumeu",
+    "country": "NZ"
+  },
+  {
+    "name": "Kirwee",
+    "country": "NZ"
+  },
+  {
+    "name": "Kilbirnie",
+    "country": "NZ"
+  },
+  {
+    "name": "Kihikihi",
+    "country": "NZ"
+  },
+  {
+    "name": "Kerikeri",
+    "country": "NZ"
+  },
+  {
+    "name": "Kerepehi",
+    "country": "NZ"
+  },
+  {
+    "name": "Kelburn",
+    "country": "NZ"
+  },
+  {
+    "name": "Kawerau",
+    "country": "NZ"
+  },
+  {
+    "name": "Kawerau District",
+    "country": "NZ"
+  },
+  {
+    "name": "Kawakawa",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaukapakapa",
+    "country": "NZ"
+  },
+  {
+    "name": "Katikati",
+    "country": "NZ"
+  },
+  {
+    "name": "Karori",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaponga",
+    "country": "NZ"
+  },
+  {
+    "name": "Kakanui",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaiwharawhara",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaiwaka",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaikoura",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaeo",
+    "country": "NZ"
+  },
+  {
+    "name": "Judgeford",
+    "country": "NZ"
+  },
+  {
+    "name": "Island Bay",
+    "country": "NZ"
+  },
+  {
+    "name": "Invercargill",
+    "country": "NZ"
+  },
+  {
+    "name": "Hunua",
+    "country": "NZ"
+  },
+  {
+    "name": "Hunterville",
+    "country": "NZ"
+  },
+  {
+    "name": "Howick",
+    "country": "NZ"
+  },
+  {
+    "name": "Himatangi",
+    "country": "NZ"
+  },
+  {
+    "name": "Hillsborough",
+    "country": "NZ"
+  },
+  {
+    "name": "Hilderthorpe",
+    "country": "NZ"
+  },
+  {
+    "name": "Heretaunga",
+    "country": "NZ"
+  },
+  {
+    "name": "Hawkins",
+    "country": "NZ"
+  },
+  {
+    "name": "Hawke's Bay",
+    "country": "NZ"
+  },
+  {
+    "name": "Havelock North",
+    "country": "NZ"
+  },
+  {
+    "name": "Havelock",
+    "country": "NZ"
+  },
+  {
+    "name": "Hastings District",
+    "country": "NZ"
+  },
+  {
+    "name": "Hastings",
+    "country": "NZ"
+  },
+  {
+    "name": "Harewood",
+    "country": "NZ"
+  },
+  {
+    "name": "Hanmer Springs",
+    "country": "NZ"
+  },
+  {
+    "name": "Hamilton",
+    "country": "NZ"
+  },
+  {
+    "name": "Halswell",
+    "country": "NZ"
+  },
+  {
+    "name": "Halcombe",
+    "country": "NZ"
+  },
+  {
+    "name": "Gordonton",
+    "country": "NZ"
+  },
+  {
+    "name": "Glen Eden",
+    "country": "NZ"
+  },
+  {
+    "name": "Glenavy",
+    "country": "NZ"
+  },
+  {
+    "name": "Gisborne District",
+    "country": "NZ"
+  },
+  {
+    "name": "Gisborne",
+    "country": "NZ"
+  },
+  {
+    "name": "Frasertown",
+    "country": "NZ"
+  },
+  {
+    "name": "Fendalton",
+    "country": "NZ"
+  },
+  {
+    "name": "Endeavour Inlet",
+    "country": "NZ"
+  },
+  {
+    "name": "Egmont Village",
+    "country": "NZ"
+  },
+  {
+    "name": "Edgecumbe",
+    "country": "NZ"
+  },
+  {
+    "name": "East Tamaki",
+    "country": "NZ"
+  },
+  {
+    "name": "Dunsandel",
+    "country": "NZ"
+  },
+  {
+    "name": "Dunedin",
+    "country": "NZ"
+  },
+  {
+    "name": "Dobson",
+    "country": "NZ"
+  },
+  {
+    "name": "Deborah",
+    "country": "NZ"
+  },
+  {
+    "name": "Dargaville",
+    "country": "NZ"
+  },
+  {
+    "name": "Darfield",
+    "country": "NZ"
+  },
+  {
+    "name": "Dairy Flat",
+    "country": "NZ"
+  },
+  {
+    "name": "Culverden",
+    "country": "NZ"
+  },
+  {
+    "name": "Creighton",
+    "country": "NZ"
+  },
+  {
+    "name": "Coromandel",
+    "country": "NZ"
+  },
+  {
+    "name": "Clyde",
+    "country": "NZ"
+  },
+  {
+    "name": "Clive",
+    "country": "NZ"
+  },
+  {
+    "name": "Christchurch",
+    "country": "NZ"
+  },
+  {
+    "name": "Cheviot",
+    "country": "NZ"
+  },
+  {
+    "name": "Castlepoint",
+    "country": "NZ"
+  },
+  {
+    "name": "Carters Beach",
+    "country": "NZ"
+  },
+  {
+    "name": "Canterbury",
+    "country": "NZ"
+  },
+  {
+    "name": "Campbells Bay",
+    "country": "NZ"
+  },
+  {
+    "name": "Burwood",
+    "country": "NZ"
+  },
+  {
+    "name": "Burnham",
+    "country": "NZ"
+  },
+  {
+    "name": "Bulls",
+    "country": "NZ"
+  },
+  {
+    "name": "Brooklyn",
+    "country": "NZ"
+  },
+  {
+    "name": "Brightwater",
+    "country": "NZ"
+  },
+  {
+    "name": "Bombay",
+    "country": "NZ"
+  },
+  {
+    "name": "Berhampore",
+    "country": "NZ"
+  },
+  {
+    "name": "Bennetts",
+    "country": "NZ"
+  },
+  {
+    "name": "Belmont",
+    "country": "NZ"
+  },
+  {
+    "name": "Bell Block",
+    "country": "NZ"
+  },
+  {
+    "name": "Bankside",
+    "country": "NZ"
+  },
+  {
+    "name": "Awanui",
+    "country": "NZ"
+  },
+  {
+    "name": "Avondale",
+    "country": "NZ"
+  },
+  {
+    "name": "Auckland",
+    "country": "NZ"
+  },
+  {
+    "name": "Auckland",
+    "country": "NZ"
+  },
+  {
+    "name": "Auckland",
+    "country": "NZ"
+  },
+  {
+    "name": "Athenree",
+    "country": "NZ"
+  },
+  {
+    "name": "Ashhurst",
+    "country": "NZ"
+  },
+  {
+    "name": "Ashburton District",
+    "country": "NZ"
+  },
+  {
+    "name": "Ararimu",
+    "country": "NZ"
+  },
+  {
+    "name": "Arapuni",
+    "country": "NZ"
+  },
+  {
+    "name": "Aramoho",
+    "country": "NZ"
+  },
+  {
+    "name": "Aongatete",
+    "country": "NZ"
+  },
+  {
+    "name": "Amberley",
+    "country": "NZ"
+  },
+  {
+    "name": "Ahipara",
+    "country": "NZ"
+  },
+  {
+    "name": "Opunake",
+    "country": "NZ"
+  },
+  {
+    "name": "Eltham",
+    "country": "NZ"
+  },
+  {
+    "name": "Hawera",
+    "country": "NZ"
+  },
+  {
+    "name": "Patea",
+    "country": "NZ"
+  },
+  {
+    "name": "Ratana",
+    "country": "NZ"
+  },
+  {
+    "name": "Foxton",
+    "country": "NZ"
+  },
+  {
+    "name": "Levin",
+    "country": "NZ"
+  },
+  {
+    "name": "Otaki",
+    "country": "NZ"
+  },
+  {
+    "name": "Porangahau",
+    "country": "NZ"
+  },
+  {
+    "name": "Wairoa",
+    "country": "NZ"
+  },
+  {
+    "name": "Tamihunu",
+    "country": "NZ"
+  },
+  {
+    "name": "Gisborne",
+    "country": "NZ"
+  },
+  {
+    "name": "Waipawa",
+    "country": "NZ"
+  },
+  {
+    "name": "Masterton",
+    "country": "NZ"
+  },
+  {
+    "name": "Hokitika",
+    "country": "NZ"
+  },
+  {
+    "name": "Greymouth",
+    "country": "NZ"
+  },
+  {
+    "name": "Westport",
+    "country": "NZ"
+  },
+  {
+    "name": "Bluff",
+    "country": "NZ"
+  },
+  {
+    "name": "Riverton",
+    "country": "NZ"
+  },
+  {
+    "name": "Wallacetown",
+    "country": "NZ"
+  },
+  {
+    "name": "Winton",
+    "country": "NZ"
+  },
+  {
+    "name": "Stanmore Bay",
+    "country": "NZ"
+  },
+  {
+    "name": "Herne Bay",
+    "country": "NZ"
+  },
+  {
+    "name": "Mission Bay",
+    "country": "NZ"
+  },
+  {
+    "name": "Northcote Point",
+    "country": "NZ"
+  },
+  {
+    "name": "Takapuna",
+    "country": "NZ"
+  },
+  {
+    "name": "Westlake",
+    "country": "NZ"
+  },
+  {
+    "name": "Tauranga",
+    "country": "NZ"
+  },
+  {
+    "name": "Mount Maunganui",
+    "country": "NZ"
+  },
+  {
+    "name": "Waitara",
+    "country": "NZ"
+  },
+  {
+    "name": "Mosgiel",
+    "country": "NZ"
+  },
+  {
+    "name": "Milton",
+    "country": "NZ"
+  },
+  {
+    "name": "Balclutha",
+    "country": "NZ"
+  },
+  {
+    "name": "Paeroa",
+    "country": "NZ"
+  },
+  {
+    "name": "Waihi",
+    "country": "NZ"
+  },
+  {
+    "name": "Papakura",
+    "country": "NZ"
+  },
+  {
+    "name": "Whakatane",
+    "country": "NZ"
+  },
+  {
+    "name": "Opotiki",
+    "country": "NZ"
+  },
+  {
+    "name": "Thames",
+    "country": "NZ"
+  },
+  {
+    "name": "Waitangi",
+    "country": "NZ"
+  },
+  {
+    "name": "Karewa",
+    "country": "NZ"
+  },
+  {
+    "name": "Gore",
+    "country": "NZ"
+  },
+  {
+    "name": "Milford Sound",
+    "country": "NZ"
+  },
+  {
+    "name": "Queenstown",
+    "country": "NZ"
+  },
+  {
+    "name": "Avenal",
+    "country": "NZ"
+  },
+  {
+    "name": "Waverley",
+    "country": "NZ"
+  },
+  {
+    "name": "Arrowtown",
+    "country": "NZ"
+  },
+  {
+    "name": "Twizel",
+    "country": "NZ"
+  },
+  {
+    "name": "Watlington",
+    "country": "NZ"
+  },
+  {
+    "name": "Oamaru",
+    "country": "NZ"
+  },
+  {
+    "name": "Ashburton",
+    "country": "NZ"
+  },
+  {
+    "name": "Allenton",
+    "country": "NZ"
+  },
+  {
+    "name": "Riccarton",
+    "country": "NZ"
+  },
+  {
+    "name": "Mairehau",
+    "country": "NZ"
+  },
+  {
+    "name": "Burwood",
+    "country": "NZ"
+  },
+  {
+    "name": "Harewood",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaiapoi",
+    "country": "NZ"
+  },
+  {
+    "name": "Diamond Harbour",
+    "country": "NZ"
+  },
+  {
+    "name": "Waitara",
+    "country": "NZ"
+  },
+  {
+    "name": "Terrace End",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaitaia",
+    "country": "NZ"
+  },
+  {
+    "name": "Whangarei",
+    "country": "NZ"
+  },
+  {
+    "name": "Riverside",
+    "country": "NZ"
+  },
+  {
+    "name": "Takanini",
+    "country": "NZ"
+  },
+  {
+    "name": "Red Hill",
+    "country": "NZ"
+  },
+  {
+    "name": "Wiri",
+    "country": "NZ"
+  },
+  {
+    "name": "Botany Downs",
+    "country": "NZ"
+  },
+  {
+    "name": "Pakuranga",
+    "country": "NZ"
+  },
+  {
+    "name": "Green Bay",
+    "country": "NZ"
+  },
+  {
+    "name": "MOUNT WELLINGTON",
+    "country": "NZ"
+  },
+  {
+    "name": "Panmure",
+    "country": "NZ"
+  },
+  {
+    "name": "Tamaki",
+    "country": "NZ"
+  },
+  {
+    "name": "MOUNT ROSKILL",
+    "country": "NZ"
+  },
+  {
+    "name": "Wesley",
+    "country": "NZ"
+  },
+  {
+    "name": "MOUNT ALBERT",
+    "country": "NZ"
+  },
+  {
+    "name": "Titirangi",
+    "country": "NZ"
+  },
+  {
+    "name": "Kohimarama",
+    "country": "NZ"
+  },
+  {
+    "name": "Taumarunui",
+    "country": "NZ"
+  },
+  {
+    "name": "Matamata",
+    "country": "NZ"
+  },
+  {
+    "name": "Cambridge",
+    "country": "NZ"
+  },
+  {
+    "name": "Hannahs Bay",
+    "country": "NZ"
+  },
+  {
+    "name": "Whakarewarewa",
+    "country": "NZ"
+  },
+  {
+    "name": "Rotorua",
+    "country": "NZ"
+  },
+  {
+    "name": "Picton",
+    "country": "NZ"
+  },
+  {
+    "name": "Blenheim",
+    "country": "NZ"
+  },
+  {
+    "name": "Riverlands",
+    "country": "NZ"
+  },
+  {
+    "name": "Rongotai",
+    "country": "NZ"
+  },
+  {
+    "name": "Berhampore",
+    "country": "NZ"
+  },
+  {
+    "name": "Hataitai",
+    "country": "NZ"
+  },
+  {
+    "name": "Karori",
+    "country": "NZ"
+  },
+  {
+    "name": "Seaview",
+    "country": "NZ"
+  },
+  {
+    "name": "Petone",
+    "country": "NZ"
+  },
+  {
+    "name": "Maoribank",
+    "country": "NZ"
+  },
+  {
+    "name": "Upper Hutt",
+    "country": "NZ"
+  },
+  {
+    "name": "Belmont",
+    "country": "NZ"
+  },
+  {
+    "name": "Paremata",
+    "country": "NZ"
+  },
+  {
+    "name": "Papakowhai",
+    "country": "NZ"
+  },
+  {
+    "name": "Ngaio",
+    "country": "NZ"
+  },
+  {
+    "name": "Omanu",
+    "country": "NZ"
+  },
+  {
+    "name": "Akina",
+    "country": "NZ"
+  },
+  {
+    "name": "Taradale",
+    "country": "NZ"
+  },
+  {
+    "name": "Wairoa",
+    "country": "NZ"
+  },
+  {
+    "name": "Ngaruawahia",
+    "country": "NZ"
+  },
+  {
+    "name": "Nelson",
+    "country": "NZ"
+  },
+  {
+    "name": "Otago",
+    "country": "NZ"
+  },
+  {
+    "name": "West Coast",
+    "country": "NZ"
+  },
+  {
+    "name": "Mount Cook Village",
+    "country": "NZ"
+  },
+  {
+    "name": "Waitakere",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaikoura",
+    "country": "NZ"
+  },
+  {
+    "name": "Paraparaumu North",
+    "country": "NZ"
+  },
+  {
+    "name": "Buller District",
+    "country": "NZ"
+  },
+  {
+    "name": "Central Hawke's Bay District",
+    "country": "NZ"
+  },
+  {
+    "name": "Central Otago District",
+    "country": "NZ"
+  },
+  {
+    "name": "Christchurch City",
+    "country": "NZ"
+  },
+  {
+    "name": "Clutha District",
+    "country": "NZ"
+  },
+  {
+    "name": "Dunedin City",
+    "country": "NZ"
+  },
+  {
+    "name": "Far North District",
+    "country": "NZ"
+  },
+  {
+    "name": "Grey District",
+    "country": "NZ"
+  },
+  {
+    "name": "Hamilton City",
+    "country": "NZ"
+  },
+  {
+    "name": "Hauraki District",
+    "country": "NZ"
+  },
+  {
+    "name": "Horowhenua District",
+    "country": "NZ"
+  },
+  {
+    "name": "Hurunui District",
+    "country": "NZ"
+  },
+  {
+    "name": "Invercargill City",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaikoura District",
+    "country": "NZ"
+  },
+  {
+    "name": "Kaipara District",
+    "country": "NZ"
+  },
+  {
+    "name": "Kapiti Coast District",
+    "country": "NZ"
+  },
+  {
+    "name": "Lower Hutt City",
+    "country": "NZ"
+  },
+  {
+    "name": "Mackenzie District",
+    "country": "NZ"
+  },
+  {
+    "name": "Manawatu District",
+    "country": "NZ"
+  },
+  {
+    "name": "Marlborough District",
+    "country": "NZ"
+  },
+  {
+    "name": "Matamata-Piako District",
+    "country": "NZ"
+  },
+  {
+    "name": "Napier City",
+    "country": "NZ"
+  },
+  {
+    "name": "Nelson City",
+    "country": "NZ"
+  },
+  {
+    "name": "Palmerston North City",
+    "country": "NZ"
+  },
+  {
+    "name": "Porirua City",
+    "country": "NZ"
+  },
+  {
+    "name": "Queenstown-Lakes District",
+    "country": "NZ"
+  },
+  {
+    "name": "Ruapehu District",
+    "country": "NZ"
+  },
+  {
+    "name": "Selwyn District",
+    "country": "NZ"
+  },
+  {
+    "name": "Southland District",
+    "country": "NZ"
+  },
+  {
+    "name": "South Taranaki District",
+    "country": "NZ"
+  },
+  {
+    "name": "South Waikato District",
+    "country": "NZ"
+  },
+  {
+    "name": "Tasman District",
+    "country": "NZ"
+  },
+  {
+    "name": "Tauranga City",
+    "country": "NZ"
+  },
+  {
+    "name": "Upper Hutt City",
+    "country": "NZ"
+  },
+  {
+    "name": "Waikato District",
+    "country": "NZ"
+  },
+  {
+    "name": "Waimakariri District",
+    "country": "NZ"
+  },
+  {
+    "name": "Waipa District",
+    "country": "NZ"
+  },
+  {
+    "name": "Wanganui District",
+    "country": "NZ"
+  },
+  {
+    "name": "Wellington City",
+    "country": "NZ"
+  },
+  {
+    "name": "Western Bay of Plenty District",
+    "country": "NZ"
+  }
+]

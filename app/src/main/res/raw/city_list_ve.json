@@ -1,0 +1,2930 @@
+[
+  {
+    "name": "La Asuncion",
+    "country": "VE"
+  },
+  {
+    "name": "El Genoves",
+    "country": "VE"
+  },
+  {
+    "name": "Sabana Grande",
+    "country": "VE"
+  },
+  {
+    "name": "La Horquilla",
+    "country": "VE"
+  },
+  {
+    "name": "Caricuao",
+    "country": "VE"
+  },
+  {
+    "name": "Tocuyito",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Cecilia",
+    "country": "VE"
+  },
+  {
+    "name": "La Sorpresa",
+    "country": "VE"
+  },
+  {
+    "name": "San Luis",
+    "country": "VE"
+  },
+  {
+    "name": "Pampanito",
+    "country": "VE"
+  },
+  {
+    "name": "El Chaparro",
+    "country": "VE"
+  },
+  {
+    "name": "Campo Claro",
+    "country": "VE"
+  },
+  {
+    "name": "Anaco",
+    "country": "VE"
+  },
+  {
+    "name": "Barrio Aduana",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Cruz de Guacas",
+    "country": "VE"
+  },
+  {
+    "name": "El Real",
+    "country": "VE"
+  },
+  {
+    "name": "Puerto Vivas",
+    "country": "VE"
+  },
+  {
+    "name": "La Mula",
+    "country": "VE"
+  },
+  {
+    "name": "Los Guasimitos",
+    "country": "VE"
+  },
+  {
+    "name": "Alto Barinas",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Zulia",
+    "country": "VE"
+  },
+  {
+    "name": "Zuata",
+    "country": "VE"
+  },
+  {
+    "name": "Zea",
+    "country": "VE"
+  },
+  {
+    "name": "Zaraza",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Zamora",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Zamora",
+    "country": "VE"
+  },
+  {
+    "name": "Yumare",
+    "country": "VE"
+  },
+  {
+    "name": "Yaritagua",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Yaracuy",
+    "country": "VE"
+  },
+  {
+    "name": "Yaracal",
+    "country": "VE"
+  },
+  {
+    "name": "Yaguaraparo",
+    "country": "VE"
+  },
+  {
+    "name": "Villa Lola",
+    "country": "VE"
+  },
+  {
+    "name": "Villa Flor",
+    "country": "VE"
+  },
+  {
+    "name": "Villa de Cura",
+    "country": "VE"
+  },
+  {
+    "name": "Villa Bruzual",
+    "country": "VE"
+  },
+  {
+    "name": "Vera de Agua",
+    "country": "VE"
+  },
+  {
+    "name": "Bolivarian Republic of Venezuela",
+    "country": "VE"
+  },
+  {
+    "name": "Las Casitas del Vegon de Nutrias",
+    "country": "VE"
+  },
+  {
+    "name": "Valle de La Pascua",
+    "country": "VE"
+  },
+  {
+    "name": "Valle de Guanape",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Valera",
+    "country": "VE"
+  },
+  {
+    "name": "Valera",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Valencia",
+    "country": "VE"
+  },
+  {
+    "name": "Valencia",
+    "country": "VE"
+  },
+  {
+    "name": "Urumaco",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Uribante",
+    "country": "VE"
+  },
+  {
+    "name": "Urena",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Urdaneta",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Urdaneta",
+    "country": "VE"
+  },
+  {
+    "name": "Uracoa",
+    "country": "VE"
+  },
+  {
+    "name": "Urachiche",
+    "country": "VE"
+  },
+  {
+    "name": "Upata",
+    "country": "VE"
+  },
+  {
+    "name": "Umuquena",
+    "country": "VE"
+  },
+  {
+    "name": "Uadauraparut\u00e1",
+    "country": "VE"
+  },
+  {
+    "name": "Turmero",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Tur\u00e9n",
+    "country": "VE"
+  },
+  {
+    "name": "Tupuqu\u00e9n",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Tucupita",
+    "country": "VE"
+  },
+  {
+    "name": "Tucupita",
+    "country": "VE"
+  },
+  {
+    "name": "Tucupido",
+    "country": "VE"
+  },
+  {
+    "name": "Tucani",
+    "country": "VE"
+  },
+  {
+    "name": "Tucacas",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Tubores",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Trujillo",
+    "country": "VE"
+  },
+  {
+    "name": "Trujillo",
+    "country": "VE"
+  },
+  {
+    "name": "Tovar",
+    "country": "VE"
+  },
+  {
+    "name": "Tovar",
+    "country": "VE"
+  },
+  {
+    "name": "Torunos",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Torres",
+    "country": "VE"
+  },
+  {
+    "name": "Torondoy",
+    "country": "VE"
+  },
+  {
+    "name": "Tocuyito",
+    "country": "VE"
+  },
+  {
+    "name": "Tocopero",
+    "country": "VE"
+  },
+  {
+    "name": "Tinaquillo",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Tinaco",
+    "country": "VE"
+  },
+  {
+    "name": "Tinaco",
+    "country": "VE"
+  },
+  {
+    "name": "Timotes",
+    "country": "VE"
+  },
+  {
+    "name": "Tia Juana",
+    "country": "VE"
+  },
+  {
+    "name": "Temblador",
+    "country": "VE"
+  },
+  {
+    "name": "Tariba",
+    "country": "VE"
+  },
+  {
+    "name": "Tar\u00e9n",
+    "country": "VE"
+  },
+  {
+    "name": "Tacuato",
+    "country": "VE"
+  },
+  {
+    "name": "Estado T\u00e1chira",
+    "country": "VE"
+  },
+  {
+    "name": "Tabay",
+    "country": "VE"
+  },
+  {
+    "name": "Suruacri",
+    "country": "VE"
+  },
+  {
+    "name": "Sumua-par\u00fa-mata",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Sucre",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Sucre",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Sucre",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Sucre",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Sucre",
+    "country": "VE"
+  },
+  {
+    "name": "Soledad",
+    "country": "VE"
+  },
+  {
+    "name": "Socopo",
+    "country": "VE"
+  },
+  {
+    "name": "Siquisique",
+    "country": "VE"
+  },
+  {
+    "name": "Sinamaica",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Silva",
+    "country": "VE"
+  },
+  {
+    "name": "Seboruco",
+    "country": "VE"
+  },
+  {
+    "name": "Satiare",
+    "country": "VE"
+  },
+  {
+    "name": "Sarare",
+    "country": "VE"
+  },
+  {
+    "name": "San Tom\u00e9",
+    "country": "VE"
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "VE"
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "VE"
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "VE"
+  },
+  {
+    "name": "San Timoteo",
+    "country": "VE"
+  },
+  {
+    "name": "Santiago de Trujillo",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Teresa",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Teresa",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Rosa",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Rita",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Maria de Ipire",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Maria de Caparo",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Lucia",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Isabel",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Ines",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Elena de Uairen",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Elena de Arenales",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Cruz de Bucaral",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Catalina",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Barbara",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Barbara",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Apolonia",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Ana",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Ana",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Ana",
+    "country": "VE"
+  },
+  {
+    "name": "San Simon",
+    "country": "VE"
+  },
+  {
+    "name": "San Silvestre",
+    "country": "VE"
+  },
+  {
+    "name": "San Rafael de Onoto",
+    "country": "VE"
+  },
+  {
+    "name": "San Rafael de Carvajal",
+    "country": "VE"
+  },
+  {
+    "name": "San Rafael de Canagua",
+    "country": "VE"
+  },
+  {
+    "name": "San Pablo",
+    "country": "VE"
+  },
+  {
+    "name": "San Pablo",
+    "country": "VE"
+  },
+  {
+    "name": "San Mateo",
+    "country": "VE"
+  },
+  {
+    "name": "San Mateo",
+    "country": "VE"
+  },
+  {
+    "name": "San Luis",
+    "country": "VE"
+  },
+  {
+    "name": "San Juan de Paya",
+    "country": "VE"
+  },
+  {
+    "name": "San Juan de Manapiare",
+    "country": "VE"
+  },
+  {
+    "name": "San Juan de los Morros",
+    "country": "VE"
+  },
+  {
+    "name": "San Juan de Colon",
+    "country": "VE"
+  },
+  {
+    "name": "San Juan Bautista",
+    "country": "VE"
+  },
+  {
+    "name": "San Jose de Barlovento",
+    "country": "VE"
+  },
+  {
+    "name": "San Jose de Guanipa",
+    "country": "VE"
+  },
+  {
+    "name": "San Jose de Aerocuar",
+    "country": "VE"
+  },
+  {
+    "name": "San Joaquin",
+    "country": "VE"
+  },
+  {
+    "name": "San Francisco de Yare",
+    "country": "VE"
+  },
+  {
+    "name": "San Francisco",
+    "country": "VE"
+  },
+  {
+    "name": "San Fernando de Atabapo",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio San Felipe",
+    "country": "VE"
+  },
+  {
+    "name": "San Felipe",
+    "country": "VE"
+  },
+  {
+    "name": "San Diego",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio San Crist\u00f3bal",
+    "country": "VE"
+  },
+  {
+    "name": "San Cristobal",
+    "country": "VE"
+  },
+  {
+    "name": "San Cayetano",
+    "country": "VE"
+  },
+  {
+    "name": "San Casimiro",
+    "country": "VE"
+  },
+  {
+    "name": "San Carlos de Rio Negro",
+    "country": "VE"
+  },
+  {
+    "name": "San Carlos del Zulia",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio San Carlos",
+    "country": "VE"
+  },
+  {
+    "name": "San Carlos",
+    "country": "VE"
+  },
+  {
+    "name": "Sanare",
+    "country": "VE"
+  },
+  {
+    "name": "San Antonio del Tachira",
+    "country": "VE"
+  },
+  {
+    "name": "San Antonio de Los Altos",
+    "country": "VE"
+  },
+  {
+    "name": "San Antonio del Golfo",
+    "country": "VE"
+  },
+  {
+    "name": "San Antonio",
+    "country": "VE"
+  },
+  {
+    "name": "Sabanita",
+    "country": "VE"
+  },
+  {
+    "name": "Sabaneta",
+    "country": "VE"
+  },
+  {
+    "name": "Sabana Grande",
+    "country": "VE"
+  },
+  {
+    "name": "Sabana de Parra",
+    "country": "VE"
+  },
+  {
+    "name": "Sabana de Mendoza",
+    "country": "VE"
+  },
+  {
+    "name": "Rubio",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Roscio",
+    "country": "VE"
+  },
+  {
+    "name": "La Villa del Rosario",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Rivas D\u00e1vila",
+    "country": "VE"
+  },
+  {
+    "name": "Rio Chico",
+    "country": "VE"
+  },
+  {
+    "name": "Rio Caribe",
+    "country": "VE"
+  },
+  {
+    "name": "Resbal\u00f3n",
+    "country": "VE"
+  },
+  {
+    "name": "Rancho de Tejas",
+    "country": "VE"
+  },
+  {
+    "name": "Quiriquire",
+    "country": "VE"
+  },
+  {
+    "name": "Quibor",
+    "country": "VE"
+  },
+  {
+    "name": "Queniquea",
+    "country": "VE"
+  },
+  {
+    "name": "Quebrada Seca",
+    "country": "VE"
+  },
+  {
+    "name": "Punto Fijo",
+    "country": "VE"
+  },
+  {
+    "name": "Punta de Piedras",
+    "country": "VE"
+  },
+  {
+    "name": "Punta de Piedra",
+    "country": "VE"
+  },
+  {
+    "name": "Punta de Mata",
+    "country": "VE"
+  },
+  {
+    "name": "Punta Cardon",
+    "country": "VE"
+  },
+  {
+    "name": "Puerto Piritu",
+    "country": "VE"
+  },
+  {
+    "name": "Puerto Ordaz",
+    "country": "VE"
+  },
+  {
+    "name": "Puerto Miranda",
+    "country": "VE"
+  },
+  {
+    "name": "Puerto La Cruz",
+    "country": "VE"
+  },
+  {
+    "name": "Puerto de Nutrias",
+    "country": "VE"
+  },
+  {
+    "name": "Puerto Cumarebo",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Puerto Cabello",
+    "country": "VE"
+  },
+  {
+    "name": "Puerto Cabello",
+    "country": "VE"
+  },
+  {
+    "name": "Puerto Ayacucho",
+    "country": "VE"
+  },
+  {
+    "name": "Puente Real",
+    "country": "VE"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "country": "VE"
+  },
+  {
+    "name": "Pueblo Llano",
+    "country": "VE"
+  },
+  {
+    "name": "Pregonero",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Portuguesa",
+    "country": "VE"
+  },
+  {
+    "name": "Porlamar",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Plaza",
+    "country": "VE"
+  },
+  {
+    "name": "Playa Blanca",
+    "country": "VE"
+  },
+  {
+    "name": "Piritu",
+    "country": "VE"
+  },
+  {
+    "name": "Piritu",
+    "country": "VE"
+  },
+  {
+    "name": "Piritu",
+    "country": "VE"
+  },
+  {
+    "name": "Pirital",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Piar",
+    "country": "VE"
+  },
+  {
+    "name": "Petare",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Pedro Mar\u00eda Ure\u00f1a",
+    "country": "VE"
+  },
+  {
+    "name": "Pedrogonz\u00e1lez",
+    "country": "VE"
+  },
+  {
+    "name": "Pedregal",
+    "country": "VE"
+  },
+  {
+    "name": "Pedraza La Vieja",
+    "country": "VE"
+  },
+  {
+    "name": "Pedernales",
+    "country": "VE"
+  },
+  {
+    "name": "Paso El Jabal",
+    "country": "VE"
+  },
+  {
+    "name": "Pariaguan",
+    "country": "VE"
+  },
+  {
+    "name": "Paraiso de Chabasquen",
+    "country": "VE"
+  },
+  {
+    "name": "La Plaza Paraguachi",
+    "country": "VE"
+  },
+  {
+    "name": "Papelon",
+    "country": "VE"
+  },
+  {
+    "name": "Pampatar",
+    "country": "VE"
+  },
+  {
+    "name": "Pampanito",
+    "country": "VE"
+  },
+  {
+    "name": "Pampan",
+    "country": "VE"
+  },
+  {
+    "name": "Pal\u00faa",
+    "country": "VE"
+  },
+  {
+    "name": "Palo Negro",
+    "country": "VE"
+  },
+  {
+    "name": "Palmira",
+    "country": "VE"
+  },
+  {
+    "name": "Palmasola",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio P\u00e1ez",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Ospino",
+    "country": "VE"
+  },
+  {
+    "name": "Ospino",
+    "country": "VE"
+  },
+  {
+    "name": "Ortiz",
+    "country": "VE"
+  },
+  {
+    "name": "Orituco",
+    "country": "VE"
+  },
+  {
+    "name": "Onoto",
+    "country": "VE"
+  },
+  {
+    "name": "Ocumare del Tuy",
+    "country": "VE"
+  },
+  {
+    "name": "Ocumare de la Costa",
+    "country": "VE"
+  },
+  {
+    "name": "Obispos",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Nueva Esparta",
+    "country": "VE"
+  },
+  {
+    "name": "Nueva Bolivia",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Nirgua",
+    "country": "VE"
+  },
+  {
+    "name": "Nirgua",
+    "country": "VE"
+  },
+  {
+    "name": "Naguanagua",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Mu\u00f1oz",
+    "country": "VE"
+  },
+  {
+    "name": "Mucumpiz",
+    "country": "VE"
+  },
+  {
+    "name": "Mucuchies",
+    "country": "VE"
+  },
+  {
+    "name": "Motatan",
+    "country": "VE"
+  },
+  {
+    "name": "Moron",
+    "country": "VE"
+  },
+  {
+    "name": "Morocure",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Mor\u00e1n",
+    "country": "VE"
+  },
+  {
+    "name": "Monte Carmelo",
+    "country": "VE"
+  },
+  {
+    "name": "Montalban",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Monagas",
+    "country": "VE"
+  },
+  {
+    "name": "Mirimire",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Miranda",
+    "country": "VE"
+  },
+  {
+    "name": "Miranda",
+    "country": "VE"
+  },
+  {
+    "name": "Milla",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Michelena",
+    "country": "VE"
+  },
+  {
+    "name": "Michelena",
+    "country": "VE"
+  },
+  {
+    "name": "Estado M\u00e9rida",
+    "country": "VE"
+  },
+  {
+    "name": "Merida",
+    "country": "VE"
+  },
+  {
+    "name": "Mene Grande",
+    "country": "VE"
+  },
+  {
+    "name": "Mene de Mauroa",
+    "country": "VE"
+  },
+  {
+    "name": "Mayupa",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Mauroa",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Matur\u00edn",
+    "country": "VE"
+  },
+  {
+    "name": "Masu-par\u00fa-mota",
+    "country": "VE"
+  },
+  {
+    "name": "Masparrito",
+    "country": "VE"
+  },
+  {
+    "name": "Maroa",
+    "country": "VE"
+  },
+  {
+    "name": "Mariperez",
+    "country": "VE"
+  },
+  {
+    "name": "Maripa",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Mari\u00f1o",
+    "country": "VE"
+  },
+  {
+    "name": "Mariguitar",
+    "country": "VE"
+  },
+  {
+    "name": "Mariara",
+    "country": "VE"
+  },
+  {
+    "name": "Maracay",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Maracaibo",
+    "country": "VE"
+  },
+  {
+    "name": "Maracaibo",
+    "country": "VE"
+  },
+  {
+    "name": "Maporal",
+    "country": "VE"
+  },
+  {
+    "name": "Mampote",
+    "country": "VE"
+  },
+  {
+    "name": "Mamporal",
+    "country": "VE"
+  },
+  {
+    "name": "Maiquetia",
+    "country": "VE"
+  },
+  {
+    "name": "Machiques",
+    "country": "VE"
+  },
+  {
+    "name": "Los Teques",
+    "country": "VE"
+  },
+  {
+    "name": "Los Rastrojos",
+    "country": "VE"
+  },
+  {
+    "name": "Los Pajones",
+    "country": "VE"
+  },
+  {
+    "name": "Los Guayos",
+    "country": "VE"
+  },
+  {
+    "name": "Los Dos Caminos",
+    "country": "VE"
+  },
+  {
+    "name": "Los Bancos",
+    "country": "VE"
+  },
+  {
+    "name": "Los Araques",
+    "country": "VE"
+  },
+  {
+    "name": "Loma Larga",
+    "country": "VE"
+  },
+  {
+    "name": "Lobatera",
+    "country": "VE"
+  },
+  {
+    "name": "Llano de Miquil\u00e9n",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Libertador",
+    "country": "VE"
+  },
+  {
+    "name": "Libertad",
+    "country": "VE"
+  },
+  {
+    "name": "Libertad",
+    "country": "VE"
+  },
+  {
+    "name": "Capacho Viejo",
+    "country": "VE"
+  },
+  {
+    "name": "La Yuca",
+    "country": "VE"
+  },
+  {
+    "name": "La Yeg\u00fcera",
+    "country": "VE"
+  },
+  {
+    "name": "La Victoria",
+    "country": "VE"
+  },
+  {
+    "name": "La Vela de Coro",
+    "country": "VE"
+  },
+  {
+    "name": "Veguitas",
+    "country": "VE"
+  },
+  {
+    "name": "La Union",
+    "country": "VE"
+  },
+  {
+    "name": "Las Vegas",
+    "country": "VE"
+  },
+  {
+    "name": "Las Tejerias",
+    "country": "VE"
+  },
+  {
+    "name": "Las Mercedes",
+    "country": "VE"
+  },
+  {
+    "name": "Las Mercedes",
+    "country": "VE"
+  },
+  {
+    "name": "Las Mercedes",
+    "country": "VE"
+  },
+  {
+    "name": "Las Hern\u00e1ndez",
+    "country": "VE"
+  },
+  {
+    "name": "Las Delicias",
+    "country": "VE"
+  },
+  {
+    "name": "La Rosita",
+    "country": "VE"
+  },
+  {
+    "name": "La Ramona",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Lara",
+    "country": "VE"
+  },
+  {
+    "name": "La Quebrada",
+    "country": "VE"
+  },
+  {
+    "name": "La Punta",
+    "country": "VE"
+  },
+  {
+    "name": "La Plata",
+    "country": "VE"
+  },
+  {
+    "name": "La Pe\u00f1a",
+    "country": "VE"
+  },
+  {
+    "name": "La Parroquia",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Lander",
+    "country": "VE"
+  },
+  {
+    "name": "La Luz",
+    "country": "VE"
+  },
+  {
+    "name": "La Laja",
+    "country": "VE"
+  },
+  {
+    "name": "La Lagunita",
+    "country": "VE"
+  },
+  {
+    "name": "La Hoyada",
+    "country": "VE"
+  },
+  {
+    "name": "Lagunillas",
+    "country": "VE"
+  },
+  {
+    "name": "Lagunillas",
+    "country": "VE"
+  },
+  {
+    "name": "La Guaira",
+    "country": "VE"
+  },
+  {
+    "name": "La Gonz\u00e1lez",
+    "country": "VE"
+  },
+  {
+    "name": "La Esmeralda",
+    "country": "VE"
+  },
+  {
+    "name": "La Ermita",
+    "country": "VE"
+  },
+  {
+    "name": "La Encrucijada",
+    "country": "VE"
+  },
+  {
+    "name": "La Denta",
+    "country": "VE"
+  },
+  {
+    "name": "La Cruz de Taratara",
+    "country": "VE"
+  },
+  {
+    "name": "La Cruz de Bel\u00e9n",
+    "country": "VE"
+  },
+  {
+    "name": "La Concepcion",
+    "country": "VE"
+  },
+  {
+    "name": "La Chiquinquira",
+    "country": "VE"
+  },
+  {
+    "name": "Chameta",
+    "country": "VE"
+  },
+  {
+    "name": "La Carbonera",
+    "country": "VE"
+  },
+  {
+    "name": "Caramuca",
+    "country": "VE"
+  },
+  {
+    "name": "La Ca\u00f1a",
+    "country": "VE"
+  },
+  {
+    "name": "La Azulita",
+    "country": "VE"
+  },
+  {
+    "name": "Kilometro Ochenta y Dos",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Jun\u00edn",
+    "country": "VE"
+  },
+  {
+    "name": "Juan Griego",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Jim\u00e9nez",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio J\u00e1uregui",
+    "country": "VE"
+  },
+  {
+    "name": "Jacura",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Iribarren",
+    "country": "VE"
+  },
+  {
+    "name": "Irapa",
+    "country": "VE"
+  },
+  {
+    "name": "Higuerote",
+    "country": "VE"
+  },
+  {
+    "name": "Higuerones",
+    "country": "VE"
+  },
+  {
+    "name": "Hato Casa Blanca",
+    "country": "VE"
+  },
+  {
+    "name": "Gueiria",
+    "country": "VE"
+  },
+  {
+    "name": "Guigue",
+    "country": "VE"
+  },
+  {
+    "name": "Guayabal",
+    "country": "VE"
+  },
+  {
+    "name": "Guatire",
+    "country": "VE"
+  },
+  {
+    "name": "Guasipati",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Gu\u00e1rico",
+    "country": "VE"
+  },
+  {
+    "name": "Guarenas",
+    "country": "VE"
+  },
+  {
+    "name": "Guaraque",
+    "country": "VE"
+  },
+  {
+    "name": "Guanta",
+    "country": "VE"
+  },
+  {
+    "name": "Guanarito",
+    "country": "VE"
+  },
+  {
+    "name": "Guanare",
+    "country": "VE"
+  },
+  {
+    "name": "Guama",
+    "country": "VE"
+  },
+  {
+    "name": "Guadarrama",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Guacara",
+    "country": "VE"
+  },
+  {
+    "name": "Guacara",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Girardot",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Garc\u00eda de Hevia",
+    "country": "VE"
+  },
+  {
+    "name": "Distrito Capital",
+    "country": "VE"
+  },
+  {
+    "name": "Farriar",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Falc\u00f3n",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Falc\u00f3n",
+    "country": "VE"
+  },
+  {
+    "name": "Encontrados",
+    "country": "VE"
+  },
+  {
+    "name": "El Yaque",
+    "country": "VE"
+  },
+  {
+    "name": "El Vigia",
+    "country": "VE"
+  },
+  {
+    "name": "El Valle del Espiritu Santo",
+    "country": "VE"
+  },
+  {
+    "name": "El Toro",
+    "country": "VE"
+  },
+  {
+    "name": "El Tocuyo",
+    "country": "VE"
+  },
+  {
+    "name": "El Tigre",
+    "country": "VE"
+  },
+  {
+    "name": "El Tigre",
+    "country": "VE"
+  },
+  {
+    "name": "El Sombrero",
+    "country": "VE"
+  },
+  {
+    "name": "El Socorro",
+    "country": "VE"
+  },
+  {
+    "name": "El Silencio",
+    "country": "VE"
+  },
+  {
+    "name": "El Silencio",
+    "country": "VE"
+  },
+  {
+    "name": "El Regalo",
+    "country": "VE"
+  },
+  {
+    "name": "El Recreo",
+    "country": "VE"
+  },
+  {
+    "name": "El Recreo",
+    "country": "VE"
+  },
+  {
+    "name": "El Potrero",
+    "country": "VE"
+  },
+  {
+    "name": "San Rafael del Pinal",
+    "country": "VE"
+  },
+  {
+    "name": "El Pilar",
+    "country": "VE"
+  },
+  {
+    "name": "El Pilar",
+    "country": "VE"
+  },
+  {
+    "name": "El Pilar",
+    "country": "VE"
+  },
+  {
+    "name": "El Pardillal",
+    "country": "VE"
+  },
+  {
+    "name": "El Paradero",
+    "country": "VE"
+  },
+  {
+    "name": "El Pao",
+    "country": "VE"
+  },
+  {
+    "name": "El Pantano",
+    "country": "VE"
+  },
+  {
+    "name": "El Palotal",
+    "country": "VE"
+  },
+  {
+    "name": "El Palmer",
+    "country": "VE"
+  },
+  {
+    "name": "El Oso",
+    "country": "VE"
+  },
+  {
+    "name": "Elorza",
+    "country": "VE"
+  },
+  {
+    "name": "El Norte",
+    "country": "VE"
+  },
+  {
+    "name": "El Limon",
+    "country": "VE"
+  },
+  {
+    "name": "El Infiernito",
+    "country": "VE"
+  },
+  {
+    "name": "El Hatillo",
+    "country": "VE"
+  },
+  {
+    "name": "El Drago",
+    "country": "VE"
+  },
+  {
+    "name": "El Dividive",
+    "country": "VE"
+  },
+  {
+    "name": "El Corozo",
+    "country": "VE"
+  },
+  {
+    "name": "El Consejo",
+    "country": "VE"
+  },
+  {
+    "name": "El Conflicto",
+    "country": "VE"
+  },
+  {
+    "name": "El Coche",
+    "country": "VE"
+  },
+  {
+    "name": "El Cobre",
+    "country": "VE"
+  },
+  {
+    "name": "El Canton",
+    "country": "VE"
+  },
+  {
+    "name": "El Baul",
+    "country": "VE"
+  },
+  {
+    "name": "El Barbudo",
+    "country": "VE"
+  },
+  {
+    "name": "El An\u00eds",
+    "country": "VE"
+  },
+  {
+    "name": "El Algarrobo",
+    "country": "VE"
+  },
+  {
+    "name": "Ejido",
+    "country": "VE"
+  },
+  {
+    "name": "Duaca",
+    "country": "VE"
+  },
+  {
+    "name": "Dolores",
+    "country": "VE"
+  },
+  {
+    "name": "Territorio Federal Delta Amacuro",
+    "country": "VE"
+  },
+  {
+    "name": "Dabajuro",
+    "country": "VE"
+  },
+  {
+    "name": "Curiapo",
+    "country": "VE"
+  },
+  {
+    "name": "Curbati",
+    "country": "VE"
+  },
+  {
+    "name": "Curatabaca",
+    "country": "VE"
+  },
+  {
+    "name": "Cura",
+    "country": "VE"
+  },
+  {
+    "name": "Cupira",
+    "country": "VE"
+  },
+  {
+    "name": "Cumanacoa",
+    "country": "VE"
+  },
+  {
+    "name": "Cumana",
+    "country": "VE"
+  },
+  {
+    "name": "Cua",
+    "country": "VE"
+  },
+  {
+    "name": "Cruzero",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Crist\u00f3bal Rojas",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Crespo",
+    "country": "VE"
+  },
+  {
+    "name": "Coro",
+    "country": "VE"
+  },
+  {
+    "name": "Concepcion",
+    "country": "VE"
+  },
+  {
+    "name": "Coloncito",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Col\u00f3n",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Colina",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Cojedes",
+    "country": "VE"
+  },
+  {
+    "name": "Cojedes",
+    "country": "VE"
+  },
+  {
+    "name": "Cocorote",
+    "country": "VE"
+  },
+  {
+    "name": "Clarines",
+    "country": "VE"
+  },
+  {
+    "name": "Ciudad Ojeda",
+    "country": "VE"
+  },
+  {
+    "name": "Ciudad Guayana",
+    "country": "VE"
+  },
+  {
+    "name": "Ciudad De Nutrias",
+    "country": "VE"
+  },
+  {
+    "name": "Ciudad Bolivia",
+    "country": "VE"
+  },
+  {
+    "name": "Ciudad Bolivar",
+    "country": "VE"
+  },
+  {
+    "name": "Churuguara",
+    "country": "VE"
+  },
+  {
+    "name": "Chivacoa",
+    "country": "VE"
+  },
+  {
+    "name": "Chirimat\u00e1",
+    "country": "VE"
+  },
+  {
+    "name": "Chichiriviche",
+    "country": "VE"
+  },
+  {
+    "name": "Chejende",
+    "country": "VE"
+  },
+  {
+    "name": "Charallave",
+    "country": "VE"
+  },
+  {
+    "name": "Chaguaramas",
+    "country": "VE"
+  },
+  {
+    "name": "Chacao",
+    "country": "VE"
+  },
+  {
+    "name": "Tacarigua",
+    "country": "VE"
+  },
+  {
+    "name": "Caucaguito",
+    "country": "VE"
+  },
+  {
+    "name": "Caucagua",
+    "country": "VE"
+  },
+  {
+    "name": "Catia La Mar",
+    "country": "VE"
+  },
+  {
+    "name": "Catia",
+    "country": "VE"
+  },
+  {
+    "name": "Casigua El Cubo",
+    "country": "VE"
+  },
+  {
+    "name": "Casanay",
+    "country": "VE"
+  },
+  {
+    "name": "Carupano",
+    "country": "VE"
+  },
+  {
+    "name": "Carrizal",
+    "country": "VE"
+  },
+  {
+    "name": "Carora",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Caron\u00ed",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Carlos Arvelo",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Carirubana",
+    "country": "VE"
+  },
+  {
+    "name": "Caripito",
+    "country": "VE"
+  },
+  {
+    "name": "Cariaco",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio C\u00e1rdenas",
+    "country": "VE"
+  },
+  {
+    "name": "Carapiapa",
+    "country": "VE"
+  },
+  {
+    "name": "Carache",
+    "country": "VE"
+  },
+  {
+    "name": "Caracas",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Carabobo",
+    "country": "VE"
+  },
+  {
+    "name": "Caraballeda",
+    "country": "VE"
+  },
+  {
+    "name": "Capitanejo",
+    "country": "VE"
+  },
+  {
+    "name": "Capatarida",
+    "country": "VE"
+  },
+  {
+    "name": "Cantaura",
+    "country": "VE"
+  },
+  {
+    "name": "Cantarrana",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Campo El\u00edas",
+    "country": "VE"
+  },
+  {
+    "name": "Campo Elias",
+    "country": "VE"
+  },
+  {
+    "name": "Cameir\u00e1n",
+    "country": "VE"
+  },
+  {
+    "name": "Camburito",
+    "country": "VE"
+  },
+  {
+    "name": "Camatagua",
+    "country": "VE"
+  },
+  {
+    "name": "Camar\u00e1n",
+    "country": "VE"
+  },
+  {
+    "name": "Camaguan",
+    "country": "VE"
+  },
+  {
+    "name": "Calderas",
+    "country": "VE"
+  },
+  {
+    "name": "Calabozo",
+    "country": "VE"
+  },
+  {
+    "name": "Caico Seco",
+    "country": "VE"
+  },
+  {
+    "name": "Caicara",
+    "country": "VE"
+  },
+  {
+    "name": "Cagua",
+    "country": "VE"
+  },
+  {
+    "name": "Cabure",
+    "country": "VE"
+  },
+  {
+    "name": "Cabudare",
+    "country": "VE"
+  },
+  {
+    "name": "Cabimas",
+    "country": "VE"
+  },
+  {
+    "name": "Bum Bum",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Bruzual",
+    "country": "VE"
+  },
+  {
+    "name": "Bruzual",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Bri\u00f3n",
+    "country": "VE"
+  },
+  {
+    "name": "Botijones",
+    "country": "VE"
+  },
+  {
+    "name": "Boraure",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Bol\u00edvar",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Bol\u00edvar",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Bol\u00edvar",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Bol\u00edvar",
+    "country": "VE"
+  },
+  {
+    "name": "Boleita",
+    "country": "VE"
+  },
+  {
+    "name": "Bohordal",
+    "country": "VE"
+  },
+  {
+    "name": "Boconoito",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Bocon\u00f3",
+    "country": "VE"
+  },
+  {
+    "name": "Bocono",
+    "country": "VE"
+  },
+  {
+    "name": "Boca de Uchire",
+    "country": "VE"
+  },
+  {
+    "name": "Boca del Rio",
+    "country": "VE"
+  },
+  {
+    "name": "Biscucuy",
+    "country": "VE"
+  },
+  {
+    "name": "Biruaca",
+    "country": "VE"
+  },
+  {
+    "name": "Betijoque",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Berm\u00fadez",
+    "country": "VE"
+  },
+  {
+    "name": "Bel\u00e9n",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Bejuma",
+    "country": "VE"
+  },
+  {
+    "name": "Bejuma",
+    "country": "VE"
+  },
+  {
+    "name": "Baruta",
+    "country": "VE"
+  },
+  {
+    "name": "Barrancas",
+    "country": "VE"
+  },
+  {
+    "name": "Barquisimeto",
+    "country": "VE"
+  },
+  {
+    "name": "Barinitas",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Barinas",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Barinas",
+    "country": "VE"
+  },
+  {
+    "name": "Barinas",
+    "country": "VE"
+  },
+  {
+    "name": "Barcelona",
+    "country": "VE"
+  },
+  {
+    "name": "Barbacoas",
+    "country": "VE"
+  },
+  {
+    "name": "Bajo Grande",
+    "country": "VE"
+  },
+  {
+    "name": "Bailadores",
+    "country": "VE"
+  },
+  {
+    "name": "Bachaquero",
+    "country": "VE"
+  },
+  {
+    "name": "Auredie-pue",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Aut\u00f3nomo Atures",
+    "country": "VE"
+  },
+  {
+    "name": "Arorouata",
+    "country": "VE"
+  },
+  {
+    "name": "Aroa",
+    "country": "VE"
+  },
+  {
+    "name": "Arismendi",
+    "country": "VE"
+  },
+  {
+    "name": "Arismendi",
+    "country": "VE"
+  },
+  {
+    "name": "Aricagua",
+    "country": "VE"
+  },
+  {
+    "name": "Araya",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Araure",
+    "country": "VE"
+  },
+  {
+    "name": "Araure",
+    "country": "VE"
+  },
+  {
+    "name": "Arauquita",
+    "country": "VE"
+  },
+  {
+    "name": "Araira",
+    "country": "VE"
+  },
+  {
+    "name": "Aragua de Matur\u00edn",
+    "country": "VE"
+  },
+  {
+    "name": "Aragua de Barcelona",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Aragua",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Aragua",
+    "country": "VE"
+  },
+  {
+    "name": "Arabop\u00f3",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Apure",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Anzo\u00e1tegui",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Anaco",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Amazonas",
+    "country": "VE"
+  },
+  {
+    "name": "Amantepuy",
+    "country": "VE"
+  },
+  {
+    "name": "Amanita",
+    "country": "VE"
+  },
+  {
+    "name": "Alto de Reyes",
+    "country": "VE"
+  },
+  {
+    "name": "Altamira",
+    "country": "VE"
+  },
+  {
+    "name": "Altagracia de Orituco",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Alberto Adriani",
+    "country": "VE"
+  },
+  {
+    "name": "Aj\u00ed",
+    "country": "VE"
+  },
+  {
+    "name": "Aguasay",
+    "country": "VE"
+  },
+  {
+    "name": "Agua Salada",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Acevedo",
+    "country": "VE"
+  },
+  {
+    "name": "Acarigua",
+    "country": "VE"
+  },
+  {
+    "name": "Abejales",
+    "country": "VE"
+  },
+  {
+    "name": "Las Mesas",
+    "country": "VE"
+  },
+  {
+    "name": "Vara de Mar\u00eda",
+    "country": "VE"
+  },
+  {
+    "name": "La Habana",
+    "country": "VE"
+  },
+  {
+    "name": "San Jose de Bolivar",
+    "country": "VE"
+  },
+  {
+    "name": "Camar\u00f3n",
+    "country": "VE"
+  },
+  {
+    "name": "Las Dos Bocas",
+    "country": "VE"
+  },
+  {
+    "name": "Agua Blanca",
+    "country": "VE"
+  },
+  {
+    "name": "Miraflores",
+    "country": "VE"
+  },
+  {
+    "name": "Sampayo",
+    "country": "VE"
+  },
+  {
+    "name": "Mata Linda",
+    "country": "VE"
+  },
+  {
+    "name": "El Card\u00f3n",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Rita",
+    "country": "VE"
+  },
+  {
+    "name": "Paso Real",
+    "country": "VE"
+  },
+  {
+    "name": "Vallecito",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Mar\u00eda",
+    "country": "VE"
+  },
+  {
+    "name": "El Salado",
+    "country": "VE"
+  },
+  {
+    "name": "Las Cruces",
+    "country": "VE"
+  },
+  {
+    "name": "San Jos\u00e9",
+    "country": "VE"
+  },
+  {
+    "name": "Loma de La Virgen",
+    "country": "VE"
+  },
+  {
+    "name": "Las Tienditas",
+    "country": "VE"
+  },
+  {
+    "name": "El Chamita",
+    "country": "VE"
+  },
+  {
+    "name": "La Hoyada",
+    "country": "VE"
+  },
+  {
+    "name": "Los Llanitos",
+    "country": "VE"
+  },
+  {
+    "name": "Mucuran\u00fa",
+    "country": "VE"
+  },
+  {
+    "name": "Puente Viejo",
+    "country": "VE"
+  },
+  {
+    "name": "Los Limos",
+    "country": "VE"
+  },
+  {
+    "name": "Carinagua",
+    "country": "VE"
+  },
+  {
+    "name": "El Vedero",
+    "country": "VE"
+  },
+  {
+    "name": "El Aeropuerto",
+    "country": "VE"
+  },
+  {
+    "name": "San Josecito",
+    "country": "VE"
+  },
+  {
+    "name": "Cordero",
+    "country": "VE"
+  },
+  {
+    "name": "Mamonal",
+    "country": "VE"
+  },
+  {
+    "name": "El Valle",
+    "country": "VE"
+  },
+  {
+    "name": "Sierra Imataca",
+    "country": "VE"
+  },
+  {
+    "name": "Ambrosio",
+    "country": "VE"
+  },
+  {
+    "name": "La Horqueta",
+    "country": "VE"
+  },
+  {
+    "name": "La Miel",
+    "country": "VE"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "country": "VE"
+  },
+  {
+    "name": "San Jose de Guaribe",
+    "country": "VE"
+  },
+  {
+    "name": "Sesteadero",
+    "country": "VE"
+  },
+  {
+    "name": "Bol\u00edvar",
+    "country": "VE"
+  },
+  {
+    "name": "Maturin",
+    "country": "VE"
+  },
+  {
+    "name": "San Pedro",
+    "country": "VE"
+  },
+  {
+    "name": "Temblador",
+    "country": "VE"
+  },
+  {
+    "name": "Palmasola",
+    "country": "VE"
+  },
+  {
+    "name": "Guaricure",
+    "country": "VE"
+  },
+  {
+    "name": "El Pedregal",
+    "country": "VE"
+  },
+  {
+    "name": "Delicias",
+    "country": "VE"
+  },
+  {
+    "name": "La Fria",
+    "country": "VE"
+  },
+  {
+    "name": "La Grita",
+    "country": "VE"
+  },
+  {
+    "name": "Capacho Nuevo",
+    "country": "VE"
+  },
+  {
+    "name": "La Tendida",
+    "country": "VE"
+  },
+  {
+    "name": "Kennedy",
+    "country": "VE"
+  },
+  {
+    "name": "Barrio Mundo Nuevo",
+    "country": "VE"
+  },
+  {
+    "name": "La Otra Banda",
+    "country": "VE"
+  },
+  {
+    "name": "El Raicero",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Marta",
+    "country": "VE"
+  },
+  {
+    "name": "La Vega",
+    "country": "VE"
+  },
+  {
+    "name": "Agua Blanca",
+    "country": "VE"
+  },
+  {
+    "name": "Apamatal",
+    "country": "VE"
+  },
+  {
+    "name": "Buenos Aires",
+    "country": "VE"
+  },
+  {
+    "name": "El Playon",
+    "country": "VE"
+  },
+  {
+    "name": "El Saman",
+    "country": "VE"
+  },
+  {
+    "name": "Arapuey",
+    "country": "VE"
+  },
+  {
+    "name": "La Burrera",
+    "country": "VE"
+  },
+  {
+    "name": "Ca\u00f1o Negro",
+    "country": "VE"
+  },
+  {
+    "name": "Campo Alegre",
+    "country": "VE"
+  },
+  {
+    "name": "La Honda",
+    "country": "VE"
+  },
+  {
+    "name": "Macapo",
+    "country": "VE"
+  },
+  {
+    "name": "El Cafetal",
+    "country": "VE"
+  },
+  {
+    "name": "Caucaguita",
+    "country": "VE"
+  },
+  {
+    "name": "La Dolorita",
+    "country": "VE"
+  },
+  {
+    "name": "Urbanizaci\u00f3n La Florida",
+    "country": "VE"
+  },
+  {
+    "name": "Manguito",
+    "country": "VE"
+  },
+  {
+    "name": "El Silencio",
+    "country": "VE"
+  },
+  {
+    "name": "Guasdalito",
+    "country": "VE"
+  },
+  {
+    "name": "Las Mercedes",
+    "country": "VE"
+  },
+  {
+    "name": "San Fernando Apure",
+    "country": "VE"
+  },
+  {
+    "name": "San Juan de Payara",
+    "country": "VE"
+  },
+  {
+    "name": "Cata",
+    "country": "VE"
+  },
+  {
+    "name": "La Ceiba",
+    "country": "VE"
+  },
+  {
+    "name": "Barrio Leonardo Ru\u00edz Pineda",
+    "country": "VE"
+  },
+  {
+    "name": "San Sebastian",
+    "country": "VE"
+  },
+  {
+    "name": "Turmerito",
+    "country": "VE"
+  },
+  {
+    "name": "El Abismo",
+    "country": "VE"
+  },
+  {
+    "name": "El Aserradero",
+    "country": "VE"
+  },
+  {
+    "name": "El Barajuste",
+    "country": "VE"
+  },
+  {
+    "name": "Boca de Monte",
+    "country": "VE"
+  },
+  {
+    "name": "El Cacho",
+    "country": "VE"
+  },
+  {
+    "name": "La Caratica",
+    "country": "VE"
+  },
+  {
+    "name": "La Ceiba",
+    "country": "VE"
+  },
+  {
+    "name": "Cintillo",
+    "country": "VE"
+  },
+  {
+    "name": "La Clarita",
+    "country": "VE"
+  },
+  {
+    "name": "La Culebra",
+    "country": "VE"
+  },
+  {
+    "name": "Ex-Colonia M\u00f3vil del Dorado",
+    "country": "VE"
+  },
+  {
+    "name": "La Gasolina",
+    "country": "VE"
+  },
+  {
+    "name": "Kil\u00f3metro Ciento Diez",
+    "country": "VE"
+  },
+  {
+    "name": "Kil\u00f3metro Treinta y Tres",
+    "country": "VE"
+  },
+  {
+    "name": "Kil\u00f3metro Sesenta y Siete",
+    "country": "VE"
+  },
+  {
+    "name": "Kil\u00f3metro Ochenta y Ocho",
+    "country": "VE"
+  },
+  {
+    "name": "Laguna Larga",
+    "country": "VE"
+  },
+  {
+    "name": "Manare",
+    "country": "VE"
+  },
+  {
+    "name": "Las Mar\u00edas",
+    "country": "VE"
+  },
+  {
+    "name": "Marupaquen",
+    "country": "VE"
+  },
+  {
+    "name": "Los Pasotes",
+    "country": "VE"
+  },
+  {
+    "name": "El Perico",
+    "country": "VE"
+  },
+  {
+    "name": "El Porvenir",
+    "country": "VE"
+  },
+  {
+    "name": "La Providencia",
+    "country": "VE"
+  },
+  {
+    "name": "Rancho Cuyuni",
+    "country": "VE"
+  },
+  {
+    "name": "Rinc\u00f3n Bonito",
+    "country": "VE"
+  },
+  {
+    "name": "Sampay",
+    "country": "VE"
+  },
+  {
+    "name": "San Germ\u00e1n",
+    "country": "VE"
+  },
+  {
+    "name": "San Isidro",
+    "country": "VE"
+  },
+  {
+    "name": "San Rafael",
+    "country": "VE"
+  },
+  {
+    "name": "San Remo",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Mar\u00eda",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Rosa",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Rosa",
+    "country": "VE"
+  },
+  {
+    "name": "Granja La Trinidad",
+    "country": "VE"
+  },
+  {
+    "name": "Villa Gladis",
+    "country": "VE"
+  },
+  {
+    "name": "Estado Vargas",
+    "country": "VE"
+  },
+  {
+    "name": "El Diario de Yaracuy",
+    "country": "VE"
+  },
+  {
+    "name": "San Bernardino",
+    "country": "VE"
+  },
+  {
+    "name": "La Florida",
+    "country": "VE"
+  },
+  {
+    "name": "Lecherias",
+    "country": "VE"
+  },
+  {
+    "name": "Santa Cruz de los Taques",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Santos Michelena",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Monse\u00f1or Jos\u00e9 Vicente de Unda",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Pamp\u00e1n",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Francisco de Miranda",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio San Jos\u00e9 de Guaribe",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Juan Jos\u00e9 Mora",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Francisco de Miranda",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Sucre",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Chacao",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Leonardo Infante",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Juan Germ\u00e1n Roscio",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Sim\u00f3n Bol\u00edvar",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Juan Antonio Sotillo",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Machiques de Perij\u00e1",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Jos\u00e9 Tadeo Monagas",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio El Hatillo",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Jos\u00e9 F\u00e9lix Ribas",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Pe\u00f1a",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Los Salias",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Santiago Mari\u00f1o",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Bol\u00edvar",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Ezequiel Zamora",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Lagunillas",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Uracoa",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Jos\u00e9 Angel Lamas",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Andr\u00e9s Eloy Blanco",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Pueblo Llano",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Libertador",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Diego Ibarra",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Camatagua",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Rafael Rangel",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Libertador",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Pedro Zaraza",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Pedro Mar\u00eda Freites",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Vargas",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Francisco de Miranda",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio San Jos\u00e9 de Guanipa",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Mario Brice\u00f1o Iragorry",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Naguanagua",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio San Diego",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Baruta",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Carrizal",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Marcano",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Valdez",
+    "country": "VE"
+  },
+  {
+    "name": "Independencia",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Rosario de Perij\u00e1",
+    "country": "VE"
+  },
+  {
+    "name": "Municipio Santa Rita",
+    "country": "VE"
+  }
+]

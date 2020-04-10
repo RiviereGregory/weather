@@ -1,0 +1,1678 @@
+[
+  {
+    "name": "Boumerdas",
+    "country": "DZ"
+  },
+  {
+    "name": "Zighout Youcef",
+    "country": "DZ"
+  },
+  {
+    "name": "Zeribet el Oued",
+    "country": "DZ"
+  },
+  {
+    "name": "Zeralda",
+    "country": "DZ"
+  },
+  {
+    "name": "Zemoura",
+    "country": "DZ"
+  },
+  {
+    "name": "Zebabdja",
+    "country": "DZ"
+  },
+  {
+    "name": "Zaouia Sidi Bekri",
+    "country": "DZ"
+  },
+  {
+    "name": "Yakouren",
+    "country": "DZ"
+  },
+  {
+    "name": "Touggourt",
+    "country": "DZ"
+  },
+  {
+    "name": "Tolga",
+    "country": "DZ"
+  },
+  {
+    "name": "Tleta",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Tlemcen",
+    "country": "DZ"
+  },
+  {
+    "name": "Tlemcen",
+    "country": "DZ"
+  },
+  {
+    "name": "Tizi Rached",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Tizi Ouzou",
+    "country": "DZ"
+  },
+  {
+    "name": "Tizi Ouzou",
+    "country": "DZ"
+  },
+  {
+    "name": "Tizi-n-Tleta",
+    "country": "DZ"
+  },
+  {
+    "name": "Tizi Gheniff",
+    "country": "DZ"
+  },
+  {
+    "name": "Tizi",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Tissemsilt",
+    "country": "DZ"
+  },
+  {
+    "name": "Tissemsilt",
+    "country": "DZ"
+  },
+  {
+    "name": "Tirmitine",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Tipaza",
+    "country": "DZ"
+  },
+  {
+    "name": "Tipasa",
+    "country": "DZ"
+  },
+  {
+    "name": "Tindouf",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Tindouf",
+    "country": "DZ"
+  },
+  {
+    "name": "Timizart",
+    "country": "DZ"
+  },
+  {
+    "name": "Timimoun",
+    "country": "DZ"
+  },
+  {
+    "name": "el hed",
+    "country": "DZ"
+  },
+  {
+    "name": "Tigzirt",
+    "country": "DZ"
+  },
+  {
+    "name": "Tighenif",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de tiaret kabas",
+    "country": "DZ"
+  },
+  {
+    "name": "Tiaret",
+    "country": "DZ"
+  },
+  {
+    "name": "Theniet el Had",
+    "country": "DZ"
+  },
+  {
+    "name": "Thenia",
+    "country": "DZ"
+  },
+  {
+    "name": "T\u00e9n\u00e8s",
+    "country": "DZ"
+  },
+  {
+    "name": "Telerghma",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de T\u00e9bessa",
+    "country": "DZ"
+  },
+  {
+    "name": "T\u00e9bessa",
+    "country": "DZ"
+  },
+  {
+    "name": "Tebesbest",
+    "country": "DZ"
+  },
+  {
+    "name": "Tazoult-Lambese",
+    "country": "DZ"
+  },
+  {
+    "name": "Tazmalt",
+    "country": "DZ"
+  },
+  {
+    "name": "Tarmount",
+    "country": "DZ"
+  },
+  {
+    "name": "Tamanrasset",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Tamanrasset",
+    "country": "DZ"
+  },
+  {
+    "name": "Tamalous",
+    "country": "DZ"
+  },
+  {
+    "name": "Taher",
+    "country": "DZ"
+  },
+  {
+    "name": "Tadma\u00eft",
+    "country": "DZ"
+  },
+  {
+    "name": "Tadjenanet",
+    "country": "DZ"
+  },
+  {
+    "name": "Staoueli",
+    "country": "DZ"
+  },
+  {
+    "name": "Stamboul",
+    "country": "DZ"
+  },
+  {
+    "name": "Sour el Ghozlane",
+    "country": "DZ"
+  },
+  {
+    "name": "Souma",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Souk Ahras",
+    "country": "DZ"
+  },
+  {
+    "name": "Souk Ahras",
+    "country": "DZ"
+  },
+  {
+    "name": "Souidania",
+    "country": "DZ"
+  },
+  {
+    "name": "Sougueur",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Skikda",
+    "country": "DZ"
+  },
+  {
+    "name": "Skikda",
+    "country": "DZ"
+  },
+  {
+    "name": "Sig",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Okba",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Moussa",
+    "country": "DZ"
+  },
+  {
+    "name": "Belcourt",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi M\u00e9rouane",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Khaled",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Hosni",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi ech Chahmi",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Daoud",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Belkassem",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Sidi Bel Abb\u00e8s",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Bel Abb\u00e8s",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Amrane",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Amar",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Akkacha",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi A\u00efssa",
+    "country": "DZ"
+  },
+  {
+    "name": "Sidi Abdelli",
+    "country": "DZ"
+  },
+  {
+    "name": "Sfizef",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de S\u00e9tif",
+    "country": "DZ"
+  },
+  {
+    "name": "S\u00e9tif",
+    "country": "DZ"
+  },
+  {
+    "name": "Seraidi",
+    "country": "DZ"
+  },
+  {
+    "name": "Sendjas",
+    "country": "DZ"
+  },
+  {
+    "name": "Sedrata",
+    "country": "DZ"
+  },
+  {
+    "name": "Seddouk",
+    "country": "DZ"
+  },
+  {
+    "name": "Sebdou",
+    "country": "DZ"
+  },
+  {
+    "name": "Saoula",
+    "country": "DZ"
+  },
+  {
+    "name": "Salah Bey",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Sa\u00efda",
+    "country": "DZ"
+  },
+  {
+    "name": "Sa\u00efda",
+    "country": "DZ"
+  },
+  {
+    "name": "Sahela Foukania",
+    "country": "DZ"
+  },
+  {
+    "name": "Sabra",
+    "country": "DZ"
+  },
+  {
+    "name": "Rouissat",
+    "country": "DZ"
+  },
+  {
+    "name": "Rouina",
+    "country": "DZ"
+  },
+  {
+    "name": "Rouiba",
+    "country": "DZ"
+  },
+  {
+    "name": "Rouached",
+    "country": "DZ"
+  },
+  {
+    "name": "Robbah",
+    "country": "DZ"
+  },
+  {
+    "name": "Remchi",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Relizane",
+    "country": "DZ"
+  },
+  {
+    "name": "Relizane",
+    "country": "DZ"
+  },
+  {
+    "name": "Reguiba",
+    "country": "DZ"
+  },
+  {
+    "name": "Regha\u00efa",
+    "country": "DZ"
+  },
+  {
+    "name": "Reggane",
+    "country": "DZ"
+  },
+  {
+    "name": "Recha\u00efga",
+    "country": "DZ"
+  },
+  {
+    "name": "R\u00e2s el Oued",
+    "country": "DZ"
+  },
+  {
+    "name": "R\u00e2s el A\u00efoun",
+    "country": "DZ"
+  },
+  {
+    "name": "Rahouia",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Zaou\u00efa",
+    "country": "DZ"
+  },
+  {
+    "name": "Oum el Bouaghi",
+    "country": "DZ"
+  },
+  {
+    "name": "Oum el Bouaghi",
+    "country": "DZ"
+  },
+  {
+    "name": "Oumache",
+    "country": "DZ"
+  },
+  {
+    "name": "Ouled Moussa",
+    "country": "DZ"
+  },
+  {
+    "name": "Ouled Moussa",
+    "country": "DZ"
+  },
+  {
+    "name": "Ouled Mimoun",
+    "country": "DZ"
+  },
+  {
+    "name": "Ouled Fayet",
+    "country": "DZ"
+  },
+  {
+    "name": "Ouled el Hadj Abbed",
+    "country": "DZ"
+  },
+  {
+    "name": "Oued Zenati",
+    "country": "DZ"
+  },
+  {
+    "name": "Oued Tl\u00e9lat",
+    "country": "DZ"
+  },
+  {
+    "name": "Oued Smar",
+    "country": "DZ"
+  },
+  {
+    "name": "Oued Sly",
+    "country": "DZ"
+  },
+  {
+    "name": "Oued Rhiou",
+    "country": "DZ"
+  },
+  {
+    "name": "Oued Fodda",
+    "country": "DZ"
+  },
+  {
+    "name": "Oued el Alleug",
+    "country": "DZ"
+  },
+  {
+    "name": "Oued el Abtal",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Ouargla",
+    "country": "DZ"
+  },
+  {
+    "name": "Ouargla",
+    "country": "DZ"
+  },
+  {
+    "name": "Oran",
+    "country": "DZ"
+  },
+  {
+    "name": "Oran",
+    "country": "DZ"
+  },
+  {
+    "name": "N\u2019Gaous",
+    "country": "DZ"
+  },
+  {
+    "name": "Nedroma",
+    "country": "DZ"
+  },
+  {
+    "name": "Naciria",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Naama",
+    "country": "DZ"
+  },
+  {
+    "name": "Naama",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de M\u2019Sila",
+    "country": "DZ"
+  },
+  {
+    "name": "M\u2019Sila",
+    "country": "DZ"
+  },
+  {
+    "name": "Mouza\u00efa",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Mostaganem",
+    "country": "DZ"
+  },
+  {
+    "name": "Mostaganem",
+    "country": "DZ"
+  },
+  {
+    "name": "Mohammadia",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Mila",
+    "country": "DZ"
+  },
+  {
+    "name": "Mila",
+    "country": "DZ"
+  },
+  {
+    "name": "Metlili Chaamba",
+    "country": "DZ"
+  },
+  {
+    "name": "Messelmoun",
+    "country": "DZ"
+  },
+  {
+    "name": "Messaad",
+    "country": "DZ"
+  },
+  {
+    "name": "Meskiana",
+    "country": "DZ"
+  },
+  {
+    "name": "Mers el Kebir",
+    "country": "DZ"
+  },
+  {
+    "name": "Merouana",
+    "country": "DZ"
+  },
+  {
+    "name": "Merad",
+    "country": "DZ"
+  },
+  {
+    "name": "Melouza",
+    "country": "DZ"
+  },
+  {
+    "name": "Mekla",
+    "country": "DZ"
+  },
+  {
+    "name": "Mehdia daira de meghila",
+    "country": "DZ"
+  },
+  {
+    "name": "Megarine",
+    "country": "DZ"
+  },
+  {
+    "name": "Meftah",
+    "country": "DZ"
+  },
+  {
+    "name": "Medrissa",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de M\u00e9d\u00e9a",
+    "country": "DZ"
+  },
+  {
+    "name": "M\u00e9d\u00e9a",
+    "country": "DZ"
+  },
+  {
+    "name": "Mechta Gosbat",
+    "country": "DZ"
+  },
+  {
+    "name": "Mechta Bou Assida",
+    "country": "DZ"
+  },
+  {
+    "name": "Mecheria",
+    "country": "DZ"
+  },
+  {
+    "name": "Mazouna",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Mascara",
+    "country": "DZ"
+  },
+  {
+    "name": "Mascara",
+    "country": "DZ"
+  },
+  {
+    "name": "Marhoum",
+    "country": "DZ"
+  },
+  {
+    "name": "Mansourah",
+    "country": "DZ"
+  },
+  {
+    "name": "Manso\u00fbra",
+    "country": "DZ"
+  },
+  {
+    "name": "Makouda",
+    "country": "DZ"
+  },
+  {
+    "name": "Mahfouda",
+    "country": "DZ"
+  },
+  {
+    "name": "Maghnia",
+    "country": "DZ"
+  },
+  {
+    "name": "Levacher",
+    "country": "DZ"
+  },
+  {
+    "name": "L\u2019Arbaa Na\u00eft Irathen",
+    "country": "DZ"
+  },
+  {
+    "name": "Larba\u00e2",
+    "country": "DZ"
+  },
+  {
+    "name": "Lakhdaria",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Laghouat",
+    "country": "DZ"
+  },
+  {
+    "name": "Laghouat",
+    "country": "DZ"
+  },
+  {
+    "name": "L\u2019Agha",
+    "country": "DZ"
+  },
+  {
+    "name": "Ksar Sbahi",
+    "country": "DZ"
+  },
+  {
+    "name": "Ksar el Boukhari",
+    "country": "DZ"
+  },
+  {
+    "name": "Ksar Chellala",
+    "country": "DZ"
+  },
+  {
+    "name": "Ksar Ahmera",
+    "country": "DZ"
+  },
+  {
+    "name": "Korra",
+    "country": "DZ"
+  },
+  {
+    "name": "Kolea",
+    "country": "DZ"
+  },
+  {
+    "name": "Khraicia",
+    "country": "DZ"
+  },
+  {
+    "name": "Kherrata",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Khenchela",
+    "country": "DZ"
+  },
+  {
+    "name": "Khenchela",
+    "country": "DZ"
+  },
+  {
+    "name": "Khemis Miliana",
+    "country": "DZ"
+  },
+  {
+    "name": "Khemis el Khechna",
+    "country": "DZ"
+  },
+  {
+    "name": "Karkira",
+    "country": "DZ"
+  },
+  {
+    "name": "Kaous",
+    "country": "DZ"
+  },
+  {
+    "name": "Ka\u00efs",
+    "country": "DZ"
+  },
+  {
+    "name": "Kadiria",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Jijel",
+    "country": "DZ"
+  },
+  {
+    "name": "Jijel",
+    "country": "DZ"
+  },
+  {
+    "name": "Djidiouia",
+    "country": "DZ"
+  },
+  {
+    "name": "Isser",
+    "country": "DZ"
+  },
+  {
+    "name": "I-n-Salah",
+    "country": "DZ"
+  },
+  {
+    "name": "I-n-Amenas",
+    "country": "DZ"
+  },
+  {
+    "name": "Illizi",
+    "country": "DZ"
+  },
+  {
+    "name": "Illizi",
+    "country": "DZ"
+  },
+  {
+    "name": "Iha\u00efonnene",
+    "country": "DZ"
+  },
+  {
+    "name": "Ighram",
+    "country": "DZ"
+  },
+  {
+    "name": "Hennaya",
+    "country": "DZ"
+  },
+  {
+    "name": "H\u00e9liopolis",
+    "country": "DZ"
+  },
+  {
+    "name": "Hassi Messaoud",
+    "country": "DZ"
+  },
+  {
+    "name": "Hassi Maameche",
+    "country": "DZ"
+  },
+  {
+    "name": "Hassi Bahbah",
+    "country": "DZ"
+  },
+  {
+    "name": "Hammamet",
+    "country": "DZ"
+  },
+  {
+    "name": "Hammam Bou Hadjar",
+    "country": "DZ"
+  },
+  {
+    "name": "Hamma Bouziane",
+    "country": "DZ"
+  },
+  {
+    "name": "Hadjout",
+    "country": "DZ"
+  },
+  {
+    "name": "Hacine",
+    "country": "DZ"
+  },
+  {
+    "name": "Guemar",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Guelma",
+    "country": "DZ"
+  },
+  {
+    "name": "Guelma",
+    "country": "DZ"
+  },
+  {
+    "name": "Grarem",
+    "country": "DZ"
+  },
+  {
+    "name": "Ghriss",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Gharda\u00efa",
+    "country": "DZ"
+  },
+  {
+    "name": "Gharda\u00efa",
+    "country": "DZ"
+  },
+  {
+    "name": "Frenda",
+    "country": "DZ"
+  },
+  {
+    "name": "Freha",
+    "country": "DZ"
+  },
+  {
+    "name": "Fornaka",
+    "country": "DZ"
+  },
+  {
+    "name": "Benairia",
+    "country": "DZ"
+  },
+  {
+    "name": "Feraoun",
+    "country": "DZ"
+  },
+  {
+    "name": "Faubourg Marceau",
+    "country": "DZ"
+  },
+  {
+    "name": "Ez Zen\u00e2ta",
+    "country": "DZ"
+  },
+  {
+    "name": "Es Senia",
+    "country": "DZ"
+  },
+  {
+    "name": "El Tarf",
+    "country": "DZ"
+  },
+  {
+    "name": "El Tarf",
+    "country": "DZ"
+  },
+  {
+    "name": "El Oued",
+    "country": "DZ"
+  },
+  {
+    "name": "El Oued",
+    "country": "DZ"
+  },
+  {
+    "name": "Bir Mourad Ra\u00efs",
+    "country": "DZ"
+  },
+  {
+    "name": "El Matmar",
+    "country": "DZ"
+  },
+  {
+    "name": "El Malah",
+    "country": "DZ"
+  },
+  {
+    "name": "El Madania",
+    "country": "DZ"
+  },
+  {
+    "name": "El Kseur",
+    "country": "DZ"
+  },
+  {
+    "name": "El Khroub",
+    "country": "DZ"
+  },
+  {
+    "name": "El Karimia",
+    "country": "DZ"
+  },
+  {
+    "name": "El Kantara",
+    "country": "DZ"
+  },
+  {
+    "name": "El Kala",
+    "country": "DZ"
+  },
+  {
+    "name": "El Idrissia",
+    "country": "DZ"
+  },
+  {
+    "name": "El Haouita",
+    "country": "DZ"
+  },
+  {
+    "name": "El Hammadia",
+    "country": "DZ"
+  },
+  {
+    "name": "El Hadjira",
+    "country": "DZ"
+  },
+  {
+    "name": "El Hadjar",
+    "country": "DZ"
+  },
+  {
+    "name": "El Gourarir Zaouiet",
+    "country": "DZ"
+  },
+  {
+    "name": "El Golea",
+    "country": "DZ"
+  },
+  {
+    "name": "El Eulma",
+    "country": "DZ"
+  },
+  {
+    "name": "El Bayadh",
+    "country": "DZ"
+  },
+  {
+    "name": "El Bayadh",
+    "country": "DZ"
+  },
+  {
+    "name": "El Barga",
+    "country": "DZ"
+  },
+  {
+    "name": "El Attaf",
+    "country": "DZ"
+  },
+  {
+    "name": "Chlef",
+    "country": "DZ"
+  },
+  {
+    "name": "El Aouinet",
+    "country": "DZ"
+  },
+  {
+    "name": "El Aouana",
+    "country": "DZ"
+  },
+  {
+    "name": "El Amria",
+    "country": "DZ"
+  },
+  {
+    "name": "El Affroun",
+    "country": "DZ"
+  },
+  {
+    "name": "El Achour",
+    "country": "DZ"
+  },
+  {
+    "name": "El Achir",
+    "country": "DZ"
+  },
+  {
+    "name": "El Abiodh Sidi Cheikh",
+    "country": "DZ"
+  },
+  {
+    "name": "El Abadia",
+    "country": "DZ"
+  },
+  {
+    "name": "Ech Chettia",
+    "country": "DZ"
+  },
+  {
+    "name": "Drean",
+    "country": "DZ"
+  },
+  {
+    "name": "Draa el Mizan",
+    "country": "DZ"
+  },
+  {
+    "name": "Draa Ben Khedda",
+    "country": "DZ"
+  },
+  {
+    "name": "Douera",
+    "country": "DZ"
+  },
+  {
+    "name": "Douar Rouached",
+    "country": "DZ"
+  },
+  {
+    "name": "Douar Ouled Sidi Yo\u00fbssef",
+    "country": "DZ"
+  },
+  {
+    "name": "Dmita",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Djelfa",
+    "country": "DZ"
+  },
+  {
+    "name": "Djelfa",
+    "country": "DZ"
+  },
+  {
+    "name": "Djamaa",
+    "country": "DZ"
+  },
+  {
+    "name": "Didouche Mourad",
+    "country": "DZ"
+  },
+  {
+    "name": "Dellys",
+    "country": "DZ"
+  },
+  {
+    "name": "Deli Ibrahim",
+    "country": "DZ"
+  },
+  {
+    "name": "Debila",
+    "country": "DZ"
+  },
+  {
+    "name": "Dar el Be\u00efda",
+    "country": "DZ"
+  },
+  {
+    "name": "Dar Chioukh",
+    "country": "DZ"
+  },
+  {
+    "name": "Dahmouni",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Constantine",
+    "country": "DZ"
+  },
+  {
+    "name": "Constantine",
+    "country": "DZ"
+  },
+  {
+    "name": "Chorfa",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Chlef",
+    "country": "DZ"
+  },
+  {
+    "name": "Chiffa",
+    "country": "DZ"
+  },
+  {
+    "name": "Chetouane",
+    "country": "DZ"
+  },
+  {
+    "name": "Chetma",
+    "country": "DZ"
+  },
+  {
+    "name": "Cheria",
+    "country": "DZ"
+  },
+  {
+    "name": "Cherchell",
+    "country": "DZ"
+  },
+  {
+    "name": "Cheraga",
+    "country": "DZ"
+  },
+  {
+    "name": "Chemini",
+    "country": "DZ"
+  },
+  {
+    "name": "Chelghoum el A\u00efd",
+    "country": "DZ"
+  },
+  {
+    "name": "Chebli",
+    "country": "DZ"
+  },
+  {
+    "name": "Charef",
+    "country": "DZ"
+  },
+  {
+    "name": "Chabet el Ameur",
+    "country": "DZ"
+  },
+  {
+    "name": "Brezina",
+    "country": "DZ"
+  },
+  {
+    "name": "Bouzarea",
+    "country": "DZ"
+  },
+  {
+    "name": "Bou Tlelis",
+    "country": "DZ"
+  },
+  {
+    "name": "Bouskene",
+    "country": "DZ"
+  },
+  {
+    "name": "Bou Sa\u00e2da",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Boumerdes",
+    "country": "DZ"
+  },
+  {
+    "name": "Boumahra Ahmed",
+    "country": "DZ"
+  },
+  {
+    "name": "Boukadir",
+    "country": "DZ"
+  },
+  {
+    "name": "Bou Isma\u00efl",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Bouira",
+    "country": "DZ"
+  },
+  {
+    "name": "Bou\u00efra",
+    "country": "DZ"
+  },
+  {
+    "name": "Bouinan",
+    "country": "DZ"
+  },
+  {
+    "name": "Bou Hanifia el Hamamat",
+    "country": "DZ"
+  },
+  {
+    "name": "Bougara",
+    "country": "DZ"
+  },
+  {
+    "name": "Bougaa",
+    "country": "DZ"
+  },
+  {
+    "name": "Boufarik",
+    "country": "DZ"
+  },
+  {
+    "name": "Boudouaou",
+    "country": "DZ"
+  },
+  {
+    "name": "Boudjima",
+    "country": "DZ"
+  },
+  {
+    "name": "Bo\u00fb Arfa",
+    "country": "DZ"
+  },
+  {
+    "name": "Bordj Zemoura",
+    "country": "DZ"
+  },
+  {
+    "name": "Bordj Omar Driss",
+    "country": "DZ"
+  },
+  {
+    "name": "Bordj Mena\u00efel",
+    "country": "DZ"
+  },
+  {
+    "name": "Bordj Ghdir",
+    "country": "DZ"
+  },
+  {
+    "name": "Bordj el Kiffan",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Bordj Bou Arr\u00e9ridj",
+    "country": "DZ"
+  },
+  {
+    "name": "Bordj Bou Arreridj",
+    "country": "DZ"
+  },
+  {
+    "name": "Boghni",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Blida",
+    "country": "DZ"
+  },
+  {
+    "name": "Blida",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Biskra",
+    "country": "DZ"
+  },
+  {
+    "name": "Biskra",
+    "country": "DZ"
+  },
+  {
+    "name": "Birtouta",
+    "country": "DZ"
+  },
+  {
+    "name": "Birkhadem",
+    "country": "DZ"
+  },
+  {
+    "name": "Birine",
+    "country": "DZ"
+  },
+  {
+    "name": "Bir el Djir",
+    "country": "DZ"
+  },
+  {
+    "name": "Bir el Ater",
+    "country": "DZ"
+  },
+  {
+    "name": "Bir el Arche",
+    "country": "DZ"
+  },
+  {
+    "name": "Besbes",
+    "country": "DZ"
+  },
+  {
+    "name": "Berrouaghia",
+    "country": "DZ"
+  },
+  {
+    "name": "Berriche",
+    "country": "DZ"
+  },
+  {
+    "name": "Berriane",
+    "country": "DZ"
+  },
+  {
+    "name": "Berrahal",
+    "country": "DZ"
+  },
+  {
+    "name": "Berhoum",
+    "country": "DZ"
+  },
+  {
+    "name": "Bensekrane",
+    "country": "DZ"
+  },
+  {
+    "name": "Ben Mehidi",
+    "country": "DZ"
+  },
+  {
+    "name": "Beni Thour",
+    "country": "DZ"
+  },
+  {
+    "name": "Beni Saf",
+    "country": "DZ"
+  },
+  {
+    "name": "Beni Mester",
+    "country": "DZ"
+  },
+  {
+    "name": "Beni Mered",
+    "country": "DZ"
+  },
+  {
+    "name": "Beni Isouid",
+    "country": "DZ"
+  },
+  {
+    "name": "Beni Haoua",
+    "country": "DZ"
+  },
+  {
+    "name": "Beni Douala",
+    "country": "DZ"
+  },
+  {
+    "name": "Beni Amrane",
+    "country": "DZ"
+  },
+  {
+    "name": "Ben \u2019Akno\u00fbn",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Beja\u00efa",
+    "country": "DZ"
+  },
+  {
+    "name": "Beja\u00efa",
+    "country": "DZ"
+  },
+  {
+    "name": "Be\u00efda Bordj",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de B\u00e9char",
+    "country": "DZ"
+  },
+  {
+    "name": "B\u00e9char",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de Batna",
+    "country": "DZ"
+  },
+  {
+    "name": "Batna",
+    "country": "DZ"
+  },
+  {
+    "name": "Barika",
+    "country": "DZ"
+  },
+  {
+    "name": "Barbacha",
+    "country": "DZ"
+  },
+  {
+    "name": "Baraki",
+    "country": "DZ"
+  },
+  {
+    "name": "Baghlia",
+    "country": "DZ"
+  },
+  {
+    "name": "Bab Ezzouar",
+    "country": "DZ"
+  },
+  {
+    "name": "Baba Hassen",
+    "country": "DZ"
+  },
+  {
+    "name": "Azzaba",
+    "country": "DZ"
+  },
+  {
+    "name": "Azib Aboudaou",
+    "country": "DZ"
+  },
+  {
+    "name": "Azazga",
+    "country": "DZ"
+  },
+  {
+    "name": "Arzew",
+    "country": "DZ"
+  },
+  {
+    "name": "Arris",
+    "country": "DZ"
+  },
+  {
+    "name": "Arhribs",
+    "country": "DZ"
+  },
+  {
+    "name": "Arbatache",
+    "country": "DZ"
+  },
+  {
+    "name": "Aoulef",
+    "country": "DZ"
+  },
+  {
+    "name": "Aokas",
+    "country": "DZ"
+  },
+  {
+    "name": "Annaba",
+    "country": "DZ"
+  },
+  {
+    "name": "Annaba",
+    "country": "DZ"
+  },
+  {
+    "name": "Ammi Moussa",
+    "country": "DZ"
+  },
+  {
+    "name": "Amizour",
+    "country": "DZ"
+  },
+  {
+    "name": "Amalou",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya d\u2019 Alger",
+    "country": "DZ"
+  },
+  {
+    "name": "Algiers",
+    "country": "DZ"
+  },
+  {
+    "name": "Akbou",
+    "country": "DZ"
+  },
+  {
+    "name": "Akabli",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Touta",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de A\u00efn Temouchent",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Temouchent",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Taya",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Smara",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Sefra",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Oussera",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn Merane",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn Khalfoun",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Kercha",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Fakroun",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn el Turk",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn el Melh",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn el Hammam",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2018A\u00efn el Hadjel",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn el Hadjar",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn el Bya",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn el Berd",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn el Bell",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn el Be\u00efda",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn Deheb",
+    "country": "DZ"
+  },
+  {
+    "name": "Wilaya de A\u00efn Defla",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Defla",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn Boucif",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Bessem",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn Benian",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Be\u00efda",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Arnat",
+    "country": "DZ"
+  },
+  {
+    "name": "\u2019A\u00efn Abid",
+    "country": "DZ"
+  },
+  {
+    "name": "Aflou",
+    "country": "DZ"
+  },
+  {
+    "name": "Adrar",
+    "country": "DZ"
+  },
+  {
+    "name": "Adrar",
+    "country": "DZ"
+  },
+  {
+    "name": "Abou el Hassan",
+    "country": "DZ"
+  },
+  {
+    "name": "Abdelmoumen",
+    "country": "DZ"
+  },
+  {
+    "name": "A\u00efn Achache",
+    "country": "DZ"
+  },
+  {
+    "name": "La P\u00e9pini\u00e8re",
+    "country": "DZ"
+  },
+  {
+    "name": "Ouled Bou Medienne",
+    "country": "DZ"
+  },
+  {
+    "name": "Village Negre",
+    "country": "DZ"
+  },
+  {
+    "name": "People\u2019s Democratic Republic of Algeria",
+    "country": "DZ"
+  },
+  {
+    "name": "Bordj Badji Mokhtar",
+    "country": "DZ"
+  },
+  {
+    "name": "BABOR - VILLE",
+    "country": "DZ"
+  },
+  {
+    "name": "Smala",
+    "country": "DZ"
+  },
+  {
+    "name": "Djebilet Rosfa",
+    "country": "DZ"
+  }
+]

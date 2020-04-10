@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Vieux-Habitants",
+    "country": "GP"
+  },
+  {
+    "name": "Trois-Rivi\u00e8res",
+    "country": "GP"
+  },
+  {
+    "name": "Petites Anses",
+    "country": "GP"
+  },
+  {
+    "name": "Saint-Fran\u00e7ois",
+    "country": "GP"
+  },
+  {
+    "name": "Sainte-Rose",
+    "country": "GP"
+  },
+  {
+    "name": "Sainte-Anne",
+    "country": "GP"
+  },
+  {
+    "name": "Saint-Claude",
+    "country": "GP"
+  },
+  {
+    "name": "Port-Louis",
+    "country": "GP"
+  },
+  {
+    "name": "Portland",
+    "country": "GP"
+  },
+  {
+    "name": "Poirier",
+    "country": "GP"
+  },
+  {
+    "name": "Pointe-Noire",
+    "country": "GP"
+  },
+  {
+    "name": "Arrondissement de Pointe-\u00e0-Pitre",
+    "country": "GP"
+  },
+  {
+    "name": "Pointe-\u00e0-Pitre",
+    "country": "GP"
+  },
+  {
+    "name": "Petit-Canal",
+    "country": "GP"
+  },
+  {
+    "name": "Petit-Bourg",
+    "country": "GP"
+  },
+  {
+    "name": "Mazeau",
+    "country": "GP"
+  },
+  {
+    "name": "Mahaudi\u00e8re",
+    "country": "GP"
+  },
+  {
+    "name": "Longval",
+    "country": "GP"
+  },
+  {
+    "name": "Les Abymes",
+    "country": "GP"
+  },
+  {
+    "name": "Le Moule",
+    "country": "GP"
+  },
+  {
+    "name": "Le Gosier",
+    "country": "GP"
+  },
+  {
+    "name": "Lamentin",
+    "country": "GP"
+  },
+  {
+    "name": "La Grange",
+    "country": "GP"
+  },
+  {
+    "name": "Guadeloupe",
+    "country": "GP"
+  },
+  {
+    "name": "Beaus\u00e9jour",
+    "country": "GP"
+  },
+  {
+    "name": "Grand-Bourg",
+    "country": "GP"
+  },
+  {
+    "name": "Goyave",
+    "country": "GP"
+  },
+  {
+    "name": "Gourbeyre",
+    "country": "GP"
+  },
+  {
+    "name": "Champfleury",
+    "country": "GP"
+  },
+  {
+    "name": "Capesterre-Belle-Eau",
+    "country": "GP"
+  },
+  {
+    "name": "Bouillante",
+    "country": "GP"
+  },
+  {
+    "name": "Borel",
+    "country": "GP"
+  },
+  {
+    "name": "Arrondissement de la Basse-Terre",
+    "country": "GP"
+  },
+  {
+    "name": "Basse-Terre",
+    "country": "GP"
+  },
+  {
+    "name": "Baimbridge",
+    "country": "GP"
+  },
+  {
+    "name": "Baillif",
+    "country": "GP"
+  },
+  {
+    "name": "Baie-Mahault",
+    "country": "GP"
+  },
+  {
+    "name": "Anse-Bertrand",
+    "country": "GP"
+  },
+  {
+    "name": "Guadeloupe",
+    "country": "GP"
+  },
+  {
+    "name": "Guadeloupe",
+    "country": "GP"
+  },
+  {
+    "name": "Les Abymes",
+    "country": "GP"
+  },
+  {
+    "name": "Sainte-Rose",
+    "country": "GP"
+  },
+  {
+    "name": "Sainte-Anne",
+    "country": "GP"
+  },
+  {
+    "name": "Pointe-\u00e0-Pitre",
+    "country": "GP"
+  },
+  {
+    "name": "Petit-Canal",
+    "country": "GP"
+  },
+  {
+    "name": "Petit-Bourg",
+    "country": "GP"
+  },
+  {
+    "name": "Goyave",
+    "country": "GP"
+  },
+  {
+    "name": "Capesterre-Belle-Eau",
+    "country": "GP"
+  },
+  {
+    "name": "Basse-Terre",
+    "country": "GP"
+  },
+  {
+    "name": "Baillif",
+    "country": "GP"
+  },
+  {
+    "name": "Baie-Mahault",
+    "country": "GP"
+  },
+  {
+    "name": "Le Moule",
+    "country": "GP"
+  },
+  {
+    "name": "Le Gosier",
+    "country": "GP"
+  }
+]

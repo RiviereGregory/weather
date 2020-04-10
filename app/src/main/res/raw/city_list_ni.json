@@ -1,0 +1,630 @@
+[
+  {
+    "name": "Yalag\u00fcina",
+    "country": "NI"
+  },
+  {
+    "name": "Wiwil\u00ed",
+    "country": "NI"
+  },
+  {
+    "name": "Wasp\u00e1n",
+    "country": "NI"
+  },
+  {
+    "name": "Waslala",
+    "country": "NI"
+  },
+  {
+    "name": "Villa Sandino",
+    "country": "NI"
+  },
+  {
+    "name": "Valle San Francisco",
+    "country": "NI"
+  },
+  {
+    "name": "Llano de La Tejera",
+    "country": "NI"
+  },
+  {
+    "name": "Totogalpa",
+    "country": "NI"
+  },
+  {
+    "name": "Tola",
+    "country": "NI"
+  },
+  {
+    "name": "Tisma",
+    "country": "NI"
+  },
+  {
+    "name": "Tipitapa",
+    "country": "NI"
+  },
+  {
+    "name": "Ticuantepe",
+    "country": "NI"
+  },
+  {
+    "name": "Teustepe",
+    "country": "NI"
+  },
+  {
+    "name": "Terrabona",
+    "country": "NI"
+  },
+  {
+    "name": "Telpaneca",
+    "country": "NI"
+  },
+  {
+    "name": "Telica",
+    "country": "NI"
+  },
+  {
+    "name": "Somoto",
+    "country": "NI"
+  },
+  {
+    "name": "Somotillo",
+    "country": "NI"
+  },
+  {
+    "name": "Siuna",
+    "country": "NI"
+  },
+  {
+    "name": "S\u00e9baco",
+    "country": "NI"
+  },
+  {
+    "name": "Santo Tom\u00e1s",
+    "country": "NI"
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "NI"
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "NI"
+  },
+  {
+    "name": "Santa Teresa",
+    "country": "NI"
+  },
+  {
+    "name": "Santa Rosa del Pe\u00f1\u00f3n",
+    "country": "NI"
+  },
+  {
+    "name": "Santa Luc\u00eda",
+    "country": "NI"
+  },
+  {
+    "name": "San Sebasti\u00e1n de Yal\u00ed",
+    "country": "NI"
+  },
+  {
+    "name": "San Ram\u00f3n",
+    "country": "NI"
+  },
+  {
+    "name": "San Rafael del Sur",
+    "country": "NI"
+  },
+  {
+    "name": "San Rafael del Norte",
+    "country": "NI"
+  },
+  {
+    "name": "San Miguelito",
+    "country": "NI"
+  },
+  {
+    "name": "San Marcos",
+    "country": "NI"
+  },
+  {
+    "name": "San Lorenzo",
+    "country": "NI"
+  },
+  {
+    "name": "San Juan de R\u00edo Coco",
+    "country": "NI"
+  },
+  {
+    "name": "San Juan de Oriente",
+    "country": "NI"
+  },
+  {
+    "name": "San Juan del Sur",
+    "country": "NI"
+  },
+  {
+    "name": "San Juan de Limay",
+    "country": "NI"
+  },
+  {
+    "name": "San Jos\u00e9 del Sur",
+    "country": "NI"
+  },
+  {
+    "name": "San Jos\u00e9 de los Remates",
+    "country": "NI"
+  },
+  {
+    "name": "San Jos\u00e9 de Cusmapa",
+    "country": "NI"
+  },
+  {
+    "name": "San Jos\u00e9 de Bocay",
+    "country": "NI"
+  },
+  {
+    "name": "San Jos\u00e9",
+    "country": "NI"
+  },
+  {
+    "name": "San Jorge",
+    "country": "NI"
+  },
+  {
+    "name": "San Fernando",
+    "country": "NI"
+  },
+  {
+    "name": "San Dionisio",
+    "country": "NI"
+  },
+  {
+    "name": "San Carlos",
+    "country": "NI"
+  },
+  {
+    "name": "San Caralampio",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Rivas",
+    "country": "NI"
+  },
+  {
+    "name": "Rivas",
+    "country": "NI"
+  },
+  {
+    "name": "R\u00edo Blanco",
+    "country": "NI"
+  },
+  {
+    "name": "El Rama",
+    "country": "NI"
+  },
+  {
+    "name": "Quilal\u00ed",
+    "country": "NI"
+  },
+  {
+    "name": "Quezalguaque",
+    "country": "NI"
+  },
+  {
+    "name": "Puerto Moraz\u00e1n",
+    "country": "NI"
+  },
+  {
+    "name": "Puerto Cabezas",
+    "country": "NI"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "country": "NI"
+  },
+  {
+    "name": "Potos\u00ed",
+    "country": "NI"
+  },
+  {
+    "name": "Posoltega",
+    "country": "NI"
+  },
+  {
+    "name": "Palacag\u00fcina",
+    "country": "NI"
+  },
+  {
+    "name": "Ocotal",
+    "country": "NI"
+  },
+  {
+    "name": "El Tortuguero",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Nueva Segovia",
+    "country": "NI"
+  },
+  {
+    "name": "Nueva Guinea",
+    "country": "NI"
+  },
+  {
+    "name": "Niquinohomo",
+    "country": "NI"
+  },
+  {
+    "name": "Nindir\u00ed",
+    "country": "NI"
+  },
+  {
+    "name": "Republic of Nicaragua",
+    "country": "NI"
+  },
+  {
+    "name": "Nandasmo",
+    "country": "NI"
+  },
+  {
+    "name": "Nandaime",
+    "country": "NI"
+  },
+  {
+    "name": "Nagarote",
+    "country": "NI"
+  },
+  {
+    "name": "Muy Muy",
+    "country": "NI"
+  },
+  {
+    "name": "Murra",
+    "country": "NI"
+  },
+  {
+    "name": "Muelle de los Bueyes",
+    "country": "NI"
+  },
+  {
+    "name": "Mozonte",
+    "country": "NI"
+  },
+  {
+    "name": "Moyogalpa",
+    "country": "NI"
+  },
+  {
+    "name": "Morrito",
+    "country": "NI"
+  },
+  {
+    "name": "Matigu\u00e1s",
+    "country": "NI"
+  },
+  {
+    "name": "Mateare",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Matagalpa",
+    "country": "NI"
+  },
+  {
+    "name": "Matagalpa",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Masaya",
+    "country": "NI"
+  },
+  {
+    "name": "Masaya",
+    "country": "NI"
+  },
+  {
+    "name": "Masatepe",
+    "country": "NI"
+  },
+  {
+    "name": "Masachapa",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Managua",
+    "country": "NI"
+  },
+  {
+    "name": "Managua",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Madriz",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Le\u00f3n",
+    "country": "NI"
+  },
+  {
+    "name": "Le\u00f3n",
+    "country": "NI"
+  },
+  {
+    "name": "La Vainilla",
+    "country": "NI"
+  },
+  {
+    "name": "Las Sabanas",
+    "country": "NI"
+  },
+  {
+    "name": "Las Mercedes",
+    "country": "NI"
+  },
+  {
+    "name": "Larreynaga",
+    "country": "NI"
+  },
+  {
+    "name": "Rosita",
+    "country": "NI"
+  },
+  {
+    "name": "La Paz de Carazo",
+    "country": "NI"
+  },
+  {
+    "name": "La Paz Centro",
+    "country": "NI"
+  },
+  {
+    "name": "La Libertad",
+    "country": "NI"
+  },
+  {
+    "name": "Laguna de Perlas",
+    "country": "NI"
+  },
+  {
+    "name": "La Gaveta",
+    "country": "NI"
+  },
+  {
+    "name": "La Cruz de R\u00edo Grande",
+    "country": "NI"
+  },
+  {
+    "name": "La Concordia",
+    "country": "NI"
+  },
+  {
+    "name": "La Concepci\u00f3n",
+    "country": "NI"
+  },
+  {
+    "name": "Juigalpa",
+    "country": "NI"
+  },
+  {
+    "name": "Jiquilillo",
+    "country": "NI"
+  },
+  {
+    "name": "Jinotepe",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Jinotega",
+    "country": "NI"
+  },
+  {
+    "name": "Jinotega",
+    "country": "NI"
+  },
+  {
+    "name": "Jalapa",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Granada",
+    "country": "NI"
+  },
+  {
+    "name": "Granada",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Estel\u00ed",
+    "country": "NI"
+  },
+  {
+    "name": "Estel\u00ed",
+    "country": "NI"
+  },
+  {
+    "name": "El Viejo",
+    "country": "NI"
+  },
+  {
+    "name": "El Sauce",
+    "country": "NI"
+  },
+  {
+    "name": "El Salto",
+    "country": "NI"
+  },
+  {
+    "name": "El Rosario",
+    "country": "NI"
+  },
+  {
+    "name": "El Realejo",
+    "country": "NI"
+  },
+  {
+    "name": "El Papalote",
+    "country": "NI"
+  },
+  {
+    "name": "El Jicaral",
+    "country": "NI"
+  },
+  {
+    "name": "El Crucero",
+    "country": "NI"
+  },
+  {
+    "name": "El Ayote",
+    "country": "NI"
+  },
+  {
+    "name": "El Almendro",
+    "country": "NI"
+  },
+  {
+    "name": "Dolores",
+    "country": "NI"
+  },
+  {
+    "name": "Diriomo",
+    "country": "NI"
+  },
+  {
+    "name": "Diriamba",
+    "country": "NI"
+  },
+  {
+    "name": "Diri\u00e1",
+    "country": "NI"
+  },
+  {
+    "name": "Cuapa",
+    "country": "NI"
+  },
+  {
+    "name": "Corn Island",
+    "country": "NI"
+  },
+  {
+    "name": "Corinto",
+    "country": "NI"
+  },
+  {
+    "name": "Condega",
+    "country": "NI"
+  },
+  {
+    "name": "Comalapa",
+    "country": "NI"
+  },
+  {
+    "name": "Ciudad Dar\u00edo",
+    "country": "NI"
+  },
+  {
+    "name": "Ciudad Antigua",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Chontales",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Chinandega",
+    "country": "NI"
+  },
+  {
+    "name": "Chinandega",
+    "country": "NI"
+  },
+  {
+    "name": "Chichigalpa",
+    "country": "NI"
+  },
+  {
+    "name": "Catarina",
+    "country": "NI"
+  },
+  {
+    "name": "Villa El Carmen",
+    "country": "NI"
+  },
+  {
+    "name": "C\u00e1rdenas",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Carazo",
+    "country": "NI"
+  },
+  {
+    "name": "Camoapa",
+    "country": "NI"
+  },
+  {
+    "name": "Buenos Aires",
+    "country": "NI"
+  },
+  {
+    "name": "Bonanza",
+    "country": "NI"
+  },
+  {
+    "name": "Bocana de Paiwas",
+    "country": "NI"
+  },
+  {
+    "name": "Departamento de Boaco",
+    "country": "NI"
+  },
+  {
+    "name": "Boaco",
+    "country": "NI"
+  },
+  {
+    "name": "Bluefields",
+    "country": "NI"
+  },
+  {
+    "name": "Bel\u00e9n",
+    "country": "NI"
+  },
+  {
+    "name": "Altagracia",
+    "country": "NI"
+  },
+  {
+    "name": "Acoyapa",
+    "country": "NI"
+  },
+  {
+    "name": "Achuapa",
+    "country": "NI"
+  },
+  {
+    "name": "Ciudad Sandino",
+    "country": "NI"
+  },
+  {
+    "name": "Costa Caribe Norte",
+    "country": "NI"
+  },
+  {
+    "name": "Costa Caribe Sur",
+    "country": "NI"
+  },
+  {
+    "name": "Barrio El Rodeo",
+    "country": "NI"
+  },
+  {
+    "name": "Barrio Santo Domingo",
+    "country": "NI"
+  },
+  {
+    "name": "La Paz Centro",
+    "country": "NI"
+  }
+]

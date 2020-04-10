@@ -1,0 +1,694 @@
+[
+  {
+    "name": "Zarate Isla",
+    "country": "PY"
+  },
+  {
+    "name": "Yuty",
+    "country": "PY"
+  },
+  {
+    "name": "Ypan\u00e9",
+    "country": "PY"
+  },
+  {
+    "name": "Ypacarai",
+    "country": "PY"
+  },
+  {
+    "name": "Yh\u00fa",
+    "country": "PY"
+  },
+  {
+    "name": "Ygatimi",
+    "country": "PY"
+  },
+  {
+    "name": "Yegros",
+    "country": "PY"
+  },
+  {
+    "name": "Ybycu\u00ed",
+    "country": "PY"
+  },
+  {
+    "name": "Yataity del Norte",
+    "country": "PY"
+  },
+  {
+    "name": "Yataity",
+    "country": "PY"
+  },
+  {
+    "name": "Yaguar\u00f3n",
+    "country": "PY"
+  },
+  {
+    "name": "Villarrica",
+    "country": "PY"
+  },
+  {
+    "name": "Villa Hayes",
+    "country": "PY"
+  },
+  {
+    "name": "Villa Florida",
+    "country": "PY"
+  },
+  {
+    "name": "Villa Elisa",
+    "country": "PY"
+  },
+  {
+    "name": "Valle Ap\u00faa",
+    "country": "PY"
+  },
+  {
+    "name": "Uni\u00f3n",
+    "country": "PY"
+  },
+  {
+    "name": "Trinidad",
+    "country": "PY"
+  },
+  {
+    "name": "Tobat\u00ed",
+    "country": "PY"
+  },
+  {
+    "name": "Tacuat\u00ed",
+    "country": "PY"
+  },
+  {
+    "name": "Sapuca\u00ed",
+    "country": "PY"
+  },
+  {
+    "name": "Sant\u00edsima Trinidad",
+    "country": "PY"
+  },
+  {
+    "name": "Santiago",
+    "country": "PY"
+  },
+  {
+    "name": "Santa Rosa Misiones",
+    "country": "PY"
+  },
+  {
+    "name": "Santa Rita",
+    "country": "PY"
+  },
+  {
+    "name": "Compa\u00f1\u00eda Santa Mar\u00eda",
+    "country": "PY"
+  },
+  {
+    "name": "Santa Mar\u00eda",
+    "country": "PY"
+  },
+  {
+    "name": "Santa Elena",
+    "country": "PY"
+  },
+  {
+    "name": "San Pedro de Ycuamandiy\u00fa",
+    "country": "PY"
+  },
+  {
+    "name": "San Pedro del Paran\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento de San Pedro",
+    "country": "PY"
+  },
+  {
+    "name": "San Patricio",
+    "country": "PY"
+  },
+  {
+    "name": "San Miguel",
+    "country": "PY"
+  },
+  {
+    "name": "San Lorenzo",
+    "country": "PY"
+  },
+  {
+    "name": "San Juan Nepomuceno",
+    "country": "PY"
+  },
+  {
+    "name": "San Juan del Paran\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "San Juan Bautista",
+    "country": "PY"
+  },
+  {
+    "name": "San Jos\u00e9",
+    "country": "PY"
+  },
+  {
+    "name": "San Joaqu\u00edn",
+    "country": "PY"
+  },
+  {
+    "name": "San Isidro de Curuguaty",
+    "country": "PY"
+  },
+  {
+    "name": "San Estanislao",
+    "country": "PY"
+  },
+  {
+    "name": "San Cosme y Dami\u00e1n",
+    "country": "PY"
+  },
+  {
+    "name": "San Bernardino",
+    "country": "PY"
+  },
+  {
+    "name": "San Antonio",
+    "country": "PY"
+  },
+  {
+    "name": "San Alberto",
+    "country": "PY"
+  },
+  {
+    "name": "Salto del Guair\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Repatriaci\u00f3n",
+    "country": "PY"
+  },
+  {
+    "name": "Remancillo",
+    "country": "PY"
+  },
+  {
+    "name": "Quiindy",
+    "country": "PY"
+  },
+  {
+    "name": "Puerto Rosario",
+    "country": "PY"
+  },
+  {
+    "name": "Puerto Mayor Ota\u00f1o",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento de Presidente Hayes",
+    "country": "PY"
+  },
+  {
+    "name": "Presidente Franco",
+    "country": "PY"
+  },
+  {
+    "name": "Piribebuy",
+    "country": "PY"
+  },
+  {
+    "name": "Piray\u00fa",
+    "country": "PY"
+  },
+  {
+    "name": "Pirap\u00f3",
+    "country": "PY"
+  },
+  {
+    "name": "Pilar",
+    "country": "PY"
+  },
+  {
+    "name": "Pedro Juan Caballero",
+    "country": "PY"
+  },
+  {
+    "name": "Republic of Paraguay",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento de Paraguar\u00ed",
+    "country": "PY"
+  },
+  {
+    "name": "Paraguar\u00ed",
+    "country": "PY"
+  },
+  {
+    "name": "Obligado",
+    "country": "PY"
+  },
+  {
+    "name": "Nueva Italia",
+    "country": "PY"
+  },
+  {
+    "name": "Colonia Nueva Germania",
+    "country": "PY"
+  },
+  {
+    "name": "Nueva Colombia",
+    "country": "PY"
+  },
+  {
+    "name": "Nemby",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento de \u00d1eembuc\u00fa",
+    "country": "PY"
+  },
+  {
+    "name": "Natalio",
+    "country": "PY"
+  },
+  {
+    "name": "Natalicio Talavera",
+    "country": "PY"
+  },
+  {
+    "name": "Naranjal",
+    "country": "PY"
+  },
+  {
+    "name": "Naranj\u00e1l",
+    "country": "PY"
+  },
+  {
+    "name": "Nanawua",
+    "country": "PY"
+  },
+  {
+    "name": "Mbuyapey",
+    "country": "PY"
+  },
+  {
+    "name": "Mbutu\u00fd",
+    "country": "PY"
+  },
+  {
+    "name": "Mbocayaty",
+    "country": "PY"
+  },
+  {
+    "name": "Cedrales",
+    "country": "PY"
+  },
+  {
+    "name": "Loma Plata",
+    "country": "PY"
+  },
+  {
+    "name": "Limpio",
+    "country": "PY"
+  },
+  {
+    "name": "La Paloma",
+    "country": "PY"
+  },
+  {
+    "name": "Lambar\u00e9",
+    "country": "PY"
+  },
+  {
+    "name": "La Colmena",
+    "country": "PY"
+  },
+  {
+    "name": "Jes\u00fas",
+    "country": "PY"
+  },
+  {
+    "name": "Iturbe",
+    "country": "PY"
+  },
+  {
+    "name": "Itaugu\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Itakyry",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento de Itap\u00faa",
+    "country": "PY"
+  },
+  {
+    "name": "Itap\u00e9",
+    "country": "PY"
+  },
+  {
+    "name": "Itacurub\u00ed del Rosario",
+    "country": "PY"
+  },
+  {
+    "name": "Itacurub\u00ed de la Cordillera",
+    "country": "PY"
+  },
+  {
+    "name": "It\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Isla Puc\u00fa",
+    "country": "PY"
+  },
+  {
+    "name": "Independencia",
+    "country": "PY"
+  },
+  {
+    "name": "Hohenau",
+    "country": "PY"
+  },
+  {
+    "name": "Guayaybi",
+    "country": "PY"
+  },
+  {
+    "name": "Guarambar\u00e9",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento del Guair\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "General Jos\u00e9 Eduvigis D\u00edaz",
+    "country": "PY"
+  },
+  {
+    "name": "General Higinio Mor\u00ednigo",
+    "country": "PY"
+  },
+  {
+    "name": "General Elizardo Aquino",
+    "country": "PY"
+  },
+  {
+    "name": "General Delgado",
+    "country": "PY"
+  },
+  {
+    "name": "General Artigas",
+    "country": "PY"
+  },
+  {
+    "name": "Fuerte Olimpo",
+    "country": "PY"
+  },
+  {
+    "name": "Fram",
+    "country": "PY"
+  },
+  {
+    "name": "Fernando de la Mora",
+    "country": "PY"
+  },
+  {
+    "name": "Eusebio Ayala",
+    "country": "PY"
+  },
+  {
+    "name": "Establecimiento la Norma",
+    "country": "PY"
+  },
+  {
+    "name": "Encarnaci\u00f3n",
+    "country": "PY"
+  },
+  {
+    "name": "Emboscada",
+    "country": "PY"
+  },
+  {
+    "name": "Edelira",
+    "country": "PY"
+  },
+  {
+    "name": "Doctor Juan Manuel Frutos",
+    "country": "PY"
+  },
+  {
+    "name": "Doctor Juan Le\u00f3n Mallorqu\u00edn",
+    "country": "PY"
+  },
+  {
+    "name": "Cecilio Baez",
+    "country": "PY"
+  },
+  {
+    "name": "Corpus Christi",
+    "country": "PY"
+  },
+  {
+    "name": "Coronel Oviedo",
+    "country": "PY"
+  },
+  {
+    "name": "Coronel Mart\u00ednez",
+    "country": "PY"
+  },
+  {
+    "name": "Coronel Jos\u00e9 F\u00e9lix Bogado",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento de la Cordillera",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento de Concepci\u00f3n",
+    "country": "PY"
+  },
+  {
+    "name": "Concepci\u00f3n",
+    "country": "PY"
+  },
+  {
+    "name": "Yguaz\u00fa",
+    "country": "PY"
+  },
+  {
+    "name": "Colonia Minga Por\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Colonia Menno",
+    "country": "PY"
+  },
+  {
+    "name": "Colonia Mauricio Jos\u00e9 Troche",
+    "country": "PY"
+  },
+  {
+    "name": "Mariano Roque Alonso",
+    "country": "PY"
+  },
+  {
+    "name": "Colonia Hernandarias",
+    "country": "PY"
+  },
+  {
+    "name": "Colonia General Alfredo Stroessner",
+    "country": "PY"
+  },
+  {
+    "name": "Colonia Felix Azara",
+    "country": "PY"
+  },
+  {
+    "name": "Colonia Catuete",
+    "country": "PY"
+  },
+  {
+    "name": "Ciudad del Este",
+    "country": "PY"
+  },
+  {
+    "name": "Cerrito",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento Central",
+    "country": "PY"
+  },
+  {
+    "name": "Carmen del Paran\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Colonia Carlos Antonio L\u00f3pez",
+    "country": "PY"
+  },
+  {
+    "name": "Caraya\u00f3",
+    "country": "PY"
+  },
+  {
+    "name": "Carapegu\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Caraguatay",
+    "country": "PY"
+  },
+  {
+    "name": "Capit\u00e1n Miranda",
+    "country": "PY"
+  },
+  {
+    "name": "Capit\u00e1n Meza",
+    "country": "PY"
+  },
+  {
+    "name": "Capit\u00e1n Bado",
+    "country": "PY"
+  },
+  {
+    "name": "Capi\u00edbary",
+    "country": "PY"
+  },
+  {
+    "name": "Capiat\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento de Caazap\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Caazap\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Caapuc\u00fa",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento de Caaguaz\u00fa",
+    "country": "PY"
+  },
+  {
+    "name": "Caaguaz\u00fa",
+    "country": "PY"
+  },
+  {
+    "name": "Caacup\u00e9",
+    "country": "PY"
+  },
+  {
+    "name": "Buena Vista",
+    "country": "PY"
+  },
+  {
+    "name": "Benjam\u00edn Aceval",
+    "country": "PY"
+  },
+  {
+    "name": "Bella Vista",
+    "country": "PY"
+  },
+  {
+    "name": "Bella Vista",
+    "country": "PY"
+  },
+  {
+    "name": "Bel\u00e9n",
+    "country": "PY"
+  },
+  {
+    "name": "Barrio San Isidro",
+    "country": "PY"
+  },
+  {
+    "name": "Juan de Ayolas",
+    "country": "PY"
+  },
+  {
+    "name": "Atyr\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Asunci\u00f3n",
+    "country": "PY"
+  },
+  {
+    "name": "Arroyos y Esteros",
+    "country": "PY"
+  },
+  {
+    "name": "Arquitecto Tom\u00e1s Romero Pereira",
+    "country": "PY"
+  },
+  {
+    "name": "Aregu\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Antequera",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento del Amambay",
+    "country": "PY"
+  },
+  {
+    "name": "Altos",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento del Alto Paran\u00e1",
+    "country": "PY"
+  },
+  {
+    "name": "Acahay",
+    "country": "PY"
+  },
+  {
+    "name": "Aba\u00ed",
+    "country": "PY"
+  },
+  {
+    "name": "Asunci\u00f3n",
+    "country": "PY"
+  },
+  {
+    "name": "Horqueta",
+    "country": "PY"
+  },
+  {
+    "name": "Mariscal Estigarribia",
+    "country": "PY"
+  },
+  {
+    "name": "Filadelfia",
+    "country": "PY"
+  },
+  {
+    "name": "Destacamento Militar N\u00famero Dos Parque Cu\u00e9",
+    "country": "PY"
+  },
+  {
+    "name": "Colonia Neuland",
+    "country": "PY"
+  },
+  {
+    "name": "Capit\u00e1n Pablo Lagerenza",
+    "country": "PY"
+  },
+  {
+    "name": "Departamento de Boquer\u00f3n",
+    "country": "PY"
+  }
+]

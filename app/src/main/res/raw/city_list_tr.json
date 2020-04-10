@@ -1,0 +1,5310 @@
+[
+  {
+    "name": "Demre",
+    "country": "TR"
+  },
+  {
+    "name": "Zara",
+    "country": "TR"
+  },
+  {
+    "name": "Yunak",
+    "country": "TR"
+  },
+  {
+    "name": "Yumurtalik",
+    "country": "TR"
+  },
+  {
+    "name": "Y\u00fcksekova",
+    "country": "TR"
+  },
+  {
+    "name": "Salat",
+    "country": "TR"
+  },
+  {
+    "name": "Yozgat",
+    "country": "TR"
+  },
+  {
+    "name": "Yozgat",
+    "country": "TR"
+  },
+  {
+    "name": "Yolba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Yola\u011fz\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Yo\u011furtlu",
+    "country": "TR"
+  },
+  {
+    "name": "Y\u0131ld\u0131zeli",
+    "country": "TR"
+  },
+  {
+    "name": "Ye\u015filyurt",
+    "country": "TR"
+  },
+  {
+    "name": "Ye\u015filova",
+    "country": "TR"
+  },
+  {
+    "name": "Ye\u015filli",
+    "country": "TR"
+  },
+  {
+    "name": "Ye\u015filk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Erzin",
+    "country": "TR"
+  },
+  {
+    "name": "Ye\u015filhisar",
+    "country": "TR"
+  },
+  {
+    "name": "Ye\u015filalan",
+    "country": "TR"
+  },
+  {
+    "name": "Yerk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Yeni\u015farbademli",
+    "country": "TR"
+  },
+  {
+    "name": "Yenip\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Yenipazar",
+    "country": "TR"
+  },
+  {
+    "name": "Yenik\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Yenik\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Didim",
+    "country": "TR"
+  },
+  {
+    "name": "Yenifarsak",
+    "country": "TR"
+  },
+  {
+    "name": "Yenifak\u0131l\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Altp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Yenice",
+    "country": "TR"
+  },
+  {
+    "name": "Yenice",
+    "country": "TR"
+  },
+  {
+    "name": "Yediyol",
+    "country": "TR"
+  },
+  {
+    "name": "Yedisu",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eeker Mahalles\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Yaz\u0131konak",
+    "country": "TR"
+  },
+  {
+    "name": "Yaz\u0131han",
+    "country": "TR"
+  },
+  {
+    "name": "Yayvantepe",
+    "country": "TR"
+  },
+  {
+    "name": "Yayl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Yayladere",
+    "country": "TR"
+  },
+  {
+    "name": "Yaylada\u011f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Yavuzeli",
+    "country": "TR"
+  },
+  {
+    "name": "Yata\u011fan",
+    "country": "TR"
+  },
+  {
+    "name": "Yarma",
+    "country": "TR"
+  },
+  {
+    "name": "Yaprakba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Yalva\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Yal\u0131h\u00fcy\u00fck",
+    "country": "TR"
+  },
+  {
+    "name": "Yahyal\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Yah\u015fihan",
+    "country": "TR"
+  },
+  {
+    "name": "Viran\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Varto",
+    "country": "TR"
+  },
+  {
+    "name": "Van",
+    "country": "TR"
+  },
+  {
+    "name": "Van",
+    "country": "TR"
+  },
+  {
+    "name": "Uzunge\u00e7it",
+    "country": "TR"
+  },
+  {
+    "name": "Cimin",
+    "country": "TR"
+  },
+  {
+    "name": "U\u015fak",
+    "country": "TR"
+  },
+  {
+    "name": "U\u015fak",
+    "country": "TR"
+  },
+  {
+    "name": "Urla",
+    "country": "TR"
+  },
+  {
+    "name": "\u00dcrg\u00fcp",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eanl\u0131urfa",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eanl\u0131urfa",
+    "country": "TR"
+  },
+  {
+    "name": "Uluyat\u0131r",
+    "country": "TR"
+  },
+  {
+    "name": "Ulus",
+    "country": "TR"
+  },
+  {
+    "name": "Uluk\u0131\u015fla",
+    "country": "TR"
+  },
+  {
+    "name": "Uludere",
+    "country": "TR"
+  },
+  {
+    "name": "Uluborlu",
+    "country": "TR"
+  },
+  {
+    "name": "Ulubey",
+    "country": "TR"
+  },
+  {
+    "name": "Ula\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Ula",
+    "country": "TR"
+  },
+  {
+    "name": "Kerh",
+    "country": "TR"
+  },
+  {
+    "name": "Reshidi",
+    "country": "TR"
+  },
+  {
+    "name": "Tuzluk\u00e7u",
+    "country": "TR"
+  },
+  {
+    "name": "Tutak",
+    "country": "TR"
+  },
+  {
+    "name": "Tut",
+    "country": "TR"
+  },
+  {
+    "name": "T\u00fcrko\u011flu",
+    "country": "TR"
+  },
+  {
+    "name": "Republic of Turkey",
+    "country": "TR"
+  },
+  {
+    "name": "Turgutlu",
+    "country": "TR"
+  },
+  {
+    "name": "Tunceli",
+    "country": "TR"
+  },
+  {
+    "name": "Tunceli",
+    "country": "TR"
+  },
+  {
+    "name": "Tufanbeyli",
+    "country": "TR"
+  },
+  {
+    "name": "Torbal\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Toptepe",
+    "country": "TR"
+  },
+  {
+    "name": "Toprakkale",
+    "country": "TR"
+  },
+  {
+    "name": "Tomarza",
+    "country": "TR"
+  },
+  {
+    "name": "Tire",
+    "country": "TR"
+  },
+  {
+    "name": "Tercan",
+    "country": "TR"
+  },
+  {
+    "name": "Telminar",
+    "country": "TR"
+  },
+  {
+    "name": "Tepealt\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Tekman",
+    "country": "TR"
+  },
+  {
+    "name": "Tekirova",
+    "country": "TR"
+  },
+  {
+    "name": "Tefenni",
+    "country": "TR"
+  },
+  {
+    "name": "Tav\u015fanl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Tavas",
+    "country": "TR"
+  },
+  {
+    "name": "Tatvan",
+    "country": "TR"
+  },
+  {
+    "name": "Ta\u015fl\u0131\u00e7ay",
+    "country": "TR"
+  },
+  {
+    "name": "Ta\u015fl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Ta\u015fkent",
+    "country": "TR"
+  },
+  {
+    "name": "Tarsus",
+    "country": "TR"
+  },
+  {
+    "name": "Talas",
+    "country": "TR"
+  },
+  {
+    "name": "Tabanl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eenocak",
+    "country": "TR"
+  },
+  {
+    "name": "Pavlu Cebel",
+    "country": "TR"
+  },
+  {
+    "name": "Susurluk",
+    "country": "TR"
+  },
+  {
+    "name": "Suru\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Avine",
+    "country": "TR"
+  },
+  {
+    "name": "Sulusaray",
+    "country": "TR"
+  },
+  {
+    "name": "S\u00f6\u011f\u00fctoluk",
+    "country": "TR"
+  },
+  {
+    "name": "Sultanhisar",
+    "country": "TR"
+  },
+  {
+    "name": "Sultanda\u011f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Sulak",
+    "country": "TR"
+  },
+  {
+    "name": "Sulak",
+    "country": "TR"
+  },
+  {
+    "name": "\u015euhut",
+    "country": "TR"
+  },
+  {
+    "name": "Sorgun",
+    "country": "TR"
+  },
+  {
+    "name": "Soma",
+    "country": "TR"
+  },
+  {
+    "name": "Solhan",
+    "country": "TR"
+  },
+  {
+    "name": "S\u00f6ke",
+    "country": "TR"
+  },
+  {
+    "name": "Kindirip",
+    "country": "TR"
+  },
+  {
+    "name": "Sivrihisar",
+    "country": "TR"
+  },
+  {
+    "name": "Sivrice",
+    "country": "TR"
+  },
+  {
+    "name": "Sivrice",
+    "country": "TR"
+  },
+  {
+    "name": "Siverek",
+    "country": "TR"
+  },
+  {
+    "name": "Sivasl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Sivas",
+    "country": "TR"
+  },
+  {
+    "name": "Sivas",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eirvan",
+    "country": "TR"
+  },
+  {
+    "name": "Tililan",
+    "country": "TR"
+  },
+  {
+    "name": "\u015e\u0131rnak",
+    "country": "TR"
+  },
+  {
+    "name": "S\u0131nd\u0131rg\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Sincik",
+    "country": "TR"
+  },
+  {
+    "name": "Sinanpa\u015fa",
+    "country": "TR"
+  },
+  {
+    "name": "Sinank\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Simav",
+    "country": "TR"
+  },
+  {
+    "name": "Silvan",
+    "country": "TR"
+  },
+  {
+    "name": "Silopi",
+    "country": "TR"
+  },
+  {
+    "name": "Silifke",
+    "country": "TR"
+  },
+  {
+    "name": "Siirt",
+    "country": "TR"
+  },
+  {
+    "name": "Siirt",
+    "country": "TR"
+  },
+  {
+    "name": "Seyitgazi",
+    "country": "TR"
+  },
+  {
+    "name": "Seyhan",
+    "country": "TR"
+  },
+  {
+    "name": "Seydi\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Sarn\u0131\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Serik",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eerefliko\u00e7hisar",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eenyurt",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eenoba",
+    "country": "TR"
+  },
+  {
+    "name": "Ebish",
+    "country": "TR"
+  },
+  {
+    "name": "Senirkent",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eemdinli",
+    "country": "TR"
+  },
+  {
+    "name": "Side",
+    "country": "TR"
+  },
+  {
+    "name": "Selendi",
+    "country": "TR"
+  },
+  {
+    "name": "Sel\u00e7uk",
+    "country": "TR"
+  },
+  {
+    "name": "Seksen\u00f6ren",
+    "country": "TR"
+  },
+  {
+    "name": "Sekili",
+    "country": "TR"
+  },
+  {
+    "name": "Seferihisar",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eefaatl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Sazk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Sazg\u0131n",
+    "country": "TR"
+  },
+  {
+    "name": "Savur",
+    "country": "TR"
+  },
+  {
+    "name": "Savc\u0131ll\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Sava\u015ftepe",
+    "country": "TR"
+  },
+  {
+    "name": "Sason",
+    "country": "TR"
+  },
+  {
+    "name": "Saruhanl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Edremit",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eark\u0131\u015fla",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eark\u00eekaraa\u011fa\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Sar\u0131z",
+    "country": "TR"
+  },
+  {
+    "name": "Sar\u0131yah\u015fi",
+    "country": "TR"
+  },
+  {
+    "name": "Sar\u0131veliler",
+    "country": "TR"
+  },
+  {
+    "name": "Sar\u0131o\u011flan",
+    "country": "TR"
+  },
+  {
+    "name": "Seri",
+    "country": "TR"
+  },
+  {
+    "name": "Sar\u0131kaya",
+    "country": "TR"
+  },
+  {
+    "name": "Sar\u0131harman",
+    "country": "TR"
+  },
+  {
+    "name": "Sar\u0131g\u00f6l",
+    "country": "TR"
+  },
+  {
+    "name": "Saray\u00f6n\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Sarayk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Saraykent",
+    "country": "TR"
+  },
+  {
+    "name": "Saray",
+    "country": "TR"
+  },
+  {
+    "name": "Sara\u00e7k\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eaphane",
+    "country": "TR"
+  },
+  {
+    "name": "Sand\u0131kl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Samsat",
+    "country": "TR"
+  },
+  {
+    "name": "Samanda\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Salihli",
+    "country": "TR"
+  },
+  {
+    "name": "Saimbeyli",
+    "country": "TR"
+  },
+  {
+    "name": "Reyhanl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Refahiye",
+    "country": "TR"
+  },
+  {
+    "name": "Pulumer",
+    "country": "TR"
+  },
+  {
+    "name": "Pozant\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Polatl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Razvaliny Ayinvan",
+    "country": "TR"
+  },
+  {
+    "name": "P\u0131nardere",
+    "country": "TR"
+  },
+  {
+    "name": "P\u0131narca",
+    "country": "TR"
+  },
+  {
+    "name": "P\u0131narba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "P\u0131narba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Pervari",
+    "country": "TR"
+  },
+  {
+    "name": "Pertek",
+    "country": "TR"
+  },
+  {
+    "name": "Pazaryeri",
+    "country": "TR"
+  },
+  {
+    "name": "Pazarlar",
+    "country": "TR"
+  },
+  {
+    "name": "Pazarc\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Patnos",
+    "country": "TR"
+  },
+  {
+    "name": "Pasinler",
+    "country": "TR"
+  },
+  {
+    "name": "Pamukkale",
+    "country": "TR"
+  },
+  {
+    "name": "Palu",
+    "country": "TR"
+  },
+  {
+    "name": "Palamutlu",
+    "country": "TR"
+  },
+  {
+    "name": "\u00d6zbek",
+    "country": "TR"
+  },
+  {
+    "name": "\u00d6zalp",
+    "country": "TR"
+  },
+  {
+    "name": "Oymata\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Oyal\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Ovakava\u011f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Otlukbeli",
+    "country": "TR"
+  },
+  {
+    "name": "Osmaniye",
+    "country": "TR"
+  },
+  {
+    "name": "Ortak\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Ortak\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Ortak\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Ortaca",
+    "country": "TR"
+  },
+  {
+    "name": "Ortaca",
+    "country": "TR"
+  },
+  {
+    "name": "Ortaba\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Orhaneli",
+    "country": "TR"
+  },
+  {
+    "name": "\u00d6nc\u00fcl",
+    "country": "TR"
+  },
+  {
+    "name": "\u00d6merli",
+    "country": "TR"
+  },
+  {
+    "name": "Ok\u00e7ular",
+    "country": "TR"
+  },
+  {
+    "name": "O\u011fuzeli",
+    "country": "TR"
+  },
+  {
+    "name": "Dara",
+    "country": "TR"
+  },
+  {
+    "name": "\u00d6demi\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Nusaybin",
+    "country": "TR"
+  },
+  {
+    "name": "Nurhak",
+    "country": "TR"
+  },
+  {
+    "name": "Nizip",
+    "country": "TR"
+  },
+  {
+    "name": "Ni\u011fde",
+    "country": "TR"
+  },
+  {
+    "name": "Ni\u011fde",
+    "country": "TR"
+  },
+  {
+    "name": "Nev\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Nev\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Nazimiye",
+    "country": "TR"
+  },
+  {
+    "name": "Nazilli",
+    "country": "TR"
+  },
+  {
+    "name": "Mutki",
+    "country": "TR"
+  },
+  {
+    "name": "Mut",
+    "country": "TR"
+  },
+  {
+    "name": "Mu\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Musabeyli",
+    "country": "TR"
+  },
+  {
+    "name": "Mu\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Muratl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Mu\u011fla",
+    "country": "TR"
+  },
+  {
+    "name": "Mu\u011fla",
+    "country": "TR"
+  },
+  {
+    "name": "Mucur",
+    "country": "TR"
+  },
+  {
+    "name": "Minare",
+    "country": "TR"
+  },
+  {
+    "name": "Balveren",
+    "country": "TR"
+  },
+  {
+    "name": "Milas",
+    "country": "TR"
+  },
+  {
+    "name": "Mihal\u0131\u00e7c\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Midyat",
+    "country": "TR"
+  },
+  {
+    "name": "Mezraa",
+    "country": "TR"
+  },
+  {
+    "name": "Meydankap\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Mersin",
+    "country": "TR"
+  },
+  {
+    "name": "Meram",
+    "country": "TR"
+  },
+  {
+    "name": "Menemen",
+    "country": "TR"
+  },
+  {
+    "name": "Maz\u0131da\u011f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Mazgirt",
+    "country": "TR"
+  },
+  {
+    "name": "Marmaris",
+    "country": "TR"
+  },
+  {
+    "name": "Mardin",
+    "country": "TR"
+  },
+  {
+    "name": "Mardin",
+    "country": "TR"
+  },
+  {
+    "name": "Manisa",
+    "country": "TR"
+  },
+  {
+    "name": "Manisa",
+    "country": "TR"
+  },
+  {
+    "name": "Manavgat",
+    "country": "TR"
+  },
+  {
+    "name": "Mamak",
+    "country": "TR"
+  },
+  {
+    "name": "Malazgirt",
+    "country": "TR"
+  },
+  {
+    "name": "Malatya",
+    "country": "TR"
+  },
+  {
+    "name": "Malatya",
+    "country": "TR"
+  },
+  {
+    "name": "Mahmudiye",
+    "country": "TR"
+  },
+  {
+    "name": "Ma\u011faral\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Maden",
+    "country": "TR"
+  },
+  {
+    "name": "Lice",
+    "country": "TR"
+  },
+  {
+    "name": "Kuyulusebil",
+    "country": "TR"
+  },
+  {
+    "name": "Kuyucak",
+    "country": "TR"
+  },
+  {
+    "name": "Kutlubey",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00fctahya",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00fctahya",
+    "country": "TR"
+  },
+  {
+    "name": "Ku\u015fadas\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kurtalan",
+    "country": "TR"
+  },
+  {
+    "name": "Beykonak",
+    "country": "TR"
+  },
+  {
+    "name": "Kumluca",
+    "country": "TR"
+  },
+  {
+    "name": "Kumlu",
+    "country": "TR"
+  },
+  {
+    "name": "Kumlu",
+    "country": "TR"
+  },
+  {
+    "name": "Kum\u00e7at\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kuluncak",
+    "country": "TR"
+  },
+  {
+    "name": "Kulu",
+    "country": "TR"
+  },
+  {
+    "name": "Kulp",
+    "country": "TR"
+  },
+  {
+    "name": "Kula",
+    "country": "TR"
+  },
+  {
+    "name": "Kozluk",
+    "country": "TR"
+  },
+  {
+    "name": "Kozluk",
+    "country": "TR"
+  },
+  {
+    "name": "Kozan",
+    "country": "TR"
+  },
+  {
+    "name": "Kozakl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kozakli",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00f6yce\u011fiz",
+    "country": "TR"
+  },
+  {
+    "name": "Kovanc\u0131lar",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00f6\u015fk",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00f6seli",
+    "country": "TR"
+  },
+  {
+    "name": "Korkuteli",
+    "country": "TR"
+  },
+  {
+    "name": "Korkut",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00f6pr\u00fck\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "B\u00fcy\u00fckdere Mahallesi",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00f6pr\u00fcba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Konya",
+    "country": "TR"
+  },
+  {
+    "name": "Konya",
+    "country": "TR"
+  },
+  {
+    "name": "Konalga",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6cek",
+    "country": "TR"
+  },
+  {
+    "name": "Ko\u00e7arl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kocak\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Ko\u00e7ak",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131z\u0131ltepe",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131z\u0131lsu",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131z\u0131l\u00f6ren",
+    "country": "TR"
+  },
+  {
+    "name": "Serinhisar",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131r\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131r\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Karahan",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131rka\u011fa\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131r\u0131kkale",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131r\u0131khan",
+    "country": "TR"
+  },
+  {
+    "name": "Kiraz",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131n\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Kilis",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131lavuz",
+    "country": "TR"
+  },
+  {
+    "name": "Kasaba",
+    "country": "TR"
+  },
+  {
+    "name": "Keskin",
+    "country": "TR"
+  },
+  {
+    "name": "Kepsut",
+    "country": "TR"
+  },
+  {
+    "name": "Kemer",
+    "country": "TR"
+  },
+  {
+    "name": "Kemer",
+    "country": "TR"
+  },
+  {
+    "name": "Kemerk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Kemalpa\u015fa",
+    "country": "TR"
+  },
+  {
+    "name": "Kemaliye",
+    "country": "TR"
+  },
+  {
+    "name": "Kemah",
+    "country": "TR"
+  },
+  {
+    "name": "Keles",
+    "country": "TR"
+  },
+  {
+    "name": "Ke\u00e7iborlu",
+    "country": "TR"
+  },
+  {
+    "name": "Keban",
+    "country": "TR"
+  },
+  {
+    "name": "Kaz\u0131mkarabekir",
+    "country": "TR"
+  },
+  {
+    "name": "Kazanc\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kayseri",
+    "country": "TR"
+  },
+  {
+    "name": "Kayseri",
+    "country": "TR"
+  },
+  {
+    "name": "Kaynakkaya",
+    "country": "TR"
+  },
+  {
+    "name": "Kaymaz",
+    "country": "TR"
+  },
+  {
+    "name": "Kayap\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Kayal\u0131p\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Sanjakl\u0131 Kayadibi",
+    "country": "TR"
+  },
+  {
+    "name": "Kayac\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Kayac\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Kayaba\u011flar",
+    "country": "TR"
+  },
+  {
+    "name": "Kavurma",
+    "country": "TR"
+  },
+  {
+    "name": "Kavakl\u0131dere",
+    "country": "TR"
+  },
+  {
+    "name": "Ka\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Alada\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Karpuzlu",
+    "country": "TR"
+  },
+  {
+    "name": "Karl\u0131ova",
+    "country": "TR"
+  },
+  {
+    "name": "Karg\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Karkam\u0131\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Halla\u00e7lar",
+    "country": "TR"
+  },
+  {
+    "name": "Karayaz\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Karata\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Karata\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Karap\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Karamanl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Karaman",
+    "country": "TR"
+  },
+  {
+    "name": "Karalar",
+    "country": "TR"
+  },
+  {
+    "name": "Karakoyunlu",
+    "country": "TR"
+  },
+  {
+    "name": "A\u011fr\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Karako\u00e7an",
+    "country": "TR"
+  },
+  {
+    "name": "Karakise",
+    "country": "TR"
+  },
+  {
+    "name": "Karake\u00e7ili",
+    "country": "TR"
+  },
+  {
+    "name": "Karaisal\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Karahall\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kara\u00e7oban",
+    "country": "TR"
+  },
+  {
+    "name": "Karacasu",
+    "country": "TR"
+  },
+  {
+    "name": "Karaburun",
+    "country": "TR"
+  },
+  {
+    "name": "Kap\u0131k\u0131r\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kapakl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kangal",
+    "country": "TR"
+  },
+  {
+    "name": "Kaman",
+    "country": "TR"
+  },
+  {
+    "name": "Kalkan",
+    "country": "TR"
+  },
+  {
+    "name": "Kale",
+    "country": "TR"
+  },
+  {
+    "name": "Kale",
+    "country": "TR"
+  },
+  {
+    "name": "Kakl\u0131\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00e2hta",
+    "country": "TR"
+  },
+  {
+    "name": "Kahramanmara\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Kahramanmara\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Kad\u0131\u015fehri",
+    "country": "TR"
+  },
+  {
+    "name": "Kadirli",
+    "country": "TR"
+  },
+  {
+    "name": "Kad\u0131nhan\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kabala",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130zmir",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130zmir",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130vrindi",
+    "country": "TR"
+  },
+  {
+    "name": "Isparta",
+    "country": "TR"
+  },
+  {
+    "name": "Isparta",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130slahiye",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130skenderun",
+    "country": "TR"
+  },
+  {
+    "name": "Kavsan",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130scehisar",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130n\u00f6n\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130n\u00f6n\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130ncirliova",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130ncirlik",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130ncesu",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130mranl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130mamo\u011flu",
+    "country": "TR"
+  },
+  {
+    "name": "Il\u0131ca",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130li\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Ilg\u0131n",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130kizce",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130kisaray",
+    "country": "TR"
+  },
+  {
+    "name": "Aviski",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130hsaniye",
+    "country": "TR"
+  },
+  {
+    "name": "I\u011fd\u0131r",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130dil",
+    "country": "TR"
+  },
+  {
+    "name": "Teffi",
+    "country": "TR"
+  },
+  {
+    "name": "Mersin",
+    "country": "TR"
+  },
+  {
+    "name": "H\u00fcy\u00fck",
+    "country": "TR"
+  },
+  {
+    "name": "Hozat",
+    "country": "TR"
+  },
+  {
+    "name": "Honaz",
+    "country": "TR"
+  },
+  {
+    "name": "Hocalar",
+    "country": "TR"
+  },
+  {
+    "name": "Gyundyukoru",
+    "country": "TR"
+  },
+  {
+    "name": "Sel\u00e7uklu",
+    "country": "TR"
+  },
+  {
+    "name": "Hizan",
+    "country": "TR"
+  },
+  {
+    "name": "Hisar",
+    "country": "TR"
+  },
+  {
+    "name": "H\u0131n\u0131s",
+    "country": "TR"
+  },
+  {
+    "name": "Hilvan",
+    "country": "TR"
+  },
+  {
+    "name": "Hilal",
+    "country": "TR"
+  },
+  {
+    "name": "Hekimhan",
+    "country": "TR"
+  },
+  {
+    "name": "Hazro",
+    "country": "TR"
+  },
+  {
+    "name": "Haymana",
+    "country": "TR"
+  },
+  {
+    "name": "Havran",
+    "country": "TR"
+  },
+  {
+    "name": "Hatay",
+    "country": "TR"
+  },
+  {
+    "name": "Hassa",
+    "country": "TR"
+  },
+  {
+    "name": "Alacakaya",
+    "country": "TR"
+  },
+  {
+    "name": "Hask\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Hasankeyf",
+    "country": "TR"
+  },
+  {
+    "name": "Hasanbeyli",
+    "country": "TR"
+  },
+  {
+    "name": "Haruniye",
+    "country": "TR"
+  },
+  {
+    "name": "Harran",
+    "country": "TR"
+  },
+  {
+    "name": "Han",
+    "country": "TR"
+  },
+  {
+    "name": "Hani",
+    "country": "TR"
+  },
+  {
+    "name": "Hanca\u011f\u0131z",
+    "country": "TR"
+  },
+  {
+    "name": "Hank\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Hamur",
+    "country": "TR"
+  },
+  {
+    "name": "Halkap\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Halfeti",
+    "country": "TR"
+  },
+  {
+    "name": "Halalca",
+    "country": "TR"
+  },
+  {
+    "name": "Hakkari",
+    "country": "TR"
+  },
+  {
+    "name": "Hafik",
+    "country": "TR"
+  },
+  {
+    "name": "Hadim",
+    "country": "TR"
+  },
+  {
+    "name": "Hac\u0131lar",
+    "country": "TR"
+  },
+  {
+    "name": "Hac\u0131bekta\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fczelyurt",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcr\u00fcn",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcrp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcroymak",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcny\u00fcz\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcneren",
+    "country": "TR"
+  },
+  {
+    "name": "Eksere",
+    "country": "TR"
+  },
+  {
+    "name": "Becuh",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fclveren",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcl\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fclnar",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcll\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcle\u00e7ler",
+    "country": "TR"
+  },
+  {
+    "name": "Baraniferho",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6zp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Bisbin",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6reme",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6rdes",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6nen",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6me\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6lmarmara",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6lhisar",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6lba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6lba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6lba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6ksun",
+    "country": "TR"
+  },
+  {
+    "name": "Ergama",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6k\u00e7ekoru",
+    "country": "TR"
+  },
+  {
+    "name": "Civankan",
+    "country": "TR"
+  },
+  {
+    "name": "Selah",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6kbudak",
+    "country": "TR"
+  },
+  {
+    "name": "Geva\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Germencik",
+    "country": "TR"
+  },
+  {
+    "name": "Gerger",
+    "country": "TR"
+  },
+  {
+    "name": "Gerdzhyush",
+    "country": "TR"
+  },
+  {
+    "name": "Gen\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Gen\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Gemerek",
+    "country": "TR"
+  },
+  {
+    "name": "Gelinkaya",
+    "country": "TR"
+  },
+  {
+    "name": "Gelendost",
+    "country": "TR"
+  },
+  {
+    "name": "Gediz",
+    "country": "TR"
+  },
+  {
+    "name": "Gazipa\u015fa",
+    "country": "TR"
+  },
+  {
+    "name": "Gaziantep",
+    "country": "TR"
+  },
+  {
+    "name": "Gaziantep",
+    "country": "TR"
+  },
+  {
+    "name": "Fo\u00e7a",
+    "country": "TR"
+  },
+  {
+    "name": "Finike",
+    "country": "TR"
+  },
+  {
+    "name": "Fethiye",
+    "country": "TR"
+  },
+  {
+    "name": "Felahiye",
+    "country": "TR"
+  },
+  {
+    "name": "Feke",
+    "country": "TR"
+  },
+  {
+    "name": "Ezine",
+    "country": "TR"
+  },
+  {
+    "name": "Eymirli",
+    "country": "TR"
+  },
+  {
+    "name": "Evciler",
+    "country": "TR"
+  },
+  {
+    "name": "Etimesgut",
+    "country": "TR"
+  },
+  {
+    "name": "E\u015fme",
+    "country": "TR"
+  },
+  {
+    "name": "E\u015fme",
+    "country": "TR"
+  },
+  {
+    "name": "Eski\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Eski\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Eskil",
+    "country": "TR"
+  },
+  {
+    "name": "Erzurum",
+    "country": "TR"
+  },
+  {
+    "name": "Erzurum",
+    "country": "TR"
+  },
+  {
+    "name": "Erzincan",
+    "country": "TR"
+  },
+  {
+    "name": "Erzincan",
+    "country": "TR"
+  },
+  {
+    "name": "Eruh",
+    "country": "TR"
+  },
+  {
+    "name": "Ermenek",
+    "country": "TR"
+  },
+  {
+    "name": "Erk\u00f6kl\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Ergani",
+    "country": "TR"
+  },
+  {
+    "name": "Ere\u011fli",
+    "country": "TR"
+  },
+  {
+    "name": "Erdemli",
+    "country": "TR"
+  },
+  {
+    "name": "Erci\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Emirgazi",
+    "country": "TR"
+  },
+  {
+    "name": "Emirda\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Emet",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcneys\u0131n\u0131r",
+    "country": "TR"
+  },
+  {
+    "name": "Bulancak",
+    "country": "TR"
+  },
+  {
+    "name": "Elmal\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Elmada\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Ele\u015fkirt",
+    "country": "TR"
+  },
+  {
+    "name": "Elbistan",
+    "country": "TR"
+  },
+  {
+    "name": "Elbeyli",
+    "country": "TR"
+  },
+  {
+    "name": "El\u00e2z\u0131\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Elaz\u0131\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Celeyke",
+    "country": "TR"
+  },
+  {
+    "name": "E\u011firdir",
+    "country": "TR"
+  },
+  {
+    "name": "E\u011fil",
+    "country": "TR"
+  },
+  {
+    "name": "Kocasinan",
+    "country": "TR"
+  },
+  {
+    "name": "Edremit",
+    "country": "TR"
+  },
+  {
+    "name": "D\u00fczova",
+    "country": "TR"
+  },
+  {
+    "name": "Durutlar",
+    "country": "TR"
+  },
+  {
+    "name": "Duruca",
+    "country": "TR"
+  },
+  {
+    "name": "Dursunbey",
+    "country": "TR"
+  },
+  {
+    "name": "Dumlup\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Sumbas",
+    "country": "TR"
+  },
+  {
+    "name": "Dorumali",
+    "country": "TR"
+  },
+  {
+    "name": "D\u00f6rtyol",
+    "country": "TR"
+  },
+  {
+    "name": "Domani\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Do\u011fubayaz\u0131t",
+    "country": "TR"
+  },
+  {
+    "name": "Do\u011fanyol",
+    "country": "TR"
+  },
+  {
+    "name": "Do\u011fan\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Do\u011fank\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Do\u011fankavak",
+    "country": "TR"
+  },
+  {
+    "name": "Do\u011fanhisar",
+    "country": "TR"
+  },
+  {
+    "name": "Do\u011fanca",
+    "country": "TR"
+  },
+  {
+    "name": "Diyarbak\u0131r",
+    "country": "TR"
+  },
+  {
+    "name": "Diyarbak\u0131r",
+    "country": "TR"
+  },
+  {
+    "name": "Diyadin",
+    "country": "TR"
+  },
+  {
+    "name": "Divri\u011fi",
+    "country": "TR"
+  },
+  {
+    "name": "Dinar",
+    "country": "TR"
+  },
+  {
+    "name": "Dikili",
+    "country": "TR"
+  },
+  {
+    "name": "Dicle",
+    "country": "TR"
+  },
+  {
+    "name": "Dicle",
+    "country": "TR"
+  },
+  {
+    "name": "Develi",
+    "country": "TR"
+  },
+  {
+    "name": "Derinkuyu",
+    "country": "TR"
+  },
+  {
+    "name": "Derik",
+    "country": "TR"
+  },
+  {
+    "name": "Dereyan\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Derebucak",
+    "country": "TR"
+  },
+  {
+    "name": "Derbent",
+    "country": "TR"
+  },
+  {
+    "name": "Denizli",
+    "country": "TR"
+  },
+  {
+    "name": "Denizli",
+    "country": "TR"
+  },
+  {
+    "name": "Demiryol",
+    "country": "TR"
+  },
+  {
+    "name": "Demirci",
+    "country": "TR"
+  },
+  {
+    "name": "Delice",
+    "country": "TR"
+  },
+  {
+    "name": "Dazk\u0131r\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Dazikom",
+    "country": "TR"
+  },
+  {
+    "name": "Dat\u00e7a",
+    "country": "TR"
+  },
+  {
+    "name": "Darge\u00e7it",
+    "country": "TR"
+  },
+  {
+    "name": "Darende",
+    "country": "TR"
+  },
+  {
+    "name": "Danac\u0131l\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Dalyan",
+    "country": "TR"
+  },
+  {
+    "name": "Serhatta",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7\u00fcng\u00fc\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7umra",
+    "country": "TR"
+  },
+  {
+    "name": "Menderes",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ukurca",
+    "country": "TR"
+  },
+  {
+    "name": "\u00d6zvatan",
+    "country": "TR"
+  },
+  {
+    "name": "Hakk\u00e2ri",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7obanlar",
+    "country": "TR"
+  },
+  {
+    "name": "Cizre",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ivril",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ine",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7\u0131naralt\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7\u0131kr\u0131kc\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Evren",
+    "country": "TR"
+  },
+  {
+    "name": "Cihanbeyli",
+    "country": "TR"
+  },
+  {
+    "name": "Serkan",
+    "country": "TR"
+  },
+  {
+    "name": "Girikbedro",
+    "country": "TR"
+  },
+  {
+    "name": "Melikgazi",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7iftlik",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ifteler",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7i\u00e7ekda\u011f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Ceylanp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Ceyhan",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7evrimova",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7e\u015fme",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ermik",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7eltik\u00e7i",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7eltik",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7elikhan",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7elebi",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ay\u0131r\u00f6z\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ay\u0131rl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ay\u0131ralan",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ay",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7avu\u015flu",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7avd\u0131r",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7atak",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7at",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7and\u0131r",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7andarl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Anamas",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7amard\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7alp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7al\u0131\u015fkan",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ald\u0131ran",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7a\u011flayancerit",
+    "country": "TR"
+  },
+  {
+    "name": "Nikfer",
+    "country": "TR"
+  },
+  {
+    "name": "Cinatamiho",
+    "country": "TR"
+  },
+  {
+    "name": "Burunyuva",
+    "country": "TR"
+  },
+  {
+    "name": "Burhaniye",
+    "country": "TR"
+  },
+  {
+    "name": "Buharkent",
+    "country": "TR"
+  },
+  {
+    "name": "Burdur",
+    "country": "TR"
+  },
+  {
+    "name": "Burdur",
+    "country": "TR"
+  },
+  {
+    "name": "B\u00fcnyan",
+    "country": "TR"
+  },
+  {
+    "name": "Buldan",
+    "country": "TR"
+  },
+  {
+    "name": "Bulan\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Bucak",
+    "country": "TR"
+  },
+  {
+    "name": "Bozyaz\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Boz\u00fcy\u00fck",
+    "country": "TR"
+  },
+  {
+    "name": "Boztepe",
+    "country": "TR"
+  },
+  {
+    "name": "Bozova",
+    "country": "TR"
+  },
+  {
+    "name": "Bozkurt",
+    "country": "TR"
+  },
+  {
+    "name": "Bozk\u0131r",
+    "country": "TR"
+  },
+  {
+    "name": "Taliban",
+    "country": "TR"
+  },
+  {
+    "name": "Bozdo\u011fan",
+    "country": "TR"
+  },
+  {
+    "name": "Bozcaada",
+    "country": "TR"
+  },
+  {
+    "name": "Bozalan",
+    "country": "TR"
+  },
+  {
+    "name": "Bostanc\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Bor",
+    "country": "TR"
+  },
+  {
+    "name": "Bolvadin",
+    "country": "TR"
+  },
+  {
+    "name": "Bo\u011faz\u00f6ren",
+    "country": "TR"
+  },
+  {
+    "name": "Bo\u011fazl\u0131yan",
+    "country": "TR"
+  },
+  {
+    "name": "Bodrum",
+    "country": "TR"
+  },
+  {
+    "name": "Bitlis",
+    "country": "TR"
+  },
+  {
+    "name": "Bitlis",
+    "country": "TR"
+  },
+  {
+    "name": "Bismil",
+    "country": "TR"
+  },
+  {
+    "name": "Birecik",
+    "country": "TR"
+  },
+  {
+    "name": "Bing\u00f6l",
+    "country": "TR"
+  },
+  {
+    "name": "Bing\u00f6l",
+    "country": "TR"
+  },
+  {
+    "name": "Binatl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Bilecik",
+    "country": "TR"
+  },
+  {
+    "name": "Bigadi\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Beyt\u00fc\u015f\u015febap",
+    "country": "TR"
+  },
+  {
+    "name": "Bey\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Beylikova",
+    "country": "TR"
+  },
+  {
+    "name": "Be\u015fp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Besni",
+    "country": "TR"
+  },
+  {
+    "name": "Be\u015firi",
+    "country": "TR"
+  },
+  {
+    "name": "Bergama",
+    "country": "TR"
+  },
+  {
+    "name": "Belen",
+    "country": "TR"
+  },
+  {
+    "name": "Belek",
+    "country": "TR"
+  },
+  {
+    "name": "Mestanp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Bekilli",
+    "country": "TR"
+  },
+  {
+    "name": "Behram",
+    "country": "TR"
+  },
+  {
+    "name": "Be\u011fendik",
+    "country": "TR"
+  },
+  {
+    "name": "Bayrami\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Baykan",
+    "country": "TR"
+  },
+  {
+    "name": "Bay\u0131rba\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Bay\u0131nd\u0131r",
+    "country": "TR"
+  },
+  {
+    "name": "Bayat",
+    "country": "TR"
+  },
+  {
+    "name": "Batman",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u015fmak\u00e7\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Baskil",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u015fkavak",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u015fkale",
+    "country": "TR"
+  },
+  {
+    "name": "Bar\u0131\u015ftepe",
+    "country": "TR"
+  },
+  {
+    "name": "Banaz",
+    "country": "TR"
+  },
+  {
+    "name": "Balya",
+    "country": "TR"
+  },
+  {
+    "name": "Balp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Bal\u0131\u015feyh",
+    "country": "TR"
+  },
+  {
+    "name": "Bal\u0131kesir",
+    "country": "TR"
+  },
+  {
+    "name": "Bal\u0131kesir",
+    "country": "TR"
+  },
+  {
+    "name": "Bala",
+    "country": "TR"
+  },
+  {
+    "name": "Baklan",
+    "country": "TR"
+  },
+  {
+    "name": "Bah\u015f\u0131l\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Bah\u00e7esaray",
+    "country": "TR"
+  },
+  {
+    "name": "Bah\u00e7e",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u011fl\u0131ca",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u011fl\u0131ca",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u011fg\u00f6ze",
+    "country": "TR"
+  },
+  {
+    "name": "Babada\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Ayval\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Ayvac\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Ayranc\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Tillo",
+    "country": "TR"
+  },
+  {
+    "name": "Ayd\u0131nkonak",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130brad\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Ayd\u0131n",
+    "country": "TR"
+  },
+  {
+    "name": "Ayd\u0131nc\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Ayd\u0131n",
+    "country": "TR"
+  },
+  {
+    "name": "Avsallar",
+    "country": "TR"
+  },
+  {
+    "name": "Avanos",
+    "country": "TR"
+  },
+  {
+    "name": "Aksu",
+    "country": "TR"
+  },
+  {
+    "name": "Atabey",
+    "country": "TR"
+  },
+  {
+    "name": "Aslanapa",
+    "country": "TR"
+  },
+  {
+    "name": "A\u015fkale",
+    "country": "TR"
+  },
+  {
+    "name": "Askale",
+    "country": "TR"
+  },
+  {
+    "name": "Kale",
+    "country": "TR"
+  },
+  {
+    "name": "A\u015fa\u011f\u0131 Be\u011fde\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Ar\u0131cak",
+    "country": "TR"
+  },
+  {
+    "name": "Arguvan",
+    "country": "TR"
+  },
+  {
+    "name": "Arg\u0131nc\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Y\u00fcre\u011fir",
+    "country": "TR"
+  },
+  {
+    "name": "Arapgir",
+    "country": "TR"
+  },
+  {
+    "name": "Aran",
+    "country": "TR"
+  },
+  {
+    "name": "Aral\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Araban",
+    "country": "TR"
+  },
+  {
+    "name": "Ye\u015filyurt",
+    "country": "TR"
+  },
+  {
+    "name": "Antalya",
+    "country": "TR"
+  },
+  {
+    "name": "Antalya",
+    "country": "TR"
+  },
+  {
+    "name": "Antakya",
+    "country": "TR"
+  },
+  {
+    "name": "Ankara",
+    "country": "TR"
+  },
+  {
+    "name": "Ankara",
+    "country": "TR"
+  },
+  {
+    "name": "And\u0131r\u0131n",
+    "country": "TR"
+  },
+  {
+    "name": "Anda\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Anamur",
+    "country": "TR"
+  },
+  {
+    "name": "Ambar",
+    "country": "TR"
+  },
+  {
+    "name": "Alt\u0131nyayla",
+    "country": "TR"
+  },
+  {
+    "name": "Alt\u0131nyayla",
+    "country": "TR"
+  },
+  {
+    "name": "Alt\u0131n\u00f6z\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Alt\u0131nkum",
+    "country": "TR"
+  },
+  {
+    "name": "Altunhisar",
+    "country": "TR"
+  },
+  {
+    "name": "Alt\u0131nekin",
+    "country": "TR"
+  },
+  {
+    "name": "Alpu",
+    "country": "TR"
+  },
+  {
+    "name": "Alia\u011fa",
+    "country": "TR"
+  },
+  {
+    "name": "Gerger",
+    "country": "TR"
+  },
+  {
+    "name": "Al\u00e2z\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Ala\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Alanya",
+    "country": "TR"
+  },
+  {
+    "name": "Alakam\u0131\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Ala\u00e7at\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Turluk",
+    "country": "TR"
+  },
+  {
+    "name": "Aksu",
+    "country": "TR"
+  },
+  {
+    "name": "Akseki",
+    "country": "TR"
+  },
+  {
+    "name": "Ak\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Aksaray",
+    "country": "TR"
+  },
+  {
+    "name": "Akp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Ak\u00f6ren",
+    "country": "TR"
+  },
+  {
+    "name": "Akmezar",
+    "country": "TR"
+  },
+  {
+    "name": "Akk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Akk\u0131\u015fla",
+    "country": "TR"
+  },
+  {
+    "name": "Akhisar",
+    "country": "TR"
+  },
+  {
+    "name": "Akda\u011fmadeni",
+    "country": "TR"
+  },
+  {
+    "name": "Ak\u00e7akent",
+    "country": "TR"
+  },
+  {
+    "name": "Ak\u00e7akale",
+    "country": "TR"
+  },
+  {
+    "name": "Ak\u00e7ada\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Akarsu",
+    "country": "TR"
+  },
+  {
+    "name": "Ahmetli",
+    "country": "TR"
+  },
+  {
+    "name": "Ahlat",
+    "country": "TR"
+  },
+  {
+    "name": "Ah\u0131rl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "A\u011fr\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "A\u011flasun",
+    "country": "TR"
+  },
+  {
+    "name": "A\u011f\u0131n",
+    "country": "TR"
+  },
+  {
+    "name": "A\u011fa\u00e7\u00f6ren",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcla\u011fa\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Afyonkarahisar",
+    "country": "TR"
+  },
+  {
+    "name": "Afyonkarahisar",
+    "country": "TR"
+  },
+  {
+    "name": "Af\u015fin",
+    "country": "TR"
+  },
+  {
+    "name": "Ad\u0131yaman",
+    "country": "TR"
+  },
+  {
+    "name": "Ad\u0131yaman",
+    "country": "TR"
+  },
+  {
+    "name": "Ad\u0131mova",
+    "country": "TR"
+  },
+  {
+    "name": "Adilcevaz",
+    "country": "TR"
+  },
+  {
+    "name": "Adana",
+    "country": "TR"
+  },
+  {
+    "name": "Adana",
+    "country": "TR"
+  },
+  {
+    "name": "Ac\u0131rl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Ac\u0131payam",
+    "country": "TR"
+  },
+  {
+    "name": "Ac\u0131g\u00f6l",
+    "country": "TR"
+  },
+  {
+    "name": "Barbaros",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ardakl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Ball\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Yemi\u015fli",
+    "country": "TR"
+  },
+  {
+    "name": "Karsani",
+    "country": "TR"
+  },
+  {
+    "name": "Nurda\u011f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Ye\u015fildere",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00fc\u00e7\u00fckkendirci",
+    "country": "TR"
+  },
+  {
+    "name": "Yamacalti",
+    "country": "TR"
+  },
+  {
+    "name": "Sevimli",
+    "country": "TR"
+  },
+  {
+    "name": "Mahmutlar",
+    "country": "TR"
+  },
+  {
+    "name": "D\u00f6rtyol \u0130l\u00e7esi",
+    "country": "TR"
+  },
+  {
+    "name": "A\u015fa\u011f\u0131 Karafak\u0131l\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7\u0131rt\u0131man",
+    "country": "TR"
+  },
+  {
+    "name": "Kuzeytepe",
+    "country": "TR"
+  },
+  {
+    "name": "Kastal",
+    "country": "TR"
+  },
+  {
+    "name": "Alvan",
+    "country": "TR"
+  },
+  {
+    "name": "A\u00e7\u0131kdere",
+    "country": "TR"
+  },
+  {
+    "name": "Toygarl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcm\u00fc\u015fg\u00f6ze",
+    "country": "TR"
+  },
+  {
+    "name": "Dursunlu",
+    "country": "TR"
+  },
+  {
+    "name": "A\u015fa\u011f\u0131ok\u00e7ular",
+    "country": "TR"
+  },
+  {
+    "name": "Boynuyo\u011fun",
+    "country": "TR"
+  },
+  {
+    "name": "Uzunba\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "B\u00fcy\u00fck\u00e7at",
+    "country": "TR"
+  },
+  {
+    "name": "Bal\u0131kl\u0131dere",
+    "country": "TR"
+  },
+  {
+    "name": "Hac\u0131pa\u015fa",
+    "country": "TR"
+  },
+  {
+    "name": "Dagduzu",
+    "country": "TR"
+  },
+  {
+    "name": "Samankaya",
+    "country": "TR"
+  },
+  {
+    "name": "Anayaz\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Karas\u00fcleymanl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "B\u00fcy\u00fck Dalyan",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcnyaz\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Tepehan",
+    "country": "TR"
+  },
+  {
+    "name": "Oymakli",
+    "country": "TR"
+  },
+  {
+    "name": "Uzunkavak",
+    "country": "TR"
+  },
+  {
+    "name": "Guzelkoy",
+    "country": "TR"
+  },
+  {
+    "name": "Denizciler",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u015faran",
+    "country": "TR"
+  },
+  {
+    "name": "Doruklu",
+    "country": "TR"
+  },
+  {
+    "name": "Akdiken",
+    "country": "TR"
+  },
+  {
+    "name": "Bulutlu",
+    "country": "TR"
+  },
+  {
+    "name": "Pekmezli",
+    "country": "TR"
+  },
+  {
+    "name": "Koyunluca",
+    "country": "TR"
+  },
+  {
+    "name": "Yukar\u0131 Ta\u015fyalak",
+    "country": "TR"
+  },
+  {
+    "name": "I\u015f\u0131klar",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7\u0131plak",
+    "country": "TR"
+  },
+  {
+    "name": "Kobik",
+    "country": "TR"
+  },
+  {
+    "name": "Aynysich",
+    "country": "TR"
+  },
+  {
+    "name": "Telharzem",
+    "country": "TR"
+  },
+  {
+    "name": "Batikent",
+    "country": "TR"
+  },
+  {
+    "name": "Osmaniye",
+    "country": "TR"
+  },
+  {
+    "name": "I\u011fd\u0131r",
+    "country": "TR"
+  },
+  {
+    "name": "Aksaray",
+    "country": "TR"
+  },
+  {
+    "name": "Batman",
+    "country": "TR"
+  },
+  {
+    "name": "Karaman",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131r\u0131kkale",
+    "country": "TR"
+  },
+  {
+    "name": "\u015e\u0131rnak",
+    "country": "TR"
+  },
+  {
+    "name": "Kilis",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u015fyayla",
+    "country": "TR"
+  },
+  {
+    "name": "Dalaman",
+    "country": "TR"
+  },
+  {
+    "name": "Zonguldak",
+    "country": "TR"
+  },
+  {
+    "name": "Zonguldak",
+    "country": "TR"
+  },
+  {
+    "name": "Zile",
+    "country": "TR"
+  },
+  {
+    "name": "Zeytinburnu",
+    "country": "TR"
+  },
+  {
+    "name": "Yuvac\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Yusufeli",
+    "country": "TR"
+  },
+  {
+    "name": "Yomra",
+    "country": "TR"
+  },
+  {
+    "name": "Yol\u00f6ren",
+    "country": "TR"
+  },
+  {
+    "name": "Y\u0131\u011f\u0131lca",
+    "country": "TR"
+  },
+  {
+    "name": "Ye\u015filyurt",
+    "country": "TR"
+  },
+  {
+    "name": "Yeni\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Yenipazar",
+    "country": "TR"
+  },
+  {
+    "name": "Yenik\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Yenice",
+    "country": "TR"
+  },
+  {
+    "name": "Yenice",
+    "country": "TR"
+  },
+  {
+    "name": "Yeni\u00e7a\u011fa",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00f6rfez",
+    "country": "TR"
+  },
+  {
+    "name": "Yaprakl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Yalova",
+    "country": "TR"
+  },
+  {
+    "name": "Yalakdere",
+    "country": "TR"
+  },
+  {
+    "name": "Yakuplu",
+    "country": "TR"
+  },
+  {
+    "name": "Yakakent",
+    "country": "TR"
+  },
+  {
+    "name": "Ya\u011fl\u0131dere",
+    "country": "TR"
+  },
+  {
+    "name": "Ya\u011fl\u0131dere",
+    "country": "TR"
+  },
+  {
+    "name": "Vize",
+    "country": "TR"
+  },
+  {
+    "name": "Vezirk\u00f6pr\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Vakf\u0131kebir",
+    "country": "TR"
+  },
+  {
+    "name": "Uzunk\u00f6pr\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Uzundere",
+    "country": "TR"
+  },
+  {
+    "name": "\u00dcsk\u00fcdar",
+    "country": "TR"
+  },
+  {
+    "name": "\u00dcnye",
+    "country": "TR"
+  },
+  {
+    "name": "Karak\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Umurbey",
+    "country": "TR"
+  },
+  {
+    "name": "Umraniye",
+    "country": "TR"
+  },
+  {
+    "name": "Ulus",
+    "country": "TR"
+  },
+  {
+    "name": "Ulubey",
+    "country": "TR"
+  },
+  {
+    "name": "Ula\u015fl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "U\u011furluda\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Tuzluca",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fclyal\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "T\u00fcrkeli",
+    "country": "TR"
+  },
+  {
+    "name": "Turhal",
+    "country": "TR"
+  },
+  {
+    "name": "Trabzon",
+    "country": "TR"
+  },
+  {
+    "name": "Trabzon",
+    "country": "TR"
+  },
+  {
+    "name": "Tosya",
+    "country": "TR"
+  },
+  {
+    "name": "Torul",
+    "country": "TR"
+  },
+  {
+    "name": "Tortum",
+    "country": "TR"
+  },
+  {
+    "name": "Tonya",
+    "country": "TR"
+  },
+  {
+    "name": "Tokat",
+    "country": "TR"
+  },
+  {
+    "name": "Tokat",
+    "country": "TR"
+  },
+  {
+    "name": "Tirebolu",
+    "country": "TR"
+  },
+  {
+    "name": "Terme",
+    "country": "TR"
+  },
+  {
+    "name": "Tepecik",
+    "country": "TR"
+  },
+  {
+    "name": "Tekkek\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Tekirda\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Tekirda\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Tav\u015fanl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Tav\u015fanc\u0131l",
+    "country": "TR"
+  },
+  {
+    "name": "Ta\u015fova",
+    "country": "TR"
+  },
+  {
+    "name": "Ta\u015fl\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Ta\u015fk\u00f6pr\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Ta\u015fk\u00f6pr\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Tarakl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Tacir",
+    "country": "TR"
+  },
+  {
+    "name": "Susuz",
+    "country": "TR"
+  },
+  {
+    "name": "Su\u015fehri",
+    "country": "TR"
+  },
+  {
+    "name": "S\u00fcrmene",
+    "country": "TR"
+  },
+  {
+    "name": "Sungurlu",
+    "country": "TR"
+  },
+  {
+    "name": "Suluova",
+    "country": "TR"
+  },
+  {
+    "name": "Sulakyurt",
+    "country": "TR"
+  },
+  {
+    "name": "S\u00f6l\u00f6z",
+    "country": "TR"
+  },
+  {
+    "name": "S\u00f6\u011f\u00fctl\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "\u015ei\u015fli",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eiran",
+    "country": "TR"
+  },
+  {
+    "name": "Sinop",
+    "country": "TR"
+  },
+  {
+    "name": "Sinop",
+    "country": "TR"
+  },
+  {
+    "name": "Silivri",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eile",
+    "country": "TR"
+  },
+  {
+    "name": "Seydiler",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eenpazar",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eenlikk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eenkaya",
+    "country": "TR"
+  },
+  {
+    "name": "Selimpa\u015fa",
+    "country": "TR"
+  },
+  {
+    "name": "Selim",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eehremini",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eebin Karahisar",
+    "country": "TR"
+  },
+  {
+    "name": "Seben",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eav\u015fat",
+    "country": "TR"
+  },
+  {
+    "name": "Sar\u0131kam\u0131\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Sarayd\u00fcz\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Saray",
+    "country": "TR"
+  },
+  {
+    "name": "Sapanca",
+    "country": "TR"
+  },
+  {
+    "name": "Samsun",
+    "country": "TR"
+  },
+  {
+    "name": "Samsun",
+    "country": "TR"
+  },
+  {
+    "name": "\u015ealpazar\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Sakarya",
+    "country": "TR"
+  },
+  {
+    "name": "Safranbolu",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eaban\u00f6z\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Rize",
+    "country": "TR"
+  },
+  {
+    "name": "Rize",
+    "country": "TR"
+  },
+  {
+    "name": "Re\u015fadiye",
+    "country": "TR"
+  },
+  {
+    "name": "Posof",
+    "country": "TR"
+  },
+  {
+    "name": "Piraziz",
+    "country": "TR"
+  },
+  {
+    "name": "Piraziz",
+    "country": "TR"
+  },
+  {
+    "name": "P\u0131narhisar",
+    "country": "TR"
+  },
+  {
+    "name": "P\u0131narba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Per\u015fembe",
+    "country": "TR"
+  },
+  {
+    "name": "Pehlivank\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Pazaryolu",
+    "country": "TR"
+  },
+  {
+    "name": "Pazar",
+    "country": "TR"
+  },
+  {
+    "name": "Pazar",
+    "country": "TR"
+  },
+  {
+    "name": "Pamukova",
+    "country": "TR"
+  },
+  {
+    "name": "Ovac\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Osmaneli",
+    "country": "TR"
+  },
+  {
+    "name": "Osmanc\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Ortaova",
+    "country": "TR"
+  },
+  {
+    "name": "Ortak\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Hem\u015fin",
+    "country": "TR"
+  },
+  {
+    "name": "Ortak\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Orta",
+    "country": "TR"
+  },
+  {
+    "name": "Orhangazi",
+    "country": "TR"
+  },
+  {
+    "name": "Ordu",
+    "country": "TR"
+  },
+  {
+    "name": "Orduk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Ordu",
+    "country": "TR"
+  },
+  {
+    "name": "Olur",
+    "country": "TR"
+  },
+  {
+    "name": "Oltu",
+    "country": "TR"
+  },
+  {
+    "name": "Of",
+    "country": "TR"
+  },
+  {
+    "name": "Niksar",
+    "country": "TR"
+  },
+  {
+    "name": "Narman",
+    "country": "TR"
+  },
+  {
+    "name": "Narl\u0131ca",
+    "country": "TR"
+  },
+  {
+    "name": "Nall\u0131han",
+    "country": "TR"
+  },
+  {
+    "name": "Mustafakemalpa\u015fa",
+    "country": "TR"
+  },
+  {
+    "name": "Muratl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Mudurnu",
+    "country": "TR"
+  },
+  {
+    "name": "Mudanya",
+    "country": "TR"
+  },
+  {
+    "name": "Mimarsinan",
+    "country": "TR"
+  },
+  {
+    "name": "Mihalgazi",
+    "country": "TR"
+  },
+  {
+    "name": "Mesudiye",
+    "country": "TR"
+  },
+  {
+    "name": "Merzifon",
+    "country": "TR"
+  },
+  {
+    "name": "Meri\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Mengen",
+    "country": "TR"
+  },
+  {
+    "name": "Mecit\u00f6z\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Marmara Ere\u011flisi",
+    "country": "TR"
+  },
+  {
+    "name": "Marmara",
+    "country": "TR"
+  },
+  {
+    "name": "Manyas",
+    "country": "TR"
+  },
+  {
+    "name": "Maltepe",
+    "country": "TR"
+  },
+  {
+    "name": "Malkara",
+    "country": "TR"
+  },
+  {
+    "name": "Ma\u00e7ka",
+    "country": "TR"
+  },
+  {
+    "name": "L\u00fcleburgaz",
+    "country": "TR"
+  },
+  {
+    "name": "Lapseki",
+    "country": "TR"
+  },
+  {
+    "name": "L\u00e2lapa\u015fa",
+    "country": "TR"
+  },
+  {
+    "name": "Ladik",
+    "country": "TR"
+  },
+  {
+    "name": "Kuruca\u015file",
+    "country": "TR"
+  },
+  {
+    "name": "Kurtk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Kur\u015funlu",
+    "country": "TR"
+  },
+  {
+    "name": "Kur\u015funlu",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00fcre",
+    "country": "TR"
+  },
+  {
+    "name": "Kumru",
+    "country": "TR"
+  },
+  {
+    "name": "Kumburgaz",
+    "country": "TR"
+  },
+  {
+    "name": "Kullar",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00fc\u00e7\u00fckkumla",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "country": "TR"
+  },
+  {
+    "name": "Koyulhisar",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00f6seler",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00f6sek\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00f6se",
+    "country": "TR"
+  },
+  {
+    "name": "Koruk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Korgun",
+    "country": "TR"
+  },
+  {
+    "name": "Korgan",
+    "country": "TR"
+  },
+  {
+    "name": "Korgan",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00f6pr\u00fcba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kof\u00e7az",
+    "country": "TR"
+  },
+  {
+    "name": "Kocaeli",
+    "country": "TR"
+  },
+  {
+    "name": "Kocadere",
+    "country": "TR"
+  },
+  {
+    "name": "Kocaali",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131z\u0131l\u0131rmak",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131z\u0131lcahamam",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131rklareli",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131rklareli",
+    "country": "TR"
+  },
+  {
+    "name": "Dikmen",
+    "country": "TR"
+  },
+  {
+    "name": "Kirazl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "K\u0131br\u0131sc\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Kestel",
+    "country": "TR"
+  },
+  {
+    "name": "Ke\u015fap",
+    "country": "TR"
+  },
+  {
+    "name": "Ke\u015fan",
+    "country": "TR"
+  },
+  {
+    "name": "Kelkit",
+    "country": "TR"
+  },
+  {
+    "name": "Kazan",
+    "country": "TR"
+  },
+  {
+    "name": "Kaytazdere",
+    "country": "TR"
+  },
+  {
+    "name": "Kaynarca",
+    "country": "TR"
+  },
+  {
+    "name": "Kavakl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kavak",
+    "country": "TR"
+  },
+  {
+    "name": "Kastamonu",
+    "country": "TR"
+  },
+  {
+    "name": "Kastamonu",
+    "country": "TR"
+  },
+  {
+    "name": "Kartal",
+    "country": "TR"
+  },
+  {
+    "name": "Kars",
+    "country": "TR"
+  },
+  {
+    "name": "Kars",
+    "country": "TR"
+  },
+  {
+    "name": "Karg\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Karasu Mahallesi",
+    "country": "TR"
+  },
+  {
+    "name": "Karap\u00fcr\u00e7ek",
+    "country": "TR"
+  },
+  {
+    "name": "O\u011fuzlar",
+    "country": "TR"
+  },
+  {
+    "name": "Karam\u00fcrsel",
+    "country": "TR"
+  },
+  {
+    "name": "Karaca\u00f6ren",
+    "country": "TR"
+  },
+  {
+    "name": "Kara\u00e7al\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Karacak\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Karacabey",
+    "country": "TR"
+  },
+  {
+    "name": "Karab\u00fck",
+    "country": "TR"
+  },
+  {
+    "name": "Kand\u0131ra",
+    "country": "TR"
+  },
+  {
+    "name": "Kalkandere",
+    "country": "TR"
+  },
+  {
+    "name": "Kalecik",
+    "country": "TR"
+  },
+  {
+    "name": "Ka\u011f\u0131zman",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00e2\u011f\u0131thane",
+    "country": "TR"
+  },
+  {
+    "name": "Kad\u0131k\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Kabata\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Kabad\u00fcz",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130znik",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130zmit",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130yidere",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130stanbul",
+    "country": "TR"
+  },
+  {
+    "name": "Istanbul",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130spir",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130skilip",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130psala",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130nhisar",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130negol",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130nebolu",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6k\u00e7eada",
+    "country": "TR"
+  },
+  {
+    "name": "Ilgaz",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130kizdere",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130kizce",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130hsaniye",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130hsangazi",
+    "country": "TR"
+  },
+  {
+    "name": "Horasan",
+    "country": "TR"
+  },
+  {
+    "name": "Hopa",
+    "country": "TR"
+  },
+  {
+    "name": "Hendek",
+    "country": "TR"
+  },
+  {
+    "name": "Nurluca",
+    "country": "TR"
+  },
+  {
+    "name": "Hayrat",
+    "country": "TR"
+  },
+  {
+    "name": "Hayrabolu",
+    "country": "TR"
+  },
+  {
+    "name": "Havza",
+    "country": "TR"
+  },
+  {
+    "name": "Havsa",
+    "country": "TR"
+  },
+  {
+    "name": "Han\u00f6n\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Hanak",
+    "country": "TR"
+  },
+  {
+    "name": "Hamzabey",
+    "country": "TR"
+  },
+  {
+    "name": "Dedek\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Hamam\u00f6z\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Halkal\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcrsu",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcrp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcrgentepe",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcng\u00f6ren",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcneysu",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcm\u00fc\u015fova",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcm\u00fc\u015fhane",
+    "country": "TR"
+  },
+  {
+    "name": "Gumushkhane",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcm\u00fc\u015fhac\u0131k\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fclp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcd\u00fcl",
+    "country": "TR"
+  },
+  {
+    "name": "Akkaya",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6yn\u00fck",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6yn\u00fccek",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6rele",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6nen",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6lyaka",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6lpazar\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6lova",
+    "country": "TR"
+  },
+  {
+    "name": "Balarim",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6lk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6le",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6lc\u00fck",
+    "country": "TR"
+  },
+  {
+    "name": "Murgul",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6k\u00e7ebey",
+    "country": "TR"
+  },
+  {
+    "name": "Giresun",
+    "country": "TR"
+  },
+  {
+    "name": "Giresun",
+    "country": "TR"
+  },
+  {
+    "name": "Geyve",
+    "country": "TR"
+  },
+  {
+    "name": "Gerze",
+    "country": "TR"
+  },
+  {
+    "name": "Gerede",
+    "country": "TR"
+  },
+  {
+    "name": "Gemlik",
+    "country": "TR"
+  },
+  {
+    "name": "Gelibolu",
+    "country": "TR"
+  },
+  {
+    "name": "Gebze",
+    "country": "TR"
+  },
+  {
+    "name": "F\u0131nd\u0131kl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Ferizli",
+    "country": "TR"
+  },
+  {
+    "name": "Fatsa",
+    "country": "TR"
+  },
+  {
+    "name": "Fatih",
+    "country": "TR"
+  },
+  {
+    "name": "Eynesil",
+    "country": "TR"
+  },
+  {
+    "name": "Evren",
+    "country": "TR"
+  },
+  {
+    "name": "Eskipazar",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00f6zyeri",
+    "country": "TR"
+  },
+  {
+    "name": "Esenyurt",
+    "country": "TR"
+  },
+  {
+    "name": "Esenler",
+    "country": "TR"
+  },
+  {
+    "name": "Esenbo\u011fa",
+    "country": "TR"
+  },
+  {
+    "name": "Erfelek",
+    "country": "TR"
+  },
+  {
+    "name": "Erenler",
+    "country": "TR"
+  },
+  {
+    "name": "Ere\u011fli",
+    "country": "TR"
+  },
+  {
+    "name": "Erdek",
+    "country": "TR"
+  },
+  {
+    "name": "Erbaa",
+    "country": "TR"
+  },
+  {
+    "name": "Enez",
+    "country": "TR"
+  },
+  {
+    "name": "Eldivan",
+    "country": "TR"
+  },
+  {
+    "name": "Elbeyli",
+    "country": "TR"
+  },
+  {
+    "name": "Eflani",
+    "country": "TR"
+  },
+  {
+    "name": "Edirne",
+    "country": "TR"
+  },
+  {
+    "name": "Edirne",
+    "country": "TR"
+  },
+  {
+    "name": "Eceabat",
+    "country": "TR"
+  },
+  {
+    "name": "D\u00fczk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "D\u00fczce",
+    "country": "TR"
+  },
+  {
+    "name": "Durusu",
+    "country": "TR"
+  },
+  {
+    "name": "Dura\u011fan",
+    "country": "TR"
+  },
+  {
+    "name": "D\u00f6rtdivan",
+    "country": "TR"
+  },
+  {
+    "name": "Kar\u015f\u0131yaka",
+    "country": "TR"
+  },
+  {
+    "name": "Do\u011fanyurt",
+    "country": "TR"
+  },
+  {
+    "name": "Do\u011fan\u015far",
+    "country": "TR"
+  },
+  {
+    "name": "Do\u011fankent",
+    "country": "TR"
+  },
+  {
+    "name": "Digor",
+    "country": "TR"
+  },
+  {
+    "name": "Devrekani",
+    "country": "TR"
+  },
+  {
+    "name": "Devrek",
+    "country": "TR"
+  },
+  {
+    "name": "Dernekpazar\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Derepazar\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Dereli",
+    "country": "TR"
+  },
+  {
+    "name": "Demirta\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Pulur",
+    "country": "TR"
+  },
+  {
+    "name": "Damal",
+    "country": "TR"
+  },
+  {
+    "name": "Daday",
+    "country": "TR"
+  },
+  {
+    "name": "Corlu",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ubuk",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7orum",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7orum",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7orlu",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7\u0131narc\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ilimli",
+    "country": "TR"
+  },
+  {
+    "name": "Zurzuna",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7iftlikk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Cide",
+    "country": "TR"
+  },
+  {
+    "name": "Ciciler",
+    "country": "TR"
+  },
+  {
+    "name": "S\u00fcleymanlar Mahallesi",
+    "country": "TR"
+  },
+  {
+    "name": "Cerrah",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7erkezk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7erke\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ekerek",
+    "country": "TR"
+  },
+  {
+    "name": "K\u00fcrt\u00fcn",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7aykara",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ayeli",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7aycuma",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ayba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7atalzeytin",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7atalca",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ar\u015f\u0131ba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ar\u015famba",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7anta",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ank\u0131r\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Khanjarah",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7anakkale",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7anakkale",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7anak\u00e7\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7an",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7amoluk",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7aml\u0131hem\u015fin",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7aml\u0131dere",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ama\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ak\u0131rl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ak\u0131rca",
+    "country": "TR"
+  },
+  {
+    "name": "La\u00e7in",
+    "country": "TR"
+  },
+  {
+    "name": "B\u00fcy\u00fck\u00e7avu\u015flu",
+    "country": "TR"
+  },
+  {
+    "name": "Bursa",
+    "country": "TR"
+  },
+  {
+    "name": "Bursa",
+    "country": "TR"
+  },
+  {
+    "name": "Sar\u0131cakaya",
+    "country": "TR"
+  },
+  {
+    "name": "Bulancak",
+    "country": "TR"
+  },
+  {
+    "name": "Bozkurt",
+    "country": "TR"
+  },
+  {
+    "name": "Boyal\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Boyal\u0131ca",
+    "country": "TR"
+  },
+  {
+    "name": "Boyabat",
+    "country": "TR"
+  },
+  {
+    "name": "Bostanc\u0131l\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Bor\u00e7ka",
+    "country": "TR"
+  },
+  {
+    "name": "Bolu",
+    "country": "TR"
+  },
+  {
+    "name": "Bolu",
+    "country": "TR"
+  },
+  {
+    "name": "Bo\u011fazkale",
+    "country": "TR"
+  },
+  {
+    "name": "Bilmece",
+    "country": "TR"
+  },
+  {
+    "name": "Bilecik",
+    "country": "TR"
+  },
+  {
+    "name": "Biga",
+    "country": "TR"
+  },
+  {
+    "name": "Asarc\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Beypazar\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Beykoz",
+    "country": "TR"
+  },
+  {
+    "name": "Be\u015fikd\u00fcz\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "Bayram\u00f6ren",
+    "country": "TR"
+  },
+  {
+    "name": "Bayburt",
+    "country": "TR"
+  },
+  {
+    "name": "Bayat",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u015f\u00e7iftlik",
+    "country": "TR"
+  },
+  {
+    "name": "Bart\u0131n",
+    "country": "TR"
+  },
+  {
+    "name": "Band\u0131rma",
+    "country": "TR"
+  },
+  {
+    "name": "Ondokuzmay\u0131s",
+    "country": "TR"
+  },
+  {
+    "name": "Bal\u00e7\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Bak\u0131rk\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "Bah\u00e7ecik",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u011fc\u0131lar",
+    "country": "TR"
+  },
+  {
+    "name": "Bafra",
+    "country": "TR"
+  },
+  {
+    "name": "Babaeski",
+    "country": "TR"
+  },
+  {
+    "name": "Azdavay",
+    "country": "TR"
+  },
+  {
+    "name": "Ayvac\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Ayd\u0131ntepe",
+    "country": "TR"
+  },
+  {
+    "name": "Ayd\u0131nc\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Aybast\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Aya\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Ayanc\u0131k",
+    "country": "TR"
+  },
+  {
+    "name": "Atkaracalar",
+    "country": "TR"
+  },
+  {
+    "name": "Artvin",
+    "country": "TR"
+  },
+  {
+    "name": "Artvin",
+    "country": "TR"
+  },
+  {
+    "name": "Artova",
+    "country": "TR"
+  },
+  {
+    "name": "Arsin",
+    "country": "TR"
+  },
+  {
+    "name": "Arpa\u00e7ay",
+    "country": "TR"
+  },
+  {
+    "name": "Ar\u0131kl\u0131ba\u011flar\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Arhavi",
+    "country": "TR"
+  },
+  {
+    "name": "Arde\u015fen",
+    "country": "TR"
+  },
+  {
+    "name": "Ardanu\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Ardahan",
+    "country": "TR"
+  },
+  {
+    "name": "Arakl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Ara\u00e7",
+    "country": "TR"
+  },
+  {
+    "name": "Amasya",
+    "country": "TR"
+  },
+  {
+    "name": "Amasya",
+    "country": "TR"
+  },
+  {
+    "name": "Amasra",
+    "country": "TR"
+  },
+  {
+    "name": "Alucra",
+    "country": "TR"
+  },
+  {
+    "name": "Alt\u0131nova",
+    "country": "TR"
+  },
+  {
+    "name": "Almus",
+    "country": "TR"
+  },
+  {
+    "name": "Alapl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Alanyurt",
+    "country": "TR"
+  },
+  {
+    "name": "Ala\u00e7am",
+    "country": "TR"
+  },
+  {
+    "name": "Alaca",
+    "country": "TR"
+  },
+  {
+    "name": "Akyurt",
+    "country": "TR"
+  },
+  {
+    "name": "Akyaz\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Akyaka",
+    "country": "TR"
+  },
+  {
+    "name": "Aksu",
+    "country": "TR"
+  },
+  {
+    "name": "Akp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Akku\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Ak\u0131nc\u0131lar",
+    "country": "TR"
+  },
+  {
+    "name": "Ak\u00e7akoca",
+    "country": "TR"
+  },
+  {
+    "name": "Ak\u00e7aabat",
+    "country": "TR"
+  },
+  {
+    "name": "A\u011fl\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Adapazar\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Abana",
+    "country": "TR"
+  },
+  {
+    "name": "Espiye",
+    "country": "TR"
+  },
+  {
+    "name": "Cel\u00e2liye",
+    "country": "TR"
+  },
+  {
+    "name": "Muratbey",
+    "country": "TR"
+  },
+  {
+    "name": "Bart\u0131n",
+    "country": "TR"
+  },
+  {
+    "name": "Karab\u00fck",
+    "country": "TR"
+  },
+  {
+    "name": "Yalova",
+    "country": "TR"
+  },
+  {
+    "name": "Ardahan",
+    "country": "TR"
+  },
+  {
+    "name": "Bayburt",
+    "country": "TR"
+  },
+  {
+    "name": "Hal\u0131dere",
+    "country": "TR"
+  },
+  {
+    "name": "\u0130\u00e7meler",
+    "country": "TR"
+  },
+  {
+    "name": "D\u00fczce",
+    "country": "TR"
+  },
+  {
+    "name": "Merter Keresteciler",
+    "country": "TR"
+  },
+  {
+    "name": "g\u00fcng\u00f6ren merter",
+    "country": "TR"
+  },
+  {
+    "name": "Demre",
+    "country": "TR"
+  },
+  {
+    "name": "Sarigerme",
+    "country": "TR"
+  },
+  {
+    "name": "\u00d6l\u00fcdeniz",
+    "country": "TR"
+  },
+  {
+    "name": "Ar\u0131k\u00f6y",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7atalh\u00f6y\u00fck",
+    "country": "TR"
+  },
+  {
+    "name": "Ata\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Ba\u015fak\u015fehir",
+    "country": "TR"
+  },
+  {
+    "name": "Beylikd\u00fcz\u00fc",
+    "country": "TR"
+  },
+  {
+    "name": "B\u00fcy\u00fck\u00e7ekmece",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7ankaya",
+    "country": "TR"
+  },
+  {
+    "name": "A\u015fa\u011f\u0131 Alada\u011f",
+    "country": "TR"
+  },
+  {
+    "name": "Yaniklar",
+    "country": "TR"
+  },
+  {
+    "name": "Battalgazi",
+    "country": "TR"
+  },
+  {
+    "name": "Erzurum Havaalan\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Pelitli",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fcce",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7atalp\u0131nar",
+    "country": "TR"
+  },
+  {
+    "name": "Yaz\u0131ba\u015f\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eehitkamil",
+    "country": "TR"
+  },
+  {
+    "name": "\u015eahinbey",
+    "country": "TR"
+  },
+  {
+    "name": "\u00c7evrik",
+    "country": "TR"
+  },
+  {
+    "name": "Bah\u00e7elievler",
+    "country": "TR"
+  },
+  {
+    "name": "Sultangazi",
+    "country": "TR"
+  },
+  {
+    "name": "Sultanbeyli",
+    "country": "TR"
+  },
+  {
+    "name": "Sancaktepe",
+    "country": "TR"
+  },
+  {
+    "name": "G\u00fclekildam",
+    "country": "TR"
+  },
+  {
+    "name": "Sal\u0131pazar\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kurtulu\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Karaba\u011flar",
+    "country": "TR"
+  },
+  {
+    "name": "Osmangazi",
+    "country": "TR"
+  },
+  {
+    "name": "Okmeydan\u0131",
+    "country": "TR"
+  },
+  {
+    "name": "Kolej",
+    "country": "TR"
+  },
+  {
+    "name": "Bat\u0131 Sitesi",
+    "country": "TR"
+  },
+  {
+    "name": "Y\u00fckseli\u015f",
+    "country": "TR"
+  },
+  {
+    "name": "Cumayeri",
+    "country": "TR"
+  },
+  {
+    "name": "Beldibi",
+    "country": "TR"
+  }
+]

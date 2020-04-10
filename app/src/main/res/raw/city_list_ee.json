@@ -1,0 +1,1258 @@
+[
+  {
+    "name": "Republic of Estonia",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00e4ndra",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00f5su",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00f5rumaa",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00f5ru",
+    "country": "EE"
+  },
+  {
+    "name": "Voka",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00f5hma",
+    "country": "EE"
+  },
+  {
+    "name": "Vinni",
+    "country": "EE"
+  },
+  {
+    "name": "Viljandi",
+    "country": "EE"
+  },
+  {
+    "name": "Viljandimaa",
+    "country": "EE"
+  },
+  {
+    "name": "Viiratsi",
+    "country": "EE"
+  },
+  {
+    "name": "Viimsi",
+    "country": "EE"
+  },
+  {
+    "name": "Vihasoo",
+    "country": "EE"
+  },
+  {
+    "name": "Vasalemma",
+    "country": "EE"
+  },
+  {
+    "name": "Vana-Antsla",
+    "country": "EE"
+  },
+  {
+    "name": "Valkla",
+    "country": "EE"
+  },
+  {
+    "name": "Valgamaa",
+    "country": "EE"
+  },
+  {
+    "name": "Valga",
+    "country": "EE"
+  },
+  {
+    "name": "Vaksali",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00e4ike-Maarja",
+    "country": "EE"
+  },
+  {
+    "name": "Vaida",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00e4\u00e4nikvere",
+    "country": "EE"
+  },
+  {
+    "name": "Uuri",
+    "country": "EE"
+  },
+  {
+    "name": "Uue-Virtsu",
+    "country": "EE"
+  },
+  {
+    "name": "Uuem\u00f5isa",
+    "country": "EE"
+  },
+  {
+    "name": "Urge",
+    "country": "EE"
+  },
+  {
+    "name": "\u00dclenurme",
+    "country": "EE"
+  },
+  {
+    "name": "T\u00fcri",
+    "country": "EE"
+  },
+  {
+    "name": "Turba",
+    "country": "EE"
+  },
+  {
+    "name": "Tudulinna",
+    "country": "EE"
+  },
+  {
+    "name": "T\u00f5rva",
+    "country": "EE"
+  },
+  {
+    "name": "Torma",
+    "country": "EE"
+  },
+  {
+    "name": "Tootsi",
+    "country": "EE"
+  },
+  {
+    "name": "Toila",
+    "country": "EE"
+  },
+  {
+    "name": "Tiheda",
+    "country": "EE"
+  },
+  {
+    "name": "Tarvastu",
+    "country": "EE"
+  },
+  {
+    "name": "Tartumaa",
+    "country": "EE"
+  },
+  {
+    "name": "Tartu",
+    "country": "EE"
+  },
+  {
+    "name": "Tapa",
+    "country": "EE"
+  },
+  {
+    "name": "Tamsalu",
+    "country": "EE"
+  },
+  {
+    "name": "Tallinn",
+    "country": "EE"
+  },
+  {
+    "name": "Tabasalu",
+    "country": "EE"
+  },
+  {
+    "name": "Suurej\u00f5e",
+    "country": "EE"
+  },
+  {
+    "name": "Suure-Jaani",
+    "country": "EE"
+  },
+  {
+    "name": "Sutlema",
+    "country": "EE"
+  },
+  {
+    "name": "S\u00f5rve",
+    "country": "EE"
+  },
+  {
+    "name": "Sonda",
+    "country": "EE"
+  },
+  {
+    "name": "Sindi",
+    "country": "EE"
+  },
+  {
+    "name": "Sillam\u00e4e",
+    "country": "EE"
+  },
+  {
+    "name": "Sauga",
+    "country": "EE"
+  },
+  {
+    "name": "Saue",
+    "country": "EE"
+  },
+  {
+    "name": "S\u00e4revere",
+    "country": "EE"
+  },
+  {
+    "name": "Saku",
+    "country": "EE"
+  },
+  {
+    "name": "Saaremaa",
+    "country": "EE"
+  },
+  {
+    "name": "Rummu",
+    "country": "EE"
+  },
+  {
+    "name": "Ristiv\u00e4lja",
+    "country": "EE"
+  },
+  {
+    "name": "Riisipere",
+    "country": "EE"
+  },
+  {
+    "name": "Reola",
+    "country": "EE"
+  },
+  {
+    "name": "Raplamaa",
+    "country": "EE"
+  },
+  {
+    "name": "Rapla",
+    "country": "EE"
+  },
+  {
+    "name": "R\u00e4pina",
+    "country": "EE"
+  },
+  {
+    "name": "Rannam\u00f5isa",
+    "country": "EE"
+  },
+  {
+    "name": "Rakvere",
+    "country": "EE"
+  },
+  {
+    "name": "Rakke",
+    "country": "EE"
+  },
+  {
+    "name": "Raja",
+    "country": "EE"
+  },
+  {
+    "name": "Raasiku",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00fcssi",
+    "country": "EE"
+  },
+  {
+    "name": "Puhja",
+    "country": "EE"
+  },
+  {
+    "name": "Pringi",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00f5lvamaa",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00f5lva",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00f5ltsamaa",
+    "country": "EE"
+  },
+  {
+    "name": "Peetri",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00e4rnumaa",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00e4rnu-Jaagupi",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00e4rnu",
+    "country": "EE"
+  },
+  {
+    "name": "Paldiski",
+    "country": "EE"
+  },
+  {
+    "name": "Paikuse",
+    "country": "EE"
+  },
+  {
+    "name": "Paide",
+    "country": "EE"
+  },
+  {
+    "name": "Padise",
+    "country": "EE"
+  },
+  {
+    "name": "Otep\u00e4\u00e4",
+    "country": "EE"
+  },
+  {
+    "name": "Orissaare",
+    "country": "EE"
+  },
+  {
+    "name": "Karksi-Nuia",
+    "country": "EE"
+  },
+  {
+    "name": "N\u00f5o",
+    "country": "EE"
+  },
+  {
+    "name": "N\u00f5mme",
+    "country": "EE"
+  },
+  {
+    "name": "Nehatu",
+    "country": "EE"
+  },
+  {
+    "name": "Narva-J\u00f5esuu",
+    "country": "EE"
+  },
+  {
+    "name": "Narva",
+    "country": "EE"
+  },
+  {
+    "name": "Muusika",
+    "country": "EE"
+  },
+  {
+    "name": "Mustvee",
+    "country": "EE"
+  },
+  {
+    "name": "M\u00f5isak\u00fcla",
+    "country": "EE"
+  },
+  {
+    "name": "M\u00e4rjamaa",
+    "country": "EE"
+  },
+  {
+    "name": "M\u00e4nniku",
+    "country": "EE"
+  },
+  {
+    "name": "M\u00e4gise",
+    "country": "EE"
+  },
+  {
+    "name": "M\u00e4etaguse",
+    "country": "EE"
+  },
+  {
+    "name": "Maardu",
+    "country": "EE"
+  },
+  {
+    "name": "Maardu",
+    "country": "EE"
+  },
+  {
+    "name": "M\u00e4\u00e4ltse",
+    "country": "EE"
+  },
+  {
+    "name": "Luunja",
+    "country": "EE"
+  },
+  {
+    "name": "L\u00fcganuse",
+    "country": "EE"
+  },
+  {
+    "name": "Loo",
+    "country": "EE"
+  },
+  {
+    "name": "L\u00f5o",
+    "country": "EE"
+  },
+  {
+    "name": "Loksa",
+    "country": "EE"
+  },
+  {
+    "name": "Lohusuu",
+    "country": "EE"
+  },
+  {
+    "name": "Lihula",
+    "country": "EE"
+  },
+  {
+    "name": "Lepiku",
+    "country": "EE"
+  },
+  {
+    "name": "Lavassaare",
+    "country": "EE"
+  },
+  {
+    "name": "Laulasmaa",
+    "country": "EE"
+  },
+  {
+    "name": "Lasnam\u00e4e",
+    "country": "EE"
+  },
+  {
+    "name": "Laiak\u00fcla",
+    "country": "EE"
+  },
+  {
+    "name": "L\u00e4\u00e4ne-Virumaa",
+    "country": "EE"
+  },
+  {
+    "name": "L\u00e4\u00e4nemaa",
+    "country": "EE"
+  },
+  {
+    "name": "Kuusalu",
+    "country": "EE"
+  },
+  {
+    "name": "Kuressaare",
+    "country": "EE"
+  },
+  {
+    "name": "Kurem\u00e4e",
+    "country": "EE"
+  },
+  {
+    "name": "Kunda",
+    "country": "EE"
+  },
+  {
+    "name": "Kunda",
+    "country": "EE"
+  },
+  {
+    "name": "Kumna",
+    "country": "EE"
+  },
+  {
+    "name": "K\u00f5ue",
+    "country": "EE"
+  },
+  {
+    "name": "Kose",
+    "country": "EE"
+  },
+  {
+    "name": "K\u00f5msi",
+    "country": "EE"
+  },
+  {
+    "name": "Kohtla-J\u00e4rve",
+    "country": "EE"
+  },
+  {
+    "name": "Kohtla",
+    "country": "EE"
+  },
+  {
+    "name": "Kohtla-N\u00f5mme",
+    "country": "EE"
+  },
+  {
+    "name": "Kohila",
+    "country": "EE"
+  },
+  {
+    "name": "Koeru",
+    "country": "EE"
+  },
+  {
+    "name": "K\u00f5du",
+    "country": "EE"
+  },
+  {
+    "name": "Klooga",
+    "country": "EE"
+  },
+  {
+    "name": "Kivi\u00f5li",
+    "country": "EE"
+  },
+  {
+    "name": "Kilingi-N\u00f5mme",
+    "country": "EE"
+  },
+  {
+    "name": "Kilingi",
+    "country": "EE"
+  },
+  {
+    "name": "Kiiu",
+    "country": "EE"
+  },
+  {
+    "name": "Kiisa",
+    "country": "EE"
+  },
+  {
+    "name": "Kiili",
+    "country": "EE"
+  },
+  {
+    "name": "Kernu",
+    "country": "EE"
+  },
+  {
+    "name": "Keila",
+    "country": "EE"
+  },
+  {
+    "name": "Kehtna",
+    "country": "EE"
+  },
+  {
+    "name": "Kehra",
+    "country": "EE"
+  },
+  {
+    "name": "Metsakasti",
+    "country": "EE"
+  },
+  {
+    "name": "K\u00e4rdla",
+    "country": "EE"
+  },
+  {
+    "name": "Kallaste",
+    "country": "EE"
+  },
+  {
+    "name": "K\u00e4ina",
+    "country": "EE"
+  },
+  {
+    "name": "Kadrina",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00fcri",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00f5hvi",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00f5gevamaa",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00f5geva",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00f5el\u00e4htme",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00e4rvek\u00fcla",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00e4rveotsa",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00e4rvamaa",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00e4rvakandi",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00e4rva-Jaani",
+    "country": "EE"
+  },
+  {
+    "name": "Ilmandu",
+    "country": "EE"
+  },
+  {
+    "name": "Illuka",
+    "country": "EE"
+  },
+  {
+    "name": "Iisaku",
+    "country": "EE"
+  },
+  {
+    "name": "Ida-Virumaa",
+    "country": "EE"
+  },
+  {
+    "name": "H\u00fc\u00fcru",
+    "country": "EE"
+  },
+  {
+    "name": "Hiiumaa",
+    "country": "EE"
+  },
+  {
+    "name": "Hiiessaare",
+    "country": "EE"
+  },
+  {
+    "name": "Harku",
+    "country": "EE"
+  },
+  {
+    "name": "Harjumaa",
+    "country": "EE"
+  },
+  {
+    "name": "Haljala",
+    "country": "EE"
+  },
+  {
+    "name": "Hageri",
+    "country": "EE"
+  },
+  {
+    "name": "Haapsalu",
+    "country": "EE"
+  },
+  {
+    "name": "Haabneeme",
+    "country": "EE"
+  },
+  {
+    "name": "Ereda",
+    "country": "EE"
+  },
+  {
+    "name": "Emmaste",
+    "country": "EE"
+  },
+  {
+    "name": "Elva",
+    "country": "EE"
+  },
+  {
+    "name": "Eametsa",
+    "country": "EE"
+  },
+  {
+    "name": "Avinurme",
+    "country": "EE"
+  },
+  {
+    "name": "Audru",
+    "country": "EE"
+  },
+  {
+    "name": "Aseri",
+    "country": "EE"
+  },
+  {
+    "name": "Aruk\u00fcla",
+    "country": "EE"
+  },
+  {
+    "name": "Antsla",
+    "country": "EE"
+  },
+  {
+    "name": "Anija",
+    "country": "EE"
+  },
+  {
+    "name": "Aespa",
+    "country": "EE"
+  },
+  {
+    "name": "Aegviidu",
+    "country": "EE"
+  },
+  {
+    "name": "Abja-Paluoja",
+    "country": "EE"
+  },
+  {
+    "name": "Abjaku",
+    "country": "EE"
+  },
+  {
+    "name": "Kolga",
+    "country": "EE"
+  },
+  {
+    "name": "S\u00f5meru",
+    "country": "EE"
+  },
+  {
+    "name": "Olgina",
+    "country": "EE"
+  },
+  {
+    "name": "Tabivere",
+    "country": "EE"
+  },
+  {
+    "name": "Madise",
+    "country": "EE"
+  },
+  {
+    "name": "Kannu",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00fchalepa",
+    "country": "EE"
+  },
+  {
+    "name": "T\u00f5mmiku",
+    "country": "EE"
+  },
+  {
+    "name": "Odulemma",
+    "country": "EE"
+  },
+  {
+    "name": "Tutermaa",
+    "country": "EE"
+  },
+  {
+    "name": "Laagri",
+    "country": "EE"
+  },
+  {
+    "name": "Mustam\u00e4e",
+    "country": "EE"
+  },
+  {
+    "name": "Soodevahe",
+    "country": "EE"
+  },
+  {
+    "name": "Prillim\u00e4e",
+    "country": "EE"
+  },
+  {
+    "name": "M\u00f5igu",
+    "country": "EE"
+  },
+  {
+    "name": "Toompea",
+    "country": "EE"
+  },
+  {
+    "name": "Kohtla-J\u00e4rve linn",
+    "country": "EE"
+  },
+  {
+    "name": "Narva linn",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00e4rnu linn",
+    "country": "EE"
+  },
+  {
+    "name": "Sillam\u00e4e linn",
+    "country": "EE"
+  },
+  {
+    "name": "Tallinn",
+    "country": "EE"
+  },
+  {
+    "name": "Iru",
+    "country": "EE"
+  },
+  {
+    "name": "Elva linn",
+    "country": "EE"
+  },
+  {
+    "name": "Emmaste vald",
+    "country": "EE"
+  },
+  {
+    "name": "Haapsalu linn",
+    "country": "EE"
+  },
+  {
+    "name": "Halinga vald",
+    "country": "EE"
+  },
+  {
+    "name": "Haljala vald",
+    "country": "EE"
+  },
+  {
+    "name": "Hanila vald",
+    "country": "EE"
+  },
+  {
+    "name": "Harku vald",
+    "country": "EE"
+  },
+  {
+    "name": "Iisaku vald",
+    "country": "EE"
+  },
+  {
+    "name": "Illuka vald",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00f5el\u00e4htme vald",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00f5geva linn",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00f5hvi vald",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00e4rva-Jaani vald",
+    "country": "EE"
+  },
+  {
+    "name": "J\u00e4rvakandi vald",
+    "country": "EE"
+  },
+  {
+    "name": "Kadrina vald",
+    "country": "EE"
+  },
+  {
+    "name": "Kambja vald",
+    "country": "EE"
+  },
+  {
+    "name": "Kehtna vald",
+    "country": "EE"
+  },
+  {
+    "name": "Keila vald",
+    "country": "EE"
+  },
+  {
+    "name": "Keila linn",
+    "country": "EE"
+  },
+  {
+    "name": "Kernu vald",
+    "country": "EE"
+  },
+  {
+    "name": "Kiili vald",
+    "country": "EE"
+  },
+  {
+    "name": "Kivi\u00f5li linn",
+    "country": "EE"
+  },
+  {
+    "name": "Koeru vald",
+    "country": "EE"
+  },
+  {
+    "name": "Kohila vald",
+    "country": "EE"
+  },
+  {
+    "name": "Kohtla vald",
+    "country": "EE"
+  },
+  {
+    "name": "Tabivere vald",
+    "country": "EE"
+  },
+  {
+    "name": "Kohtla-N\u00f5mme vald",
+    "country": "EE"
+  },
+  {
+    "name": "K\u00f5ue vald",
+    "country": "EE"
+  },
+  {
+    "name": "K\u00e4ina vald",
+    "country": "EE"
+  },
+  {
+    "name": "K\u00e4rdla linn",
+    "country": "EE"
+  },
+  {
+    "name": "Lihula vald",
+    "country": "EE"
+  },
+  {
+    "name": "Lohusuu vald",
+    "country": "EE"
+  },
+  {
+    "name": "Loksa linn",
+    "country": "EE"
+  },
+  {
+    "name": "Luunja vald",
+    "country": "EE"
+  },
+  {
+    "name": "L\u00fcganuse vald",
+    "country": "EE"
+  },
+  {
+    "name": "Maardu linn",
+    "country": "EE"
+  },
+  {
+    "name": "Martna vald",
+    "country": "EE"
+  },
+  {
+    "name": "Mustvee linn",
+    "country": "EE"
+  },
+  {
+    "name": "Tamsalu vald",
+    "country": "EE"
+  },
+  {
+    "name": "Vaivara vald",
+    "country": "EE"
+  },
+  {
+    "name": "Valga linn",
+    "country": "EE"
+  },
+  {
+    "name": "M\u00f5isak\u00fcla linn",
+    "country": "EE"
+  },
+  {
+    "name": "M\u00e4etaguse vald",
+    "country": "EE"
+  },
+  {
+    "name": "M\u00e4rjamaa vald",
+    "country": "EE"
+  },
+  {
+    "name": "Narva-J\u00f5esuu linn",
+    "country": "EE"
+  },
+  {
+    "name": "Nissi vald",
+    "country": "EE"
+  },
+  {
+    "name": "N\u00f5o vald",
+    "country": "EE"
+  },
+  {
+    "name": "Orissaare vald",
+    "country": "EE"
+  },
+  {
+    "name": "Padise vald",
+    "country": "EE"
+  },
+  {
+    "name": "Paide linn",
+    "country": "EE"
+  },
+  {
+    "name": "Paikuse vald",
+    "country": "EE"
+  },
+  {
+    "name": "Paldiski linn",
+    "country": "EE"
+  },
+  {
+    "name": "Karksi vald",
+    "country": "EE"
+  },
+  {
+    "name": "Puhja vald",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00f5ltsamaa linn",
+    "country": "EE"
+  },
+  {
+    "name": "Otep\u00e4\u00e4 vald",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00fchalepa vald",
+    "country": "EE"
+  },
+  {
+    "name": "Tapa vald",
+    "country": "EE"
+  },
+  {
+    "name": "Tootsi vald",
+    "country": "EE"
+  },
+  {
+    "name": "Torma vald",
+    "country": "EE"
+  },
+  {
+    "name": "Tudulinna vald",
+    "country": "EE"
+  },
+  {
+    "name": "\u00dclenurme vald",
+    "country": "EE"
+  },
+  {
+    "name": "Rapla vald",
+    "country": "EE"
+  },
+  {
+    "name": "Ridala Parish",
+    "country": "EE"
+  },
+  {
+    "name": "R\u00e4pina vald",
+    "country": "EE"
+  },
+  {
+    "name": "Saarde vald",
+    "country": "EE"
+  },
+  {
+    "name": "Saku vald",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00fcssi linn",
+    "country": "EE"
+  },
+  {
+    "name": "Raasiku vald",
+    "country": "EE"
+  },
+  {
+    "name": "Rae vald",
+    "country": "EE"
+  },
+  {
+    "name": "Kasep\u00e4\u00e4 vald",
+    "country": "EE"
+  },
+  {
+    "name": "Rakke vald",
+    "country": "EE"
+  },
+  {
+    "name": "Rakvere linn",
+    "country": "EE"
+  },
+  {
+    "name": "Saue vald",
+    "country": "EE"
+  },
+  {
+    "name": "Saue linn",
+    "country": "EE"
+  },
+  {
+    "name": "Kuressaare linn",
+    "country": "EE"
+  },
+  {
+    "name": "Kuusalu vald",
+    "country": "EE"
+  },
+  {
+    "name": "Sonda vald",
+    "country": "EE"
+  },
+  {
+    "name": "Suure-Jaani vald",
+    "country": "EE"
+  },
+  {
+    "name": "S\u00f5meru vald",
+    "country": "EE"
+  },
+  {
+    "name": "Tartu linn",
+    "country": "EE"
+  },
+  {
+    "name": "Tarvastu vald",
+    "country": "EE"
+  },
+  {
+    "name": "Abja vald",
+    "country": "EE"
+  },
+  {
+    "name": "Aegviidu vald",
+    "country": "EE"
+  },
+  {
+    "name": "Alatskivi vald",
+    "country": "EE"
+  },
+  {
+    "name": "Ambla vald",
+    "country": "EE"
+  },
+  {
+    "name": "Anija vald",
+    "country": "EE"
+  },
+  {
+    "name": "Antsla vald",
+    "country": "EE"
+  },
+  {
+    "name": "Aseri vald",
+    "country": "EE"
+  },
+  {
+    "name": "Audru vald",
+    "country": "EE"
+  },
+  {
+    "name": "Avinurme vald",
+    "country": "EE"
+  },
+  {
+    "name": "Sauga vald",
+    "country": "EE"
+  },
+  {
+    "name": "Sindi linn",
+    "country": "EE"
+  },
+  {
+    "name": "Vasalemma vald",
+    "country": "EE"
+  },
+  {
+    "name": "Vihula vald",
+    "country": "EE"
+  },
+  {
+    "name": "Viimsi vald",
+    "country": "EE"
+  },
+  {
+    "name": "Viiratsi vald",
+    "country": "EE"
+  },
+  {
+    "name": "Lasva vald",
+    "country": "EE"
+  },
+  {
+    "name": "Lavassaare vald",
+    "country": "EE"
+  },
+  {
+    "name": "P\u00f5lva linn",
+    "country": "EE"
+  },
+  {
+    "name": "Toila vald",
+    "country": "EE"
+  },
+  {
+    "name": "T\u00f5rva linn",
+    "country": "EE"
+  },
+  {
+    "name": "T\u00fcri vald",
+    "country": "EE"
+  },
+  {
+    "name": "Viljandi linn",
+    "country": "EE"
+  },
+  {
+    "name": "Vinni vald",
+    "country": "EE"
+  },
+  {
+    "name": "Viru-Nigula vald",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00f5hma linn",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00f5ru linn",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00e4ike-Maarja vald",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00e4ndra vald",
+    "country": "EE"
+  },
+  {
+    "name": "V\u00e4ndra vald (alev)",
+    "country": "EE"
+  },
+  {
+    "name": "Viimsi",
+    "country": "EE"
+  }
+]

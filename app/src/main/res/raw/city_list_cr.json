@@ -1,0 +1,694 @@
+[
+  {
+    "name": "Zarcero",
+    "country": "CR"
+  },
+  {
+    "name": "Vuelta del Virilla",
+    "country": "CR"
+  },
+  {
+    "name": "Upala",
+    "country": "CR"
+  },
+  {
+    "name": "Turrialba",
+    "country": "CR"
+  },
+  {
+    "name": "Tul\u00edn",
+    "country": "CR"
+  },
+  {
+    "name": "Tucurrique",
+    "country": "CR"
+  },
+  {
+    "name": "Tres R\u00edos",
+    "country": "CR"
+  },
+  {
+    "name": "Tobosi",
+    "country": "CR"
+  },
+  {
+    "name": "Tilar\u00e1n",
+    "country": "CR"
+  },
+  {
+    "name": "Tejar",
+    "country": "CR"
+  },
+  {
+    "name": "Hacienda Tamarindo",
+    "country": "CR"
+  },
+  {
+    "name": "Tacares",
+    "country": "CR"
+  },
+  {
+    "name": "Sixaola",
+    "country": "CR"
+  },
+  {
+    "name": "Siquirres",
+    "country": "CR"
+  },
+  {
+    "name": "Sardinal",
+    "country": "CR"
+  },
+  {
+    "name": "Sarapiqu\u00ed",
+    "country": "CR"
+  },
+  {
+    "name": "San Vito",
+    "country": "CR"
+  },
+  {
+    "name": "San Vicente",
+    "country": "CR"
+  },
+  {
+    "name": "Santo Tom\u00e1s",
+    "country": "CR"
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "CR"
+  },
+  {
+    "name": "Santiago",
+    "country": "CR"
+  },
+  {
+    "name": "Santiago",
+    "country": "CR"
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "CR"
+  },
+  {
+    "name": "Santa Cecilia",
+    "country": "CR"
+  },
+  {
+    "name": "Santa Ana",
+    "country": "CR"
+  },
+  {
+    "name": "San Ram\u00f3n",
+    "country": "CR"
+  },
+  {
+    "name": "San Rafael Arriba",
+    "country": "CR"
+  },
+  {
+    "name": "San Rafael Abajo",
+    "country": "CR"
+  },
+  {
+    "name": "San Rafael",
+    "country": "CR"
+  },
+  {
+    "name": "San Rafael",
+    "country": "CR"
+  },
+  {
+    "name": "San Rafael",
+    "country": "CR"
+  },
+  {
+    "name": "San Rafael",
+    "country": "CR"
+  },
+  {
+    "name": "San Rafael",
+    "country": "CR"
+  },
+  {
+    "name": "San Pedro",
+    "country": "CR"
+  },
+  {
+    "name": "San Pablo",
+    "country": "CR"
+  },
+  {
+    "name": "San Miguel",
+    "country": "CR"
+  },
+  {
+    "name": "San Marcos",
+    "country": "CR"
+  },
+  {
+    "name": "San Luis",
+    "country": "CR"
+  },
+  {
+    "name": "San Juan de Dios",
+    "country": "CR"
+  },
+  {
+    "name": "San Juan",
+    "country": "CR"
+  },
+  {
+    "name": "San Juan",
+    "country": "CR"
+  },
+  {
+    "name": "San Josecito",
+    "country": "CR"
+  },
+  {
+    "name": "San Josecito",
+    "country": "CR"
+  },
+  {
+    "name": "Provincia de San Jos\u00e9",
+    "country": "CR"
+  },
+  {
+    "name": "San Jos\u00e9",
+    "country": "CR"
+  },
+  {
+    "name": "San Jos\u00e9",
+    "country": "CR"
+  },
+  {
+    "name": "San Isidro",
+    "country": "CR"
+  },
+  {
+    "name": "San Ignacio",
+    "country": "CR"
+  },
+  {
+    "name": "San Gerardo",
+    "country": "CR"
+  },
+  {
+    "name": "San Francisco",
+    "country": "CR"
+  },
+  {
+    "name": "San Felipe",
+    "country": "CR"
+  },
+  {
+    "name": "San Diego",
+    "country": "CR"
+  },
+  {
+    "name": "San Carlos",
+    "country": "CR"
+  },
+  {
+    "name": "San Antonio",
+    "country": "CR"
+  },
+  {
+    "name": "S\u00e1mara",
+    "country": "CR"
+  },
+  {
+    "name": "Salitrillos",
+    "country": "CR"
+  },
+  {
+    "name": "Salitral",
+    "country": "CR"
+  },
+  {
+    "name": "Sagrada Familia",
+    "country": "CR"
+  },
+  {
+    "name": "Sabanilla",
+    "country": "CR"
+  },
+  {
+    "name": "Sabanilla",
+    "country": "CR"
+  },
+  {
+    "name": "Sabalito",
+    "country": "CR"
+  },
+  {
+    "name": "Roxana",
+    "country": "CR"
+  },
+  {
+    "name": "Rodeo",
+    "country": "CR"
+  },
+  {
+    "name": "R\u00edo Segundo",
+    "country": "CR"
+  },
+  {
+    "name": "Quesada",
+    "country": "CR"
+  },
+  {
+    "name": "Quepos",
+    "country": "CR"
+  },
+  {
+    "name": "Quebrada Yeguas",
+    "country": "CR"
+  },
+  {
+    "name": "Quebrada Honda",
+    "country": "CR"
+  },
+  {
+    "name": "Purral",
+    "country": "CR"
+  },
+  {
+    "name": "Provincia de Puntarenas",
+    "country": "CR"
+  },
+  {
+    "name": "Puntarenas",
+    "country": "CR"
+  },
+  {
+    "name": "Lim\u00f3n",
+    "country": "CR"
+  },
+  {
+    "name": "Puerto Jim\u00e9nez",
+    "country": "CR"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "country": "CR"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "country": "CR"
+  },
+  {
+    "name": "Potrero",
+    "country": "CR"
+  },
+  {
+    "name": "Pocosol",
+    "country": "CR"
+  },
+  {
+    "name": "Pocora",
+    "country": "CR"
+  },
+  {
+    "name": "Pital",
+    "country": "CR"
+  },
+  {
+    "name": "Pejibaye",
+    "country": "CR"
+  },
+  {
+    "name": "Pavas",
+    "country": "CR"
+  },
+  {
+    "name": "Patarr\u00e1",
+    "country": "CR"
+  },
+  {
+    "name": "Parrita",
+    "country": "CR"
+  },
+  {
+    "name": "Para\u00edso",
+    "country": "CR"
+  },
+  {
+    "name": "Paquera",
+    "country": "CR"
+  },
+  {
+    "name": "Palmichal",
+    "country": "CR"
+  },
+  {
+    "name": "Palmar Sur",
+    "country": "CR"
+  },
+  {
+    "name": "Palmar",
+    "country": "CR"
+  },
+  {
+    "name": "Pacayas",
+    "country": "CR"
+  },
+  {
+    "name": "Orotina",
+    "country": "CR"
+  },
+  {
+    "name": "Oros\u00ed",
+    "country": "CR"
+  },
+  {
+    "name": "Nosara",
+    "country": "CR"
+  },
+  {
+    "name": "Nicoya",
+    "country": "CR"
+  },
+  {
+    "name": "Naranjo",
+    "country": "CR"
+  },
+  {
+    "name": "Nandayure",
+    "country": "CR"
+  },
+  {
+    "name": "Miramar",
+    "country": "CR"
+  },
+  {
+    "name": "Mercedes",
+    "country": "CR"
+  },
+  {
+    "name": "Mercedes",
+    "country": "CR"
+  },
+  {
+    "name": "Matina",
+    "country": "CR"
+  },
+  {
+    "name": "Mata de Guineo",
+    "country": "CR"
+  },
+  {
+    "name": "Los Chiles",
+    "country": "CR"
+  },
+  {
+    "name": "Llorente",
+    "country": "CR"
+  },
+  {
+    "name": "Provincia de Lim\u00f3n",
+    "country": "CR"
+  },
+  {
+    "name": "Liberia",
+    "country": "CR"
+  },
+  {
+    "name": "Lepanto",
+    "country": "CR"
+  },
+  {
+    "name": "La Suiza",
+    "country": "CR"
+  },
+  {
+    "name": "La Mona",
+    "country": "CR"
+  },
+  {
+    "name": "Lajas",
+    "country": "CR"
+  },
+  {
+    "name": "La Cruz",
+    "country": "CR"
+  },
+  {
+    "name": "La Caja",
+    "country": "CR"
+  },
+  {
+    "name": "La Asunci\u00f3n",
+    "country": "CR"
+  },
+  {
+    "name": "Juntas",
+    "country": "CR"
+  },
+  {
+    "name": "Juan Vi\u00f1as",
+    "country": "CR"
+  },
+  {
+    "name": "Jim\u00e9nez",
+    "country": "CR"
+  },
+  {
+    "name": "Jac\u00f3",
+    "country": "CR"
+  },
+  {
+    "name": "Ip\u00eds",
+    "country": "CR"
+  },
+  {
+    "name": "Huacas",
+    "country": "CR"
+  },
+  {
+    "name": "Hojancha",
+    "country": "CR"
+  },
+  {
+    "name": "Provincia de Heredia",
+    "country": "CR"
+  },
+  {
+    "name": "Heredia",
+    "country": "CR"
+  },
+  {
+    "name": "Hacienda Trancas",
+    "country": "CR"
+  },
+  {
+    "name": "Gu\u00e1piles",
+    "country": "CR"
+  },
+  {
+    "name": "Provincia de Guanacaste",
+    "country": "CR"
+  },
+  {
+    "name": "Guadalupe",
+    "country": "CR"
+  },
+  {
+    "name": "Guadalupe",
+    "country": "CR"
+  },
+  {
+    "name": "Gu\u00e1cimo",
+    "country": "CR"
+  },
+  {
+    "name": "Gu\u00e1cimo",
+    "country": "CR"
+  },
+  {
+    "name": "Granadilla",
+    "country": "CR"
+  },
+  {
+    "name": "Golfito",
+    "country": "CR"
+  },
+  {
+    "name": "Fortuna",
+    "country": "CR"
+  },
+  {
+    "name": "La Fortuna",
+    "country": "CR"
+  },
+  {
+    "name": "Esquipulas",
+    "country": "CR"
+  },
+  {
+    "name": "Esparza",
+    "country": "CR"
+  },
+  {
+    "name": "Escaz\u00fa",
+    "country": "CR"
+  },
+  {
+    "name": "El Real",
+    "country": "CR"
+  },
+  {
+    "name": "El Prado",
+    "country": "CR"
+  },
+  {
+    "name": "El Coco",
+    "country": "CR"
+  },
+  {
+    "name": "Dulce Nombre",
+    "country": "CR"
+  },
+  {
+    "name": "Desamparados",
+    "country": "CR"
+  },
+  {
+    "name": "Desamparados",
+    "country": "CR"
+  },
+  {
+    "name": "Daniel Flores",
+    "country": "CR"
+  },
+  {
+    "name": "Curridabat",
+    "country": "CR"
+  },
+  {
+    "name": "Cristo",
+    "country": "CR"
+  },
+  {
+    "name": "Cot",
+    "country": "CR"
+  },
+  {
+    "name": "Republic of Costa Rica",
+    "country": "CR"
+  },
+  {
+    "name": "Corredor",
+    "country": "CR"
+  },
+  {
+    "name": "Concepci\u00f3n",
+    "country": "CR"
+  },
+  {
+    "name": "Col\u00f3n",
+    "country": "CR"
+  },
+  {
+    "name": "Colima",
+    "country": "CR"
+  },
+  {
+    "name": "Ciudad Cort\u00e9s",
+    "country": "CR"
+  },
+  {
+    "name": "Cinco Esquinas",
+    "country": "CR"
+  },
+  {
+    "name": "Chacarita",
+    "country": "CR"
+  },
+  {
+    "name": "Cascajal",
+    "country": "CR"
+  },
+  {
+    "name": "Provincia de Cartago",
+    "country": "CR"
+  },
+  {
+    "name": "Cartago",
+    "country": "CR"
+  },
+  {
+    "name": "Carrillos",
+    "country": "CR"
+  },
+  {
+    "name": "Canoas",
+    "country": "CR"
+  },
+  {
+    "name": "Ca\u00f1as",
+    "country": "CR"
+  },
+  {
+    "name": "Calle Blancos",
+    "country": "CR"
+  },
+  {
+    "name": "Buenos Aires",
+    "country": "CR"
+  },
+  {
+    "name": "Bijagua",
+    "country": "CR"
+  },
+  {
+    "name": "Bel\u00e9n",
+    "country": "CR"
+  },
+  {
+    "name": "Bat\u00e1n",
+    "country": "CR"
+  },
+  {
+    "name": "Barrio Hispano",
+    "country": "CR"
+  },
+  {
+    "name": "Bajo La Legua",
+    "country": "CR"
+  },
+  {
+    "name": "Bagaces",
+    "country": "CR"
+  },
+  {
+    "name": "Atenas",
+    "country": "CR"
+  },
+  {
+    "name": "Aserr\u00ed",
+    "country": "CR"
+  },
+  {
+    "name": "\u00c1ngeles",
+    "country": "CR"
+  },
+  {
+    "name": "Alajuelita",
+    "country": "CR"
+  },
+  {
+    "name": "Provincia de Alajuela",
+    "country": "CR"
+  },
+  {
+    "name": "Alajuela",
+    "country": "CR"
+  },
+  {
+    "name": "San Vicente de Moravia",
+    "country": "CR"
+  }
+]
